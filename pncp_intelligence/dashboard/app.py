@@ -1263,22 +1263,16 @@ st.sidebar.markdown("""
 menu_navegacao = st.sidebar.radio(
     "Navegação do Sistema:",
     [
-        "🎯 Radar de Candidatura (Editais Abertos)",
-        "⚖️ Análise Quali-Quanti (Risco x Retorno)",
-        "🚀 Estratégia de Produtos (C-Level)",
-        "📊 Análise Quantitativa",
-        "🏷️ Segmentação Temática",
-        "🧠 Inteligência NLP & Nuvem",
-        "🗺️ Mapa Geo-Temático & Hubs",
-        "🔍 Explorador Granular de Editais",
-        "⚙️ Gestão de Coletas & Expansão"
+        "📊 1. Visão Geral",
+        "🧠 2. Contexto",
+        "🔍 3. Detalhes"
     ],
     index=0,
     label_visibility="collapsed"
 )
 
 # ----------------- MÓDULO 1: RADAR DE CANDIDATURA (EDITAIS ABERTOS) -----------------
-if menu_navegacao == "🎯 Radar de Candidatura (Editais Abertos)":
+if menu_navegacao == "📊 1. Visão Geral":
     st.subheader("🎯 Command Center de Candidatura: Widescreen Dataviz & Datadriven")
     st.caption(
         "Fluxo tático em 3 partes centrais com gavetas laterais de inteligência. "
@@ -1672,7 +1666,8 @@ if menu_navegacao == "🎯 Radar de Candidatura (Editais Abertos)":
         st.info("Nenhum dado carregado ainda. Inicie a primeira coleta na aba 'Gestão de Coletas'.")
 
 # ----------------- MÓDULO 2: ANÁLISE QUALI-QUANTI (RISCO X RETORNO) -----------------
-elif menu_navegacao == "⚖️ Análise Quali-Quanti (Risco x Retorno)":
+elif menu_navegacao == "🧠 2. Contexto":
+    st.subheader("🧠 2. Contexto (Quali-Quanti & Estratégia)")
     st.subheader("⚖️ Matriz Quali-Quanti de Risco x Retorno: Foco Estratégico de Alocação")
     st.caption(
         "Avaliação multidimensional de cada oportunidade cruzando o **Potencial de Retorno** (Volume, Ticket e Margem SaaS) "
@@ -1862,7 +1857,8 @@ elif menu_navegacao == "⚖️ Análise Quali-Quanti (Risco x Retorno)":
         st.info("Nenhum dado carregado ainda. Inicie a primeira coleta na aba 'Gestão de Coletas'.")
 
 # ----------------- MÓDULO 3: ESTRATÉGIA DE PRODUTOS (C-LEVEL) -----------------
-elif menu_navegacao == "🚀 Estratégia de Produtos (C-Level)":
+    st.markdown("---")
+    st.subheader("🚀 Estratégia de Produtos (C-Level)")
     st.subheader("🚀 Planejamento Estratégico de Portfólio de Produtos GovTech")
     st.write(
         "Visão executiva sintetizada para orientar roadmap de desenvolvimento, precificação (ticket médio), "
@@ -2119,7 +2115,8 @@ elif menu_navegacao == "🚀 Estratégia de Produtos (C-Level)":
         st.info("Nenhum edital disponível para análise no momento.")
 
 # ----------------- MÓDULO 4: ANÁLISE QUANTITATIVA -----------------
-elif menu_navegacao == "📊 Análise Quantitativa":
+    st.markdown("---")
+    st.subheader("📊 Análise Quantitativa")
     st.subheader("📊 Indicadores Macro e Distribuição de Mercado")
     st.caption("Visão agregada de sazonalidade, modalidades da Lei 14.133/2021, maiores compradores públicos e concentração geográfica.")
 
@@ -2243,7 +2240,8 @@ elif menu_navegacao == "📊 Análise Quantitativa":
                 st.plotly_chart(fig_uf, use_container_width=True)
 
 # ----------------- MÓDULO 5: SEGMENTAÇÃO TEMÁTICA -----------------
-elif menu_navegacao == "🏷️ Segmentação Temática":
+    st.markdown("---")
+    st.subheader("🏷️ Segmentação Temática")
     st.subheader("🏷️ Segmentação por Temas, Subtemas e Demandas")
     st.caption("Decomposição do orçamento público mapeado por verticais de produto, tecnologia e serviços especializados.")
 
@@ -2306,7 +2304,8 @@ elif menu_navegacao == "🏷️ Segmentação Temática":
                 )
 
 # ----------------- MÓDULO 6: INTELIGÊNCIA NLP & NUVEM -----------------
-elif menu_navegacao == "🧠 Inteligência NLP & Nuvem":
+    st.markdown("---")
+    st.subheader("🧠 Inteligência NLP & Nuvem")
     st.subheader("🧠 Inteligência de Texto (NLP) & Nuvem de Palavras Estratégica")
     st.write(
         "Mineração de texto aplicada aos objetos de contratação pública sob a Lei 14.133/2021. "
@@ -2550,7 +2549,8 @@ elif menu_navegacao == "🧠 Inteligência NLP & Nuvem":
         st.warning("Nenhum edital disponível para análise no momento.")
 
 # ----------------- MÓDULO 7: MAPA GEO-TEMÁTICO & HUBS -----------------
-elif menu_navegacao == "🗺️ Mapa Geo-Temático & Hubs":
+    st.markdown("---")
+    st.subheader("🗺️ Mapa Geo-Temático & Hubs")
     st.subheader("🗺️ Mapa Interativo Geo-Temático de Editais (Brasil, Estados, Capitais e as 9 Bases)")
     st.write(
         "Distribuição territorial das oportunidades com granularidade temática, cobrindo todas as 27 capitais, "
@@ -2825,7 +2825,8 @@ elif menu_navegacao == "🗺️ Mapa Geo-Temático & Hubs":
     )
 
 # ----------------- MÓDULO 8: EXPLORADOR GRANULAR DE EDITAIS -----------------
-elif menu_navegacao == "🔍 Explorador Granular de Editais":
+elif menu_navegacao == "🔍 3. Detalhes":
+    st.subheader("🔍 3. Detalhes (Explorador & Gestão)")
     st.subheader("Explorador Granular de Editais e Itens Unitários")
 
     if not filtered_df.empty:
@@ -2896,7 +2897,8 @@ elif menu_navegacao == "🔍 Explorador Granular de Editais":
                 st.info("Nenhum item unitário indexado ainda para este edital específico.")
 
 # ----------------- MÓDULO 9: GESTÃO DE COLETAS & EXPANSÃO -----------------
-elif menu_navegacao == "⚙️ Gestão de Coletas & Expansão":
+    st.markdown("---")
+    st.subheader("⚙️ Gestão de Coletas & Expansão")
     st.subheader("Exportação e Gerenciamento do Pipeline")
 
     c_exp1, c_exp2 = st.columns(2)
