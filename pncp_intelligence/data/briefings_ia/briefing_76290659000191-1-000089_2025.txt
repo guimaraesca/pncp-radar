@@ -1,0 +1,108 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO SEBASTIAO DA AMOREIRA (São Sebastião da Amoreira/PR)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de 1 (um) Servidor Storage NAS, conforme especificações técnicas mínimas descritas no presente termo.
+VALOR ESTIMADO: R$ 10.566,00
+PRAZO PARA PROPOSTAS: 2025-07-16T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/76290659000191-1-000089/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/14
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/15
+doc_16.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/16
+doc_17.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/17
+doc_18.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/18
+doc_19.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/19
+doc_20.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/20
+doc_21.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/21
+doc_22.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/22
+doc_23.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/23
+doc_24.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/24
+doc_25.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/25
+doc_26.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/26
+doc_27.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/27
+doc_28.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/28
+doc_29.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/29
+doc_30.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/30
+doc_31.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/31
+doc_32.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/32
+doc_33.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/33
+doc_34.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/34
+doc_35.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/35
+doc_36.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/36
+doc_37.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/37
+doc_38.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/38
+doc_39.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290659000191/compras/2025/89/arquivos/39
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIDOR STORAGE NAS Especificações mínimas: Quantidade de CPU: 1; Arquitetura da CPU: 64 bits Frequência da CPU: 4 núcl | Qtd: 1.0 | R$ Unit: 10566.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "76290659000191",
+    "razaoSocial": "MUNICIPIO DE SAO SEBASTIAO DA AMOREIRA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-05T08:42:04",
+  "dataAtualizacao": "2025-08-05T08:42:04",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "São Sebastião da Amoreira",
+    "codigoUnidade": "76290659000191",
+    "nomeUnidade": "Prefeitura Municipal de São Sebastião da Amoreira",
+    "codigoIbge": "4126009"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 89,
+  "emendaParlamentar": null,
+  "numeroCompra": "35",
+  "processo": "112",
+  "objetoCompra": "Aquisição de 1 (um) Servidor Storage NAS, conforme especificações técnicas mínimas descritas no presente termo.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-08T23:59:00",
+  "dataEncerramentoProposta": "2025-07-16T08:00:00",
+  "dataPublicacaoPncp": "2025-08-05T08:42:04",
+  "dataAtualizacaoGlobal": "2025-08-05T09:07:00",
+  "numeroControlePNCP": "76290659000191-1-000089/2025",
+  "valorTotalEstimado": 10566.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Elotech Gestão Pública Ltda"
+}

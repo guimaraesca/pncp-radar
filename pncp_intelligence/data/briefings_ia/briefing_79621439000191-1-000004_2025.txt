@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ADMINISTRACAO DOS PORTOS DE PARANAGUA E ANTONINA (Paranaguá/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para implementação de uma Solução Integrada de Gerenciamento de Tráfego Marítimo (VTMIS), em regime de Software como Serviço (SaaS), nos Portos de Paranaguá e Antonina.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-12-19T09:30:00
+LINK OFICIAL: https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1076124
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Paranaguá/PR (135km)]
+DISTÂNCIA ESTIMADA DA BASE: 135 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/79621439000191/compras/2025/4/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 10001: Contratação de empresa especializada para implementação de uma Solução Integrada de Gerenciamento de Tráfego Marítimo (V | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "79621439000191",
+    "razaoSocial": "ADMINISTRACAO DOS PORTOS DE PARANAGUA E ANTONINA",
+    "poderId": "N",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-04T18:34:36",
+  "dataAtualizacao": "2026-02-09T23:04:35",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 4,
+  "emendaParlamentar": null,
+  "numeroCompra": "LE Nº 239",
+  "processo": "1000000239",
+  "objetoCompra": "Contratação de empresa especializada para implementação de uma Solução Integrada de Gerenciamento de Tráfego Marítimo (VTMIS), em regime de Software como Serviço (SaaS), nos Portos de Paranaguá e Antonina.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-11-28T08:00:00",
+  "dataEncerramentoProposta": "2025-12-19T09:30:00",
+  "dataPublicacaoPncp": "2025-08-04T18:34:36",
+  "dataAtualizacaoGlobal": "2026-02-09T23:04:36",
+  "numeroControlePNCP": "79621439000191-1-000004/2025",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Paranaguá",
+    "codigoUnidade": "000000001",
+    "nomeUnidade": "SETOR LICITACAO",
+    "codigoIbge": "4118204"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 13.303/2016, Art. 32, IV",
+    "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+    "codigo": 113
+  },
+  "linkSistemaOrigem": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1076124",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 3,
+  "situacaoCompraNome": "Anulada",
+  "usuarioNome": "Licitações-E BB"
+}

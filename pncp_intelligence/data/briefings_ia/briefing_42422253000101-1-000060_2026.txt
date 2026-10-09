@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: EMPRESA DE TECNOLOGIA E INFORMACOES DA PREVIDENCIA S.A. - DATAPREV (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em desenvolvimento, manutenção, evolução e sustentação de software, por alocação de profissionais de TI sem dedicação exclusiva de mão de obra, vinculada ao alcance de resultados, conforme diretrizes da Portaria SGD/MGI nº 750, de 20 de março de 2023, em sua versão vigente e consolidada, incluindo as alterações posteriores aplicáveis ao modelo de contratação de serviços de desenvolvimento, manutenção e sustentação de software, no que couber ao regime jurídico
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-14T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=23801405000202026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42422253000101/compras/2026/60/arquivos/1
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "42422253000101",
+    "razaoSocial": "EMPRESA DE TECNOLOGIA E INFORMACOES DA PREVIDENCIA S.A. - DATAPREV",
+    "poderId": "N",
+    "esferaId": "N"
+  },
+  "dataInclusao": "2026-09-25T11:55:22",
+  "dataAtualizacao": "2026-09-25T11:55:22",
+  "numeroControlePNCP": "42422253000101-1-000060/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 60,
+  "emendaParlamentar": null,
+  "numeroCompra": "20",
+  "processo": "44129.003860/2026-71",
+  "srp": true,
+  "objetoCompra": "Contratação de empresa especializada em desenvolvimento, manutenção, evolução e sustentação de software, por alocação de profissionais de TI sem dedicação exclusiva de mão de obra, vinculada ao alcance de resultados, conforme diretrizes da Portaria SGD/MGI nº 750, de 20 de março de 2023, em sua versão vigente e consolidada, incluindo as alterações posteriores aplicáveis ao modelo de contratação de serviços de desenvolvimento, manutenção e sustentação de software, no que couber ao regime jurídico",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-28T08:00:00",
+  "dataEncerramentoProposta": "2026-10-14T10:00:00",
+  "dataPublicacaoPncp": "2026-09-25T11:55:22",
+  "dataAtualizacaoGlobal": "2026-09-25T11:56:37",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoIbge": "3304557",
+    "codigoUnidade": "238014",
+    "nomeUnidade": "EMPRESA DE TEC. E INFORMAÇOES DA PREVID. S.A."
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=23801405000202026",
+  "linkProcessoEletronico": "https://portalcompras.dataprev.gov.br/aviso_licitacao2.asp",
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-25T11:55:22"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: PARANA TRIBUNAL DE JUSTICA (Curitiba/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Solução de TI consistente em serviços gerenciados de Segurança da Informação e Cibernética (MSS), com prestação contínua e sob demanda, aplicados ao ambiente tecnológico do Tribunal de Justiça do Estado do Paraná, pelo período de 36 (trinta e seis) meses prorrogável até o limite legal, conforme critérios, especificações e necessidades descritos no termo de referência e Anexo II, partes integrantes deste edital convocatório.
+VALOR ESTIMADO: R$ 29.035.777,53
+PRAZO PARA PROPOSTAS: 2026-10-21T13:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92641505900132026
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Curitiba/PR (130km)]
+DISTÂNCIA ESTIMADA DA BASE: 130 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/77821841000194/compras/2026/94/arquivos/3
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "77821841000194",
+    "razaoSocial": "PARANA TRIBUNAL DE JUSTICA",
+    "poderId": "J",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-05-14T07:17:26",
+  "dataAtualizacao": "2026-10-02T07:03:40",
+  "numeroControlePNCP": "77821841000194-1-000094/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 94,
+  "emendaParlamentar": null,
+  "numeroCompra": "90013",
+  "processo": "0090885812023",
+  "srp": false,
+  "objetoCompra": "Solução de TI consistente em serviços gerenciados de Segurança da Informação e Cibernética (MSS), com prestação contínua e sob demanda, aplicados ao ambiente tecnológico do Tribunal de Justiça do Estado do Paraná, pelo período de 36 (trinta e seis) meses prorrogável até o limite legal, conforme critérios, especificações e necessidades descritos no termo de referência e Anexo II, partes integrantes deste edital convocatório.",
+  "informacaoComplementar": "Havendo contradições entre a descrição dos bens constantes neste edital e seus anexos e aquela proposta pelo código CATMAT/CATSER, deve prevalecer a descrição do edital e seus anexos. Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=92641505900132026",
+  "dataAberturaProposta": "2026-10-02T08:00:00",
+  "dataEncerramentoProposta": "2026-10-21T13:00:00",
+  "dataPublicacaoPncp": "2026-05-14T07:17:26",
+  "dataAtualizacaoGlobal": "2026-10-02T07:04:03",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Curitiba",
+    "codigoIbge": "4106902",
+    "codigoUnidade": "926415",
+    "nomeUnidade": "EPR-TRIBUNAL DE JUSTIÇA ESTADO DO PARANÁ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92641505900132026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 29035777.53,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

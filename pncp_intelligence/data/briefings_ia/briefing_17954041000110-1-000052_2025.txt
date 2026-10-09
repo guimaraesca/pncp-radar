@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MINDURI (Minduri/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para consultoria técnica na manutenção da Política Cultural do município de Minduri – MG,  no âmbito do programa de distribuição do ICMS no Estado de Minas Gerais – Critério Patrimônio Cultural para o próximo exercício,  conforme Deliberação Normativa do CONEP vigente e portaria 34/2024  com o respectivo protocolo da documentação no IEPHA/ MG, EM ATENDIMENTO A SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA.
+VALOR ESTIMADO: R$ 53.000,04
+PRAZO PARA PROPOSTAS: 2025-07-10T14:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/17954041000110-1-000052/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17954041000110/compras/2025/52/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTAÇÃO DE SERVIÇO -1 - Contratação de empresa especializada para consultoria técnica na manutenção da Política Cultur | Qtd: 12.0 | R$ Unit: 4416.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "17954041000110",
+    "razaoSocial": "MUNICIPIO DE MINDURI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-04T13:42:10",
+  "dataAtualizacao": "2025-07-04T13:42:10",
+  "numeroControlePNCP": "17954041000110-1-000052/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 52,
+  "emendaParlamentar": null,
+  "numeroCompra": "62",
+  "processo": "62/2025",
+  "objetoCompra": "Contratação de empresa especializada para consultoria técnica na manutenção da Política Cultural do município de Minduri – MG,  no âmbito do programa de distribuição do ICMS no Estado de Minas Gerais – Critério Patrimônio Cultural para o próximo exercício,  conforme Deliberação Normativa do CONEP vigente e portaria 34/2024  com o respectivo protocolo da documentação no IEPHA/ MG, EM ATENDIMENTO A SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-08T08:00:00",
+  "dataEncerramentoProposta": "2025-07-10T14:00:00",
+  "dataPublicacaoPncp": "2025-07-04T13:42:10",
+  "dataAtualizacaoGlobal": "2025-07-04T13:42:15",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Minduri",
+    "codigoIbge": "3141900",
+    "codigoUnidade": "1432",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE MINDURI"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Não se aplica",
+  "valorTotalEstimado": 53000.04,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Planejar Consultores Associados Ltda"
+}

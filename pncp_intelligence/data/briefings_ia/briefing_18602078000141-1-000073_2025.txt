@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE LAGOA FORMOSA (Lagoa Formosa/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA APLICAÇÃO DO CURSO DE CAPACITAÇÃO PROFISSIONAL POR MEIO DA HABILITAÇÃO EM LASERTERAPIA ODONTOLÓGICA; 
+VALOR ESTIMADO: R$ 12.750,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/WkplbmxKS2o=
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18602078000141/compras/2025/73/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18602078000141/compras/2025/73/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18602078000141/compras/2025/73/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18602078000141/compras/2025/73/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 6264141: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA APLICAÇÃO DO CURSO DE CAPACITAÇÃO PROFISSIONAL POR MEIO DA HABILITAÇÃO EM LASE | Qtd: 3.0 | R$ Unit: 4250.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 12750.0,
+  "orgaoEntidade": {
+    "cnpj": "18602078000141",
+    "razaoSocial": "MUNICIPIO DE LAGOA FORMOSA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-05T15:48:00",
+  "dataAtualizacao": "2025-10-15T16:19:39",
+  "numeroControlePNCP": "18602078000141-1-000073/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 73,
+  "emendaParlamentar": null,
+  "numeroCompra": "17",
+  "processo": "66",
+  "srp": false,
+  "objetoCompra": "[LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA APLICAÇÃO DO CURSO DE CAPACITAÇÃO PROFISSIONAL POR MEIO DA HABILITAÇÃO EM LASERTERAPIA ODONTOLÓGICA; ",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T15:48:00",
+  "dataAtualizacaoGlobal": "2025-10-15T16:19:51",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Lagoa Formosa",
+    "codigoIbge": "3137502",
+    "codigoUnidade": "160",
+    "nomeUnidade": "MUNICÍPIO DE LAGOA FORMOSA/MG"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/WkplbmxKS2o=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 12750.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA"
+}

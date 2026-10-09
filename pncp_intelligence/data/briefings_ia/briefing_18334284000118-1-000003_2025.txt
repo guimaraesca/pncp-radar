@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CORREGO NOVO (Córrego Novo/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: a.	A presente licitação tem por objeto o Contratação de empresa para licenciamento de uso de sistemas de tecnologia integrados, para a gestão pública municipal, para atender as demandas das entidades contratantes centralizadas e descentralizadas, em ambiente nuvem (data center), com os serviços de conversão de dados, implantação, migração de dados pré-existentes, treinamento, manutenção, suporte técnico e acompanhamento durante o período contratual, e que atendam aos requisitos do SIAFIC – Sistema Único e Integrado de Execução Orçamentária, Administração Financeira e Controle em um mesmo ambiente virtual advindo, pelo Decreto Federal nº 10.540/2020 para atender as necessidades da Secretaria Municipal de Administração e Finanças
+VALOR ESTIMADO: R$ 760.078,34
+PRAZO PARA PROPOSTAS: 2025-04-23T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/18334284000118-1-000003/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18334284000118/compras/2025/3/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTABILIDADE/TESOURARIA E ORÇAMENTO | Qtd: 12.0 | R$ Unit: 1716.66
+  - Item 2: ESCRITURAÇÃO FISCAL DIGITAL DE RETENÇÕES E OUTRAS INFORMAÇÕES FISCAIS EFD-REINF | Qtd: 12.0 | R$ Unit: 548.33
+  - Item 3: RECURSOS HUMANO E FOLHA DE PAGAMENTO  | Qtd: 12.0 | R$ Unit: 1716.67
+  - Item 4: MODULO ESOCIAL | Qtd: 12.0 | R$ Unit: 720.0
+  - Item 5: GESTÃO TRIBUTARIA | Qtd: 12.0 | R$ Unit: 1545.0
+  - Item 6: LICITAÇÕES, COMPRAS, CONTRATOS, OBRAS E EDITAIS | Qtd: 12.0 | R$ Unit: 1545.0
+  - Item 7: PORTAL NACIONAL DE CONTRATAÇÕES PÚBLICAS-PNCP E PCA | Qtd: 12.0 | R$ Unit: 541.66
+  - Item 8: SOFTWARE PARA PESQUISA DE PREÇOS DIGITAL | Qtd: 12.0 | R$ Unit: 941.66
+  - Item 9: GESTÃO DE ALMOXARIFADO | Qtd: 12.0 | R$ Unit: 430.0
+  - Item 10: CONTROLE DE PATRIMONIO PUBLICO | Qtd: 12.0 | R$ Unit: 430.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 450915.0,
+  "orgaoEntidade": {
+    "cnpj": "18334284000118",
+    "razaoSocial": "MUNICIPIO DE CORREGO NOVO",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-04-07T07:34:28",
+  "dataAtualizacao": "2025-04-17T10:02:44",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações",
+  "dataAberturaProposta": "2025-04-07T00:00:00",
+  "dataEncerramentoProposta": "2025-04-23T08:00:00",
+  "dataPublicacaoPncp": "2025-04-07T07:34:28",
+  "dataAtualizacaoGlobal": "2025-08-04T17:07:23",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Córrego Novo",
+    "codigoIbge": "3120003",
+    "codigoUnidade": "1523",
+    "nomeUnidade": "Córrego Novo"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 3,
+  "emendaParlamentar": null,
+  "numeroCompra": "003/2025",
+  "processo": "23/2025",
+  "objetoCompra": "a.\tA presente licitação tem por objeto o Contratação de empresa para licenciamento de uso de sistemas de tecnologia integrados, para a gestão pública municipal, para atender as demandas das entidades contratantes centralizadas e descentralizadas, em ambiente nuvem (data center), com os serviços de conversão de dados, implantação, migração de dados pré-existentes, treinamento, manutenção, suporte técnico e acompanhamento durante o período contratual, e que atendam aos requisitos do SIAFIC – Sistema Único e Integrado de Execução Orçamentária, Administração Financeira e Controle em um mesmo ambiente virtual advindo, pelo Decreto Federal nº 10.540/2020 para atender as necessidades da Secretaria Municipal de Administração e Finanças",
+  "informacaoComplementar": "",
+  "numeroControlePNCP": "18334284000118-1-000003/2025",
+  "valorTotalEstimado": 760078.34,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

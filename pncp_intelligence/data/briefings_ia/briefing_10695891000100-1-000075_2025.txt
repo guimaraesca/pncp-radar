@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO TRIANGULO MINEIRO (Uberaba/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de renovação de licenças para dispositivos de firewall Fortigate, para atender a demanda quanto a realização dos trabalhos inerentes a Segurança de Rede do Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu, nos termos da tabela presente no item 1.1 do Termo de Referência, conforme condições e exigências estabelecidas no instrumento convocatório.
+VALOR ESTIMADO: R$ 47.429,07
+PRAZO PARA PROPOSTAS: 2025-08-13T07:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/10695891000100-1-000075/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10695891000100/compras/2025/75/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 1.0 | R$ Unit: 47429.07
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "10695891000100",
+    "razaoSocial": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO TRIANGULO MINEIRO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2025-08-08T13:18:53",
+  "dataAtualizacao": "2025-08-08T13:18:53",
+  "numeroControlePNCP": "10695891000100-1-000075/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 75,
+  "emendaParlamentar": null,
+  "numeroCompra": "90025",
+  "processo": "23203003371202529",
+  "srp": false,
+  "objetoCompra": "Contratação de serviços de renovação de licenças para dispositivos de firewall Fortigate, para atender a demanda quanto a realização dos trabalhos inerentes a Segurança de Rede do Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Paracatu, nos termos da tabela presente no item 1.1 do Termo de Referência, conforme condições e exigências estabelecidas no instrumento convocatório.",
+  "informacaoComplementar": "A contratação será por dispensa de licitação devido ao baixo valor estimado e nos termos do Art. 75-II da Lei 14.133/21.",
+  "dataAberturaProposta": "2025-08-08T13:18:15",
+  "dataEncerramentoProposta": "2025-08-13T07:59:59",
+  "dataPublicacaoPncp": "2025-08-08T13:18:53",
+  "dataAtualizacaoGlobal": "2025-08-18T14:51:33",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Uberaba",
+    "codigoIbge": "3170107",
+    "codigoUnidade": "158099",
+    "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO TRIA.MINEIRO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 47429.07,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

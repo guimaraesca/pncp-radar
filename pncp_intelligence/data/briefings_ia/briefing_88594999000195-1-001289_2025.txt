@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GARIBALDI (Garibaldi/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: DIVERSOS
+VALOR ESTIMADO: R$ 1.200,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/88594999000195-1-001289/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88594999000195/compras/2025/1289/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇO TÉCNICO PROFISSIONAL | Qtd: 1.0 | R$ Unit: 1200.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "88594999000195",
+    "razaoSocial": "MUNICIPIO DE GARIBALDI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 1200.0,
+  "dataInclusao": "2025-08-08T09:34:08",
+  "dataAtualizacao": "2025-08-08T09:34:08",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Garibaldi",
+    "codigoUnidade": "79",
+    "nomeUnidade": "Município de Garibaldi",
+    "codigoIbge": "4308607"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 1289,
+  "emendaParlamentar": null,
+  "numeroCompra": "928",
+  "processo": "2853/2025",
+  "objetoCompra": "DIVERSOS",
+  "informacaoComplementar": "FAZ-SE NECESSÁRIO A CONTRATAÇÃO DO SERVIÇO PARA TROCA DE 01 PATCH PANEL CAT.6 E LANÇAMENTO DE 80 METROS (8X10M)\nDE CABO CAT.6 COM AS DEVIDAS CONECTORIZAÇÕES PARA O DATACENTER. A COMPRA DIRETA SE DA DEVIDO AO VALOR, NÃO SENDO\nVIÁVEL OUTRO PROCEDIMENTO DE ACORDO COM A LEI 14.133/2021 E O DECRETO MUNICIPAL 4.900/2024",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-08T09:34:08",
+  "dataAtualizacaoGlobal": "2025-08-08T09:34:16",
+  "numeroControlePNCP": "88594999000195-1-001289/2025",
+  "valorTotalEstimado": 1200.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Tecnosweb - Tecnologia de Gestão"
+}

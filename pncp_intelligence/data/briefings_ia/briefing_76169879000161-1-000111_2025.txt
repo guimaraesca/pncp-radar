@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RESERVA (Reserva/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratacao de empresa especializada para execucao de curso de Capacitacao em producao textil e fornecimento de toda a estrutura necessaria para sua consecucao.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-08-19T08:00:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]zCGExwSJj0SON4JHBeMMGpp1HwlWXY82P7BwrdI/1LWVuuYnZbhhQknchMPlFOsn/FfJ/E5xPBrwQcX4C_9eaT7N_/cyy7AHg9O0w1qy1C0=
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76169879000161/compras/2025/111/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76169879000161/compras/2025/111/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76169879000161/compras/2025/111/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE CURSO DE CAPACITAÇÃO EM PRODUÇÃO TÊXTIL E FORNECIMENTO DE TODA A E | Qtd: 120.0 | R$ Unit: 4024.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "76169879000161",
+    "razaoSocial": "MUNICIPIO DE RESERVA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-04T15:12:27",
+  "dataAtualizacao": "2025-08-12T08:46:16",
+  "numeroControlePNCP": "76169879000161-1-000111/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 111,
+  "emendaParlamentar": null,
+  "numeroCompra": "049",
+  "processo": "100/2025",
+  "srp": false,
+  "objetoCompra": "Contratacao de empresa especializada para execucao de curso de Capacitacao em producao textil e fornecimento de toda a estrutura necessaria para sua consecucao.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-08-04T17:00:00",
+  "dataEncerramentoProposta": "2025-08-19T08:00:00",
+  "dataPublicacaoPncp": "2025-08-04T15:12:27",
+  "dataAtualizacaoGlobal": "2025-08-12T08:46:16",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Reserva",
+    "codigoIbge": "4121703",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICÍPAL DE RESERVA-PR"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]zCGExwSJj0SON4JHBeMMGpp1HwlWXY82P7BwrdI/1LWVuuYnZbhhQknchMPlFOsn/FfJ/E5xPBrwQcX4C_9eaT7N_/cyy7AHg9O0w1qy1C0=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 2,
+  "situacaoCompraNome": "Revogada",
+  "usuarioNome": "BLL Compras"
+}

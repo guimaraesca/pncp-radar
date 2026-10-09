@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE URUSSANGA (Urussanga/SC)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: O presente procedimento tem por objeto a contratação de empresa especializada para a prestação de serviços de assessoria, consultoria, treinamento e capacitação técnica dos servidores do Departamento de Tributação, com vistas à adequada preparação para o envio dos dados tributários por meio do sistema Esfinge, abrangendo também os módulos do Livro Eletrônico, Nota Fiscal Eletrônica e o Sistema Geral da Tributação Municipal, em atendimento as demandas do Município de Urussanga/SC.
+VALOR ESTIMADO: R$ 23.400,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/82930181000110-1-000365/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82930181000110/compras/2025/365/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82930181000110/compras/2025/365/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82930181000110/compras/2025/365/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82930181000110/compras/2025/365/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS DE ASSESSORIA, CONSULTORIA, TREINAMENTO E CAPACITAÇÃO TÉCNICA DOS SERVIDORES DO DEPARTAMENTO DE TRIBUTAÇÃO, ABR | Qtd: 6.0 | R$ Unit: 3900.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 23400.0,
+  "orgaoEntidade": {
+    "cnpj": "82930181000110",
+    "razaoSocial": "MUNICIPIO DE URUSSANGA",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-08-07T10:22:21",
+  "dataAtualizacao": "2025-08-07T10:22:21",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T10:22:21",
+  "dataAtualizacaoGlobal": "2025-09-08T14:56:41",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Urussanga",
+    "codigoIbge": "4219002",
+    "codigoUnidade": "CIN641",
+    "nomeUnidade": "MUNICÍPIO DE URUSSANGA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 365,
+  "emendaParlamentar": null,
+  "numeroCompra": "DL23",
+  "processo": "93/2025",
+  "objetoCompra": "O presente procedimento tem por objeto a contratação de empresa especializada para a prestação de serviços de assessoria, consultoria, treinamento e capacitação técnica dos servidores do Departamento de Tributação, com vistas à adequada preparação para o envio dos dados tributários por meio do sistema Esfinge, abrangendo também os módulos do Livro Eletrônico, Nota Fiscal Eletrônica e o Sistema Geral da Tributação Municipal, em atendimento as demandas do Município de Urussanga/SC.",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "82930181000110-1-000365/2025",
+  "valorTotalEstimado": 23400.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

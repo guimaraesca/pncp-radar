@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PEDRO DE TOLEDO (Pedro de Toledo/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECALIZADA PARA REALIZAÇÃO DE DIAGNOSTICO E CONSULTORIA TECNICA ACERCA DO LIXÃO, EM ATENDIMENTO AO MEIO AMBIENTE DE PEDRO DE TOLEDO.
+VALOR ESTIMADO: R$ 114.530,00
+PRAZO PARA PROPOSTAS: 2025-07-07T17:00:00
+LINK OFICIAL: http://pmpedrotoledo.geosiap.net.br/portal-transparencia/licitacoes/processo/6623
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46578530000112/compras/2025/123/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS TECNICOS
+Especificação: DIAGNÓSTICO AMBIENTAL PARA CARACTERIZAÇÃO DE CONTAMINAÇÃO DE SOLO, ÁGUA SUBTERRÂNEA E A | Qtd: 1.0 | R$ Unit: 114530.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "46578530000112",
+    "razaoSocial": "MUNICIPIO DE PEDRO DE TOLEDO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-03T10:08:32",
+  "dataAtualizacao": "2025-07-03T10:08:32",
+  "numeroControlePNCP": "46578530000112-1-000123/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 123,
+  "emendaParlamentar": null,
+  "numeroCompra": "166",
+  "processo": "PC 000201/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECALIZADA PARA REALIZAÇÃO DE DIAGNOSTICO E CONSULTORIA TECNICA ACERCA DO LIXÃO, EM ATENDIMENTO AO MEIO AMBIENTE DE PEDRO DE TOLEDO.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-07-02T17:00:00",
+  "dataEncerramentoProposta": "2025-07-07T17:00:00",
+  "dataPublicacaoPncp": "2025-07-03T10:08:32",
+  "dataAtualizacaoGlobal": "2025-07-03T10:08:37",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Pedro de Toledo",
+    "codigoIbge": "3537206",
+    "codigoUnidade": "1",
+    "nomeUnidade": "GERAL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, I",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores",
+    "codigo": 18
+  },
+  "linkSistemaOrigem": "http://pmpedrotoledo.geosiap.net.br/portal-transparencia/licitacoes/processo/6623",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "DISPENSA ELETRÔNICA EM RAZÃO DO VALOR DA CONTRATAÇÃO",
+  "valorTotalEstimado": 114530.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "EMBRAS - EMPRESA BRASILEIRA DE TECNOLOGIA LTDA"
+}

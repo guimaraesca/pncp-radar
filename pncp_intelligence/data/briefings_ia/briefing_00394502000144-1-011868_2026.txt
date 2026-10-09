@@ -1,0 +1,84 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: COMANDO DA MARINHA (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de appliances de firewall de próxima geração (NGFW), solução de gerenciamento centralizado, appliance de segurança industrial, licenças de funcionalidades de segurança para firewall, licenças de suporte e garantia do fabricante para novos equipamentos e para a base instalada, bem como subscrições de atualização e suporte para solução de prevenção de intrusões, destinados à manutenção, atualização e ampliação da infraestrutura de segurança da Rede de Comunicações Integrada da Marinha.
+VALOR ESTIMADO: R$ 8.399.116,69
+PRAZO PARA PROPOSTAS: 2026-10-15T09:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=74001405001842026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00394502000144/compras/2026/11868/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00394502000144/compras/2026/11868/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Equipamento Segurança Rede tipo: amppliance, aplicação: firewall FPR1010-NGFW-K9 - Cisco Firepower 1010 NGFW Appliance  | Qtd: 5.0 | R$ Unit: 12423.54
+  - Item 2: Serviços de Garantia de Equipamentos de TIC Serviços de Garantia de Equipamentos de TIC CON-SSSNT-FPR1010N - SOLN SUPP 8 | Qtd: 5.0 | R$ Unit: 5921.97
+  - Item 3: Equipamento Segurança Rede tipo: amppliance, aplicação: firewall FPR1120-NGFW-K9 - Cisco Firepower 1120 NGFW Appliance | Qtd: 5.0 | R$ Unit: 60000.0
+  - Item 4: Serviços de Garantia de Equipamentos de TIC Serviços de Garantia de Equipamentos de TIC CON-SSSNT-FRP11209 - SOLN SUPP 8 | Qtd: 5.0 | R$ Unit: 25900.0
+  - Item 5: Equipamento Segurança Rede tipo: amppliance, aplicação: firewall FPR1140-NGFW-K9 - Cisco Firepower 1140 NGFW Appliance  | Qtd: 7.0 | R$ Unit: 85042.02
+  - Item 6: Serviços de Garantia de Equipamentos de TIC Serviços de Garantia de Equipamentos de TIC CON-SSSNT-FR11P40N - SOLN SUPP 8 | Qtd: 7.0 | R$ Unit: 38965.73
+  - Item 7: Equipamento Segurança Rede tipo: amppliance, aplicação: firewall FPR1150-NGFW-K9 - Cisco Firepower 1150 NGFW Appliance | Qtd: 1.0 | R$ Unit: 210000.0
+  - Item 8: Serviços de Garantia de Equipamentos de TIC Serviços de Garantia de Equipamentos de TIC CON-SSSNT-FPR1150N - SOLN SUPP 8 | Qtd: 1.0 | R$ Unit: 82500.0
+  - Item 9: Equipamento Segurança Rede tipo: amppliance, aplicação: firewall FPR3110-NGFW-K9 - Cisco Secure Firewall 3110 NGFW Appli | Qtd: 2.0 | R$ Unit: 485224.64
+  - Item 10: Serviços de Garantia de Equipamentos de TIC Serviços de Garantia de Equipamentos de TIC CON-SSSNT-FPR3110N - SOLN SUPP 8 | Qtd: 2.0 | R$ Unit: 189747.74
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00394502000144",
+    "razaoSocial": "COMANDO DA MARINHA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-17T04:00:26",
+  "dataAtualizacao": "2026-10-02T04:04:12",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoUnidade": "740014",
+    "nomeUnidade": "CENTRO LOGISTICO DO MATERIAL DA MARINHA",
+    "codigoIbge": "3304557"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=74001405001842026",
+  "linkProcessoEletronico": "https://licitacoescontratos.dadm.mb/login",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 11868,
+  "emendaParlamentar": null,
+  "numeroCompra": "184",
+  "processo": "63394.000715/2026-43",
+  "objetoCompra": "Aquisição de appliances de firewall de próxima geração (NGFW), solução de gerenciamento centralizado, appliance de segurança industrial, licenças de funcionalidades de segurança para firewall, licenças de suporte e garantia do fabricante para novos equipamentos e para a base instalada, bem como subscrições de atualização e suporte para solução de prevenção de intrusões, destinados à manutenção, atualização e ampliação da infraestrutura de segurança da Rede de Comunicações Integrada da Marinha.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-10-02T09:30:00",
+  "dataEncerramentoProposta": "2026-10-15T09:30:00",
+  "dataPublicacaoPncp": "2026-09-17T04:00:26",
+  "dataAtualizacaoGlobal": "2026-10-02T04:04:12",
+  "numeroControlePNCP": "00394502000144-1-011868/2026",
+  "valorTotalEstimado": 8399116.69,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-17T04:00:27"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

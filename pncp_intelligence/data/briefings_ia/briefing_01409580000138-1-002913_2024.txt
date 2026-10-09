@@ -1,0 +1,104 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DE GOIAS (Goiânia/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada, para prestação de serviços de um sistema de videomonitoramento com inteligência artificial, a partir da instalação de câmeras em vias e locais públicos, na Região Metropolitana do Entorno do Distrito Federal, Goiânia (região da 44) e no município de Goiás (Cidade de Goiás). O serviço contratado englobará instalação de equipamentos, capacitação, suporte técnico, operação assistida, integração, manutenção e conectividade, 
+VALOR ESTIMADO: R$ 90.717.510,90
+PRAZO PARA PROPOSTAS: 2025-05-19T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/01409580000138-1-002913/2024
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: GOIÂNIA/GO]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/6
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/12
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/15
+doc_16.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/16
+doc_17.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/17
+doc_18.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/18
+doc_19.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/19
+doc_20.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/20
+doc_21.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/21
+doc_22.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/22
+doc_24.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/24
+doc_25.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/25
+doc_26.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/26
+doc_28.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/28
+doc_29.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/29
+doc_30.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/30
+doc_31.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/31
+doc_32.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/32
+doc_33.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/33
+doc_34.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/34
+doc_35.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/35
+doc_36.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/36
+doc_37.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2024/2913/arquivos/37
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço de Videomonitoramento, solução composta por plataforma para análise de vídeo, centros de operações, postes e câm | Qtd: 313.0 | R$ Unit: 821.26
+  - Item 2: Serviço de Videomonitoramento, solução composta por plataforma para análise de vídeo, centros de operações, postes e câm | Qtd: 97.0 | R$ Unit: 1056.13
+  - Item 3: Serviço de Videomonitoramento, solução composta por plataforma para análise de vídeo, centros de operações, postes e câm | Qtd: 154.0 | R$ Unit: 635.5
+  - Item 4: Serviço de Videomonitoramento, solução composta por plataforma para análise de vídeo, centros de operações, postes e câm | Qtd: 219.0 | R$ Unit: 2306.83
+  - Item 5: Licença para Uso de Software, Licença para analítico de reconhecimento facial - cruzamento de rosto com banco de dados. | Qtd: 44.0 | R$ Unit: 2101.59
+  - Item 6: Licença para Uso de Software, Licença para visualização de câmeras de outros sistemas - integrando câmeras de distintos  | Qtd: 60.0 | R$ Unit: 384.56
+  - Item 7: Serviços Técnicos Especializados, integração de sistemas com banco de dados. | Qtd: 300.0 | R$ Unit: 674.75
+  - Item 8: Serviço de Videomonitoramento, solução composta por plataforma para análise de vídeo, centros de operações, postes e câm | Qtd: 564.0 | R$ Unit: 268.51
+  - Item 9: Capacitação Profissional, qualificação dos servidores para operação de solução de videomonitoramento com IA. | Qtd: 5.0 | R$ Unit: 59772.18
+  - Item 10: Serviço de Videomonitoramento, solução composta por plataforma para análise de vídeo, centros de operações, postes e câm | Qtd: 4.0 | R$ Unit: 16495.32
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 34999980.0,
+  "orgaoEntidade": {
+    "cnpj": "01409580000138",
+    "razaoSocial": "ESTADO DE GOIAS",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-05-05T11:49:34",
+  "dataAtualizacao": "2025-07-23T20:39:20",
+  "anoCompra": 2024,
+  "srp": false,
+  "sequencialCompra": 2913,
+  "emendaParlamentar": null,
+  "numeroCompra": "109617",
+  "processo": "202400005037421",
+  "objetoCompra": "Contratação de empresa especializada, para prestação de serviços de um sistema de videomonitoramento com inteligência artificial, a partir da instalação de câmeras em vias e locais públicos, na Região Metropolitana do Entorno do Distrito Federal, Goiânia (região da 44) e no município de Goiás (Cidade de Goiás). O serviço contratado englobará instalação de equipamentos, capacitação, suporte técnico, operação assistida, integração, manutenção e conectividade, ",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-05-06T08:00:00",
+  "dataEncerramentoProposta": "2025-05-19T08:00:00",
+  "dataPublicacaoPncp": "2025-05-05T11:49:34",
+  "dataAtualizacaoGlobal": "2025-10-31T12:19:36",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Goiânia",
+    "codigoUnidade": "18037",
+    "nomeUnidade": "SECRETARIA-GERAL DA GOVERNADORIA",
+    "codigoIbge": "5208707"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "01409580000138-1-002913/2024",
+  "valorTotalEstimado": 90717510.9,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "SISLOG - Sistema de Logística de Goiás"
+}

@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO - FSNH (Novo Hamburgo/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Esta aquisição se justifica pela necessidade de incorporar tecnologias inovadoras ao ambiente institucional, com vistas à modernização dos processos internos por meio de uma solução de Inteligência Artificial (IA) capaz de automatizar tarefas repetitivas, analisar dados com maior eficiência e apoiar a tomada de decisão baseada em dados estruturados e não estruturados. A solução de IA deverá contribuir significativamente para:  a) Aumentar a eficiência na análise de dados e documentos; b) Reduzir o tempo de execução de tarefas operacionais;  c) Promover inovação e transformação digital nos fluxos de trabalho;  d) Alinhar os processos institucionais às diretrizes de governança digital e transformação tecnológica no setor público. Considerando a especificidade do objeto, as limitações do mercado fornecedor e o baixo valor estimado da contratação, opta-se pela dispensa de licitação, nos termos do art. 75 da Lei nº 14.133/2021. 
+VALOR ESTIMADO: R$ 5.694,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/11055682000156-1-000251/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11055682000156/compras/2025/251/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: AQUISIÇÃO DE LICENÇAS DE USO DE SOLUÇÃO DE INTELIGÊNCIA ARTIFICIAL (IA), INCLUINDO SUPORTE TÉCNICO, ATUALIZAÇÕES E TREIN | Qtd: 5.0 | R$ Unit: 1138.8
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 5694.0,
+  "orgaoEntidade": {
+    "cnpj": "11055682000156",
+    "razaoSocial": "FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO - FSNH",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-07-04T09:48:35",
+  "dataInclusao": "2025-07-04T09:48:35",
+  "numeroControlePNCP": "11055682000156-1-000251/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 251,
+  "emendaParlamentar": null,
+  "numeroCompra": "PRD 140",
+  "processo": "250/2025",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "Esta aquisição se justifica pela necessidade de incorporar tecnologias inovadoras ao ambiente institucional, com vistas à modernização dos processos internos por meio de uma solução de Inteligência Artificial (IA) capaz de automatizar tarefas repetitivas, analisar dados com maior eficiência e apoiar a tomada de decisão baseada em dados estruturados e não estruturados. A solução de IA deverá contribuir significativamente para:  a) Aumentar a eficiência na análise de dados e documentos; b) Reduzir o tempo de execução de tarefas operacionais;  c) Promover inovação e transformação digital nos fluxos de trabalho;  d) Alinhar os processos institucionais às diretrizes de governança digital e transformação tecnológica no setor público. Considerando a especificidade do objeto, as limitações do mercado fornecedor e o baixo valor estimado da contratação, opta-se pela dispensa de licitação, nos termos do art. 75 da Lei nº 14.133/2021. ",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-07-04T09:48:35",
+  "dataAtualizacaoGlobal": "2025-07-04T09:48:56",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Novo Hamburgo",
+    "codigoUnidade": "21004",
+    "nomeUnidade": "Diretoria de Gestão Hospitalar",
+    "codigoIbge": "4313409"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Esta aquisição se justifica pela necessidade de incorporar tecnologias inovadoras ao ambiente institucional, com vistas à modernização dos processos internos por meio de uma solução de Inteligência Artificial (IA) capaz de automatizar tarefas repetitivas, analisar dados com maior eficiência e apoiar a tomada de decisão baseada em dados estruturados e não estruturados. A solução de IA deverá contribuir significativamente para:  a) Aumentar a eficiência na análise de dados e documentos; b) Reduzir o tempo de execução de tarefas operacionais;  c) Promover inovação e transformação digital nos fluxos de trabalho;  d) Alinhar os processos institucionais às diretrizes de governança digital e transformação tecnológica no setor público. Considerando a especificidade do objeto, as limitações do mercado fornecedor e o baixo valor estimado da contratação, opta-se pela dispensa de licitação, nos termos do art. 75 da Lei nº 14.133/2021.",
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas",
+  "valorTotalEstimado": 5694.0
+}

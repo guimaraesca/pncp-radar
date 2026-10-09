@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDO MUNICIPAL DA SAUDE (Curitiba/PR)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO EMERGENCIAL POR ATÉ 12 (DOZE) MESES PARA CONTRATAÇÃO E IMPLANTAÇÃO DE SOLUÇÃO INTEGRADA PARA REGISTRO DE PONTO ELETRÔNICO, QUE DEVERÁ CONTEMPLAR OS SEGUINTES SERVIÇOS: 
+2.1. FORNECIMENTO DE LICENÇAS DE SOFTWARE NO MODELO "SAAS" (SOFTWARE AS A
+VALOR ESTIMADO: R$ 786.108,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/13792329000184-1-000138/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Curitiba/PR (130km)]
+DISTÂNCIA ESTIMADA DA BASE: 130 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13792329000184/compras/2025/138/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SOFTWARE, SERVIÇO,  licença de uso, | Qtd: 1.0 | R$ Unit: 357408.0
+  - Item 2: REGISTRADOR, LOCAÇÃO,  de frequência, tipo i, conforme descritivo | Qtd: 1.0 | R$ Unit: 361200.0
+  - Item 3: RELÓGIO, LOCAÇÃO,  registrador de ponto eletrônico, tipo II, | Qtd: 1.0 | R$ Unit: 67500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 786108.0,
+  "orgaoEntidade": {
+    "cnpj": "13792329000184",
+    "razaoSocial": "FUNDO MUNICIPAL DA SAUDE",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-05T10:29:43",
+  "dataAtualizacao": "2025-08-05T10:29:43",
+  "numeroControlePNCP": "13792329000184-1-000138/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 138,
+  "emendaParlamentar": null,
+  "numeroCompra": "75",
+  "processo": "DT 0075/2025",
+  "objetoCompra": "CONTRATAÇÃO EMERGENCIAL POR ATÉ 12 (DOZE) MESES PARA CONTRATAÇÃO E IMPLANTAÇÃO DE SOLUÇÃO INTEGRADA PARA REGISTRO DE PONTO ELETRÔNICO, QUE DEVERÁ CONTEMPLAR OS SEGUINTES SERVIÇOS: \r\n2.1. FORNECIMENTO DE LICENÇAS DE SOFTWARE NO MODELO \"SAAS\" (SOFTWARE AS A",
+  "informacaoComplementar": "PROCESSO 01-135522/2025 PARECER 2645/2025",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T10:29:43",
+  "dataAtualizacaoGlobal": "2026-05-11T12:36:05",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Curitiba",
+    "codigoIbge": "4106902",
+    "codigoUnidade": "43",
+    "nomeUnidade": "SECRETARIA MUNICIPAL DA SAÚDE"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, VIII",
+    "descricao": "Dispensa de Licitação: nos casos de emergência ou de calamidade pública, quando caracterizada urgência de atendimento de situação que possa ocasionar prejuízo ou comprometer a continuidade dos serviços públicos ou a segurança de pessoas, obras, serviços, equipamentos e outros bens, públicos ou particulares, e somente para aquisição dos bens necessários ao atendimento da situação emergencial ou calamitosa e para as parcelas de obras e serviços que possam ser concluídas no prazo máximo de 1 (um) ano, contado da data de ocorrência da emergência ou da calamidade, vedadas a prorrogação dos respectivos contratos e a recontratação de empresa já contratada com base no disposto neste inciso",
+    "codigo": 38
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "A autoridade competente autoriza a licitação presencial via documento assinado.",
+  "valorTotalEstimado": 786108.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Município de Curitiba"
+}

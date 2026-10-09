@@ -1,0 +1,153 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ESPERANCA NOVA (Esperança Nova/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: O objeto da presente licitação e Registro de Preços para o fornecimento de equipamentos e materiais de informática, destinados as Secretarias/Divisões do Município de Esperança Nova/PR, conforme especificações e quantitativos nos orçamentos em anexo.
+VALOR ESTIMADO: R$ 641.846,15
+PRAZO PARA PROPOSTAS: 2025-04-22T08:30:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/01612269000191-1-000011/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/14
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/15
+doc_16.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/16
+doc_17.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/17
+doc_18.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/18
+doc_19.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/19
+doc_20.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/20
+doc_21.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/21
+doc_22.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/22
+doc_23.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/23
+doc_24.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/24
+doc_25.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/25
+doc_26.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/26
+doc_27.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/27
+doc_28.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/28
+doc_29.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/29
+doc_30.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/30
+doc_31.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/31
+doc_32.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/32
+doc_33.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/33
+doc_34.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/34
+doc_35.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/35
+doc_36.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/36
+doc_37.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/37
+doc_38.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/38
+doc_39.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/39
+doc_40.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/40
+doc_41.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/41
+doc_42.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/42
+doc_43.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/43
+doc_44.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/44
+doc_45.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/45
+doc_46.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/46
+doc_47.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/47
+doc_48.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/48
+doc_49.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/49
+doc_50.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/50
+doc_51.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/51
+doc_52.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/52
+doc_53.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/53
+doc_54.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/54
+doc_55.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/55
+doc_56.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/56
+doc_57.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/57
+doc_58.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/58
+doc_59.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/59
+doc_60.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/60
+doc_61.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/61
+doc_62.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/62
+doc_63.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/63
+doc_64.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/64
+doc_65.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/65
+doc_66.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/66
+doc_67.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/67
+doc_68.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/68
+doc_69.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/69
+doc_70.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/70
+doc_71.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/71
+doc_72.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/72
+doc_73.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/73
+doc_74.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/74
+doc_75.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612269000191/compras/2025/11/arquivos/75
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: FONTES: ATX 450 WATS REAL PFC ATIVO BRONZE C/ CONECTOR DE ALIMENTACAO SATA | Qtd: 50.0 | R$ Unit: 350.13
+  - Item 2: FONTES: ATX 250 WATS REAL C/ CONECTOR DEALIMENTAÇÃO SATA | Qtd: 30.0 | R$ Unit: 88.55
+  - Item 3: TECLADOS: PADRÃO ABNT RESISTENTE A PINGOS DAGUA COM TEC. DE CONTROLE MULTIMIDIA | Qtd: 40.0 | R$ Unit: 64.42
+  - Item 4: Kit teclado e mouse: teclado e mouse sem fio ABNT 2 – (marcas sugeridas py900021, Microsoft, 850, | Qtd: 20.0 | R$ Unit: 228.95
+  - Item 5: MOUSE: OPTICO 1600 DPI | Qtd: 40.0 | R$ Unit: 42.5
+  - Item 6: PLACA DE REDE PCI: ETHERNET GIGA PCI | Qtd: 20.0 | R$ Unit: 99.67
+  - Item 7: PLACA DE REDE PCI-EXPRESS: ETHERNET GIGA | Qtd: 20.0 | R$ Unit: 95.33
+  - Item 8: NOBREAK: 700VA BIVOLT / Saida 115v COM GARANTIA DO FABRICANTE | Qtd: 40.0 | R$ Unit: 745.84
+  - Item 9: COMPUTADOR COMPLETO; COM PROCESSADOR CORE i5 13º Ger. 16GB DE RAM DDR5  5200/5600 MHZ, HD SSD M2-NVME 480GB, KIT GABINET | Qtd: 30.0 | R$ Unit: 4676.9
+  - Item 10: COMPUTADOR COMPLETO; COM PROCESSADOR CORE i3 13º Ger.  08 GB DE RAM DDR5 5200/5600 MHZ, HD SSD M2-NVME 480GB, KIT GABINE | Qtd: 30.0 | R$ Unit: 3478.13
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 389596.5,
+  "orgaoEntidade": {
+    "cnpj": "01612269000191",
+    "razaoSocial": "MUNICIPIO DE ESPERANCA NOVA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-04-07T09:47:16",
+  "dataAtualizacao": "2025-04-07T09:47:16",
+  "numeroControlePNCP": "01612269000191-1-000011/2025",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 11,
+  "emendaParlamentar": null,
+  "numeroCompra": "9",
+  "processo": "10/2025",
+  "objetoCompra": "O objeto da presente licitação e Registro de Preços para o fornecimento de equipamentos e materiais de informática, destinados as Secretarias/Divisões do Município de Esperança Nova/PR, conforme especificações e quantitativos nos orçamentos em anexo.",
+  "informacaoComplementar": "Os equipamentos e materiais de informática para a Prefeitura de Esperança Nova são fundamentais para garantir a funcionalidade e a eficiência dos ambientes administrativos e operacionais. Com a expansão das atividades e o aumento da demanda por serviços públicos, torna-se necessário equipar adequadamente as dependências da Prefeitura para que os servidores possam desempenhar suas funções com conforto e eficiência. A obsolescência tecnológica dos equipamentos e escassez de suprimentos compromete a eficiência operacional e a capacidade de inovação da instituição, uma vez que grande parte dos dispositivos estão no final de sua vida útil ou apresentando incompatibilidade no suporte a novas tecnologias, ou limitações de processamento. Além disso, a defasagem tecnológica representa um risco significativo à segurança dos dados institucionais, considerando a hipótese de inoperância dos equipamentos e possíveis ameaças cibernéticas em evolução. Para atender ao aumento das demandas operacionais é essencial expandir a capacidade de processamento, de armazenamento, da qualidade de impressão, assim como melhorias na transmissão de dados e suporte logístico de TI, assegurando assim a sustentabilidade dos serviços prestados. Os equipamentos a serem adquiridos não só substituirão modelos antigos e desgastados, mas também ampliarão e modernizarão os espaços, atendendo às necessidades das diversas secretarias e departamentos. Esses equipamentos são essenciais para o bom andamento das atividades diárias, contribuindo para a melhoria das condições de trabalho dos servidores e, consequentemente, para a qualidade dos serviços prestados à população. Além disso, a modernização dos espaços administrativos é crucial para promover um ambiente de trabalho mais organizado e eficiente, o que impacta diretamente na capacidade de atendimento às demandas dos cidadãos. A aquisição desses bens e itens para as manutenções necessárias é, portanto, uma medida estratégica para garantir a continuidade e a melhoria dos serviços públicos. Assim assegurando a continuidade operacional, a renovação da infraestrutura de TI emerge como peça fundamental para evitar interrupções nos serviços prestados à sociedade, prevenindo possíveis prejuízos à comunidade. Simultaneamente, o aprimoramento da eficiência operacional será promovido através da modernização dos recursos de informática, propiciando a otimização dos processos internos e fomentando a eficiência e agilidade nas atividades desenvolvidas pela Administração Municipal",
+  "dataAberturaProposta": "2025-04-05T08:30:00",
+  "dataEncerramentoProposta": "2025-04-22T08:30:00",
+  "dataPublicacaoPncp": "2025-04-07T09:47:16",
+  "dataAtualizacaoGlobal": "2025-07-23T16:48:27",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Esperança Nova",
+    "codigoIbge": "4107520",
+    "codigoUnidade": "01612269000191",
+    "nomeUnidade": "Unidade administrativa"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 641846.15,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Elotech Gestão Pública Ltda"
+}

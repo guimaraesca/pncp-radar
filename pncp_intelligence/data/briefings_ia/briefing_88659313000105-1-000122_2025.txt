@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SERVICO AUTONOMO MUNICIPAL DE AGUA E ESGOTO (Caxias do Sul/RS)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para prestação de serviços especializados de desenvolvimento, implantação, documentação, manutenção de software, consultoria técnica e transferência de conhecimento, baseada nas ideias e práticas ágeis e nos princípios de excelência técnica no desenvolvimento de software (artesanato de software, software craftsmanship), conforme Termo de Referência – Anexo I do Edital.
+VALOR ESTIMADO: R$ 26.983.285,71
+PRAZO PARA PROPOSTAS: 2025-08-29T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92857603900072025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88659313000105/compras/2025/122/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Desenvolvimento de Novo Software - Outras Linguagens | Qtd: 150000.0 | R$ Unit: 179.88
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 17160000.0,
+  "orgaoEntidade": {
+    "cnpj": "88659313000105",
+    "razaoSocial": "SERVICO AUTONOMO MUNICIPAL DE AGUA E ESGOTO",
+    "esferaId": "M",
+    "poderId": "E"
+  },
+  "dataInclusao": "2025-07-10T07:51:17",
+  "dataAtualizacao": "2025-07-10T07:51:17",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2025-07-10T08:00:00",
+  "dataEncerramentoProposta": "2025-08-29T09:00:00",
+  "dataPublicacaoPncp": "2025-07-10T07:51:17",
+  "dataAtualizacaoGlobal": "2025-10-01T14:34:11",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Caxias do Sul",
+    "codigoIbge": "4305108",
+    "codigoUnidade": "928576",
+    "nomeUnidade": "SERVIÇO AUTONOMO MUNICIPAL DE AGUA E ESGOTO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92857603900072025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 122,
+  "emendaParlamentar": null,
+  "numeroCompra": "90007",
+  "processo": "2025010492",
+  "objetoCompra": "Contratação de empresa para prestação de serviços especializados de desenvolvimento, implantação, documentação, manutenção de software, consultoria técnica e transferência de conhecimento, baseada nas ideias e práticas ágeis e nos princípios de excelência técnica no desenvolvimento de software (artesanato de software, software craftsmanship), conforme Termo de Referência – Anexo I do Edital.",
+  "informacaoComplementar": "Conforme Termo de Referência – Anexo I Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=92857603900072025",
+  "numeroControlePNCP": "88659313000105-1-000122/2025",
+  "valorTotalEstimado": 26983285.71,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DA PARAIBA (João Pessoa/PB)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: AQUISIÇÃO DE BOLOS
+VALOR ESTIMADO: R$ 9.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/08761124000100-1-000079/2025
+BASE LOGÍSTICA COMPATÍVEL: Recife (100 a 200 km)
+SELO LOGÍSTICO: [BASE: RECIFE | João Pessoa/PB (120km)]
+DISTÂNCIA ESTIMADA DA BASE: 120 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08761124000100/compras/2025/79/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Bolo Alimentício características adicionais: embalagem individual, ingredientes: farinha de trigo, fermento químico, açú | Qtd: 500.0 | R$ Unit: 18.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "08761124000100",
+    "razaoSocial": "ESTADO DA PARAIBA",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 9000.0,
+  "dataInclusao": "2025-08-04T14:23:13",
+  "dataAtualizacao": "2025-08-04T14:23:13",
+  "unidadeOrgao": {
+    "ufNome": "Paraíba",
+    "ufSigla": "PB",
+    "municipioNome": "João Pessoa",
+    "codigoUnidade": "460243",
+    "nomeUnidade": "SECRETARIA DE EST.DA MULHER E DA DIV.HUMANA",
+    "codigoIbge": "2507507"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 79,
+  "emendaParlamentar": null,
+  "numeroCompra": "16",
+  "processo": "SMH-PRC-2025/00147",
+  "objetoCompra": "AQUISIÇÃO DE BOLOS",
+  "informacaoComplementar": "A presente contratação de bolos justifica-se pela necessidade de atender às demandas dos equipamentos vinculados à Secretaria da Mulher e da Diversidade Humana, como casas de acolhimento, centros de referência, unidades de atendimento e demais espaços institucionais.  A aquisição está alinhada ao planejamento estratégico da Secretaria, que tem como diretriz o cuidado integral às pessoas atendidas e o fortalecimento das políticas públicas de equidade, inclusão e valorização da diversidade. A oferta de itens alimentícios nesses eventos contribui para criar um ambiente de acolhimento, escuta e pertencimento, sendo parte fundamental da metodologia de trabalho dos equipamentos da rede. Além disso, a contratação garante previsibilidade, padronização na qualidade dos produtos fornecidos e otimização de recursos públicos, assegurando a execução eficiente das ações planejadas nos territórios onde os equipamentos atuam. ",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-04T14:23:13",
+  "dataAtualizacaoGlobal": "2025-08-04T14:54:44",
+  "numeroControlePNCP": "08761124000100-1-000079/2025",
+  "valorTotalEstimado": 9000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE VICOSA (Viçosa/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para prestação de serviços de assessoria e consultoria técnica nas soluções Google for Education Fundamentals, incluindo implantação/revisão do ambiente Google Workspace for Education Fundamentals, formação de equipes administrativas e técnicas, suporte técnico especializado e apoio consultivo para utilização das ferramentas educacionais digitais pelo período de 12 (doze) meses.
+VALOR ESTIMADO: R$ 26.883,24
+PRAZO PARA PROPOSTAS: 2026-10-14T08:59:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98542705000332026
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18132449000179/compras/2026/133/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Assessoria 1.	Soluções Tec: Implantação, Formação Administrativa e Suporte Técnico Google Workspace for Education Fundam | Qtd: 12.0 | R$ Unit: 2240.27
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "18132449000179",
+    "razaoSocial": "MUNICIPIO DE VICOSA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-15T15:43:24",
+  "dataAtualizacao": "2026-09-24T09:53:13",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 133,
+  "emendaParlamentar": null,
+  "numeroCompra": "33",
+  "processo": "0941.0.000006654/2026-2",
+  "objetoCompra": "Contratação de empresa especializada para prestação de serviços de assessoria e consultoria técnica nas soluções Google for Education Fundamentals, incluindo implantação/revisão do ambiente Google Workspace for Education Fundamentals, formação de equipes administrativas e técnicas, suporte técnico especializado e apoio consultivo para utilização das ferramentas educacionais digitais pelo período de 12 (doze) meses.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-25T08:00:00",
+  "dataEncerramentoProposta": "2026-10-14T08:59:00",
+  "dataPublicacaoPncp": "2026-09-15T15:43:24",
+  "dataAtualizacaoGlobal": "2026-09-24T09:53:13",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Viçosa",
+    "codigoUnidade": "985427",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE VIÇOSA - MG",
+    "codigoIbge": "3171303"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "18132449000179-1-000133/2026",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98542705000332026",
+  "linkProcessoEletronico": "https://sei.vicosa.mg.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=protocolo_pesquisar&id_procedimento=213750&infra_sistema=100000100&infra_unidade_atual=110000948&infra_hash=9cc033f5100f7e08d5d9320609d60bfb7231b3539227dd8a0d09f27e2bf15e63",
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 26883.24,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-15T15:43:24"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

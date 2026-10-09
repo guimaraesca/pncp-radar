@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BOM DESPACHO (Bom Despacho/MG)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em Assessoria e Consultoria Contábil para atendimento à Governança Pública Municipal nas áreas de Contabilidade, Finanças Públicas, Compras, Planejamento, Controladoria e Prestações de Contas, envolvendo serviços de Consultoria, Assessoria, Suporte Operacional e Gerencial no setor de Gerência de Contabilidade e na Controladoria Geral do Município, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.
+VALOR ESTIMADO: R$ 264.000,00
+PRAZO PARA PROPOSTAS: 2025-02-27T13:00:00
+LINK OFICIAL: app2.licitardigital.com.br/pesquisa/49210
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18301002000186/compras/2024/172/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18301002000186/compras/2024/172/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18301002000186/compras/2024/172/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18301002000186/compras/2024/172/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ASSESSORIA E CONSULTORIA CONTÁBIL | Qtd: 12.0 | R$ Unit: 20000.0
+  - Item 2: DIÁRIA DE ATENDIMENTO PRESENCIAL (VISITA TÉCNICA) | Qtd: 48.0 | R$ Unit: 500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "18301002000186",
+    "razaoSocial": "MUNICIPIO DE BOM DESPACHO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-08-01T12:15:17",
+  "dataInclusao": "2025-08-01T12:15:17",
+  "numeroControlePNCP": "18301002000186-1-000172/2024",
+  "anoCompra": 2024,
+  "srp": false,
+  "sequencialCompra": 172,
+  "emendaParlamentar": null,
+  "numeroCompra": "5",
+  "processo": "128/2024",
+  "dataEncerramentoProposta": "2025-02-27T13:00:00",
+  "objetoCompra": "Contratação de empresa especializada em Assessoria e Consultoria Contábil para atendimento à Governança Pública Municipal nas áreas de Contabilidade, Finanças Públicas, Compras, Planejamento, Controladoria e Prestações de Contas, envolvendo serviços de Consultoria, Assessoria, Suporte Operacional e Gerencial no setor de Gerência de Contabilidade e na Controladoria Geral do Município, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2024-12-05T16:13:40",
+  "dataPublicacaoPncp": "2025-08-01T12:15:17",
+  "dataAtualizacaoGlobal": "2025-08-01T12:15:23",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Bom Despacho",
+    "codigoUnidade": "586",
+    "nomeUnidade": "Unidade Única",
+    "codigoIbge": "3107406"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "app2.licitardigital.com.br/pesquisa/49210",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online",
+  "valorTotalEstimado": 264000.0
+}

@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DE ESTADO DE MEIO AMBIENTE E RECURSOS HDRICOS (Cariacica/ES)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de Fábrica de Software para desenvolvimento, manutenção e sustentação do sistema Portal Reflorestar.
+VALOR ESTIMADO: R$ 446.120,00
+PRAZO PARA PROPOSTAS: 2025-05-21T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=45940305900032025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31752645000104/compras/2025/23/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Desenvolvimento e/ou evolução de software - Python | Qtd: 380.0 | R$ Unit: 1174.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 243200.0,
+  "orgaoEntidade": {
+    "cnpj": "31752645000104",
+    "razaoSocial": "SECRETARIA DE ESTADO DE MEIO AMBIENTE E RECURSOS HDRICOS",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-05-06T07:39:00",
+  "dataAtualizacao": "2025-05-06T07:39:00",
+  "numeroControlePNCP": "31752645000104-1-000023/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 23,
+  "emendaParlamentar": null,
+  "numeroCompra": "90003",
+  "processo": "2024-7R0WN",
+  "objetoCompra": "Contratação de Fábrica de Software para desenvolvimento, manutenção e sustentação do sistema Portal Reflorestar.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=45940305900032025",
+  "dataAberturaProposta": "2025-05-07T08:00:00",
+  "dataEncerramentoProposta": "2025-05-21T10:00:00",
+  "dataPublicacaoPncp": "2025-05-06T07:39:00",
+  "dataAtualizacaoGlobal": "2025-12-05T16:05:53",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Cariacica",
+    "codigoIbge": "3201308",
+    "codigoUnidade": "459403",
+    "nomeUnidade": "EES-SECRETARIA DO MEIO AMBI. E REC. HÍDRICOS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=45940305900032025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 446120.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

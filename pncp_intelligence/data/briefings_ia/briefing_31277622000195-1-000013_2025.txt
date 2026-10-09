@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO PUBLICO DE MANEJO DOS RESIDUOS SOLIDOS DA REGIAO SERTAO DE CRATEUS (Santa Quitéria/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Serviços especializados na área de tecnologia da informação para fornecimento de serviços de solução tecnológica de acesso remoto para gestão de negócios na modalidade SAAS - software como serviço, solução integrada com módulos/ contábil, patrimonial, almoxarifado, orçamento, para atender as necessidades do Consórcio Público de Manejo Dos Resíduos Sólidos da Região Sertão de Crateús
+VALOR ESTIMADO: R$ 11.550,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/d916b238d39f42c8af8cd04712255f0b/servicos-especializados-na-area-de-tecnologia-da-i
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31277622000195/compras/2025/13/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31277622000195/compras/2025/13/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31277622000195/compras/2025/13/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31277622000195/compras/2025/13/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31277622000195/compras/2025/13/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços especializados na área de tecnologia da informação para fornecimento de serviços de solução tecnológica de aces | Qtd: 12.0 | R$ Unit: 962.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 10560.0,
+  "orgaoEntidade": {
+    "cnpj": "31277622000195",
+    "razaoSocial": "CONSORCIO PUBLICO DE MANEJO DOS RESIDUOS SOLIDOS DA REGIAO SERTAO DE CRATEUS",
+    "esferaId": "N",
+    "poderId": "E"
+  },
+  "dataInclusao": "2025-06-18T10:12:28",
+  "dataAtualizacao": "2025-06-18T10:12:28",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-06-18T10:12:28",
+  "dataAtualizacaoGlobal": "2025-06-23T10:12:18",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Santa Quitéria",
+    "codigoIbge": "2312205",
+    "codigoUnidade": "202501",
+    "nomeUnidade": "CONSÓRCIO PUB MANEJO DE RESÍDUOS SOLIDOS REG SER DE CRATEÚS - CORSEC"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/d916b238d39f42c8af8cd04712255f0b/servicos-especializados-na-area-de-tecnologia-da-i",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 13,
+  "emendaParlamentar": null,
+  "numeroCompra": "1206.01/2025/CORSEC",
+  "processo": "0000120250609000148",
+  "objetoCompra": "Serviços especializados na área de tecnologia da informação para fornecimento de serviços de solução tecnológica de acesso remoto para gestão de negócios na modalidade SAAS - software como serviço, solução integrada com módulos/ contábil, patrimonial, almoxarifado, orçamento, para atender as necessidades do Consórcio Público de Manejo Dos Resíduos Sólidos da Região Sertão de Crateús",
+  "informacaoComplementar": "",
+  "numeroControlePNCP": "31277622000195-1-000013/2025",
+  "valorTotalEstimado": 11550.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

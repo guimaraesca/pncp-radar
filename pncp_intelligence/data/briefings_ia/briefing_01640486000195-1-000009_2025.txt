@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE SAO GERALDO DO BAIXIO (São Geraldo do Baixio/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para a prestação de serviços de Migração, Implantação e capacitação de servidores para uso do software de gestão do site institucional, sistema de ouvidoria, diário legislativo, geração de todos atos do legislativo sem papel e integração com o sistema de processo legislativo municipal da câmara e disponibilização em tempo real dos dados no website, para atender as necessidades da Câmara Municipal de São Geraldo do Baixio – MG
+VALOR ESTIMADO: R$ 21.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: app2.licitardigital.com.br/pesquisa/57392
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01640486000195/compras/2025/9/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01640486000195/compras/2025/9/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa para
+a prestação de serviços de Migração, Implantação
+e capacitação de servidores para uso do sof | Qtd: 1.0 | R$ Unit: 21000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01640486000195",
+    "razaoSocial": "CAMARA MUNICIPAL DE SAO GERALDO DO BAIXIO",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-03-20T16:04:02",
+  "dataAtualizacao": "2025-03-20T16:04:02",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "São Geraldo do Baixio",
+    "codigoUnidade": "1161",
+    "nomeUnidade": "Unidade Única",
+    "codigoIbge": "3161650"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "app2.licitardigital.com.br/pesquisa/57392",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 9,
+  "emendaParlamentar": null,
+  "numeroCompra": "007",
+  "processo": "009/2025",
+  "objetoCompra": "Contratação de empresa para a prestação de serviços de Migração, Implantação e capacitação de servidores para uso do software de gestão do site institucional, sistema de ouvidoria, diário legislativo, geração de todos atos do legislativo sem papel e integração com o sistema de processo legislativo municipal da câmara e disponibilização em tempo real dos dados no website, para atender as necessidades da Câmara Municipal de São Geraldo do Baixio – MG",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-20T16:04:02",
+  "dataAtualizacaoGlobal": "2025-03-20T16:04:05",
+  "numeroControlePNCP": "01640486000195-1-000009/2025",
+  "valorTotalEstimado": 21000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+}

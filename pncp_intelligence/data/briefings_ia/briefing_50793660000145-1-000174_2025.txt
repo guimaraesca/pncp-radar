@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA DE VEREADORES DA ESTANCIA TURISTICA DE ITU (Itu/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: LICENÇA DE SOFTWARE PARA SISTEMA PONTO SECULLUM OFF LINE ATÉ 50 FUNCIONÁRIOS DE ACORDO COM A LGPD.
+VALOR ESTIMADO: R$ 3.685,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/50793660000145-1-000174/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas (Até 50 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | Itu/SP (45km)]
+DISTÂNCIA ESTIMADA DA BASE: 45 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/50793660000145/compras/2025/174/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVICO DE LICENCA DE SOFTWARE SERVICO DE LICENCA DE SOFTWARE | Qtd: 1.0 | R$ Unit: 3685.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 3685.0,
+  "orgaoEntidade": {
+    "cnpj": "50793660000145",
+    "razaoSocial": "CAMARA DE VEREADORES DA ESTANCIA TURISTICA DE ITU",
+    "esferaId": "M",
+    "poderId": "L"
+  },
+  "dataInclusao": "2025-08-12T09:24:00",
+  "dataAtualizacao": "2025-08-12T09:24:00",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CECAM - Consultoria Econômica, Contábil e Administrativa Municipal",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-12T09:24:00",
+  "dataAtualizacaoGlobal": "2025-08-12T09:24:02",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Itu",
+    "codigoIbge": "3523909",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Câmara de Vereadores da Estância Turística de Itu"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "RENOVAÇÃO DE LICENÇA DE SOFTWARE PARA SISTEMA PONTO ELETRÔNICO, NECESSÁRIO PARA QUE O SETOR DE RECURSOS HUMANOS CONTINUE UTILIZANDO PARA REALIZAR O CONTROLE DE PONTO DOS SERVIDORES.",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 174,
+  "emendaParlamentar": null,
+  "numeroCompra": "172",
+  "processo": "182/2025",
+  "objetoCompra": "LICENÇA DE SOFTWARE PARA SISTEMA PONTO SECULLUM OFF LINE ATÉ 50 FUNCIONÁRIOS DE ACORDO COM A LGPD.",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "50793660000145-1-000174/2025",
+  "valorTotalEstimado": 3685.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

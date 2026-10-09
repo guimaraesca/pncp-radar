@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CANTAGALO (Cantagalo/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em elaboração e aplicação de concurso público, para provimento de cargos do quadro efetivo e formação de cadastro de reserva de vagas para servidores da Prefeitura Municipal de Cantagalo-RJ.
+VALOR ESTIMADO: R$ 256,000.00
+PRAZO PARA PROPOSTAS: 2026-10-14T13:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98582105000092026
+SELO LOGÍSTICO: [FORA DAS BASES]
+BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

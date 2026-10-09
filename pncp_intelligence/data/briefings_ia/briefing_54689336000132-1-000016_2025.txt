@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE ITUPEVA (Itupeva/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de licenciamento de software antivírus corporativo com gerenciamento unificado para os computadores da Câmara Municipal de Itupeva.
+VALOR ESTIMADO: R$ 12.071,20
+PRAZO PARA PROPOSTAS: 2025-04-09T13:41:17
+LINK OFICIAL: https://pncp.gov.br/app/editais/54689336000132-1-000016/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/54689336000132/compras/2025/16/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE LICENÇA DE USO DE SOFTWARE DE ANTIVIRUS CORPORATIVO | Qtd: 80.0 | R$ Unit: 150.89
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 5400.0,
+  "orgaoEntidade": {
+    "cnpj": "54689336000132",
+    "razaoSocial": "CAMARA MUNICIPAL DE ITUPEVA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-04-09T13:41:22",
+  "dataInclusao": "2025-03-20T13:16:10",
+  "numeroControlePNCP": "54689336000132-1-000016/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 16,
+  "emendaParlamentar": null,
+  "numeroCompra": "10",
+  "processo": "13632/2025",
+  "dataEncerramentoProposta": "2025-04-09T13:41:17",
+  "objetoCompra": "Aquisição de licenciamento de software antivírus corporativo com gerenciamento unificado para os computadores da Câmara Municipal de Itupeva.",
+  "informacaoComplementar": "Ferramenta necessária para a segurança da informação, prevenindo a contaminação dos equipamentos informatizados por vírus, malwares e suas variantes, podendo colocar em risco o sigilo, integridade e disponibilidade dos dados desta Casa de Leis.",
+  "dataAberturaProposta": "2025-03-24T09:00:00",
+  "dataPublicacaoPncp": "2025-03-20T13:16:10",
+  "dataAtualizacaoGlobal": "2025-04-09T13:41:26",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Itupeva",
+    "codigoUnidade": "3",
+    "nomeUnidade": "Camara Municipal de Itupeva",
+    "codigoIbge": "3524006"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Ferramenta necessária para a segurança da informação, prevenindo a contaminação dos equipamentos informatizados por vírus, malwares e suas variantes, podendo colocar em risco o sigilo, integridade e disponibilidade dos dados desta Casa de Leis.",
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PRESCON INFORMATICA ASSESSORIA LTDA.",
+  "valorTotalEstimado": 12071.2
+}

@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RAPOSA - CAMARA MUNICIPAL (Raposa/MA)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: [LICITANET] - Contratação de empresa para prestação de serviços de Assessoria de Comunicação/Imprensa/Rede Social, planejamento estratégico das ações de comunicação social internas e externas, bem como Branding Fullservice com Consultoria de Criação, Planejamento, design e Organização de Serviços Digitais, a fim de atender as demandas da Câmara Municipal de Raposa/MA, visando atendimento aos veículos de imprensa, assim como planejamento, produção e publicação de conteúdo de natureza do Legislativo Municipal
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-07-17T09:00:00
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/WkphbWxaU2s=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01620674000151/compras/2025/9/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01620674000151/compras/2025/9/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 5833799: Serviços de Assessoria de Comunicação/Imprensa/Rede Social, planejamento estratégico das ações de comunicação social int | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 232258.2,
+  "orgaoEntidade": {
+    "cnpj": "01620674000151",
+    "razaoSocial": "MUNICIPIO DE RAPOSA - CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-22T10:23:07",
+  "dataAtualizacao": "2025-05-22T10:23:07",
+  "numeroControlePNCP": "01620674000151-1-000009/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 9,
+  "emendaParlamentar": null,
+  "numeroCompra": "01",
+  "processo": "041/2025",
+  "srp": false,
+  "objetoCompra": "[LICITANET] - Contratação de empresa para prestação de serviços de Assessoria de Comunicação/Imprensa/Rede Social, planejamento estratégico das ações de comunicação social internas e externas, bem como Branding Fullservice com Consultoria de Criação, Planejamento, design e Organização de Serviços Digitais, a fim de atender as demandas da Câmara Municipal de Raposa/MA, visando atendimento aos veículos de imprensa, assim como planejamento, produção e publicação de conteúdo de natureza do Legislativo Municipal",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-22T10:23:03",
+  "dataEncerramentoProposta": "2025-07-17T09:00:00",
+  "dataPublicacaoPncp": "2025-05-22T10:23:07",
+  "dataAtualizacaoGlobal": "2025-07-23T11:02:49",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "Raposa",
+    "codigoIbge": "2109452",
+    "codigoUnidade": "2428",
+    "nomeUnidade": "CÂMARA MUNICIPAL DE RAPOSA/ MA "
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/WkphbWxaU2s=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA"
+}

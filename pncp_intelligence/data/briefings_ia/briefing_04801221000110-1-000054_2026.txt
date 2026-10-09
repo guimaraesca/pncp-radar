@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL DE CONTAS DO ESTADO DE RONDONIA (Porto Velho/RO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para a renovação e upgrade de licenças de Softwares dos sistemas de Virtualização, Plataforma de produtividade e colaboração e gerenciamento e suporte a usuários e dispositivos, para atender às necessidades do Tribunal de Contas do Estado de Rondônia, conforme especificações constantes no Termo de Referência.
+VALOR ESTIMADO: R$ 10.482.388,25
+PRAZO PARA PROPOSTAS: 2026-10-14T09:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93500205000752026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04801221000110/compras/2026/54/arquivos/1
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "04801221000110",
+    "razaoSocial": "TRIBUNAL DE CONTAS DO ESTADO DE RONDONIA",
+    "poderId": "L",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-25T13:23:29",
+  "dataAtualizacao": "2026-09-25T13:23:29",
+  "unidadeOrgao": {
+    "ufNome": "Rondônia",
+    "ufSigla": "RO",
+    "municipioNome": "Porto Velho",
+    "codigoUnidade": "935002",
+    "nomeUnidade": "TRIBUNAL DE CONTAS DO ESTADO DE RONDONIA",
+    "codigoIbge": "1100205"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93500205000752026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 54,
+  "emendaParlamentar": null,
+  "numeroCompra": "75",
+  "processo": "000030/2026",
+  "objetoCompra": "Contratação de empresa para a renovação e upgrade de licenças de Softwares dos sistemas de Virtualização, Plataforma de produtividade e colaboração e gerenciamento e suporte a usuários e dispositivos, para atender às necessidades do Tribunal de Contas do Estado de Rondônia, conforme especificações constantes no Termo de Referência.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-29T08:00:00",
+  "dataEncerramentoProposta": "2026-10-14T09:30:00",
+  "dataPublicacaoPncp": "2026-09-25T13:23:29",
+  "dataAtualizacaoGlobal": "2026-09-25T13:27:56",
+  "numeroControlePNCP": "04801221000110-1-000054/2026",
+  "valorTotalEstimado": 10482388.25,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-25T13:23:30"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

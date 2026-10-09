@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTANA DE PARNAIBA (Santana de Parnaíba/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa especializada para fornecimento, em regime de LOCAÇÃO DE LICENÇAS DE USO, DE PLATAFORMA VIRTUAL DE APRENDIZAGEM DE MÚLTIPLOS IDIOMAS, disponibilizada em modelo de distribuição SaaS (Software como Serviço), composta por portal web e aplicativos móveis, com acesso gratuito para até 50.000 (cinquenta mil) usuários, em, no mínimo, 5 (cinco) idiomas  inglês, espanhol, francês, italiano e alemão  com recursos de personalização de aprendizagem suportados por inteligência artificial (IA), destinada a apoiar a continuidade e o aprimoramento da política pública Parnaíba Idiomas, pelo período de 12 (doze) meses, incluindo hospedagem, manutenção, suporte técnico e serviços correlatos, em atendimento a Secretaria Municipal da Casa Civil.
+VALOR ESTIMADO: R$ 850.000,00
+PRAZO PARA PROPOSTAS: 2026-10-13T09:30:00
+LINK OFICIAL: https://www.portaldecompraspublicas.com.br/processos/SP/Prefeitura-Municipal-de-Santana-de-Parnaiba-1139/PE-172-2026-2026-514224
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (Até 50 km)
+SELO LOGÍSTICO: [BASE: SÃO PAULO | Santana de Parnaíba/SP (35km)]
+DISTÂNCIA ESTIMADA DA BASE: 35 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46522983000127/compras/2026/355/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46522983000127/compras/2026/355/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46522983000127/compras/2026/355/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Locacao de plataforma integrada de ensino de idiomas, em modelo SaaS, com recursos de IA para personalizacao da aprendiz | Qtd: 1.0 | R$ Unit: 850000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "46522983000127",
+    "razaoSocial": "MUNICIPIO DE SANTANA DE PARNAIBA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-25T12:07:44",
+  "dataAtualizacao": "2026-09-25T12:08:16",
+  "numeroControlePNCP": "46522983000127-1-000355/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 355,
+  "emendaParlamentar": null,
+  "numeroCompra": "172",
+  "processo": "260703065383300/2026",
+  "srp": false,
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa especializada para fornecimento, em regime de LOCAÇÃO DE LICENÇAS DE USO, DE PLATAFORMA VIRTUAL DE APRENDIZAGEM DE MÚLTIPLOS IDIOMAS, disponibilizada em modelo de distribuição SaaS (Software como Serviço), composta por portal web e aplicativos móveis, com acesso gratuito para até 50.000 (cinquenta mil) usuários, em, no mínimo, 5 (cinco) idiomas  inglês, espanhol, francês, italiano e alemão  com recursos de personalização de aprendizagem suportados por inteligência artificial (IA), destinada a apoiar a continuidade e o aprimoramento da política pública Parnaíba Idiomas, pelo período de 12 (doze) meses, incluindo hospedagem, manutenção, suporte técnico e serviços correlatos, em atendimento a Secretaria Municipal da Casa Civil.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-25T18:00:00",
+  "dataEncerramentoProposta": "2026-10-13T09:30:00",
+  "dataPublicacaoPncp": "2026-09-25T12:07:44",
+  "dataAtualizacaoGlobal": "2026-09-25T12:08:16",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Santana de Parnaíba",
+    "codigoIbge": "3547304",
+    "codigoUnidade": "1735",
+    "nomeUnidade": "Secretaria Municipal de Compras e Licitações"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/SP/Prefeitura-Municipal-de-Santana-de-Parnaiba-1139/PE-172-2026-2026-514224",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 850000.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

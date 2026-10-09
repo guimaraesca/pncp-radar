@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE TURURU (Tururu/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE UMA EMPRESA ESPECIALIZADA EM TECNOLOGIA DA INFORMAÇÃO PARA PRESTAR SERVIÇOS À SECRETARIA MUNICIPAL DE EDUCAÇÃO DE TURURU-CE. O ESCOPO DOS SERVIÇOS INCLUI LOCAÇÃO, HOSPEDAGEM, PERSONALIZAÇÕES, SUPORTE TÉCNICO E TREINAMENTO NAS FUNCIONALIDADES DE UMA PLATAFORMA DE GESTÃO EDUCACIONAL E AVALIAÇÃO DIAGNÓSTICA E UMA PLATAFORMA DE FORMAÇÃO E ACOMPANHAMENTO DO QUADRO DE SERVIDORES DA REDE MUNICIPAL DE ENSINO DE TURURU-CE TOTALMENTE BASEADA NA WEB. ESTA PLATAFORMA, ACESSÍVEL VIA INTERNET, SERÁ COMPOSTA POR MÓDULOS INTEGRADOS QUE FACILITAM A ADMINISTRAÇÃO E A GESTÃO DO SETOR EDUCACIONAL.
+VALOR ESTIMADO: R$ 553.862,04
+PRAZO PARA PROPOSTAS: 2025-05-21T09:29:00
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/458a781a2a3148a7bcbb934eba97ac35/contratacao-de-uma-empresa-especializada-em-tecnol
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10517878000152/compras/2025/22/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10517878000152/compras/2025/22/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10517878000152/compras/2025/22/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Locação, hospedagem, customizações e suporte técnico de 3700 licenças em funcionalidades de uma plataforma de Gestão Edu | Qtd: 12.0 | R$ Unit: 28396.83
+  - Item 2: Treinamento e implantação da plataforma de Gestão Educacional e Avaliação Diagnóstica para as equipes da Rede Municipal  | Qtd: 60.0 | R$ Unit: 560.0
+  - Item 3: Locação, hospedagem, customizações, suporte técnico de 516 licenças e treinamento em funcionalidades de uma plataforma W | Qtd: 12.0 | R$ Unit: 14466.67
+  - Item 4: Treinamento e implantação da plataforma de Formação e Acompanhamento do quadro de servidores da Rede Municipal de Ensino | Qtd: 12.0 | R$ Unit: 491.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "10517878000152",
+    "razaoSocial": "MUNICIPIO DE TURURU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-05-05T09:21:36",
+  "dataInclusao": "2025-05-05T09:21:36",
+  "numeroControlePNCP": "10517878000152-1-000022/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 22,
+  "emendaParlamentar": null,
+  "numeroCompra": "07.0505.01/2025-PE",
+  "processo": "0000720250408000140",
+  "dataEncerramentoProposta": "2025-05-21T09:29:00",
+  "objetoCompra": "CONTRATAÇÃO DE UMA EMPRESA ESPECIALIZADA EM TECNOLOGIA DA INFORMAÇÃO PARA PRESTAR SERVIÇOS À SECRETARIA MUNICIPAL DE EDUCAÇÃO DE TURURU-CE. O ESCOPO DOS SERVIÇOS INCLUI LOCAÇÃO, HOSPEDAGEM, PERSONALIZAÇÕES, SUPORTE TÉCNICO E TREINAMENTO NAS FUNCIONALIDADES DE UMA PLATAFORMA DE GESTÃO EDUCACIONAL E AVALIAÇÃO DIAGNÓSTICA E UMA PLATAFORMA DE FORMAÇÃO E ACOMPANHAMENTO DO QUADRO DE SERVIDORES DA REDE MUNICIPAL DE ENSINO DE TURURU-CE TOTALMENTE BASEADA NA WEB. ESTA PLATAFORMA, ACESSÍVEL VIA INTERNET, SERÁ COMPOSTA POR MÓDULOS INTEGRADOS QUE FACILITAM A ADMINISTRAÇÃO E A GESTÃO DO SETOR EDUCACIONAL.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-05T00:00:00",
+  "dataPublicacaoPncp": "2025-05-05T09:21:36",
+  "dataAtualizacaoGlobal": "2025-05-05T09:21:39",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Tururu",
+    "codigoUnidade": "202504",
+    "nomeUnidade": "SECRETARIA DE EDUCAÇÃO",
+    "codigoIbge": "2313559"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/458a781a2a3148a7bcbb934eba97ac35/contratacao-de-uma-empresa-especializada-em-tecnol",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia",
+  "valorTotalEstimado": 553862.04
+}

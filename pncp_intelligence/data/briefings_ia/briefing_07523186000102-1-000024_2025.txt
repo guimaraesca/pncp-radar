@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE IBIAPINA (Ibiapina/CE)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADO EM ASSESSORIA E CONSULTORIA EM PLANEJAMENTO E GOVERNANÇA PÚBLICA, DESTINADA A SUPRIR AS DEMANDAS DAS DIVERSAS SECRETARIAS DO MUNICIPIO DE IBIAPINA/CE
+VALOR ESTIMADO: R$ 341.100,00
+PRAZO PARA PROPOSTAS: 2025-04-24T08:00:00
+LINK OFICIAL: https://licitamaisbrasil.com.br/detalhes-do-edital/1-jbeXOXObm__nfb
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07523186000102/compras/2025/24/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS TÉCNICOS ESPECIALIZADOS EM ASSESSORIA E CONSULTORIA PLANEJAMENTO E GOVERNANÇA PÚBLICA, DE INTERESSE DA SECRETAR | Qtd: 12.0 | R$ Unit: 3700.0
+  - Item 2: SERVIÇOS TÉCNICOS ESPECIALIZADOS EM ASSESSORIA E CONSULTORIA PLANEJAMENTO E GOVERNANÇA PÚBLICA, DE INTERESSE DA SECRETAR | Qtd: 12.0 | R$ Unit: 2175.0
+  - Item 3: SERVIÇOS TÉCNICOS ESPECIALIZADOS EM ASSESSORIA E CONSULTORIA PLANEJAMENTO E GOVERNANÇA PÚBLICA, DE INTERESSE DA SECRETAR | Qtd: 12.0 | R$ Unit: 5000.0
+  - Item 4: SERVIÇOS TÉCNICOS ESPECIALIZADOS EM ASSESSORIA E CONSULTORIA PLANEJAMENTO E GOVERNANÇA PÚBLICA, DE INTERESSE DA SECRETAR | Qtd: 12.0 | R$ Unit: 1900.0
+  - Item 5: SERVIÇOS TÉCNICOS ESPECIALIZADOS EM ASSESSORIA E CONSULTORIA PLANEJAMENTO E GOVERNANÇA PÚBLICA, DE INTERESSE DA SECRETAR | Qtd: 12.0 | R$ Unit: 5625.0
+  - Item 6: SERVIÇOS TÉCNICOS ESPECIALIZADOS EM ASSESSORIA E CONSULTORIA PLANEJAMENTO E GOVERNANÇA PÚBLICA, DE INTERESSE DA SECRETAR | Qtd: 12.0 | R$ Unit: 5500.0
+  - Item 7: SERVIÇOS TÉCNICOS ESPECIALIZADOS EM ASSESSORIA E CONSULTORIA PLANEJAMENTO E GOVERNANÇA PÚBLICA, DE INTERESSE DO GABINETE | Qtd: 12.0 | R$ Unit: 4525.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07523186000102",
+    "razaoSocial": "MUNICIPIO DE IBIAPINA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 272197.8,
+  "dataInclusao": "2025-04-07T22:07:52",
+  "dataAtualizacao": "2025-04-07T22:07:52",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 24,
+  "emendaParlamentar": null,
+  "numeroCompra": " 001/2025 - PMI",
+  "processo": "2025.01.31.0001",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADO EM ASSESSORIA E CONSULTORIA EM PLANEJAMENTO E GOVERNANÇA PÚBLICA, DESTINADA A SUPRIR AS DEMANDAS DAS DIVERSAS SECRETARIAS DO MUNICIPIO DE IBIAPINA/CE",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-04-07T23:00:00",
+  "dataEncerramentoProposta": "2025-04-24T08:00:00",
+  "dataPublicacaoPncp": "2025-04-07T22:07:52",
+  "dataAtualizacaoGlobal": "2025-05-13T08:50:20",
+  "numeroControlePNCP": "07523186000102-1-000024/2025",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Ibiapina",
+    "codigoUnidade": "1",
+    "nomeUnidade": "MUNICIPIO DE IBIAPINA",
+    "codigoIbge": "2305308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://licitamaisbrasil.com.br/detalhes-do-edital/1-jbeXOXObm__nfb",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 341100.0,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licita + Brasil"
+}

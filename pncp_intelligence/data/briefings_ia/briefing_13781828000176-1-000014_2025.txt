@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE IBITIARA (Ibitiara/BA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [LICITANET] - O objeto da presente Dispensa Eletrônica, é a contratação de serviços especializados de formação continuada para profissionais da educação da Rede Municipal de Ensino, abrangendo professores, coordenadores pedagógicos e equipes técnicas, com foco no fortalecimento do processo de ensino e aprendizagem no Ensino Fundamental, à luz dos resultados obtidos em avaliações externas e das demandas pedagógicas identificadas pela Secretaria Municipal de Educação, conforme condições, quantidades e exigências estabelecidas no Aviso de Contratação Direta e seus anexos.
+VALOR ESTIMADO: R$ 61.027,92
+PRAZO PARA PROPOSTAS: 2025-09-05T09:00:00
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/WkplbW01Q20=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13781828000176/compras/2025/14/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13781828000176/compras/2025/14/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 6250345: FORMAÇÃO DOS ANOS INICIAIS, com oficinas de Língua Portuguesa, cada oficina terá o período de 16h cada.  | Qtd: 4.0 | R$ Unit: 3062.5
+  - Item 6250346: FORMAÇÃO DOS ANOS INICIAIS, com oficinas de Matemática, cada oficina terá o período de 16h cada. | Qtd: 4.0 | R$ Unit: 2800.0
+  - Item 6250347: OFICINA PARA EQUIPE PEDAGÓGICA ANOS INICIAIS, com tema, diretrizes para implementação do programa de formação e plano de | Qtd: 3.0 | R$ Unit: 2400.0
+  - Item 6250348: FORMAÇÃO DOS ANOS FINAIS, com oficinas de Língua Portuguesa, cada oficina terá o período de 16h cada. | Qtd: 4.0 | R$ Unit: 2853.5
+  - Item 6250362: FORMAÇÃO DOS ANOS FINAIS, com oficinas de Matemática, cada oficina terá o período de 16h cada. | Qtd: 4.0 | R$ Unit: 2940.98
+  - Item 6250364: OFICINA PARA EQUIPE PEDAGÓGICA ANOS FINAIS, com tema, diretrizes para implementação do programa de formação e plano de c | Qtd: 3.0 | R$ Unit: 2400.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "13781828000176",
+    "razaoSocial": "MUNICIPIO DE IBITIARA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-04T10:41:30",
+  "dataAtualizacao": "2025-08-29T15:43:45",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 14,
+  "emendaParlamentar": null,
+  "numeroCompra": "007",
+  "processo": "183/2025",
+  "objetoCompra": "[LICITANET] - O objeto da presente Dispensa Eletrônica, é a contratação de serviços especializados de formação continuada para profissionais da educação da Rede Municipal de Ensino, abrangendo professores, coordenadores pedagógicos e equipes técnicas, com foco no fortalecimento do processo de ensino e aprendizagem no Ensino Fundamental, à luz dos resultados obtidos em avaliações externas e das demandas pedagógicas identificadas pela Secretaria Municipal de Educação, conforme condições, quantidades e exigências estabelecidas no Aviso de Contratação Direta e seus anexos.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-08-29T15:43:44",
+  "dataEncerramentoProposta": "2025-09-05T09:00:00",
+  "dataPublicacaoPncp": "2025-08-04T10:41:30",
+  "dataAtualizacaoGlobal": "2025-10-23T17:26:17",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Ibitiara",
+    "codigoUnidade": "2803",
+    "nomeUnidade": "MUNICIPIO DE IBITIARA - BA ",
+    "codigoIbge": "2913002"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "13781828000176-1-000014/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/WkplbW01Q20=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 61027.92,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA"
+}

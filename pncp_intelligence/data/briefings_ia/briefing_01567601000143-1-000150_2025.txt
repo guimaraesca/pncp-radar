@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: UNIVERSIDADE FEDERAL DE GOIAS (Goiânia/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO UFG/RTVE - serviços de gestão administrativa e financeira para o projeto: Inteligência Artificial: Formação, Pesquisa e Impacto na Sociedade Goiana e Brasileira. 
+
+VALOR ESTIMADO: R$ 3.625.306,90
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/01567601000143-1-000150/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: GOIÂNIA/GO]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01567601000143/compras/2025/150/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cooperação / Convênios / Contratos - Área Nacional e Internacional Cooperação / Convênios / Contratos - Área Nacional e  | Qtd: 1.0 | R$ Unit: 3625306.9
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 3625306.9,
+  "orgaoEntidade": {
+    "cnpj": "01567601000143",
+    "razaoSocial": "UNIVERSIDADE FEDERAL DE GOIAS",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2025-08-05T15:52:58",
+  "dataAtualizacao": "2025-08-05T15:52:58",
+  "numeroControlePNCP": "01567601000143-1-000150/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 150,
+  "emendaParlamentar": null,
+  "numeroCompra": "425",
+  "processo": "23070.039022/2025-06",
+  "srp": false,
+  "objetoCompra": "CONTRATAÇÃO UFG/RTVE - serviços de gestão administrativa e financeira para o projeto: Inteligência Artificial: Formação, Pesquisa e Impacto na Sociedade Goiana e Brasileira. \n",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T15:52:58",
+  "dataAtualizacaoGlobal": "2025-08-05T15:56:34",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Goiânia",
+    "codigoIbge": "5208707",
+    "codigoUnidade": "153052",
+    "nomeUnidade": "UNIVERSIDADE FEDERAL DE GOIAS-UF/GO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, XV",
+    "descricao": "Dispensa de Licitação: para contratação de instituição brasileira que tenha por finalidade estatutária apoiar, captar e executar atividades de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive para gerir administrativa e financeiramente essas atividades, ou para contratação de instituição dedicada à recuperação social da pessoa presa, desde que o contratado tenha inquestionável reputação ética e profissional e não tenha fins lucrativos",
+    "codigo": 45
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 3625306.9,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

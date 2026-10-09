@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GARIBALDI (Garibaldi/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: PASSAGENS PARA O PAIS
+VALOR ESTIMADO: R$ 4.948,48
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/88594999000195-1-001387/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88594999000195/compras/2025/1387/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88594999000195/compras/2025/1387/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PASSAGEM AÉREA | Qtd: 1.0 | R$ Unit: 4948.4799
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 4948.48,
+  "orgaoEntidade": {
+    "cnpj": "88594999000195",
+    "razaoSocial": "MUNICIPIO DE GARIBALDI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-12T09:08:55",
+  "dataAtualizacao": "2025-08-12T09:11:15",
+  "numeroControlePNCP": "88594999000195-1-001387/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 1387,
+  "emendaParlamentar": null,
+  "numeroCompra": "1158",
+  "processo": "2721/2025",
+  "srp": false,
+  "objetoCompra": "PASSAGENS PARA O PAIS",
+  "informacaoComplementar": "FAZ-SE NECESSÁRIA A AQUISIÇÃO DE PASSAGENS AÉREAS PARA VIABILIZAR O DESLOCAMENTO DO VICE-PREFEITO MUNICIPAL, SR. ADRIANO CARNIEL, ATÉ A CIDADE DE BRASÍLIA/DF, COM A FINALIDADE DE PROMOVER INSTITUCIONALMENTE A FESTA DO ESPUMANTE DE GARIBALDI E TRATAR DE PAUTAS ESTRATÉGICAS JUNTO A ÓRGÃOS FEDERAIS.\nA SOLICITAÇÃO DECORRE DA IMPORTÂNCIA DE GARANTIR A PRESENÇA DO REPRESENTANTE DO PODER EXECUTIVO MUNICIPAL E DE SUA ASSESSORIA DIRETA EM COMPROMISSOS DE INTERESSE PÚBLICO NA CAPITAL FEDERAL. TAIS AGENDAS INTEGRAM O PLANEJAMENTO ESTRATÉGICO DE DIVULGAÇÃO DE EVENTOS MUNICIPAIS E A ARTICULAÇÃO POLÍTICO-INSTITUCIONAL, CONSTITUINDO-SE EM AÇÕES ESSENCIAIS PARA AMPLIAR A VISIBILIDADE DO MUNICÍPIO E VIABILIZAR A CAPTAÇÃO DE APOIOS E PARCERIAS INSTITUCIONAIS.\nA CONTRATAÇÃO ENQUADRA-SE NO DISPOSTO NO ARTIGO 75, INCISO II, DA LEI FEDERAL Nº 14.133/2021, QUE AUTORIZA A CONTRATAÇÃO DIRETA POR DISPENSA DE LICITAÇÃO EM RAZÃO DO VALOR.",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-12T09:08:55",
+  "dataAtualizacaoGlobal": "2025-08-12T09:11:15",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Garibaldi",
+    "codigoIbge": "4308607",
+    "codigoUnidade": "79",
+    "nomeUnidade": "Município de Garibaldi"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 4948.48,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Tecnosweb - Tecnologia de Gestão"
+}

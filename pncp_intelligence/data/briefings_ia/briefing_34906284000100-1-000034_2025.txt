@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDACAO ESTATAL DE SAUDE DE NITEROI - FESAUDE (Niterói/RJ)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Serviço de link dedicado de dados, simétrico e redundante, com roteamento, segurança firewall e saída para internet, para a Sede da Fundação.
+VALOR ESTIMADO: R$ 42.840,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/34906284000100-1-000034/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/34906284000100/compras/2025/34/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Acesso a Internet Via Cabo Acesso a Internet Via Cabo | Qtd: 24.0 | R$ Unit: 1785.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 42840.0,
+  "orgaoEntidade": {
+    "cnpj": "34906284000100",
+    "razaoSocial": "FUNDACAO ESTATAL DE SAUDE DE NITEROI - FESAUDE",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-08T15:37:29",
+  "dataAtualizacao": "2025-08-08T15:37:29",
+  "numeroControlePNCP": "34906284000100-1-000034/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 34,
+  "emendaParlamentar": null,
+  "numeroCompra": "80",
+  "processo": "9900016277/2023",
+  "objetoCompra": "Serviço de link dedicado de dados, simétrico e redundante, com roteamento, segurança firewall e saída para internet, para a Sede da Fundação.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-08T15:37:29",
+  "dataAtualizacaoGlobal": "2025-08-08T15:44:07",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Niterói",
+    "codigoIbge": "3303302",
+    "codigoUnidade": "927827",
+    "nomeUnidade": "FUNDAÇAO ESTATAL DE SAÚDE DE NITERÓI - RJ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 42840.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

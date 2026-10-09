@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO ESTADO DO AMAZONAS (Manaus/AM)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: contratação de empresa especializada em solução de gerenciamento eletrônico de frequência (ponto eletrônico), na modalidade Software como Serviço (SaaS), com operação em ambiente web, incluindo licenças de uso do software RH ID, implantação assistida , suporte técnico, aquisição de equipamentos de registro de ponto com reconhecimento facial e biometria digital, além da hospedagem de dados em nuvem. 
+VALOR ESTIMADO: R$ 11.519,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/04322541000197-1-000032/2025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04322541000197/compras/2025/32/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador Licenciamento de direitos  p | Qtd: 1.0 | R$ Unit: 11519.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 11519.0,
+  "orgaoEntidade": {
+    "cnpj": "04322541000197",
+    "razaoSocial": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO ESTADO DO AMAZONAS",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2025-08-08T13:20:21",
+  "dataAtualizacao": "2025-08-08T13:20:21",
+  "numeroControlePNCP": "04322541000197-1-000032/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 32,
+  "emendaParlamentar": null,
+  "numeroCompra": "28",
+  "processo": "2711434/2025",
+  "srp": false,
+  "objetoCompra": "contratação de empresa especializada em solução de gerenciamento eletrônico de frequência (ponto eletrônico), na modalidade Software como Serviço (SaaS), com operação em ambiente web, incluindo licenças de uso do software RH ID, implantação assistida , suporte técnico, aquisição de equipamentos de registro de ponto com reconhecimento facial e biometria digital, além da hospedagem de dados em nuvem. ",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-08T13:20:21",
+  "dataAtualizacaoGlobal": "2025-08-08T13:40:59",
+  "unidadeOrgao": {
+    "ufNome": "Amazonas",
+    "ufSigla": "AM",
+    "municipioNome": "Manaus",
+    "codigoIbge": "1302603",
+    "codigoUnidade": "389428",
+    "nomeUnidade": "CONSELHO REG. DE ENGENHARIA E AGRONOMIA DO AM"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 11519.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

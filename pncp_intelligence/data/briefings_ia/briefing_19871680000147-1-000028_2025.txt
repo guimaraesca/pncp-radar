@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE IPATINGA (Ipatinga/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em sistema de registro de ponto eletrônico, contemplando locação de equipamentos para o registro do ponto de forma eletrônica, licenciamento de software para gestão do ponto, serviço de rotina de tratamento do ponto, incluindo instalação, implantação, migração dos dados, parametrização e treinamento, conforme especificações constantes no Termo de Referência.
+VALOR ESTIMADO: R$ 62.400,00
+PRAZO PARA PROPOSTAS: 2025-05-08T08:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92652205900032025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/19871680000147/compras/2025/28/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Manutenção de Relógios de Ponto | Qtd: 1.0 | R$ Unit: 62400.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "19871680000147",
+    "razaoSocial": "CAMARA MUNICIPAL DE IPATINGA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 28000.0,
+  "dataInclusao": "2025-04-22T07:19:10",
+  "dataAtualizacao": "2025-04-22T07:19:10",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Ipatinga",
+    "codigoUnidade": "926522",
+    "nomeUnidade": "CAMARA MUNICIPAL DE IPATINGA - MG",
+    "codigoIbge": "3131307"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92652205900032025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 28,
+  "emendaParlamentar": null,
+  "numeroCompra": "90003",
+  "processo": "21/2025",
+  "objetoCompra": "Contratação de empresa especializada em sistema de registro de ponto eletrônico, contemplando locação de equipamentos para o registro do ponto de forma eletrônica, licenciamento de software para gestão do ponto, serviço de rotina de tratamento do ponto, incluindo instalação, implantação, migração dos dados, parametrização e treinamento, conforme especificações constantes no Termo de Referência.",
+  "informacaoComplementar": "Em caso de divergência entre as descrições do item, serão consideradas as constantes no Termo de Referência - Anexo I do Edital disponível em:  https://www.camaraipatinga.mg.gov.br/uploads/files/contaspublicas/f3d250b23f35389e6b095c8abe7f85d7.pdf Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=92652205900032025",
+  "dataAberturaProposta": "2025-04-22T08:00:00",
+  "dataEncerramentoProposta": "2025-05-08T08:00:00",
+  "dataPublicacaoPncp": "2025-04-22T07:19:10",
+  "dataAtualizacaoGlobal": "2025-05-26T14:13:04",
+  "numeroControlePNCP": "19871680000147-1-000028/2025",
+  "valorTotalEstimado": 62400.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

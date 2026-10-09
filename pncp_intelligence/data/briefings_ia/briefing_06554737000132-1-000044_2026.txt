@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE VALENCA DO PIAUI (Valença do Piauí/PI)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa especializada para a prestação de serviços de formação continuada em Educação Especial e Inclusão Escolar, na modalidade predominantemente a distância (EAD), destinada aos profissionais da educação do Município de Valença do Piauí-PI, visando atender as necessidades do referido município.
+VALOR ESTIMADO: R$ 2.104.996,55
+PRAZO PARA PROPOSTAS: 2026-10-09T07:00:00
+LINK OFICIAL: https://www.portaldecompraspublicas.com.br/processos/PI/Prefeitura-Municipal-de-Valenca-do-Piaui-2228/PE-026-2026-2026-514091
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06554737000132/compras/2026/44/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06554737000132/compras/2026/44/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Formação continuada em Educação Especial e Inclusão Escolar, predominantemente a distância (EAD), carga horária mínima d | Qtd: 505.0 | R$ Unit: 4168.31
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "06554737000132",
+    "razaoSocial": "MUNICIPIO DE VALENCA DO PIAUI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-24T23:20:44",
+  "dataAtualizacao": "2026-09-24T23:21:46",
+  "unidadeOrgao": {
+    "ufNome": "Piauí",
+    "ufSigla": "PI",
+    "municipioNome": "Valença do Piauí",
+    "codigoUnidade": "3990",
+    "nomeUnidade": "Prefeitura Muncipal de Valença do Piauí",
+    "codigoIbge": "2211308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/PI/Prefeitura-Municipal-de-Valenca-do-Piaui-2228/PE-026-2026-2026-514091",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 44,
+  "emendaParlamentar": null,
+  "numeroCompra": "026",
+  "processo": "081/2026",
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa especializada para a prestação de serviços de formação continuada em Educação Especial e Inclusão Escolar, na modalidade predominantemente a distância (EAD), destinada aos profissionais da educação do Município de Valença do Piauí-PI, visando atender as necessidades do referido município.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-25T07:00:00",
+  "dataEncerramentoProposta": "2026-10-09T07:00:00",
+  "dataPublicacaoPncp": "2026-09-24T23:20:44",
+  "dataAtualizacaoGlobal": "2026-09-24T23:22:22",
+  "numeroControlePNCP": "06554737000132-1-000044/2026",
+  "valorTotalEstimado": 2104996.55,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO DE DESENVOLVIMENTO DOS MUNICIPIOS MINEIROS - CODEMM (Carmópolis de Minas/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada no fornecimento de Plataforma de Segurança da Informação, com recursos de SD-WAN e ferramentas tecnológicas para mitigação de vulnerabilidades e prestação de Serviços destes dispositivos nas unidades públicas dos municípios integrantes.
+VALOR ESTIMADO: R$ 1,00
+PRAZO PARA PROPOSTAS: 2026-10-08T13:00:00
+LINK OFICIAL: https:licitar.digital
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/55071775000140/compras/2026/41/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PLATAFORMA DE SEGURANÇA DA INFORMAÇÃOPlataforma de Segurança da Informação, com recursos de SD-WAN e ferramentas tecnoló | Qtd: 1.0 | R$ Unit: 1.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "55071775000140",
+    "razaoSocial": "CONSORCIO DE DESENVOLVIMENTO DOS MUNICIPIOS MINEIROS - CODEMM",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-10T09:27:57",
+  "dataAtualizacao": "2026-09-10T09:27:57",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Carmópolis de Minas",
+    "codigoUnidade": "02001",
+    "nomeUnidade": "CODEMM - Consórcio de Desenvolvimento dos Municípios Mineiros",
+    "codigoIbge": "3114501"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https:licitar.digital",
+  "linkProcessoEletronico": "https:licitar.digital",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 41,
+  "emendaParlamentar": null,
+  "numeroCompra": "00003626",
+  "processo": "00003626",
+  "objetoCompra": "Contratação de empresa especializada no fornecimento de Plataforma de Segurança da Informação, com recursos de SD-WAN e ferramentas tecnológicas para mitigação de vulnerabilidades e prestação de Serviços destes dispositivos nas unidades públicas dos municípios integrantes.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-19T13:00:00",
+  "dataEncerramentoProposta": "2026-10-08T13:00:00",
+  "dataPublicacaoPncp": "2026-09-10T09:27:57",
+  "dataAtualizacaoGlobal": "2026-09-10T09:28:30",
+  "numeroControlePNCP": "55071775000140-1-000041/2026",
+  "valorTotalEstimado": 1.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "SH3 Informática Ltda."
+}

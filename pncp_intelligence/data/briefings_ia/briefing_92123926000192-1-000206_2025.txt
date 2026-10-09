@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ALTO FELIZ (Alto Feliz/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - CONTRATAÇÃO DE SOLUÇÃO DE INTELIGÊNCIA ARTIFICIAL (IA), INTEGRANDO O SISTEMA DE SAÚDE (E-SUS) COM O WHATSAPP
+VALOR ESTIMADO: R$ 66.406,67
+PRAZO PARA PROPOSTAS: 2025-06-12T09:29:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/RS/Municipio-de-Alto-Feliz-2011/PE-22-2025-2025-389685
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/92123926000192/compras/2025/206/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/92123926000192/compras/2025/206/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/92123926000192/compras/2025/206/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/92123926000192/compras/2025/206/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lote 1 - Implantação e Parametrização do Sistema de Inteligência Artificial - IA. (Setup) | Qtd: 1.0 | R$ Unit: 29986.67
+  - Item 2: Lote 1 - Mensalidade do Sistema de Inteligência Artificial - IA | Qtd: 12.0 | R$ Unit: 3035.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 18994.0,
+  "orgaoEntidade": {
+    "cnpj": "92123926000192",
+    "razaoSocial": "MUNICIPIO DE ALTO FELIZ",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-05-19T11:06:16",
+  "dataAtualizacao": "2025-05-22T11:27:44",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A",
+  "dataAberturaProposta": "2025-05-23T00:01:00",
+  "dataEncerramentoProposta": "2025-06-12T09:29:00",
+  "dataPublicacaoPncp": "2025-05-19T11:06:16",
+  "dataAtualizacaoGlobal": "2025-06-16T10:55:37",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Alto Feliz",
+    "codigoIbge": "4300570",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Município de Alto Feliz"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/RS/Municipio-de-Alto-Feliz-2011/PE-22-2025-2025-389685",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 206,
+  "emendaParlamentar": null,
+  "numeroCompra": "22",
+  "processo": "0220",
+  "objetoCompra": "[Portal de Compras Públicas] - CONTRATAÇÃO DE SOLUÇÃO DE INTELIGÊNCIA ARTIFICIAL (IA), INTEGRANDO O SISTEMA DE SAÚDE (E-SUS) COM O WHATSAPP",
+  "informacaoComplementar": "",
+  "numeroControlePNCP": "92123926000192-1-000206/2025",
+  "valorTotalEstimado": 66406.67,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

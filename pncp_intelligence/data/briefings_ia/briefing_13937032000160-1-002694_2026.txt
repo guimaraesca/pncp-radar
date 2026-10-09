@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DA BAHIA (Salvador/BA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de Preços, para contratação de empresa especializada na prestação de serviços de disponibilização de plataforma de atendimento multicanal, na modalidade CPaaS (Plataforma de Comunicação como Serviço) e SaaS (Software as a Service), contemplando recursos integrados de mensageria, atendimento por chat, voz e vídeo (WebRTC), com funcionalidade de gravação e armazenamento, validação de documentação e biometria e atendimento automatizado por chatbot com Inteligência Artificial Generativa, bem como a prestação dos serviços de implantação, integração e configuração da solução, treinamento, suporte técnico em regime 24 (vinte e quatro) horas por dia e 7 (sete) dias por semana e execução de serviços sob demanda para customização da plataforma.
+VALOR ESTIMADO: R$ 102,564,701.36
+PRAZO PARA PROPOSTAS: 2026-10-20T10:00:00
+LINK OFICIAL: https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1100082
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

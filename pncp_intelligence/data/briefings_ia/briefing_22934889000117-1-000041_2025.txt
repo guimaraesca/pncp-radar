@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE NOVA LIMA (Nova Lima/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratacao de empresa especializada para a prestacao de servicos continuos de computacao em nuvem (Device as a Service (DaaS) ao Municipio de Nova Lima, incluindo a implantacao, manutencao, gerenciamento e suporte tecnico das estacoes de trabalho virtuais, conforme as necessidades especificas das Secretarias Municipais de Educacao (SEMED) e Administracao (SEMAD).
+VALOR ESTIMADO: R$ 63.144.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: www.mgnl.abaco.com.br
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/22934889000117/compras/2025/41/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ESTACAO VIRTUAL EM NUVEM TIPO I | Qtd: 1.0 | R$ Unit: 16646400.0
+  - Item 2: ESTACAO VIRTUAL EM NUVEM TIPO 3 | Qtd: 1.0 | R$ Unit: 4881600.0
+  - Item 3: ESTACAO VIRTUAL EM NUVEM TIPO I | Qtd: 1.0 | R$ Unit: 41616000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "22934889000117",
+    "razaoSocial": "MUNICIPIO DE NOVA LIMA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-25T16:21:26",
+  "dataAtualizacao": "2025-03-25T16:21:26",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 41,
+  "emendaParlamentar": null,
+  "numeroCompra": "38",
+  "processo": "0056/2025",
+  "objetoCompra": "Contratacao de empresa especializada para a prestacao de servicos continuos de computacao em nuvem (Device as a Service (DaaS) ao Municipio de Nova Lima, incluindo a implantacao, manutencao, gerenciamento e suporte tecnico das estacoes de trabalho virtuais, conforme as necessidades especificas das Secretarias Municipais de Educacao (SEMED) e Administracao (SEMAD).",
+  "informacaoComplementar": "CONTRATACAO DE EMPRESA ESPECIALIZADA PARA A PRESTACAO DE SERVICOS CONTINUOS DE COMPUTACAO EM NUVEM (DEVICE AS A SERVICE (DAAS) AO MUNICIPIO DE NOVA LIMA, INCLUINDO A IMPLANTACAO, MANUTENCAO, GERENCIAMENTO E SUPORTE TECNICO DAS ESTACOES DE TRABALHO VIRTUAIS, CONFORME AS NECESSIDADES ESPECIFICAS DAS SECRETARIAS MUNICIPAIS DE EDUCACAO (SEMED) E ADMINISTRACAO (SEMAD).",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-25T16:21:26",
+  "dataAtualizacaoGlobal": "2025-03-25T16:21:28",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Nova Lima",
+    "codigoUnidade": "07",
+    "nomeUnidade": "Secretaria Municipal de Administracao",
+    "codigoIbge": "3144805"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, IX",
+    "descricao": "Dispensa de Licitação: para a aquisição, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade que integrem a Administração Pública e que tenham sido criados para esse fim específico, desde que o preço contratado seja compatível com o praticado no mercado",
+    "codigo": 39
+  },
+  "linkSistemaOrigem": "www.mgnl.abaco.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Contratacao de empresa especializada para a prestacao de servicos continuos de computacao em nuvem (Device as a Service (DaaS) ao Municipio de Nova Lima, incluindo a implantacao, manutencao, gerenciamento e suporte tecnico das estacoes de trabalho virtuais, conforme as necessidades especificas das Secretarias Municipais de Educacao (SEMED) e Administracao (SEMAD).\n",
+  "numeroControlePNCP": "22934889000117-1-000041/2025",
+  "valorTotalEstimado": 63144000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Municipio de Nova Lima"
+}

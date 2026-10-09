@@ -1,0 +1,83 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: PROCURADORIA GERAL DA JUSTICA (Recife/PE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para prestação de SERVIÇOS DE MANUTENÇÃO EM MICRO DATACENTER MODULAR, conforme especificações previstas no Termo de Referência (Anexo I)
+VALOR ESTIMADO: R$ 1.538.158,78
+PRAZO PARA PROPOSTAS: 2026-10-15T09:00:00
+LINK OFICIAL: www.peintegrado.pe.gov.br/Portal/Pages/LicitacoesEmAndamento.aspx?ncdmodulo=18&sdsprocesso=0067.2026.DEMLPA.PE.0030.MPPE&nCdProcesso=31802&nCdSituacao=2
+BASE LOGÍSTICA COMPATÍVEL: Recife (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: RECIFE/PE]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24417065000103/compras/2026/59/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: (5146011) - SERVICO DE SUPORTE - EM DATA CENTER DO TIPO CONTAINER, COM MANUTENCAO PREVENTIVA E CORRETIVA,INCLUINDO O FOR | Qtd: 120.0 | R$ Unit: 11729.77
+  - Item 2: (6234119) - SERVICO DE SUPORTE - DO TIPO TROCA DE GAS DE EXTINCAO DE INCENDIO,EM MICRO DATA CENTER MODULAR | Qtd: 10.0 | R$ Unit: 13058.64
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "24417065000103",
+    "razaoSocial": "PROCURADORIA GERAL DA JUSTICA",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "dataInclusao": "2026-08-24T07:43:11",
+  "dataAtualizacao": "2026-09-23T10:50:52",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria de Administração do Estado de Pernambuco",
+  "dataAberturaProposta": "2026-08-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-15T09:00:00",
+  "dataPublicacaoPncp": "2026-08-24T07:43:11",
+  "dataAtualizacaoGlobal": "2026-09-23T10:51:31",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Recife",
+    "codigoIbge": "2611606",
+    "codigoUnidade": "10640",
+    "nomeUnidade": "DEPTO MIN DE INFRAESTRUTURA DE TIC"
+  },
+  "orgaoSubRogado": {
+    "cnpj": "24417065000103",
+    "razaoSocial": "PROCURADORIA GERAL DA JUSTICA",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "unidadeSubRogada": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Recife",
+    "codigoIbge": "2611606",
+    "codigoUnidade": "10640",
+    "nomeUnidade": "DEPTO MIN DE INFRAESTRUTURA DE TIC"
+  },
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "www.peintegrado.pe.gov.br/Portal/Pages/LicitacoesEmAndamento.aspx?ncdmodulo=18&sdsprocesso=0067.2026.DEMLPA.PE.0030.MPPE&nCdProcesso=31802&nCdSituacao=2",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 59,
+  "emendaParlamentar": null,
+  "numeroCompra": "67",
+  "processo": "0067.2026.DEMLPA.PE.0030.MPPE",
+  "objetoCompra": "Contratação de empresa especializada para prestação de SERVIÇOS DE MANUTENÇÃO EM MICRO DATACENTER MODULAR, conforme especificações previstas no Termo de Referência (Anexo I)",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "24417065000103-1-000059/2026",
+  "valorTotalEstimado": 1538158.78,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

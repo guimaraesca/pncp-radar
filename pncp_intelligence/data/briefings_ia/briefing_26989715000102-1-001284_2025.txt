@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO PUBLICO DA UNIAO (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: O objeto da presente licitação é a contratação de empresa especializada no fornecimento de solução de firewall do tipo NGFW (next-generation firewall), incluindo: aquisição de appliances licenciados, implantação, treinamento, suporte e garantia, para a Escola Superior do Ministério Público da União – ESMPU, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.    
+VALOR ESTIMADO: R$ 773.600,00
+PRAZO PARA PROPOSTAS: 2025-07-16T14:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=20023405900082025
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/26989715000102/compras/2025/1284/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 2.0 | R$ Unit: 386800.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "26989715000102",
+    "razaoSocial": "MINISTERIO PUBLICO DA UNIAO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 200000.0,
+  "dataInclusao": "2025-07-03T07:46:27",
+  "dataAtualizacao": "2025-07-03T07:46:27",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoUnidade": "200234",
+    "nomeUnidade": "ESCOLA SUPERIOR DO MINIST. PUBLICO DA UNIAO",
+    "codigoIbge": "5300108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=20023405900082025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 1284,
+  "emendaParlamentar": null,
+  "numeroCompra": "90008",
+  "processo": "2524/2024-68",
+  "objetoCompra": "O objeto da presente licitação é a contratação de empresa especializada no fornecimento de solução de firewall do tipo NGFW (next-generation firewall), incluindo: aquisição de appliances licenciados, implantação, treinamento, suporte e garantia, para a Escola Superior do Ministério Público da União – ESMPU, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.    ",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=20023405900082025",
+  "dataAberturaProposta": "2025-07-03T08:00:00",
+  "dataEncerramentoProposta": "2025-07-16T14:00:00",
+  "dataPublicacaoPncp": "2025-07-03T07:46:27",
+  "dataAtualizacaoGlobal": "2025-08-12T17:14:51",
+  "numeroControlePNCP": "26989715000102-1-001284/2025",
+  "valorTotalEstimado": 773600.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

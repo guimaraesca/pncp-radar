@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO DE PREVIDENCIA E ASSISTENCIA MUNICIPAL (Caxias do Sul/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços de informática, fornecimento de licença de uso SaaS, instalação, migração de dados, treinamento, suporte técnico, gerenciamento e manutenção de banco de dados e aplicação, backups e customização do sistema integrado de gestão de plano de saúde, conforme legislação vigente, prestação dos serviços de hospedagem do sistema em nuvem, com garantia de acesso aos usuários autorizados e manutenções, e central de regulação remota especializada na prestação de BPO
+VALOR ESTIMADO: R$ 0.00
+PRAZO PARA PROPOSTAS: 2026-10-09T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92903505000032026
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

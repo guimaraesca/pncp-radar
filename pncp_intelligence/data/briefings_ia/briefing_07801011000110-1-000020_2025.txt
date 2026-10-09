@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE NUTRICIONISTAS DA OITAVA REGIAO (Curitiba/PR)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de serviço de armazenamento em nuvem, na modalidade Software como Serviço (SaaS), por meio da subscrição de licenças de uso, com acesso por interface web e/ou aplicativo
+VALOR ESTIMADO: R$ 1.275,36
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/07801011000110-1-000020/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Curitiba/PR (130km)]
+DISTÂNCIA ESTIMADA DA BASE: 130 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07801011000110/compras/2025/20/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços Especializados  de Disponibilização de Cópias de Segurança de Dados (Backup como serviço) Serviços Especializad | Qtd: 24.0 | R$ Unit: 53.14
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07801011000110",
+    "razaoSocial": "CONSELHO REGIONAL DE NUTRICIONISTAS DA OITAVA REGIAO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 880.08,
+  "dataInclusao": "2025-08-04T08:57:05",
+  "dataAtualizacao": "2025-08-04T08:57:05",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 20,
+  "emendaParlamentar": null,
+  "numeroCompra": "21",
+  "processo": "080815.000009/2025-31",
+  "objetoCompra": "Contratação de serviço de armazenamento em nuvem, na modalidade Software como Serviço (SaaS), por meio da subscrição de licenças de uso, com acesso por interface web e/ou aplicativo",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-04T08:57:05",
+  "dataAtualizacaoGlobal": "2025-08-04T09:00:11",
+  "numeroControlePNCP": "07801011000110-1-000020/2025",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Curitiba",
+    "codigoUnidade": "926091",
+    "nomeUnidade": "CONSELHO REGIONAL DE NUTRICIONISTAS-8ª - PR",
+    "codigoIbge": "4106902"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "valorTotalEstimado": 1275.36,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

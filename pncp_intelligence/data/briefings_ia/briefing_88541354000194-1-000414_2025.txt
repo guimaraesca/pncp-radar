@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PALMEIRA DAS MISSOES (Palmeira das Missões/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Destina-se a contratação do SESC para formação com Palestra sobre diversidade e pluralidade no mundo contemporâneo, para formação continuada de professores da Rede Municipal de Palmeira das Missões, que acontecerá no dia 22 de julho de 2025, no Centro Cultural no período da manhã.
+VALOR ESTIMADO: R$ 10.560,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/88541354000194-1-000414/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88541354000194/compras/2025/414/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PALESTRA SOBRE DIVERSIDADE E PLURALIDADE NO MUNDO CONTEMPORÂNEO, PARA FORMAÇÃO DE PROFESSORES DA REDE MUNICIPAL DE PALME | Qtd: 1.0 | R$ Unit: 10560.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "88541354000194",
+    "razaoSocial": "MUNICIPIO DE PALMEIRA DAS MISSOES",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-18T09:04:34",
+  "dataAtualizacao": "2025-07-18T09:04:34",
+  "numeroControlePNCP": "88541354000194-1-000414/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 414,
+  "emendaParlamentar": null,
+  "numeroCompra": "PRD 483",
+  "processo": "6034/2025",
+  "srp": false,
+  "objetoCompra": "Destina-se a contratação do SESC para formação com Palestra sobre diversidade e pluralidade no mundo contemporâneo, para formação continuada de professores da Rede Municipal de Palmeira das Missões, que acontecerá no dia 22 de julho de 2025, no Centro Cultural no período da manhã.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-18T09:04:34",
+  "dataAtualizacaoGlobal": "2025-07-18T09:04:40",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Palmeira das Missões",
+    "codigoIbge": "4313706",
+    "codigoUnidade": "09001",
+    "nomeUnidade": "UNIDADES SUBORDINADAS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, XV",
+    "descricao": "Dispensa de Licitação: para contratação de instituição brasileira que tenha por finalidade estatutária apoiar, captar e executar atividades de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive para gerir administrativa e financeiramente essas atividades, ou para contratação de instituição dedicada à recuperação social da pessoa presa, desde que o contratado tenha inquestionável reputação ética e profissional e não tenha fins lucrativos",
+    "codigo": 45
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 10560.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDO ESPECIAL DE APOIO E DESENVOLVIMENTO DO MINISTERIO PUBLICO (Campo Grande/MS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: O objeto desta licitação consiste no Registro de Preços para eventual contratação para o fornecimento de equipamentos e softwares para data center, composto por servidores, switches, fitas para backup, softwares de virtualização e de backup, com serviço de instalação, migração, capacitação, além de suporte técnico pelo período mínimo de 60 meses.
+VALOR ESTIMADO: R$ 24.620.977,11
+PRAZO PARA PROPOSTAS: 2025-04-25T14:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=93021605900142024
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03464870000100/compras/2024/140/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Servidor | Qtd: 16.0 | R$ Unit: 392092.83
+  - Item 2: Servidor | Qtd: 4.0 | R$ Unit: 503234.73
+  - Item 3: Servidor | Qtd: 4.0 | R$ Unit: 360917.88
+  - Item 4: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 24.0 | R$ Unit: 2733.01
+  - Item 5: Switch | Qtd: 2.0 | R$ Unit: 161691.13
+  - Item 6: Switch | Qtd: 8.0 | R$ Unit: 159414.14
+  - Item 7: Switch | Qtd: 4.0 | R$ Unit: 53080.32
+  - Item 8: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 14.0 | R$ Unit: 7069.75
+  - Item 9: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 1.0 | R$ Unit: 69423.39
+  - Item 10: Transceiver | Qtd: 90.0 | R$ Unit: 750.24
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "03464870000100",
+    "razaoSocial": "FUNDO ESPECIAL DE APOIO E DESENVOLVIMENTO DO MINISTERIO PUBLICO",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 15225869.84,
+  "dataInclusao": "2025-04-08T07:31:15",
+  "dataAtualizacao": "2025-04-08T07:31:15",
+  "anoCompra": 2024,
+  "srp": true,
+  "sequencialCompra": 140,
+  "emendaParlamentar": null,
+  "numeroCompra": "90014",
+  "processo": "09.2023.000089717",
+  "objetoCompra": "O objeto desta licitação consiste no Registro de Preços para eventual contratação para o fornecimento de equipamentos e softwares para data center, composto por servidores, switches, fitas para backup, softwares de virtualização e de backup, com serviço de instalação, migração, capacitação, além de suporte técnico pelo período mínimo de 60 meses.",
+  "informacaoComplementar": "Em caso de eventual discordância/inconsistência/divergências existentes entre as especificações do objeto descritas no portal https://www.gov.br/compras e as especificações constantes deste Edital, prevalecerão as deste instrumento convocatório e seus anexos; Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=93021605900142024",
+  "dataAberturaProposta": "2025-04-08T13:00:00",
+  "dataEncerramentoProposta": "2025-04-25T14:00:00",
+  "dataPublicacaoPncp": "2025-04-08T07:31:15",
+  "dataAtualizacaoGlobal": "2025-05-16T15:36:34",
+  "numeroControlePNCP": "03464870000100-1-000140/2024",
+  "unidadeOrgao": {
+    "ufNome": "Mato Grosso do Sul",
+    "ufSigla": "MS",
+    "municipioNome": "Campo Grande",
+    "codigoUnidade": "930216",
+    "nomeUnidade": "FUNDO ESPECIAL APOIO E DESENV.MINIST.PÚBLICO",
+    "codigoIbge": "5002704"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=93021605900142024",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 24620977.11,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

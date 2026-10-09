@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTO ANDRE (Santo André/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de serviços técnicos especializados para a estruturação de projeto de concessão para implantação, operação e manutenção do serviço público de Habitação para Locação Social no Município de Santo André. Este serviço engloba o assessoramento técnico e a consultoria técnica especializada necessária para a elaboração de estudos de viabilidade (técnicos, jurídicos, econômico-financeiros, urbanísticos, socioambientais) e o desenvolvimento dos documentos essenciais para a realização do processo licitatório da concessão.
+VALOR ESTIMADO: R$ 7.719.452,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/46522942000130-1-000255/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (Até 50 km)
+SELO LOGÍSTICO: [BASE: SÃO PAULO | Santo André/SP (18km)]
+DISTÂNCIA ESTIMADA DA BASE: 18 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46522942000130/compras/2025/255/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46522942000130/compras/2025/255/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46522942000130/compras/2025/255/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46522942000130/compras/2025/255/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE PESSOA JURÍDICA | Qtd: 1.0 | R$ Unit: 7719452.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 7719452.0,
+  "orgaoEntidade": {
+    "cnpj": "46522942000130",
+    "razaoSocial": "MUNICIPIO DE SANTO ANDRE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-08T13:20:22",
+  "dataAtualizacao": "2025-08-08T14:42:32",
+  "numeroControlePNCP": "46522942000130-1-000255/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 255,
+  "emendaParlamentar": null,
+  "numeroCompra": "17",
+  "processo": "3032/2024",
+  "srp": false,
+  "objetoCompra": "Contratação de serviços técnicos especializados para a estruturação de projeto de concessão para implantação, operação e manutenção do serviço público de Habitação para Locação Social no Município de Santo André. Este serviço engloba o assessoramento técnico e a consultoria técnica especializada necessária para a elaboração de estudos de viabilidade (técnicos, jurídicos, econômico-financeiros, urbanísticos, socioambientais) e o desenvolvimento dos documentos essenciais para a realização do processo licitatório da concessão.",
+  "informacaoComplementar": "Não há no mercado outra entidade que possa fornecer os serviços de estruturação de projetos de PPP sob o mesmo mecanismo de financiamento e gestão do FEP. Essa peculiaridade afasta a possibilidade de competição, configurando uma situação de dispensa de licitação conforme o Art. 5º da Lei Federal nº 13.529/2017 e o Art. 75, inciso IX, da Lei Federal nº 14.133/2024, que permite a contratação direta de pessoa jurídica de direito público interno (como a CAIXA) para a prestação de serviços técnicos especializados. A escolha, portanto, não é discricionária, mas sim uma decorrência da previsão legal e do modelo de fomento à estruturação de PPPs.\r\nA proposta de estruturação do projeto já foi validada pela Secretaria Especial do Programa de Parcerias de Investimentos da Casa Civil da Presidência da República (SEPPI/CC/PR) e, em âmbito municipal, aprovada pelo Conselho Gestor do Programa Municipal de Parcerias Público-Privadas (CGPP) de Santo André, conforme a ata de reunião de 20 de março de 2025. A formalização da autorização final da autoridade competente da Secretaria de Desenvolvimento Urbano e Habitação será o ato que concluirá as providências prévias essenciais para a efetivação desta contratação por dispensa\r\n",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-08T13:20:22",
+  "dataAtualizacaoGlobal": "2025-08-08T14:43:05",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Santo André",
+    "codigoIbge": "3547809",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SANTO ANDRÉ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, IX",
+    "descricao": "Dispensa de Licitação: para a aquisição, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade que integrem a Administração Pública e que tenham sido criados para esse fim específico, desde que o preço contratado seja compatível com o praticado no mercado",
+    "codigo": 39
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Não há no mercado outra entidade que possa fornecer os serviços de estruturação de projetos de PPP sob o mesmo mecanismo de financiamento e gestão do FEP. Essa peculiaridade afasta a possibilidade de competição, configurando uma situação de dispensa de licitação conforme o Art. 5º da Lei Federal nº 13.529/2017 e o Art. 75, inciso IX, da Lei Federal nº 14.133/2024, que permite a contratação direta de pessoa jurídica de direito público interno (como a CAIXA) para a prestação de serviços técnicos especializados. A escolha, portanto, não é discricionária, mas sim uma decorrência da previsão legal e do modelo de fomento à estruturação de PPPs.\r\nA proposta de estruturação do projeto já foi validada pela Secretaria Especial do Programa de Parcerias de Investimentos da Casa Civil da Presidência da República (SEPPI/CC/PR) e, em âmbito municipal, aprovada pelo Conselho Gestor do Programa Municipal de Parcerias Público-Privadas (CGPP) de Santo André, conforme a ata de reunião de 20 de março de 2025. A formalização da autorização final da autoridade competente da Secretaria de Desenvolvimento Urbano e Habitação será o ato que concluirá as providências prévias essenciais para a efetivação desta contratação por dispensa\r\n",
+  "valorTotalEstimado": 7719452.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Obara Informática Ltda"
+}

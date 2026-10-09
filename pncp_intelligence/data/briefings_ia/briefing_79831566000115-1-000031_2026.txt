@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE MEDICINA DO EST DE SANTA CATARINA (Florianópolis/SC)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa operadora de plano de serviços de assistência odontológica para os colaboradores do CRM-SC e seus dependentes, assegurando aos regularmente cadastrados a assistência à saúde, de acordo com a Lei n. 9.656/98 e demais normas e regulamentações aplicáveis à espécie, observado o Rol de Procedimentos e Eventos em Saúde definidos pela Agência Nacional de Saúde Suplementar (ANS).
+VALOR ESTIMADO: R$ 126,470.40
+PRAZO PARA PROPOSTAS: 2026-10-15T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38918005000432026
+SELO LOGÍSTICO: [BASE: JOINVILLE | Florianópolis/SC (180km)]
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+DISTÂNCIA ESTIMADA: 180 km

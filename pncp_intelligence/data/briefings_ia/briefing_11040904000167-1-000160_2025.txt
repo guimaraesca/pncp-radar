@@ -1,0 +1,78 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE OURICURI (Ouricuri/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PREPARAR OS ESTUDANTES CONCLUINTES DO ENSINO MÉDIO QUE SEJAM BENEFICIARIOS DO PROGRAMA AUXÍLIO BRASIL E/OU ESTEJAM INSERIDOS NO CADASTRO ÚNICO, COM CURSINHO PREPARATÓRIO COM ÊNFASE EM REDAÇÃO E MATEMÁTICA, COMPLEMENTO DE DISCIPLINAS DA PROVA ENEM 2025 E SIMULADOS, EM PROJETO DA SECRETARIA DE DESENVOLVIMENTO SOCIAL DA PREFEITURA MUNICIPAL DE OURICURI - PE.
+VALOR ESTIMADO: R$ 49.950,47
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://www.portaldeouricuri.com.br
+BASE LOGÍSTICA COMPATÍVEL: Recife (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PE]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11040904000167/compras/2025/160/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: AULOES PRESENCIAIS DE REDAÇÃO E MATEMATICA (16H/A), COM DOIS PROFESSORES P/200 ALUNOS | Qtd: 3.0 | R$ Unit: 3689.44
+  - Item 2: SIMULADO DE REDAÇÃO PARA APLICAÇÃO NAS ESCOLAS, NAS AULAS DE PORTUGUES COM 200 UNIDADES DE SIMULADO POR APLICAÇAO | Qtd: 2.0 | R$ Unit: 16.5
+  - Item 3: OFICINAS DE READÇÃO COM ATENDIMENTO INDIVIDUAL COM MONITORES, APOS CORREÇAO DA REDAÇÃO COM 200 ALUNOS C/ ATENDIMENTO POR | Qtd: 2.0 | R$ Unit: 2018.61
+  - Item 4: redação CORRIGIDA COM COMENTARIO 200 P/ALUNOS COM REDAÇÃO | Qtd: 1.0 | R$ Unit: 1612.1
+  - Item 5: SIMULADOS DE REDAÇÃO EM PLATAFORMA DIGITAL COM 200 ALUNOS POR SIMULADO E POR APLICAÇAO | Qtd: 2.0 | R$ Unit: 1603.33
+  - Item 6: SIMULADOS ENEM EM PLATAFORMA DIGITAL C/ CORREÇÃO POR TRI, PARA 200 ALUNOS CADASTRADOS NA PLATAFORMA DIGITAL | Qtd: 1.0 | R$ Unit: 4211.67
+  - Item 7: simulados enem impresso com acompahamento do resultado em plataforma digital com correção por tri, para 200 alunos Cadas | Qtd: 1.0 | R$ Unit: 4715.0
+  - Item 8: simulados enem impresso com acompahamento do resultado em plataforma digital, com correção por tri, para 200 alunos cada | Qtd: 200.0 | R$ Unit: 63.94
+  - Item 9: AULAS DE PLANEJAMENTO DAS AÇOES DO CURSO COM O COORDENADOR/PROFESSOR | Qtd: 150.0 | R$ Unit: 55.19
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "11040904000167",
+    "razaoSocial": "MUNICIPIO DE OURICURI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-05T14:54:57",
+  "dataAtualizacao": "2025-08-05T14:54:57",
+  "numeroControlePNCP": "11040904000167-1-000160/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 160,
+  "emendaParlamentar": null,
+  "numeroCompra": "071",
+  "processo": "164/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PREPARAR OS ESTUDANTES CONCLUINTES DO ENSINO MÉDIO QUE SEJAM BENEFICIARIOS DO PROGRAMA AUXÍLIO BRASIL E/OU ESTEJAM INSERIDOS NO CADASTRO ÚNICO, COM CURSINHO PREPARATÓRIO COM ÊNFASE EM REDAÇÃO E MATEMÁTICA, COMPLEMENTO DE DISCIPLINAS DA PROVA ENEM 2025 E SIMULADOS, EM PROJETO DA SECRETARIA DE DESENVOLVIMENTO SOCIAL DA PREFEITURA MUNICIPAL DE OURICURI - PE.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T14:54:57",
+  "dataAtualizacaoGlobal": "2025-08-05T14:55:07",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Ouricuri",
+    "codigoIbge": "2609907",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE OURICURI"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://www.portaldeouricuri.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 49950.47,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BR Conectado"
+}

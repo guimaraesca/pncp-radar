@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SARZEDO (Sarzedo/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de curso de capacitação presencial com o tema "Gestão do eSocial na Administração Pública", voltada ao aperfeiçoamento dos conhecimentos técnicos do Secretário Municipal de Administração e da Coordenadora do Departamento Pessoal.
+VALOR ESTIMADO: R$ 5.200,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/01612509000158-1-000153/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612509000158/compras/2025/153/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612509000158/compras/2025/153/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Curso Capacitação "Gestão do eSocial na Administração Pública" | Qtd: 2.0 | R$ Unit: 2600.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "01612509000158",
+    "razaoSocial": "MUNICIPIO DE SARZEDO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-07-04T10:00:37",
+  "dataInclusao": "2025-07-04T10:00:37",
+  "numeroControlePNCP": "01612509000158-1-000153/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 153,
+  "emendaParlamentar": null,
+  "numeroCompra": "7853",
+  "processo": "7853",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "Contratação de curso de capacitação presencial com o tema \"Gestão do eSocial na Administração Pública\", voltada ao aperfeiçoamento dos conhecimentos técnicos do Secretário Municipal de Administração e da Coordenadora do Departamento Pessoal.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-07-04T10:00:37",
+  "dataAtualizacaoGlobal": "2025-07-04T10:00:43",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Sarzedo",
+    "codigoUnidade": "033",
+    "nomeUnidade": "Secretaria Municipal de Cultura, Lazer e Eventos",
+    "codigoIbge": "3165537"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas",
+  "valorTotalEstimado": 5200.0
+}

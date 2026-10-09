@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CENTRO UNIVERSITARIO MUNICIPAL DE FRANCA (Franca/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: AQUISIÇÃO DE PLACAS EM OS ADESIVADO PARA IDENTIFICAÇÃO DE LABORATÓRIOS DE COMPUTAÇÃO
+VALOR ESTIMADO: R$ 150,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/47987136000109-1-000241/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/47987136000109/compras/2025/241/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PLACA EM PS ADESIVADO 30CM X 12CM | Qtd: 6.0 | R$ Unit: 25.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "47987136000109",
+    "razaoSocial": "CENTRO UNIVERSITARIO MUNICIPAL DE FRANCA",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-08-12T06:46:33",
+  "dataInclusao": "2025-08-12T06:46:33",
+  "numeroControlePNCP": "47987136000109-1-000241/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 241,
+  "emendaParlamentar": null,
+  "numeroCompra": "00231",
+  "processo": "00322/2025",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "AQUISIÇÃO DE PLACAS EM OS ADESIVADO PARA IDENTIFICAÇÃO DE LABORATÓRIOS DE COMPUTAÇÃO",
+  "informacaoComplementar": "IDENTIFICAÇÃO DOS PROGRAMAS ACADÊMICOS ORACLE E AWS",
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-08-12T06:46:33",
+  "dataAtualizacaoGlobal": "2025-08-12T06:46:34",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Franca",
+    "codigoUnidade": "030100",
+    "nomeUnidade": "CENTRO UNIVERSITARIO DE FRANCA",
+    "codigoIbge": "3516200"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "EDDYDATA SERVICOS DE INFORMATICA LTDA",
+  "valorTotalEstimado": 150.0
+}

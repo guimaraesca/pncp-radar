@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE AMERICANA (Americana/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE SUPORTE TÉCNICO AVANÇADO, ACOMPANHAMENTO ESTRATÉGICO, SEGURANÇA CIBERNÉTICA, REDES E CONECTIVIDADE E LICENCIAMENTO FORTICARE PREMIUM PARA EQUIPAMENTOS FORTINET OBS: PODE HAVER DIVERGÊNCIA ENTRE O VALOR DO EDITAL DIVULGADO EM VIRTUDE DE ARREDONDAMENTO DE CASAS DECIMAIS
+VALOR ESTIMADO: R$ 440.473,27
+PRAZO PARA PROPOSTAS: 2026-10-08T07:30:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/45781176000166-1-000835/2026
+BASE LOGÍSTICA COMPATÍVEL: Campinas (Até 50 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | Americana/SP (35km)]
+DISTÂNCIA ESTIMADA DA BASE: 35 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45781176000166/compras/2026/835/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45781176000166/compras/2026/835/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45781176000166/compras/2026/835/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LICENÇA DE USO FORTICARE PREMIUM FORTIGATE-60F UNIFIED (UTM) PROTECTION | Qtd: 1.0 | R$ Unit: 17880.22
+  - Item 2: LICENÇA DE USO FORTICARE PREMIUM FORTIGATE-201E UNIFIED (UTM) PROTECTION | Qtd: 1.0 | R$ Unit: 56863.29
+  - Item 3: SUPORTE TECNICO PREMIER PARA FIREWALL FORTINET FORTIGATE 60F E 12 APS | Qtd: 24.0 | R$ Unit: 7040.64
+  - Item 4: SUPORTE TECNICO PREMIER PARA FIREWALL FORTINET FORTIGATE 201E | Qtd: 24.0 | R$ Unit: 8198.1
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "45781176000166",
+    "razaoSocial": "MUNICIPIO DE AMERICANA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-23T14:18:36",
+  "dataAtualizacao": "2026-09-23T14:18:36",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 835,
+  "emendaParlamentar": null,
+  "numeroCompra": "084",
+  "processo": "5153/2026",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE SUPORTE TÉCNICO AVANÇADO, ACOMPANHAMENTO ESTRATÉGICO, SEGURANÇA CIBERNÉTICA, REDES E CONECTIVIDADE E LICENCIAMENTO FORTICARE PREMIUM PARA EQUIPAMENTOS FORTINET OBS: PODE HAVER DIVERGÊNCIA ENTRE O VALOR DO EDITAL DIVULGADO EM VIRTUDE DE ARREDONDAMENTO DE CASAS DECIMAIS",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-23T14:00:00",
+  "dataEncerramentoProposta": "2026-10-08T07:30:00",
+  "dataPublicacaoPncp": "2026-09-23T14:18:36",
+  "dataAtualizacaoGlobal": "2026-09-23T14:18:38",
+  "numeroControlePNCP": "45781176000166-1-000835/2026",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Americana",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE AMERICANA",
+    "codigoIbge": "3501608"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 440473.27,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "SMARAPD INFORMATICA LTDA"
+}

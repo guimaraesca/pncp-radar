@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO JOAO DO CARU (São João do Carú/MA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada na prestação de serviços de consultoria técnica de engenharia civil para atender as necessidades da Prefeitura Municipal de São João do Carú/MA
+VALOR ESTIMADO: R$ 388.000,08
+PRAZO PARA PROPOSTAS: 2025-05-19T15:00:00
+LINK OFICIAL: http://www.licitasaojoaodocaru.com.br
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612344000114/compras/2025/22/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Prestação de serviços de consultoria técnica de engenharia civil para atender as necessidades da Prefeitura Municipal de | Qtd: 12.0 | R$ Unit: 10666.67
+  - Item 2: Prestação de serviços de consultoria técnica de engenharia civil para atender as necessidades da Prefeitura Municipal de | Qtd: 12.0 | R$ Unit: 10666.67
+  - Item 3: Prestação de serviços de consultoria técnica de engenharia civil para atender as necessidades da Prefeitura Municipal de | Qtd: 12.0 | R$ Unit: 11000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01612344000114",
+    "razaoSocial": "MUNICIPIO DE SAO JOAO DO CARU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-05-06T16:14:56",
+  "dataAtualizacao": "2025-05-06T16:14:56",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "São João do Carú",
+    "codigoUnidade": "1413",
+    "nomeUnidade": "Secretaria Municipal de Infraestrutura, Serviços Urbanos, Obras e Transportes",
+    "codigoIbge": "2111029"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "http://www.licitasaojoaodocaru.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 22,
+  "emendaParlamentar": null,
+  "numeroCompra": "23",
+  "processo": "0104005/2025",
+  "objetoCompra": "Contratação de empresa especializada na prestação de serviços de consultoria técnica de engenharia civil para atender as necessidades da Prefeitura Municipal de São João do Carú/MA",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-06T16:14:56",
+  "dataEncerramentoProposta": "2025-05-19T15:00:00",
+  "dataPublicacaoPncp": "2025-05-06T16:14:56",
+  "dataAtualizacaoGlobal": "2025-05-06T16:14:58",
+  "numeroControlePNCP": "01612344000114-1-000022/2025",
+  "valorTotalEstimado": 388000.08,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BR Conectado"
+}

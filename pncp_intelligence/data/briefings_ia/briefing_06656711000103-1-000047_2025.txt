@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DE ESTADO DE CIENCIA, TECNOLOGIA, INOVACAO E EDUCACAO PROFISSIONAL (Vitória/ES)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Trata-se visando à contratação do Serviço Nacional de Aprendizagem Comercial  SENAC por  dispensa de licitação, no município de Serra, para execução de 41 (quarenta e um) vagas no total,  sendo que 25 (vinte cinco) vagas será para o curso técnico em Enfermagem e 16 (dezesseis) vagas 
+ para curso técnico em Gastronomia, para atender o Programa BOLSA TÉCNICA, instituído no âmbito  da Secretaria de Ciência, Tecnologia, Inovação e Educação Profissional ¿ SECTI, por meio da Portaria  nº 64-R, de 02 de setembro de 2021.
+VALOR ESTIMADO: R$ 387.939,08
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/06656711000103-1-000047/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06656711000103/compras/2025/47/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: TÉCNICO EM ENFERMAGEM | Qtd: 25.0 | R$ Unit: 9813.0
+  - Item 2: TÉCNICO EM GASTRONOMIA | Qtd: 16.0 | R$ Unit: 8913.38
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "06656711000103",
+    "razaoSocial": "SECRETARIA DE ESTADO DE CIENCIA, TECNOLOGIA, INOVACAO E EDUCACAO PROFISSIONAL",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 387939.08,
+  "dataInclusao": "2025-08-07T14:02:36",
+  "dataAtualizacao": "2025-08-07T14:02:36",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 47,
+  "emendaParlamentar": null,
+  "numeroCompra": "2025-91GFM",
+  "processo": "2025-91GFM",
+  "objetoCompra": "Trata-se visando à contratação do Serviço Nacional de Aprendizagem Comercial  SENAC por  dispensa de licitação, no município de Serra, para execução de 41 (quarenta e um) vagas no total,  sendo que 25 (vinte cinco) vagas será para o curso técnico em Enfermagem e 16 (dezesseis) vagas \n para curso técnico em Gastronomia, para atender o Programa BOLSA TÉCNICA, instituído no âmbito  da Secretaria de Ciência, Tecnologia, Inovação e Educação Profissional ¿ SECTI, por meio da Portaria  nº 64-R, de 02 de setembro de 2021.",
+  "informacaoComplementar": "O Programa Bolsa Técnica se verifica a necessidade de continuidade dessa política pública mediante a nova \noferta de vagas no ano de 2025, conforme acertadamente consta no planejamento estratégico do governo para \na SECTI. Os cursos ofertados são, especialmente, ligados aos eixos de Ambiente e Saúde e Gastronomia, \nA região da Serra se destaca pelos serviços de saúde, e outro fator se dá em razão ao investimento na área da \nsaúde, observa-se um crescimento populacional significativo, o que demanda um aumento na oferta de serviços \nde saúde, o que justifica ainda mais a oferta do curso de Enfermagem. Diante dessa necessidade, formar \nprofissionais qualificados para atender à crescente demanda e contribuir para a melhoria da qualidade de vida \nda população e do sistema público de saúde nessa região.\nA oferta do curso de Gastronomia por esta instituição se justifica por ser a única habilitada no município a \noferecer essa formação com a qualidade e estrutura exigidas. A instituição detém a infraestrutura adequada, \ncorpo docente qualificado e reconhecida competência técnico-pedagógica, não havendo, portanto, possibilidade \nde competição com outras instituições na localidade. \nO SENAC é amplamente reconhecido por sua excelência educacional. Suas unidades investem em infraestrutura \nmoderna e tecnologia de ponta, enquanto seus instrutores são altamente qualificados e mantêm-se atualizados \nem suas respectivas áreas Além disso, a instituição possui declaração de dispensa de licitação, fundamentada na inexigibilidade de \ncompetição, conforme prevê a legislação vigente (Lei nº 14.133/2021 ¿ nova Lei de Licitações e Contratos)\nPor ser uma entidade do Sistema S, não são obrigadas a seguir integralmente a Lei nº 14.133/2021 (nova Lei \nde Licitações), pois não fazem parte da Administração Pública direta ou indireta, apesar de utilizarem recursos \npúblicos para desempenhar suas funções.\nA contratação da instituição contribuirá para o fortalecimento das políticas públicas de saúde e para a qualificação \nde mão de obra local, garantindo mais oportunidades de inserção no mercado de trabalho.",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T14:02:36",
+  "dataAtualizacaoGlobal": "2025-08-07T14:03:15",
+  "numeroControlePNCP": "06656711000103-1-000047/2025",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Vitória",
+    "codigoUnidade": "341",
+    "nomeUnidade": "SECRETARIA DA CIÊNCIA, TECNOLOGIA, INOVAÇÃO, EDUCAÇÃO PROFISSIONAL",
+    "codigoIbge": "3205309"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, XV",
+    "descricao": "Dispensa de Licitação: para contratação de instituição brasileira que tenha por finalidade estatutária apoiar, captar e executar atividades de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive para gerir administrativa e financeiramente essas atividades, ou para contratação de instituição dedicada à recuperação social da pessoa presa, desde que o contratado tenha inquestionável reputação ética e profissional e não tenha fins lucrativos",
+    "codigo": 45
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "valorTotalEstimado": 387939.08,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "AZ INFORMATICA LTDA"
+}

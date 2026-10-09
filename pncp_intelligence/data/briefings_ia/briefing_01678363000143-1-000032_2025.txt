@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANISIO TEIXEIRA (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada no fornecimento de subscrição de licenças de softwares e soluções daplataforma Microsoft Enrollment for Education Solutions (Microsoft EES), na modalidade SaaS (software como serviço), com direito a manutenção, atualização e suporte técnico, incluindo consultoria técnica especializada, pelo período de vigência de 36 (trinta e seis) meses.
+VALOR ESTIMADO: R$ 7.879.526,52
+PRAZO PARA PROPOSTAS: 2025-08-01T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=15397805900212025
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01678363000143/compras/2025/32/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como Servico - Saas | Qtd: 1200.0 | R$ Unit: 2659.68
+  - Item 2: Software como Servico - Saas | Qtd: 14.0 | R$ Unit: 2180.52
+  - Item 3: Software como Servico - Saas | Qtd: 80.0 | R$ Unit: 1389.96
+  - Item 4: Software como Servico - Saas | Qtd: 4.0 | R$ Unit: 38886.0
+  - Item 5: Software como Servico - Saas | Qtd: 16.0 | R$ Unit: 852.0
+  - Item 6: Software como Servico - Saas | Qtd: 112.0 | R$ Unit: 496.08
+  - Item 7: Software como Servico - Saas | Qtd: 112.0 | R$ Unit: 545.04
+  - Item 8: Software como Servico - Saas | Qtd: 80.0 | R$ Unit: 291.0
+  - Item 9: Software como Servico - Saas | Qtd: 116.0 | R$ Unit: 1110.0
+  - Item 10: Software como Servico - Saas | Qtd: 300.0 | R$ Unit: 207.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 6408894.41,
+  "orgaoEntidade": {
+    "cnpj": "01678363000143",
+    "razaoSocial": "INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANISIO TEIXEIRA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2025-07-18T09:54:55",
+  "dataAtualizacao": "2025-07-18T09:54:55",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 32,
+  "emendaParlamentar": null,
+  "numeroCompra": "90021",
+  "processo": "23036.009218/2024",
+  "objetoCompra": "Contratação de empresa especializada no fornecimento de subscrição de licenças de softwares e soluções daplataforma Microsoft Enrollment for Education Solutions (Microsoft EES), na modalidade SaaS (software como serviço), com direito a manutenção, atualização e suporte técnico, incluindo consultoria técnica especializada, pelo período de vigência de 36 (trinta e seis) meses.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=15397805900212025",
+  "dataAberturaProposta": "2025-07-18T09:00:00",
+  "dataEncerramentoProposta": "2025-08-01T10:00:00",
+  "dataPublicacaoPncp": "2025-07-18T09:54:55",
+  "dataAtualizacaoGlobal": "2025-08-07T20:48:32",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoUnidade": "153978",
+    "nomeUnidade": "MEC/INEP/INST.NAC.DE EST.E PESQ.EDUCAC./DF",
+    "codigoIbge": "5300108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=15397805900212025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "01678363000143-1-000032/2025",
+  "valorTotalEstimado": 7879526.52,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

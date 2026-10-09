@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA (Recife/PE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de servidores, switch e storage para infraestrutura de rede.
+VALOR ESTIMADO: R$ 688,898.80
+PRAZO PARA PROPOSTAS: 2026-10-07T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38909705000012026
+SELO LOGÍSTICO: [BASE DIRETA: RECIFE/PE]
+BASE LOGÍSTICA COMPATÍVEL: Recife (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

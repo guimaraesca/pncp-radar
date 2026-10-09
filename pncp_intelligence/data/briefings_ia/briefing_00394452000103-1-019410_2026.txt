@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: COMANDO DO EXERCITO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de Medicamentos Oncológicos para o Hospital Militar de Área de São Paulo.
+VALOR ESTIMADO: R$ 70,060,141.30
+PRAZO PARA PROPOSTAS: 2026-10-09T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16049505001442026
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

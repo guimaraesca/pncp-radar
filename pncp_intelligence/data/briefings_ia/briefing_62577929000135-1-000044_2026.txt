@@ -1,0 +1,83 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: (UO) ESP-PRODESP-CIA.PROC DE DADOS EST. SP (Taboão da Serra/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de Cabos Ópticos e Service Cable, destinados à interligação entre switches SPINE e LEAF, no âmbito do projeto “Modernização dos Equipamentos de Rede do Backbone do Data Center da PRODESP, conforme especificações, técnicas, unidades e quantitativos constantes e estabelecidas neste Edital e do Termo de Referência que integra este edital como Anexo I, a saber:
+	22	peça	33902878	SERVICE CABLE 12F OM4 MPO12-UPC(F)/MPO12-UPC(F) 0.8D3/0.8D3 40.0M UT LSZH ACQUA TIPO B
+	28	peça	33902880	SERVICE CABLE 12F OM4 MPO12-UPC(F)/MPO12-UPC(F) 0.8D3/0.8D3 15.0M UTLSZH ACQUA TIPO B
+	28	peça	33950058	CORDÃO ÓPTICO CONECT 12F OM4 MPO12-UPC(F)/MPO12-UPC(F) 2.0M D3 MTF - LSZH ACQUA
+    1600	peça	35200919	CORDÃO ÓPTICO DUPLEX OM4 LC-UPC/LC-UPC 1.5M - LSZH ACQUA (A-B)
+
+
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-08T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=53320105000132026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (Até 50 km)
+SELO LOGÍSTICO: [BASE: SÃO PAULO | Taboão da Serra/SP (18km)]
+DISTÂNCIA ESTIMADA DA BASE: 18 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/62577929000135/compras/2026/44/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Conjunto Montado Cabo De Fibra Óptica cabeamento: atenuação máxima de 0.5 db/km em 1310nm, características adicionais: t | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "62577929000135",
+    "razaoSocial": "(UO) ESP-PRODESP-CIA.PROC DE DADOS EST. SP",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-22T14:58:47",
+  "dataAtualizacao": "2026-09-22T14:58:47",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Taboão da Serra",
+    "codigoUnidade": "533201",
+    "nomeUnidade": "ESP-CIA. PROCESSAMENTO DE DADOS ESTADO SP",
+    "codigoIbge": "3552809"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=53320105000132026",
+  "linkProcessoEletronico": "https://www.compras.gov.br",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 44,
+  "emendaParlamentar": null,
+  "numeroCompra": "13",
+  "processo": "359.00005369/2026-97",
+  "objetoCompra": "Aquisição de Cabos Ópticos e Service Cable, destinados à interligação entre switches SPINE e LEAF, no âmbito do projeto “Modernização dos Equipamentos de Rede do Backbone do Data Center da PRODESP, conforme especificações, técnicas, unidades e quantitativos constantes e estabelecidas neste Edital e do Termo de Referência que integra este edital como Anexo I, a saber:\n\t22\tpeça\t33902878\tSERVICE CABLE 12F OM4 MPO12-UPC(F)/MPO12-UPC(F) 0.8D3/0.8D3 40.0M UT LSZH ACQUA TIPO B\n\t28\tpeça\t33902880\tSERVICE CABLE 12F OM4 MPO12-UPC(F)/MPO12-UPC(F) 0.8D3/0.8D3 15.0M UTLSZH ACQUA TIPO B\n\t28\tpeça\t33950058\tCORDÃO ÓPTICO CONECT 12F OM4 MPO12-UPC(F)/MPO12-UPC(F) 2.0M D3 MTF - LSZH ACQUA\n    1600\tpeça\t35200919\tCORDÃO ÓPTICO DUPLEX OM4 LC-UPC/LC-UPC 1.5M - LSZH ACQUA (A-B)\n\n",
+  "informacaoComplementar": "Em caso de discordância entre as especificações do(s) código(s) do(s) item(ns) descrito(s) no portal de compras do Governo Federal e as especificações constantes deste Edital, prevalecerão sempre as do Edital.",
+  "dataAberturaProposta": "2026-09-23T08:00:00",
+  "dataEncerramentoProposta": "2026-10-08T09:00:00",
+  "dataPublicacaoPncp": "2026-09-22T14:58:47",
+  "dataAtualizacaoGlobal": "2026-09-22T14:59:48",
+  "numeroControlePNCP": "62577929000135-1-000044/2026",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-22T14:58:48"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

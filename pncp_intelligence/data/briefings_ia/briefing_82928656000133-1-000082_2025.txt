@@ -1,0 +1,78 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE TUBARAO (Tubarão/SC)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada na prestação de serviços em nuvem, incluindo apontamento de domínios e subdomínios, hospedagem de sites, gerenciamento de bases de dados MySQL/PostgreSQL, resolução de nomes de domínios (DNS), apontamentos de sites e serviços de e-mail corporativo, visando a manutenção e estabilidade dos serviços digitais da Administração Municipal de Tubarão.
+VALOR ESTIMADO: R$ 3.305,25
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/82928656000133-1-000082/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82928656000133/compras/2025/82/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82928656000133/compras/2025/82/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82928656000133/compras/2025/82/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82928656000133/compras/2025/82/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82928656000133/compras/2025/82/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82928656000133/compras/2025/82/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82928656000133/compras/2025/82/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82928656000133/compras/2025/82/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82928656000133/compras/2025/82/arquivos/9
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: 100 sites, domínios adicionais ilimitados, 100 bases de dados MySQL/PostgreSQL (1 por site) e 300 caixas postais (5GB/ca | Qtd: 1.0 | R$ Unit: 3305.25
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "82928656000133",
+    "razaoSocial": "MUNICIPIO DE TUBARAO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-03T17:49:49",
+  "dataAtualizacao": "2025-07-03T17:49:49",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 82,
+  "emendaParlamentar": null,
+  "numeroCompra": "DL 55",
+  "processo": "76/2025",
+  "objetoCompra": "Contratação de empresa especializada na prestação de serviços em nuvem, incluindo apontamento de domínios e subdomínios, hospedagem de sites, gerenciamento de bases de dados MySQL/PostgreSQL, resolução de nomes de domínios (DNS), apontamentos de sites e serviços de e-mail corporativo, visando a manutenção e estabilidade dos serviços digitais da Administração Municipal de Tubarão.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-03T17:49:49",
+  "dataAtualizacaoGlobal": "2025-07-03T17:49:56",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Tubarão",
+    "codigoUnidade": "01",
+    "nomeUnidade": "MUNICÍPIO DE TUBARÃO",
+    "codigoIbge": "4218707"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "82928656000133-1-000082/2025",
+  "valorTotalEstimado": 3305.25,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas"
+}

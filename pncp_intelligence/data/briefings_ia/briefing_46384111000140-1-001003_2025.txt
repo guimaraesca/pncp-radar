@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SAO PAULO SECRETARIA DA EDUCACAO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento, por meio da modalidade Software as a Service (SaaS), de solução tecnológica integrada composta por uma plataforma de leitura digital, com funcionalidades de avaliação qualitativa, teste de fluência leitora e indicadores precisos e auditáveis nos critérios de avaliação de  velocidade, acuidade e prosódia com resultados imediatos, para o uso de estudantes e professores, gestores e equipe técnica, do Ensino Fundamental. 
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-07-21T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=08035605900422025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46384111000140/compras/2025/1003/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como Servico - Saas | Qtd: 2441221.0 | R$ Unit: 38.85
+  - Item 2: Software como Servico - Saas | Qtd: 113471.0 | R$ Unit: 34.41
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "46384111000140",
+    "razaoSocial": "SAO PAULO SECRETARIA DA EDUCACAO",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-07-03T07:45:23",
+  "dataAtualizacao": "2025-07-23T08:35:51",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoUnidade": "080356",
+    "nomeUnidade": "ESP-COORDENADORIA PEDAGOGICA",
+    "codigoIbge": "3550308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=08035605900422025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 1003,
+  "emendaParlamentar": null,
+  "numeroCompra": "90042",
+  "processo": "01500443390202505",
+  "objetoCompra": "Contratação de empresa especializada para o fornecimento, por meio da modalidade Software as a Service (SaaS), de solução tecnológica integrada composta por uma plataforma de leitura digital, com funcionalidades de avaliação qualitativa, teste de fluência leitora e indicadores precisos e auditáveis nos critérios de avaliação de  velocidade, acuidade e prosódia com resultados imediatos, para o uso de estudantes e professores, gestores e equipe técnica, do Ensino Fundamental. ",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=08035605900422025",
+  "dataAberturaProposta": "2025-07-03T08:00:00",
+  "dataEncerramentoProposta": "2025-07-21T10:00:00",
+  "dataPublicacaoPncp": "2025-07-03T07:45:23",
+  "dataAtualizacaoGlobal": "2025-07-23T08:36:00",
+  "numeroControlePNCP": "46384111000140-1-001003/2025",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 3,
+  "situacaoCompraNome": "Anulada",
+  "usuarioNome": "Compras.gov.br"
+}

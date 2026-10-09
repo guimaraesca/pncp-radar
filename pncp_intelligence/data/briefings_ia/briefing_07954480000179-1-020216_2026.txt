@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO CEARA (Fortaleza/CE)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO:  Serviços compreendendo o provimento de recursos de inteligência artificial generativa e recursos de nuvem correlatos, dentro do ambiente de nuvem pública Google Cloud Platform (GCP), incluindo serviços técnicos avançados de gerenciamento, orquestração da nuvem, sustentação emergencial e administração dos projetos, conforme especificações e quantitativos previstos no Anexo I – Termo de Referência, nas condições estabelecidas neste edital e seus anexos.
+VALOR ESTIMADO: R$ 0.00
+PRAZO PARA PROPOSTAS: 2026-10-22T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=94300103001922026
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

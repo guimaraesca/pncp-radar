@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE OURO VERDE DO OESTE (Ouro Verde do Oeste/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para locação de sistema web integrado de gestão pública municipal, em nuvem, incluindo serviços complementares, implantação, manutenção (corretiva, adaptativa e evolutiva), suporte técnico e treinamento de servidores públicos municipais, armazenamento e segurança da informação, para atendimento das necessidades do município de Ouro Verde do Oeste.
+VALOR ESTIMADO: R$ 688,859.67
+PRAZO PARA PROPOSTAS: 2026-10-07T08:30:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: PR]
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

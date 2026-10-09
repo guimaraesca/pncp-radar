@@ -1,0 +1,82 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: UNIVERSIDADE ESTADUAL DE LONDRINA (Londrina/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de desktops, kit de desenvolvimento para inteligência artificial, kit módulo didático de telecomunicação e impressora (3D profissional e multifucional tanque de tinta).
+VALOR ESTIMADO: R$ 178.663,23
+PRAZO PARA PROPOSTAS: 2026-10-15T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92676905001282026
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/78640489000153/compras/2026/801/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Microcomputador memória ram: 32, núcleos por processador: 4 a 8, armazenamento hdd: sem disco hdd, armazenamento ssd: su | Qtd: 7.0 | R$ Unit: 9644.0
+  - Item 2: Microcomputador memória ram: 32, núcleos por processador: 4 a 8, armazenamento hdd: sem disco hdd, armazenamento ssd: su | Qtd: 2.0 | R$ Unit: 9644.0
+  - Item 3: Impressora 3d padrão: fff/fdm, tipo gabinete: aberto, conexão: usb, alimentação: bivolt, padrão filamentos: abs e pla, c | Qtd: 3.0 | R$ Unit: 7197.86
+  - Item 4: Impressora Multifuncional tipo impressão: jato tinta, resolução impressão: 4800 x 1200, tensão alimentação: 110/220, vel | Qtd: 1.0 | R$ Unit: 1599.0
+  - Item 5: Acessórios Para Estudo/Treinamento tipo: kit raspberry pi 5 modelo b, apresentação: raspberry pi 5, 8gb ,cartão de memór | Qtd: 6.0 | R$ Unit: 4776.67
+  - Item 6: Peça / Acessório - Fibra Óptica tipo: kit bandeja de emenda 12f, uso: fixação de splitters ópticos ou emendas mecânicas, | Qtd: 1.0 | R$ Unit: 40014.63
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "78640489000153",
+    "razaoSocial": "UNIVERSIDADE ESTADUAL DE LONDRINA",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "dataInclusao": "2026-09-23T15:47:22",
+  "dataAtualizacao": "2026-09-23T15:47:22",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T15:47:22"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2026-09-24T10:00:00",
+  "dataEncerramentoProposta": "2026-10-15T09:00:00",
+  "dataPublicacaoPncp": "2026-09-23T15:47:22",
+  "dataAtualizacaoGlobal": "2026-09-23T15:48:26",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Londrina",
+    "codigoIbge": "4113700",
+    "codigoUnidade": "926769",
+    "nomeUnidade": "EPR - UNIVERSIDADE ESTADUAL DE LONDRINA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92676905001282026",
+  "linkProcessoEletronico": "https://portal.uel.br//",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 801,
+  "emendaParlamentar": null,
+  "numeroCompra": "128",
+  "processo": "26.363.773-9",
+  "objetoCompra": "Aquisição de desktops, kit de desenvolvimento para inteligência artificial, kit módulo didático de telecomunicação e impressora (3D profissional e multifucional tanque de tinta).",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "78640489000153-1-000801/2026",
+  "valorTotalEstimado": 178663.23,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

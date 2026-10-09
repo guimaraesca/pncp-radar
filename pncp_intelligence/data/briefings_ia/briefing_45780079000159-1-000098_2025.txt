@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE JARINU (Jarinu/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A REALIZAÇÃO DO PROGRAMA DE FORMAÇÃO CONTINUADA DA REDE MUNICIPAL DE ENSINO DE JARINU, POR MEIO DE CURSOS, PALESTRAS, OFICINAS, ORIENTAÇÕES E ACOMPANHAMENTOS PEDAGÓGICOS, PRESENCIAL E ONLINE, COM SOLUÇÃO TECNOLÓGICA ATRAVÉS DE PLATAFORMA EDUCACIONAL LMS, VISANDO ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO, CONFORME QUANTIDADES, CARACTERÍSTICAS E CONDIÇÕES CONSTANTES NO ANEXO I DESTE EDITAL
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-06-23T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/45780079000159-1-000098/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45780079000159/compras/2025/98/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45780079000159/compras/2025/98/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa especializada para a implementação do Programa de Formação Continuada da rede municipal de ensino | Qtd: 392.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "45780079000159",
+    "razaoSocial": "MUNICIPIO DE JARINU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-05-19T08:19:20",
+  "dataInclusao": "2025-05-07T10:55:21",
+  "numeroControlePNCP": "45780079000159-1-000098/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 98,
+  "emendaParlamentar": null,
+  "numeroCompra": "037/2025",
+  "processo": "073/2025",
+  "dataEncerramentoProposta": "2025-06-23T09:00:00",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A REALIZAÇÃO DO PROGRAMA DE FORMAÇÃO CONTINUADA DA REDE MUNICIPAL DE ENSINO DE JARINU, POR MEIO DE CURSOS, PALESTRAS, OFICINAS, ORIENTAÇÕES E ACOMPANHAMENTOS PEDAGÓGICOS, PRESENCIAL E ONLINE, COM SOLUÇÃO TECNOLÓGICA ATRAVÉS DE PLATAFORMA EDUCACIONAL LMS, VISANDO ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO, CONFORME QUANTIDADES, CARACTERÍSTICAS E CONDIÇÕES CONSTANTES NO ANEXO I DESTE EDITAL",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-07T11:00:00",
+  "dataPublicacaoPncp": "2025-05-07T10:55:21",
+  "dataAtualizacaoGlobal": "2025-05-19T08:19:20",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Jarinu",
+    "codigoUnidade": "13416",
+    "nomeUnidade": "Prefeitura Municipal de Jarinu",
+    "codigoIbge": "3525201"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações",
+  "valorTotalEstimado": 0.0
+}

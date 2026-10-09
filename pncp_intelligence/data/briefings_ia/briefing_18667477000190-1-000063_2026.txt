@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CASA GRANDE (Casa Grande/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE FORMAÇÃO CONTINUADA E CAPACITAÇÃO DOS PROFISSIONAIS DA REDE MUNICIPAL DE EDUCAÇÃO DE CASA GRANDE/MG, MEDIANTE A REALIZAÇÃO DE CURSOS, PALESTRAS, OFICINAS E ATIVIDADES TEÓRICO-PRÁTICAS, CONTEMPLANDO TEMÁTICAS RELACIONADAS À LIDERANÇA, COMUNICAÇÃO E DESENVOLVIMENTO DE EQUIPES; PEDAGOGIA HUMANIZADA, DIVERSIDADE E PRÁTICAS PEDAGÓGICAS INCLUSIVAS; COMPORTAMENTO, NEURODIVERGÊNCIA E DESENVOLVIMENTO SOCIOEMOCIONAL; E PRIMEIROS SOCORROS NO AMBIENTE ESCOLAR.
+
+VALOR ESTIMADO: R$ 124.463,65
+PRAZO PARA PROPOSTAS: 2026-10-06T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/18667477000190-1-000063/2026
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18667477000190/compras/2026/63/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18667477000190/compras/2026/63/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18667477000190/compras/2026/63/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18667477000190/compras/2026/63/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18667477000190/compras/2026/63/arquivos/14
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18667477000190/compras/2026/63/arquivos/15
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: FORMAÇÃO CONTINUADA EM LIDERANÇAFormação continuada em Liderança, Comunicação e Desenvolvimento de Equipes, contemplando | Qtd: 1.0 | R$ Unit: 5572.5
+  - Item 2: FORMAÇÃO CONTINUADA EM PEDAGOGIA HUMANIZADAFormação continuada em Pedagogia Humanizada: Ensinar na Diversidade, contempl | Qtd: 1.0 | R$ Unit: 5645.32
+  - Item 3: FORMAÇÃO ESP COMPORTAMENTO E NEURODIVERGÊNCIAFormação especializada em Comportamento, Neurodivergência e Desenvolvimento | Qtd: 12.0 | R$ Unit: 9075.0
+  - Item 4: CAPAC TEÓRICA E PRÁTICA EM PRIMEIROS SOCORROSCapacitação teórica e prática em Primeiros Socorros no Ambiente Escolar, co | Qtd: 1.0 | R$ Unit: 4345.83
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "18667477000190",
+    "razaoSocial": "MUNICIPIO DE CASA GRANDE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-17T15:55:15",
+  "dataAtualizacao": "2026-09-17T15:55:15",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE FORMAÇÃO CONTINUADA E CAPACITAÇÃO DOS PROFISSIONAIS DA REDE MUNICIPAL DE EDUCAÇÃO DE CASA GRANDE/MG, MEDIANTE A REALIZAÇÃO DE CURSOS, PALESTRAS, OFICINAS E ATIVIDADES TEÓRICO-PRÁTICAS, CONTEMPLANDO TEMÁTICAS RELACIONADAS À LIDERANÇA, COMUNICAÇÃO E DESENVOLVIMENTO DE EQUIPES; PEDAGOGIA HUMANIZADA, DIVERSIDADE E PRÁTICAS PEDAGÓGICAS INCLUSIVAS; COMPORTAMENTO, NEURODIVERGÊNCIA E DESENVOLVIMENTO SOCIOEMOCIONAL; E PRIMEIROS SOCORROS NO AMBIENTE ESCOLAR.\r\n",
+  "dataAberturaProposta": "2026-09-21T08:00:00",
+  "dataEncerramentoProposta": "2026-10-06T08:00:00",
+  "dataPublicacaoPncp": "2026-09-17T15:55:15",
+  "dataAtualizacaoGlobal": "2026-09-28T11:32:59",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Casa Grande",
+    "codigoIbge": "3114907",
+    "codigoUnidade": "01001",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE CASA GRANDE"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "18667477000190-1-000063/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 63,
+  "emendaParlamentar": null,
+  "numeroCompra": "00006526",
+  "processo": "00006526",
+  "informacaoComplementar": "",
+  "valorTotalEstimado": 124463.65,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "SH3 Informática Ltda."
+}

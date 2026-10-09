@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO SUSTENTAVEL DA MICRORREGIAO DA SERRA GERAL DE MINAS - UNIAO DA SERRA GERAL (Janaúba/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Registro de preços para futura e eventual contratação de empresa de assessoria técnica especializada na execução e acompanhamento de prestação de contas dos programas educacionais federais para atender a demanda dos municípios consorciados ao União Da Serra Geral.
+VALOR ESTIMADO: R$ 66.929.100,00
+PRAZO PARA PROPOSTAS: 2025-04-29T08:29:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/MG/Consorcio-Intermunicipal-de-Desenvolvimento-Sustentavel-da-Microrregiao-da-Serra-Geral-de-Minas-3184/RPE-0008-2025-2025-378985
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12333051000114/compras/2025/10/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12333051000114/compras/2025/10/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lote 1 - Assessoria e Consultoria especializada, sobre Planejamento, Acompanhamento, Execucao e Prestacao de Contas de P | Qtd: 1120000.0 | R$ Unit: 4.66
+  - Item 2: Lote 1 - Assessoria e Consultoria especializada, sobre Planejamento, Acompanhamento, Execucao e Prestacao de Contas de P | Qtd: 1890000.0 | R$ Unit: 3.96
+  - Item 3: Lote 1 - Assessoria e Consultoria especializada, sobre Planejamento, Acompanhamento, Execucao e Prestacao de Contas de P | Qtd: 3350000.0 | R$ Unit: 4.73
+  - Item 4: Lote 1 - Assessoria e Consultoria especializada, sobre Planejamento, Acompanhamento, Execucao e Prestacao de Contas de P | Qtd: 5500000.0 | R$ Unit: 3.53
+  - Item 5: Lote 1 - Assessoria e Consultoria especializada, sobre Planejamento, Acompanhamento, Execucao e Prestacao de Contas de P | Qtd: 6900000.0 | R$ Unit: 2.33
+  - Item 6: Lote 1 - Formacao on-line com carga horaria minima de 02 horas sobre Execucao e Prestacao de Contas de Programas Educaci | Qtd: 1900.0 | R$ Unit: 510.0
+  - Item 7: Lote 1 - Formacao presencial com carga horaria minima de 02 horas sobre Execucao e Prestacao de Contas de Programas Educ | Qtd: 1900.0 | R$ Unit: 1010.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 24990000.0,
+  "orgaoEntidade": {
+    "cnpj": "12333051000114",
+    "razaoSocial": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO SUSTENTAVEL DA MICRORREGIAO DA SERRA GERAL DE MINAS - UNIAO DA SERRA GERAL",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "dataInclusao": "2025-04-06T23:41:03",
+  "dataAtualizacao": "2025-04-06T23:41:03",
+  "numeroControlePNCP": "12333051000114-1-000010/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 10,
+  "emendaParlamentar": null,
+  "numeroCompra": "0008",
+  "processo": "0008",
+  "srp": true,
+  "objetoCompra": "[Portal de Compras Públicas] - Registro de preços para futura e eventual contratação de empresa de assessoria técnica especializada na execução e acompanhamento de prestação de contas dos programas educacionais federais para atender a demanda dos municípios consorciados ao União Da Serra Geral.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-07T08:29:00",
+  "dataEncerramentoProposta": "2025-04-29T08:29:00",
+  "dataPublicacaoPncp": "2025-04-06T23:41:03",
+  "dataAtualizacaoGlobal": "2025-05-09T10:05:02",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Janaúba",
+    "codigoIbge": "3135100",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Consórcio Intermunicipal de Desenvolvimento Sustentável da Microrregião da Serra Geral de Minas"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/MG/Consorcio-Intermunicipal-de-Desenvolvimento-Sustentavel-da-Microrregiao-da-Serra-Geral-de-Minas-3184/RPE-0008-2025-2025-378985",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 66929100.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

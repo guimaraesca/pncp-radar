@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDO DE MANUTENCAO E DESENVOLVIMENTO DA EDUCACAO BASICA E DE VALORIZACAO DOS PROFISSIONAIS DA EDUCACAO- FUNDEB (Formoso/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: SOLICITAÇÃO PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA FORMAÇÃO CONTINUADA PARA PROFISSIONAIS DO MAGISTÉRIO PÚBLICO MUNICIPAL DA EDUCAÇÃO BÁSICA COM ABORDAGEM DOS SEGUITNES TEMAS: “AVALIAÇÕES EXTERNAS E ROTINAS DA CRECHE E PRÉ-ESCOLA, COM CARGA HORÁRIA DE 8 HORAS”.
+VALOR ESTIMADO: R$ 3.200,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/11835005000150-1-000004/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11835005000150/compras/2025/4/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Curso de formação continuada para profissionais do magistério público da educação básica, com abordagem do seguinte tema | Qtd: 1.0 | R$ Unit: 3200.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 3200.0,
+  "orgaoEntidade": {
+    "cnpj": "11835005000150",
+    "razaoSocial": "FUNDO DE MANUTENCAO E DESENVOLVIMENTO DA EDUCACAO BASICA E DE VALORIZACAO DOS PROFISSIONAIS DA EDUCACAO- FUNDEB",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-07T12:27:50",
+  "dataAtualizacao": "2025-08-07T12:27:50",
+  "numeroControlePNCP": "11835005000150-1-000004/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 4,
+  "emendaParlamentar": null,
+  "numeroCompra": "(4039) | 1-0",
+  "processo": "70/2025",
+  "objetoCompra": "SOLICITAÇÃO PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA FORMAÇÃO CONTINUADA PARA PROFISSIONAIS DO MAGISTÉRIO PÚBLICO MUNICIPAL DA EDUCAÇÃO BÁSICA COM ABORDAGEM DOS SEGUITNES TEMAS: “AVALIAÇÕES EXTERNAS E ROTINAS DA CRECHE E PRÉ-ESCOLA, COM CARGA HORÁRIA DE 8 HORAS”.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T12:27:50",
+  "dataAtualizacaoGlobal": "2025-10-22T10:08:11",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Formoso",
+    "codigoIbge": "5208103",
+    "codigoUnidade": "12",
+    "nomeUnidade": "FUNDEB FORMOSO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 3200.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2025-08-07T12:27:56"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Megasoft Informática"
+}

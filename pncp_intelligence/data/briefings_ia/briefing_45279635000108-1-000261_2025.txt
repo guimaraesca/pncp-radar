@@ -1,0 +1,97 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ATIBAIA (Atibaia/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para implantação da infraestrutura de conectividade, serviços convergentes e gerenciamento para construção de bases da Cidade Inteligente de Atibaia através de uma infovia robusta e resiliente em fibras ópticas, com arquitetura que possibilite alta disponibilidade nos anéis que compõem seu backbone 10Gbps/40Gbps/100Gbps, segurança perimetral da rede com aplicação de NGFW – Next Generation Firewall, ampliação do serviço de comunicação unificada com novos ramais VoIP e implantação dos HotSpots de Internet Pública através de conexão WiFi para o cidadão, incluindo garantia onsite para manutenção preventiva e corretiva com monitoramento remoto dos equipamentos em tempo real através de Central de Gerenciamento de Rede da Contratada.
+VALOR ESTIMADO: R$ 21.392.033,04
+PRAZO PARA PROPOSTAS: 2026-06-19T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/45279635000108-1-000261/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas (50 a 100 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | Atibaia/SP (65km)]
+DISTÂNCIA ESTIMADA DA BASE: 65 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/14
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/15
+doc_16.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/16
+doc_17.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/17
+doc_18.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/18
+doc_19.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279635000108/compras/2025/261/arquivos/19
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Abraçadeira ajustável para poste tipo BAP3 com parafuso - Abraçadeira ajustável para poste tipo BAP3 com parafuso | Qtd: 11000.0 | R$ Unit: 20.81
+  - Item 2: Access Point Externo - Access Point Externo | Qtd: 36.0 | R$ Unit: 18068.51
+  - Item 3: Acessórios de Poste - Acessórios de Poste | Qtd: 540.0 | R$ Unit: 91.08
+  - Item 4: Alça pré-formada p/ cabo óptico de 06 e 12FO - Alça pré-formada p/ cabo óptico de 06 e 12FO | Qtd: 9800.0 | R$ Unit: 7.3
+  - Item 5: Alça pré-formada p/ cabo óptico de 24FO - Alça pré-formada p/ cabo óptico de 24FO | Qtd: 1200.0 | R$ Unit: 10.95
+  - Item 6: Aparelho Telefônico IP - Avançado - Aparelho Telefônico IP - Avançado | Qtd: 100.0 | R$ Unit: 1576.87
+  - Item 7: Aparelho Telefônico IP - Básico - Aparelho Telefônico IP - Básico | Qtd: 1500.0 | R$ Unit: 777.07
+  - Item 8: Armação Press Bow com Isolador 72x72 com Isolador - Armação Press Bow com Isolador 72x72 com Isolador | Qtd: 11000.0 | R$ Unit: 47.78
+  - Item 9: Cabo de Aço Galvanizado - Cabo de Aço Galvanizado | Qtd: 5000.0 | R$ Unit: 5.59
+  - Item 10: Cabo de Fibra Óptica de 06FO - Cabo de Fibra Óptica de 06FO | Qtd: 95000.0 | R$ Unit: 7.31
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "45279635000108",
+    "razaoSocial": "MUNICIPIO DE ATIBAIA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 19498823.31,
+  "dataInclusao": "2025-04-07T11:11:35",
+  "dataAtualizacao": "2026-07-24T15:53:40",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 261,
+  "emendaParlamentar": null,
+  "numeroCompra": "PE 43",
+  "processo": "297/2025",
+  "objetoCompra": "Contratação de empresa especializada para implantação da infraestrutura de conectividade, serviços convergentes e gerenciamento para construção de bases da Cidade Inteligente de Atibaia através de uma infovia robusta e resiliente em fibras ópticas, com arquitetura que possibilite alta disponibilidade nos anéis que compõem seu backbone 10Gbps/40Gbps/100Gbps, segurança perimetral da rede com aplicação de NGFW – Next Generation Firewall, ampliação do serviço de comunicação unificada com novos ramais VoIP e implantação dos HotSpots de Internet Pública através de conexão WiFi para o cidadão, incluindo garantia onsite para manutenção preventiva e corretiva com monitoramento remoto dos equipamentos em tempo real através de Central de Gerenciamento de Rede da Contratada.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-06-01T16:00:00",
+  "dataEncerramentoProposta": "2026-06-19T09:00:00",
+  "dataPublicacaoPncp": "2025-04-07T11:11:35",
+  "dataAtualizacaoGlobal": "2026-07-30T13:43:51",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Atibaia",
+    "codigoUnidade": "0q",
+    "nomeUnidade": "Prefeitura Municipal da Estância de Atibaia",
+    "codigoIbge": "3504107"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "45279635000108-1-000261/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 21392033.04,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas"
+}

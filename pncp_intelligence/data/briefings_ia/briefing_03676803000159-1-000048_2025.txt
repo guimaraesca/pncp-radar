@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE EDUCACAO FISICA DA 4 REGIAO (São Paulo/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de 06 (seis) Licenças de Inteligência Artificial Generativa, com cessão de uso por 12 (doze) meses consecutivos, destinado aos Departamentos do CREF4/SP, conforme especificações técnicas e demais exigências estabelecidas no Termo de Referência. 
+VALOR ESTIMADO: R$ 17.340,00
+PRAZO PARA PROPOSTAS: 2025-07-08T07:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/03676803000159-1-000048/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03676803000159/compras/2025/48/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 1.0 | R$ Unit: 17340.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "03676803000159",
+    "razaoSocial": "CONSELHO REGIONAL DE EDUCACAO FISICA DA 4 REGIAO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 9785.06,
+  "dataInclusao": "2025-07-03T14:13:57",
+  "dataAtualizacao": "2025-07-03T14:13:57",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 48,
+  "emendaParlamentar": null,
+  "numeroCompra": "90034",
+  "processo": "2311",
+  "objetoCompra": "Aquisição de 06 (seis) Licenças de Inteligência Artificial Generativa, com cessão de uso por 12 (doze) meses consecutivos, destinado aos Departamentos do CREF4/SP, conforme especificações técnicas e demais exigências estabelecidas no Termo de Referência. ",
+  "informacaoComplementar": "Autorização legal, bem como não foi excedido limite de dispensa para natureza da despesa.",
+  "dataAberturaProposta": "2025-07-03T14:13:56",
+  "dataEncerramentoProposta": "2025-07-08T07:59:59",
+  "dataPublicacaoPncp": "2025-07-03T14:13:57",
+  "dataAtualizacaoGlobal": "2025-07-10T15:54:07",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoUnidade": "926089",
+    "nomeUnidade": "CONSELHO REGIONAL DE EDUCACAO FISICA 4A - SP",
+    "codigoIbge": "3550308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "03676803000159-1-000048/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 17340.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

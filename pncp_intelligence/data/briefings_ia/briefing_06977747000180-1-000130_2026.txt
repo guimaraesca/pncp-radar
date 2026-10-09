@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: EMPRESA DE PESQUISA ENERGéTICA (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços continuados de suporte e atendimento técnico aos usuários na área de Tecnologia da Informação e Comunicação (TIC), com central de atendimento remota e presencial na modalidade Service Desk, bem como suporte, sustentação e operação dos serviços e da infraestrutura de TIC da Empresa de Pesquisa Energética (EPE), além da execução de tarefas de demanda não rotineiras
+VALOR ESTIMADO: R$ 3,370,104.96
+PRAZO PARA PROPOSTAS: 2026-10-06T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=32500105001322026
+SELO LOGÍSTICO: [FORA DAS BASES]
+BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE LACERDOPOLIS (Lacerdópolis/SC)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa especializada para a prestação de serviços de assessoria e consultoria técnica e operacional no gerenciamento e treinamento dos sistemas de cadastro, informação e gestão do SUS.
+VALOR ESTIMADO: R$ 14.400,00
+PRAZO PARA PROPOSTAS: 2025-08-18T07:55:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Lacerdopolis-4008/CPMP-1-2025-2025-404002
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82939471000124/compras/2025/21/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Treinamento e acompanhamento técnico na atualização e manutenção do Sistema de Cadastro: Sistema Nacional de Cadastro de | Qtd: 12.0 | R$ Unit: 1200.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "82939471000124",
+    "razaoSocial": "MUNICIPIO DE LACERDOPOLIS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-07-09T16:51:21",
+  "dataAtualizacao": "2025-07-09T16:51:21",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Lacerdópolis",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Prefeitura Municipal de Lacerdópolis",
+    "codigoIbge": "4209201"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Lacerdopolis-4008/CPMP-1-2025-2025-404002",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 21,
+  "emendaParlamentar": null,
+  "numeroCompra": "1",
+  "processo": "10",
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa especializada para a prestação de serviços de assessoria e consultoria técnica e operacional no gerenciamento e treinamento dos sistemas de cadastro, informação e gestão do SUS.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-09T17:00:00",
+  "dataEncerramentoProposta": "2025-08-18T07:55:00",
+  "dataPublicacaoPncp": "2025-07-09T16:51:21",
+  "dataAtualizacaoGlobal": "2025-07-09T16:51:26",
+  "numeroControlePNCP": "82939471000124-1-000021/2025",
+  "valorTotalEstimado": 14400.0,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

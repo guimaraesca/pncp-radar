@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CUITE (Cuité/PB)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [LICITANET] - SISTEMA DE REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS, PARA FORNECIMENTO DE SISTEMA DE GESTÃO EDUCACIONAL COMO SERVIÇOS (SAAS – SOFTWARE AS A SERVICE), ÂMBITO DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE CUITÉ-PB
+VALOR ESTIMADO: R$ 656.313,04
+PRAZO PARA PROPOSTAS: 2025-05-23T08:00:00
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/Wkpham5KZWs=
+BASE LOGÍSTICA COMPATÍVEL: Recife/Natal (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: PB]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08732174000150/compras/2025/23/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 5735081: Implantação, Configuração
+Treinamento | Qtd: 1.0 | R$ Unit: 55184.0
+  - Item 5735082: Sustentação, Suporte Técnico e
+Hospedagem (40 escolas) | Qtd: 12.0 | R$ Unit: 38378.67
+  - Item 5735083: Migrações e Customizações | Qtd: 500.0 | R$ Unit: 281.17
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 610900.0,
+  "orgaoEntidade": {
+    "cnpj": "08732174000150",
+    "razaoSocial": "MUNICIPIO DE CUITE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-05-07T09:53:39",
+  "dataInclusao": "2025-05-07T09:53:39",
+  "numeroControlePNCP": "08732174000150-1-000023/2025",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 23,
+  "emendaParlamentar": null,
+  "numeroCompra": "00014",
+  "processo": "578/2025",
+  "dataEncerramentoProposta": "2025-05-23T08:00:00",
+  "objetoCompra": "[LICITANET] - SISTEMA DE REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS, PARA FORNECIMENTO DE SISTEMA DE GESTÃO EDUCACIONAL COMO SERVIÇOS (SAAS – SOFTWARE AS A SERVICE), ÂMBITO DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE CUITÉ-PB",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-07T09:53:36",
+  "dataPublicacaoPncp": "2025-05-07T09:53:39",
+  "dataAtualizacaoGlobal": "2025-07-07T11:20:14",
+  "unidadeOrgao": {
+    "ufNome": "Paraíba",
+    "ufSigla": "PB",
+    "municipioNome": "Cuité",
+    "codigoUnidade": "2351",
+    "nomeUnidade": "MUNICIPIO DE CUITÉ/PB",
+    "codigoIbge": "2505105"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/Wkpham5KZWs=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA",
+  "valorTotalEstimado": 656313.04
+}

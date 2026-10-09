@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE TRES PONTAS (Três Pontas/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de Licenças Pré-pagas do Microsoft 365 Apps, para pequenos e médios negócios para atender as secretarias solicitantes.
+VALOR ESTIMADO: R$ 10.291,50
+PRAZO PARA PROPOSTAS: 2025-05-06T08:30:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/18245167000188-1-000070/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18245167000188/compras/2025/70/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18245167000188/compras/2025/70/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18245167000188/compras/2025/70/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18245167000188/compras/2025/70/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18245167000188/compras/2025/70/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18245167000188/compras/2025/70/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18245167000188/compras/2025/70/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CHAVE PRE-PAGA DA LICENCA MICROSOFT 365 APPS PARA PEQUENOS E MEDIOS NEGOCIOS
+<p>CHAVE PRÉ-PAGA DA LICENÇA MICROSOFT 365 | Qtd: 15.0 | R$ Unit: 686.1
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "18245167000188",
+    "razaoSocial": "MUNICIPIO DE TRES PONTAS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 8550.0,
+  "dataInclusao": "2025-04-22T09:27:20",
+  "dataAtualizacao": "2025-04-22T09:27:20",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Três Pontas",
+    "codigoUnidade": "02005",
+    "nomeUnidade": "SEC. MUNICIPAL DE ADM. E REC. HUMANOS",
+    "codigoIbge": "3169406"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 70,
+  "emendaParlamentar": null,
+  "numeroCompra": "PRE 25",
+  "processo": "65/2025",
+  "objetoCompra": "Aquisição de Licenças Pré-pagas do Microsoft 365 Apps, para pequenos e médios negócios para atender as secretarias solicitantes.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-04-22T16:00:00",
+  "dataEncerramentoProposta": "2025-05-06T08:30:00",
+  "dataPublicacaoPncp": "2025-04-22T09:27:20",
+  "dataAtualizacaoGlobal": "2025-05-20T09:46:44",
+  "numeroControlePNCP": "18245167000188-1-000070/2025",
+  "valorTotalEstimado": 10291.5,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

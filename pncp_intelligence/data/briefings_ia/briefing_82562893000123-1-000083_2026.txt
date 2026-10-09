@@ -1,0 +1,84 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CANELINHA (Canelinha/SC)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - O presente Pregão Eletrônico tem por objeto, o registro de preços para a aquisição de instrumentos musicais, equipamentos de sonorização e kits de robótica educacional, destinados à implementação de oficinas de música, dança e robótica voltadas às crianças e adolescentes da rede municipal de ensino, no âmbito de projeto financiado com recursos do FIA  Fundo para a Infância e Adolescência, conforme especificações e quantidades descritas nos anexos do Edital.
+VALOR ESTIMADO: R$ 306.371,71
+PRAZO PARA PROPOSTAS: 2026-10-07T08:20:00
+LINK OFICIAL: https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Canelinha-1673/PE-51-2026-2026-500347
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82562893000123/compras/2026/83/arquivos/1
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82562893000123/compras/2026/83/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82562893000123/compras/2026/83/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82562893000123/compras/2026/83/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82562893000123/compras/2026/83/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82562893000123/compras/2026/83/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Bambolê confeccionado em tubo de polietileno (PE) ou PVC de alta resistência, atóxico, flexível, com superfície lisa e s | Qtd: 50.0 | R$ Unit: 7.96
+  - Item 2: Baquetas para bateria, par, confeccionadas em madeira de hickory, marfim, maple ou equivalente, padrão profissional, mod | Qtd: 50.0 | R$ Unit: 27.25
+  - Item 3: Barra de ballet para uso em ambientes internos, com estrutura resistente em aço carbono com pintura eletrostática ou mat | Qtd: 10.0 | R$ Unit: 1304.65
+  - Item 4: Bateria acústica completa, composta por bumbo de no mínimo 20" x 16", caixa de no mínimo 14", dois tons, um surdo, pedal | Qtd: 2.0 | R$ Unit: 5322.28
+  - Item 5: Caixa acústica amplificada (ativa), potência mínima de 200 W RMS, equipada com alto-falante de no mínimo 10 polegadas e  | Qtd: 3.0 | R$ Unit: 1698.45
+  - Item 6: Cajón acústico, confeccionado em madeira compensada de no mínimo 9 mm ou MDF de alta densidade, com tampa frontal em mad | Qtd: 2.0 | R$ Unit: 356.99
+  - Item 7: Chocalho musical, confeccionado em plástico ABS, madeira ou material equivalente de alta resistência, contendo esferas m | Qtd: 10.0 | R$ Unit: 53.08
+  - Item 8: Colchonete, confeccionado em espuma de densidade mínima D23, revestido em material sintético impermeável, soldado ou cos | Qtd: 30.0 | R$ Unit: 35.37
+  - Item 9: Conjunto de banda rítmica infantil, contendo instrumentos variados de percussão para musicalização, composto por no míni | Qtd: 5.0 | R$ Unit: 619.33
+  - Item 10: Contrabaixo elétrico, 04 cordas, corpo sólido confeccionado em basswood, poplar ou equivalente, braço em maple ou simila | Qtd: 2.0 | R$ Unit: 1334.3
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "82562893000123",
+    "razaoSocial": "MUNICIPIO DE CANELINHA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-07-31T09:22:45",
+  "dataAtualizacao": "2026-09-25T15:27:09",
+  "numeroControlePNCP": "82562893000123-1-000083/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 83,
+  "emendaParlamentar": null,
+  "numeroCompra": "51",
+  "processo": "84/PMC/2026",
+  "srp": false,
+  "objetoCompra": "[Portal de Compras Públicas] - O presente Pregão Eletrônico tem por objeto, o registro de preços para a aquisição de instrumentos musicais, equipamentos de sonorização e kits de robótica educacional, destinados à implementação de oficinas de música, dança e robótica voltadas às crianças e adolescentes da rede municipal de ensino, no âmbito de projeto financiado com recursos do FIA  Fundo para a Infância e Adolescência, conforme especificações e quantidades descritas nos anexos do Edital.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-25T13:00:00",
+  "dataEncerramentoProposta": "2026-10-07T08:20:00",
+  "dataPublicacaoPncp": "2026-07-31T09:22:45",
+  "dataAtualizacaoGlobal": "2026-09-25T15:35:13",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Canelinha",
+    "codigoIbge": "4203709",
+    "codigoUnidade": "2788",
+    "nomeUnidade": "Prefeitura Municipal de Canelinha"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Canelinha-1673/PE-51-2026-2026-500347",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 306371.71,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

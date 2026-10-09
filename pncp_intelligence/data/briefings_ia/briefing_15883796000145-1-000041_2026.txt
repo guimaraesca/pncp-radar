@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: DEPARTAMENTO ESTADUAL DE TRANSITO (Porto Velho/RO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de serviços técnicos especializados de Tecnologia da Informação e Comunicação (TIC) de natureza continuada, compreendendo a disponibilização, implantação, sustentação e suporte técnico de sistemas informatizados de gestão (software) na modalidade SaaS (Software as a Service), cumulada com a locação de infraestrutura de hardware (Hardware as a Service) para atendimento digital, conforme especificações, quantitativos e Acordos de Nível de Serviço (SLA) estabelecidos no Termo de Referen
+VALOR ESTIMADO: R$ 44.887.381,20
+PRAZO PARA PROPOSTAS: 2026-10-07T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92600205000362026
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/15883796000145/compras/2026/41/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/15883796000145/compras/2026/41/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/15883796000145/compras/2026/41/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/15883796000145/compras/2026/41/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Outros serviços de  gerenciamento de infraestrutura de tecnologia da informação e comunicação (tic) Contratação de servi | Qtd: 1.0 | R$ Unit: 44887381.2
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "15883796000145",
+    "razaoSocial": "DEPARTAMENTO ESTADUAL DE TRANSITO",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "dataInclusao": "2026-07-22T13:54:37",
+  "dataAtualizacao": "2026-09-17T09:57:58",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-07-22T13:54:38"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2026-09-18T08:00:00",
+  "dataEncerramentoProposta": "2026-10-07T10:00:00",
+  "dataPublicacaoPncp": "2026-07-22T13:54:37",
+  "dataAtualizacaoGlobal": "2026-09-17T09:57:58",
+  "unidadeOrgao": {
+    "ufNome": "Rondônia",
+    "ufSigla": "RO",
+    "municipioNome": "Porto Velho",
+    "codigoIbge": "1100205",
+    "codigoUnidade": "926002",
+    "nomeUnidade": "ERO-DEPARTAMENTO ESTADUAL DE TRÃNSITO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92600205000362026",
+  "linkProcessoEletronico": "https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_controlar&id_procedimento=65596887&infra_sistema=100000100&infra_unidade_atual=110000631&infra_hash=f15941681e8780e75ecd98afe3593800a514de8a669b8467a1a78f4e42dd727e",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 41,
+  "emendaParlamentar": null,
+  "numeroCompra": "36",
+  "processo": "0010.028052/2025-98",
+  "objetoCompra": "Contratação de serviços técnicos especializados de Tecnologia da Informação e Comunicação (TIC) de natureza continuada, compreendendo a disponibilização, implantação, sustentação e suporte técnico de sistemas informatizados de gestão (software) na modalidade SaaS (Software as a Service), cumulada com a locação de infraestrutura de hardware (Hardware as a Service) para atendimento digital, conforme especificações, quantitativos e Acordos de Nível de Serviço (SLA) estabelecidos no Termo de Referen",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "15883796000145-1-000041/2026",
+  "valorTotalEstimado": 44887381.2,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

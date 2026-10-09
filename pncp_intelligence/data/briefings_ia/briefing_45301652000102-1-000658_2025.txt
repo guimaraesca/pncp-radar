@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BRODOWSKI (Brodowski/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MINISTRAR CURSO DE CAPACITAÇÃO PARA REALIZAÇÃO DE PROJETO DE TURISMO, PARA EMPREENDEDORES E GOVERNANÇA LOCAL DO MUNICÍPIO DE BRODOWSKI/SP.
+VALOR ESTIMADO: R$ 5.880,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/45301652000102-1-000658/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45301652000102/compras/2025/658/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CAPACITAÇÃO PROJETO TURISMO AÇÕES DE EMPREENDEDORISMO E CAPACITAÇÃO DA GOVERNANÇAS LOCAL NO MUNICIPIO DE BRODOWSKI. | Qtd: 1.0 | R$ Unit: 5880.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "45301652000102",
+    "razaoSocial": "MUNICIPIO DE BRODOWSKI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 5880.0,
+  "dataInclusao": "2025-08-11T09:37:34",
+  "dataAtualizacao": "2025-08-11T09:37:34",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Brodowski",
+    "codigoUnidade": "2",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE BRODOWSKI",
+    "codigoIbge": "3507803"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 658,
+  "emendaParlamentar": null,
+  "numeroCompra": "640",
+  "processo": "640",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MINISTRAR CURSO DE CAPACITAÇÃO PARA REALIZAÇÃO DE PROJETO DE TURISMO, PARA EMPREENDEDORES E GOVERNANÇA LOCAL DO MUNICÍPIO DE BRODOWSKI/SP.",
+  "informacaoComplementar": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MINISTRAR CURSO DE CAPACITAÇÃO PARA REALIZAÇÃO DE PROJETO DE TURISMO, PARA EMPREENDEDORES E GOVERNANÇA LOCAL DO MUNICÍPIO DE BRODOWSKI/SP.",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-11T09:37:34",
+  "dataAtualizacaoGlobal": "2025-08-11T09:38:05",
+  "numeroControlePNCP": "45301652000102-1-000658/2025",
+  "valorTotalEstimado": 5880.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software"
+}

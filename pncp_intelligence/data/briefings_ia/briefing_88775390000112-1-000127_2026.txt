@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CRUZ ALTA (Cruz Alta/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em desenvolvimento, implantação, locação, manutenção, suporte técnico, customização e evolução tecnológica de um Sistema de Gestão Educacional Integrado em ambiente 100% web, com armazenamento em Data Center da contratada, atendendo às necessidades da Secretaria Municipal de Educação.
+VALOR ESTIMADO: R$ 307.319,04
+PRAZO PARA PROPOSTAS: 2026-10-08T13:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/88775390000112-1-000127/2026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88775390000112/compras/2026/127/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88775390000112/compras/2026/127/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇO DE MIGRAÇÃO, IMPLANTAÇÃO, MANUTENÇÃO, SUPORTE TÉCNICO, CUSTOMIZAÇÃO E EVOLUÇÃO TECNOLÓGICA DE SISTEMA DE GESTÃO  | Qtd: 1.0 | R$ Unit: 307319.04
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "88775390000112",
+    "razaoSocial": "MUNICIPIO DE CRUZ ALTA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-04-24T15:57:08",
+  "dataAtualizacao": "2026-09-23T11:27:14",
+  "numeroControlePNCP": "88775390000112-1-000127/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 127,
+  "emendaParlamentar": null,
+  "numeroCompra": "PCE 102",
+  "processo": "102/2026",
+  "srp": false,
+  "objetoCompra": "Contratação de empresa especializada em desenvolvimento, implantação, locação, manutenção, suporte técnico, customização e evolução tecnológica de um Sistema de Gestão Educacional Integrado em ambiente 100% web, com armazenamento em Data Center da contratada, atendendo às necessidades da Secretaria Municipal de Educação.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-23T00:00:00",
+  "dataEncerramentoProposta": "2026-10-08T13:00:00",
+  "dataPublicacaoPncp": "2026-04-24T15:57:08",
+  "dataAtualizacaoGlobal": "2026-09-28T09:49:07",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Cruz Alta",
+    "codigoIbge": "4306106",
+    "codigoUnidade": "09001",
+    "nomeUnidade": "Unidades Administrativas Subordinadas"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 307319.04,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE JABOATAO DOS GUARARAPES (Jaboatão dos Guararapes/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: 2º TERMO ADITIVO AO CONTRATO Nº 006/2023 - GAB. OBJETO: renovação e reajuste no percentual aproximado de 5,35%, ao contrato de prestação de serviços de licenciamento, cessão de direito de uso por tempo determinado, implantação, manutenção e hospedagem do Sistema Informatizado de Gestão de Ocorrências, com interface web e aplicativo móvel. CONTRATADA: WEBNETS SOLUCOES - LTDA (CNPJ: 12.319.369/0001-40). VALOR ACRESCIDO: R$ 798,83 (setecentos e noventa e oito reais e oitenta e três centavos). VALOR CONTRATUAL RENOVADO: R$ 15.730,19 (quinze mil e setecentos e trinta reais e dezenove centavos).
+VALOR ESTIMADO: R$ 15.730,19
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://app2.licitardigital.com.br/pesquisa/72455
+BASE LOGÍSTICA COMPATÍVEL: Recife (Até 50 km)
+SELO LOGÍSTICO: [BASE: RECIFE | Jaboatão dos Guararapes/PE (18km)]
+DISTÂNCIA ESTIMADA DA BASE: 18 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10377679000196/compras/2025/267/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10377679000196/compras/2025/267/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10377679000196/compras/2025/267/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10377679000196/compras/2025/267/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa especializada para prestação de serviços de licenciamento, cessão de direito de uso por tempo det | Qtd: 1.0 | R$ Unit: 15730.19
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "10377679000196",
+    "razaoSocial": "MUNICIPIO DE JABOATAO DOS GUARARAPES",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-05T14:02:34",
+  "dataAtualizacao": "2025-08-05T14:02:34",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 267,
+  "emendaParlamentar": null,
+  "numeroCompra": "03",
+  "processo": "03/2023",
+  "objetoCompra": "2º TERMO ADITIVO AO CONTRATO Nº 006/2023 - GAB. OBJETO: renovação e reajuste no percentual aproximado de 5,35%, ao contrato de prestação de serviços de licenciamento, cessão de direito de uso por tempo determinado, implantação, manutenção e hospedagem do Sistema Informatizado de Gestão de Ocorrências, com interface web e aplicativo móvel. CONTRATADA: WEBNETS SOLUCOES - LTDA (CNPJ: 12.319.369/0001-40). VALOR ACRESCIDO: R$ 798,83 (setecentos e noventa e oito reais e oitenta e três centavos). VALOR CONTRATUAL RENOVADO: R$ 15.730,19 (quinze mil e setecentos e trinta reais e dezenove centavos).",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T14:02:34",
+  "dataAtualizacaoGlobal": "2025-08-05T14:02:42",
+  "numeroControlePNCP": "10377679000196-1-000267/2025",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Jaboatão dos Guararapes",
+    "codigoUnidade": "488",
+    "nomeUnidade": "Unidade Única",
+    "codigoIbge": "2607901"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/72455",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "valorTotalEstimado": 15730.19,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+}

@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ALCANTARAS (Alcântaras/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA OFERTA DE CURSO PREPARATÓRIO PARA O EXAME NACIONAL DO ENSINO MÉDIO (ENEM 2025), QUE DISPONIBILIZE PROFISSIONAIS HABILITADOS EM LÍNGUA PORTUGUESA COM EXPERIÊNCIA COMPROVADA EM CORREÇÃO DE REDAÇÕES NO ESTILO ENEM, BEM COMO DOCENTES ESPECIALIZADOS NAS DEMAIS ÁREAS DO CONHECIMENTO AVALIADAS PELO EXAME
+VALOR ESTIMADO: R$ 53.642,70
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/6347ea7d15d54c72b705f1d83c5f9e40/contratacao-de-empresa-especializada-na-oferta-de
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07598626000190/compras/2025/37/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07598626000190/compras/2025/37/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07598626000190/compras/2025/37/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07598626000190/compras/2025/37/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: EMPRESA ESPECIALIZADA EM CURSO PREPARATORIO QUE POSSUA PROFISSIONAIS HABILITADOS EM LÍNGUA PORTUGUESA E COM EXPERIÊNCIA  | Qtd: 70.0 | R$ Unit: 415.0
+  - Item 2: PLATAFORMA COM FOCO ESPECIFICO PARA CORREÇÕES ESTILO ENEM COM RECURSOS DE MARCAÇÃO DE REDAÇÃO ENVIADA; COMENTARIOS NAS M | Qtd: 200.0 | R$ Unit: 6.0
+  - Item 3: TABLET PARA PREMIAÇÃO DOS ALUNOS DESTAQUES DO CURSINHO | Qtd: 10.0 | R$ Unit: 671.67
+  - Item 4: NOTEBOOK PARA PREMIAÇÃO DOS ALUNOS DESTAQUES DO CURSINHO | Qtd: 2.0 | R$ Unit: 2620.0
+  - Item 5: BLUSA DE TECIDO HELANCA PERSONALIZA PARA O CURSINHO ENEM 2025 | Qtd: 200.0 | R$ Unit: 32.13
+  - Item 6: MOCHILA SACO/BOLSA DE OXFORD, COM CORDÃO. PERSONALIZADA PARA O CURSINHO ENEM 2025 | Qtd: 200.0 | R$ Unit: 25.05
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 42100.0,
+  "orgaoEntidade": {
+    "cnpj": "07598626000190",
+    "razaoSocial": "MUNICIPIO DE ALCANTARAS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-12T09:34:46",
+  "dataAtualizacao": "2025-08-12T09:34:46",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 37,
+  "emendaParlamentar": null,
+  "numeroCompra": "0407.001/2025",
+  "processo": "0407.001/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA OFERTA DE CURSO PREPARATÓRIO PARA O EXAME NACIONAL DO ENSINO MÉDIO (ENEM 2025), QUE DISPONIBILIZE PROFISSIONAIS HABILITADOS EM LÍNGUA PORTUGUESA COM EXPERIÊNCIA COMPROVADA EM CORREÇÃO DE REDAÇÕES NO ESTILO ENEM, BEM COMO DOCENTES ESPECIALIZADOS NAS DEMAIS ÁREAS DO CONHECIMENTO AVALIADAS PELO EXAME",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-12T09:34:46",
+  "dataAtualizacaoGlobal": "2025-08-12T09:35:01",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Alcântaras",
+    "codigoUnidade": "202503",
+    "nomeUnidade": "SECRETARIA DE EDUCAÇÃO",
+    "codigoIbge": "2300507"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/6347ea7d15d54c72b705f1d83c5f9e40/contratacao-de-empresa-especializada-na-oferta-de",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "07598626000190-1-000037/2025",
+  "valorTotalEstimado": 53642.7,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

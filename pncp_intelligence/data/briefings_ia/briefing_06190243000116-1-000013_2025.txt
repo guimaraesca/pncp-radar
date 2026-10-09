@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MONCAO (Monção/MA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para eventual contratação de pessoa(s) jurídicas(s) especializada(s) no fornecimento de livros didáticos com conteúdos destinados à Educação Infantil, Educação de Jovens e Adultos (EJA), Educação Fundamental I e II (Prova Brasil/SAEB), Educação Fundamental I e II (Kit Afro/Indígena de 1º ao 9º ano), Educação Financeira (Fundamental de 1º ao 9º ano) e Educação de Inteligência Emocional (Fundamental de 1º ao 9º ano), visando atender as demandas da Secretaria Municipal de Educação de Monção/MA
+VALOR ESTIMADO: R$ 7.213.475,75
+PRAZO PARA PROPOSTAS: 2025-05-16T14:00:00
+LINK OFICIAL: https://www.licitanet.com.br/
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06190243000116/compras/2025/13/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Maternal I. Livro do Aluno da Educação Infantil (02 Anos) Vol. Único. Livro da Família. Livros com atividades as quais f | Qtd: 400.0 | R$ Unit: 335.61
+  - Item 2: Maternal II. Livro do Aluno da Educação Infantil (03 Anos). Livro do Aluno 03 Anos. Volume 1. Livro do Aluno 03 Anos. Vo | Qtd: 500.0 | R$ Unit: 413.88
+  - Item 3: Pré-I. Livro do Aluno da Educação Infantil (04 Anos). Livro do Aluno 04 Anos. Volume 1 Livro do Aluno 04 Anos. Volume 2. | Qtd: 550.0 | R$ Unit: 413.88
+  - Item 4: Pré-II. Livro do Aluno da Educação Infantil (05 Anos). Livro do Aluno 05 Anos. Volume 1. Livro do Aluno 05 Anos. Volume  | Qtd: 550.0 | R$ Unit: 413.88
+  - Item 5: Livro do Professor (Manual) da Educação Infantil Maternal I (02 Anos). Livro do Aluno 02 Anos. Vol. Único. Livro da Famí | Qtd: 15.0 | R$ Unit: 335.61
+  - Item 6: Livro do Professor (Manual) da Educação Infantil Maternal II (03 Anos). Livro do Aluno 03 Anos. Volume 1 e 2. Livro da F | Qtd: 20.0 | R$ Unit: 413.88
+  - Item 7: Livro do Professor (Manual) da Educação Infantil PréI (04 Anos). Livro do Aluno 04 Anos. Volume 1 e 2. Livro da Família. | Qtd: 20.0 | R$ Unit: 413.88
+  - Item 8: Livro do Professor (Manual) da Educação Infantil PréII (05 Anos). Livro do Aluno 05 Anos. Volume 1 e 2. Livro da Família | Qtd: 20.0 | R$ Unit: 413.88
+  - Item 9: Livro do Aluno de Ensino Fundamental Anos Iniciais: EJA: educação de jovens e adultos. Livro 1 (1º, 2º e 3º Ano). Conten | Qtd: 200.0 | R$ Unit: 272.96
+  - Item 10: Livro do Aluno de Ensino Fundamental Anos Iniciais: EJA: educação de jovens e adultos. Livro 2 (4º e 5º Ano). Contendo:  | Qtd: 150.0 | R$ Unit: 271.46
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 5338204.0,
+  "orgaoEntidade": {
+    "cnpj": "06190243000116",
+    "razaoSocial": "MUNICIPIO DE MONCAO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-05T21:31:21",
+  "dataAtualizacao": "2025-05-05T21:31:21",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 13,
+  "emendaParlamentar": null,
+  "numeroCompra": "009",
+  "processo": "20221/2025",
+  "objetoCompra": "Registro de preços para eventual contratação de pessoa(s) jurídicas(s) especializada(s) no fornecimento de livros didáticos com conteúdos destinados à Educação Infantil, Educação de Jovens e Adultos (EJA), Educação Fundamental I e II (Prova Brasil/SAEB), Educação Fundamental I e II (Kit Afro/Indígena de 1º ao 9º ano), Educação Financeira (Fundamental de 1º ao 9º ano) e Educação de Inteligência Emocional (Fundamental de 1º ao 9º ano), visando atender as demandas da Secretaria Municipal de Educação de Monção/MA",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-05-05T00:00:00",
+  "dataEncerramentoProposta": "2025-05-16T14:00:00",
+  "dataPublicacaoPncp": "2025-05-05T21:31:21",
+  "dataAtualizacaoGlobal": "2025-10-16T18:23:26",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "Monção",
+    "codigoUnidade": "2680",
+    "nomeUnidade": "Secretaria Municipal de Educação",
+    "codigoIbge": "2106904"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.licitanet.com.br/",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "06190243000116-1-000013/2025",
+  "valorTotalEstimado": 7213475.75,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "STARTGOV SOLUCOES EM TECNOLOGIA LTDA"
+}

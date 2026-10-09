@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: RIO GRANDE DO SUL TRIBUNAL DE CONTAS DO ESTADO (Porto Alegre/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para a prestação de serviço continuado, sob demanda, remunerado por horas efetivamente medidas, de suporte técnico em rede de computadores, segurança da informação e comunicação unificada, conforme condições e exigências estabelecidas no Edital e seus anexos.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-15T10:00:00
+LINK OFICIAL: https://pregaobanrisul.com.br/editais/0003_2026/357341
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89550032000174/compras/2026/35/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89550032000174/compras/2026/35/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89550032000174/compras/2026/35/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89550032000174/compras/2026/35/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89550032000174/compras/2026/35/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89550032000174/compras/2026/35/arquivos/6
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "89550032000174",
+    "razaoSocial": "RIO GRANDE DO SUL TRIBUNAL DE CONTAS DO ESTADO",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-28T00:01:14",
+  "dataAtualizacao": "2026-09-29T10:42:25",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 35,
+  "emendaParlamentar": null,
+  "numeroCompra": "0003",
+  "processo": "002934-0220/26-9",
+  "objetoCompra": "Contratação de empresa especializada para a prestação de serviço continuado, sob demanda, remunerado por horas efetivamente medidas, de suporte técnico em rede de computadores, segurança da informação e comunicação unificada, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-28T07:00:00",
+  "dataEncerramentoProposta": "2026-10-15T10:00:00",
+  "dataPublicacaoPncp": "2026-09-28T00:01:14",
+  "dataAtualizacaoGlobal": "2026-09-29T10:43:21",
+  "numeroControlePNCP": "89550032000174-1-000035/2026",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Porto Alegre",
+    "codigoUnidade": "85607",
+    "nomeUnidade": "TRIBUNAL DE CONTAS DO ESTADO DO RIO GRANDE DO SUL",
+    "codigoIbge": "4314902"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://pregaobanrisul.com.br/editais/0003_2026/357341",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PROCERGS - CENTRO DE TECNOLOGIA DA INFORMACAO E COMUNICACAO DO ESTADO DO RIO GRANDE DO SUL S.A."
+}

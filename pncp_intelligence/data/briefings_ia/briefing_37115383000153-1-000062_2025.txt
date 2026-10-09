@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO DE MINAS E ENERGIA (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: A presente contratação tem como objetivo o licenciamento de software do tipo LIMS (Laboratory Information Management System) para atender ao Laboratório de Controle Ambiental da Unidade de Caetité, além de contratação de configuração implantação, suporte técnico e treinamento do referido software.Esta solução deverá fazer o gerenciamento laboratorial, químico, físico, de processos e de meio ambiente, com a automação de ensaios na INB em conformidade com o Termo de Referência 
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-05-20T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=11320605910492025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37115383000153/compras/2025/62/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: licenciamento de software do tipo LIMS (Laboratory Information Management System) | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "37115383000153",
+    "razaoSocial": "MINISTERIO DE MINAS E ENERGIA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-05-06T07:16:11",
+  "dataAtualizacao": "2025-05-06T07:16:11",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 62,
+  "emendaParlamentar": null,
+  "numeroCompra": "91049",
+  "processo": "GERTIF2024120045",
+  "objetoCompra": "A presente contratação tem como objetivo o licenciamento de software do tipo LIMS (Laboratory Information Management System) para atender ao Laboratório de Controle Ambiental da Unidade de Caetité, além de contratação de configuração implantação, suporte técnico e treinamento do referido software.Esta solução deverá fazer o gerenciamento laboratorial, químico, físico, de processos e de meio ambiente, com a automação de ensaios na INB em conformidade com o Termo de Referência ",
+  "informacaoComplementar": "O Edital e suplementos referentes a esta licitação estarão disponíveis no site da INB (www.inb.gov.br/licitacoes)”.    Em caso de eventual divergência existente entre as especificações técnicas descritas no Compras.gov e as especificações constantes deste Edital, prevalecerá sempre o especificado no Edital do certame.    O valor  da proposta ser informado será o global, conforme descritivo da  planilha anexa ao edital. Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=11320605910492025",
+  "dataAberturaProposta": "2025-05-06T08:00:00",
+  "dataEncerramentoProposta": "2025-05-20T09:00:00",
+  "dataPublicacaoPncp": "2025-05-06T07:16:11",
+  "dataAtualizacaoGlobal": "2025-09-05T14:36:09",
+  "numeroControlePNCP": "37115383000153-1-000062/2025",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoUnidade": "113206",
+    "nomeUnidade": "INDUSTRIAS NUCLEARES DO BRASIL S/A",
+    "codigoIbge": "3304557"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=11320605910492025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

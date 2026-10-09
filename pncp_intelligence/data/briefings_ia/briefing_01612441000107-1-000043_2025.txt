@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BELA VISTA DO CAROBA (Bela Vista da Caroba/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM MINISTRAR CURSO DE CAPACITAÇÃO E REALIZAR PALESTRAS COM MUSICALIZAÇÃO, AFIM DE ATENDER AS ATIVIDADES E CAMPANHAS REALIZADAS PELA SECRETARIA DE ASSISTÊNCIA SOCIAL
+VALOR ESTIMADO: R$ 104.916,10
+PRAZO PARA PROPOSTAS: 2025-05-20T08:00:00
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/Wkpham1wV2o=
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612441000107/compras/2025/43/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 5726930: 28442 - - Realização de Fórum e/ou Conferência, de acordo com a necessidade da Secretaria Municipal de Assistência Socia | Qtd: 3.0 | R$ Unit: 3225.0
+  - Item 5726931: 28440 - - Palestra com abordagem nos Direitos da Mulher podendo ser Fóruns e/ou Conferência, voltado para a sociedade ci | Qtd: 1.0 | R$ Unit: 2334.4
+  - Item 5726932: 28441 - Contratação de empresa com experiência para Palestra Show em comemoração ao Dia do Idoso, Dia da Mulher e Dia da | Qtd: 3.0 | R$ Unit: 3745.9
+  - Item 5726933: 28434 - Contratação de profissionais artísticos, para Palestras Show Com Mágicas, que encantam o público utilizando magi | Qtd: 2.0 | R$ Unit: 5308.2
+  - Item 5726934: 28433 -  Palestra e/ou Espetáculos teatrais Interativos para Campanhas, 18 de maio - Dia Nacional de Combate ao Abuso e  | Qtd: 6.0 | R$ Unit: 3411.4
+  - Item 5726935: 28439 - - Capacitação, para trabalhadores do SUAS envolvidos na rede de atendimento a família com profissionais de Servi | Qtd: 4.0 | R$ Unit: 3144.9
+  - Item 5726936: 28438 - - Capacitação  aporte técnico  para o Conselho Tutelar e Rede Municipal de Proteção à crianças e adolescentes:   | Qtd: 4.0 | R$ Unit: 3132.5
+  - Item 5726937: 28437 - - Capacitação para Conselhos Municipais e orientação. - Palestra técnica com Assistente Social com experiência n | Qtd: 4.0 | R$ Unit: 2713.8
+  - Item 5726938: 28436 - - Oficina 18 de Maio: compreendendo fragilidades e potencialidades de cunho informativo com abordagem sobre viol | Qtd: 8.0 | R$ Unit: 1086.8
+  - Item 5726939: 28435 - - Oficina para famílias dos Programas PAIF/Nossa Gente Paraná, Bolsa Família, voltado a saúde psicológica, socia | Qtd: 3.0 | R$ Unit: 1975.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 53125.35,
+  "orgaoEntidade": {
+    "cnpj": "01612441000107",
+    "razaoSocial": "MUNICIPIO DE BELA VISTA DO CAROBA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-06T10:53:08",
+  "dataAtualizacao": "2025-05-06T10:53:08",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 43,
+  "emendaParlamentar": null,
+  "numeroCompra": "34",
+  "processo": "34",
+  "objetoCompra": "[LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM MINISTRAR CURSO DE CAPACITAÇÃO E REALIZAR PALESTRAS COM MUSICALIZAÇÃO, AFIM DE ATENDER AS ATIVIDADES E CAMPANHAS REALIZADAS PELA SECRETARIA DE ASSISTÊNCIA SOCIAL",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-06T10:53:04",
+  "dataEncerramentoProposta": "2025-05-20T08:00:00",
+  "dataPublicacaoPncp": "2025-05-06T10:53:08",
+  "dataAtualizacaoGlobal": "2025-07-25T16:07:12",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Bela Vista da Caroba",
+    "codigoUnidade": "1524",
+    "nomeUnidade": "MUNICÍPIO DE BELA VISTA DA CAROBA/PR",
+    "codigoIbge": "4102752"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/Wkpham1wV2o=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "01612441000107-1-000043/2025",
+  "valorTotalEstimado": 104916.1,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA"
+}

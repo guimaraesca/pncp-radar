@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: DEPARTAMENTO DE ESTRADAS DE RODAGEM (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição por meio ATA para obter licenças da Microsoft para servidores e banco de dados, destinadas à operação, segurança e disponibilidade da infraestrutura de TI do data center institucional.
+VALOR ESTIMADO: R$ 1.343.472,65
+PRAZO PARA PROPOSTAS: 2026-10-08T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=26220105007512026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/43052497000102/compras/2026/496/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/43052497000102/compras/2026/496/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: "SOFTWARE" APLICAÇÃO: INFORMÁTICA, TIPO: CLIENT SERVER SUITE, CARACTERÍSTICAS ADICIONAIS: ANTIVÍRUS CORPORATIVO, ATUALIZ | Qtd: 10.0 | R$ Unit: 31482.85
+  - Item 2: "SOFTWARE" APLICAÇÃO: INFORMÁTICA, TIPO: CLIENT SERVER SUITE, CARACTERÍSTICAS ADICIONAIS: ANTIVÍRUS CORPORATIVO, ATUALIZ | Qtd: 150.0 | R$ Unit: 6218.75
+  - Item 3: "SOFTWARE" APLICAÇÃO: INFORMÁTICA, TIPO: CLIENT SERVER SUITE, CARACTERÍSTICAS ADICIONAIS: ANTIVÍRUS CORPORATIVO, ATUALIZ | Qtd: 5.0 | R$ Unit: 19166.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "43052497000102",
+    "razaoSocial": "DEPARTAMENTO DE ESTRADAS DE RODAGEM",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-24T09:18:49",
+  "dataAtualizacao": "2026-09-24T09:18:49",
+  "objetoCompra": "Aquisição por meio ATA para obter licenças da Microsoft para servidores e banco de dados, destinadas à operação, segurança e disponibilidade da infraestrutura de TI do data center institucional.",
+  "dataAberturaProposta": "2026-09-25T08:00:00",
+  "dataEncerramentoProposta": "2026-10-08T10:00:00",
+  "dataPublicacaoPncp": "2026-09-24T09:18:49",
+  "dataAtualizacaoGlobal": "2026-09-24T09:19:51",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoIbge": "3550308",
+    "codigoUnidade": "262201",
+    "nomeUnidade": "ESP - DEPTO. ESTRADAS DE RODAGEM-DER"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=26220105007512026",
+  "linkProcessoEletronico": "https://www.portal.sei.sp.gov.br/sei",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "43052497000102-1-000496/2026",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 496,
+  "emendaParlamentar": null,
+  "numeroCompra": "751",
+  "processo": "139.00098379/2025-44",
+  "informacaoComplementar": null,
+  "valorTotalEstimado": 1343472.65,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-24T09:18:49"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

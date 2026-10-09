@@ -1,0 +1,85 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: GOIANIA CAMARA MUNICIPAL DE GOIANIA (Goiânia/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para fornecimento de renovação de subscrição, garantia e suporte para solução de segurança em Firewall Fortinet FortiGate 200F, para ativação de recursos de proteção contra ataques cibernéticos ao sistema de informática da Câmara Municipal de Goiânia, conforme condições, quantidades e especificações estabelecidas neste Edital e seus Anexos.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-14T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92672605000382026
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: GOIÂNIA/GO]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00001727000193/compras/2026/25/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00001727000193/compras/2026/25/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00001727000193/compras/2026/25/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00001727000193/compras/2026/25/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00001727000193/compras/2026/25/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00001727000193/compras/2026/25/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00001727000193/compras/2026/25/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software Licenciamento Fortinet FortiGate 200F –  | Qtd: 2.0 | R$ Unit: 0.0
+  - Item 2: Contratos de  Prestação de Serviços de Assistência Técnica eCientífica Suporte FortiAnalyzer/FortiCare – SKU FC3-10-LV0V | Qtd: 1.0 | R$ Unit: 0.0
+  - Item 3: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software Licença de assinatura para o serviço Ind | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "00001727000193",
+    "razaoSocial": "GOIANIA CAMARA MUNICIPAL DE GOIANIA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-24T11:04:25",
+  "dataAtualizacao": "2026-09-24T11:04:25",
+  "numeroControlePNCP": "00001727000193-1-000025/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 25,
+  "emendaParlamentar": null,
+  "numeroCompra": "38",
+  "processo": "00000.002839.2026-20",
+  "srp": false,
+  "objetoCompra": "Contratação de empresa para fornecimento de renovação de subscrição, garantia e suporte para solução de segurança em Firewall Fortinet FortiGate 200F, para ativação de recursos de proteção contra ataques cibernéticos ao sistema de informática da Câmara Municipal de Goiânia, conforme condições, quantidades e especificações estabelecidas neste Edital e seus Anexos.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-25T08:00:00",
+  "dataEncerramentoProposta": "2026-10-14T09:00:00",
+  "dataPublicacaoPncp": "2026-09-24T11:04:25",
+  "dataAtualizacaoGlobal": "2026-09-24T11:05:40",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Goiânia",
+    "codigoIbge": "5208707",
+    "codigoUnidade": "926726",
+    "nomeUnidade": "CÂMARA MUNICIPAL DE GOIÂNIA/GO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92672605000382026",
+  "linkProcessoEletronico": "https://suap.camaragyn.go.gov.br/processo_eletronico/processo/76836/",
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-24T11:04:25"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

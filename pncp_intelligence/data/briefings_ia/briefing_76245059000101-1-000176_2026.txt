@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PRIMEIRO DE MAIO (Primeiro de Maio/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços de gestão, emissão e fornecimento de vale-alimentação (em cartão magnético/eletrônico) para atender aos servidores públicos estatutários, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.
+VALOR ESTIMADO: R$ 100.00
+PRAZO PARA PROPOSTAS: 2026-10-15T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98778905000742026
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

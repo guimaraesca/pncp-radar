@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: METRO DF (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de solução tecnológica especializada, sob a modalidade de Software as a Service (SaaS), baseada em arquitetura de computação em nuvem (Cloud Native), para atender às necessidades de geração, emissão autorizada, escrituração fiscal, monitoramento e consolidação automatizada de obrigações acessórias eletrônicas e digitais federais, distritais e municipais, contemplando a emissão de Notas Fiscais Eletrônicas (NF-e Modelo 55) e Notas Fiscais de Serviço Eletrônicas (NFS-e Padrão Nacional)
+VALOR ESTIMADO: R$ 0.00
+PRAZO PARA PROPOSTAS: 2026-10-22T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92504605000132026
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

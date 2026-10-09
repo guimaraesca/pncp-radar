@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO INTERMUNICIPAL DE SAUDE DA BAIXADA FLUMINENSE - CISBAF (Nova Iguaçu/RJ)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de solução de firewall com fornecimento, instalação, configuração e suporte
+técnico, com o objetivo de proteger a infraestrutura de rede da instituição contra ameaças
+cibernéticas, garantindo alta disponibilidade, controle de acesso e integridade dos dados,
+de acordo com as especificações descritas no Termo de Referência
+VALOR ESTIMADO: R$ 23.500,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/03681070000140-1-000012/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03681070000140/compras/2025/12/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03681070000140/compras/2025/12/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de Instalação, Transição e Configuração / Parametrização de Software Serviços de Instalação, Transição e Config | Qtd: 1.0 | R$ Unit: 5500.0
+  - Item 2: Licenciamento de Direitos  Permanentes de Uso de Outros Softwares / Programas de Computador Licenciamento de Direitos  P | Qtd: 12.0 | R$ Unit: 1500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 23500.0,
+  "orgaoEntidade": {
+    "cnpj": "03681070000140",
+    "razaoSocial": "CONSORCIO INTERMUNICIPAL DE SAUDE DA BAIXADA FLUMINENSE - CISBAF",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "dataInclusao": "2025-08-11T01:15:57",
+  "dataAtualizacao": "2025-08-11T01:15:57",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 12,
+  "emendaParlamentar": null,
+  "numeroCompra": "12",
+  "processo": "17/2025",
+  "objetoCompra": "Contratação de solução de firewall com fornecimento, instalação, configuração e suporte\ntécnico, com o objetivo de proteger a infraestrutura de rede da instituição contra ameaças\ncibernéticas, garantindo alta disponibilidade, controle de acesso e integridade dos dados,\nde acordo com as especificações descritas no Termo de Referência",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-11T01:15:57",
+  "dataAtualizacaoGlobal": "2025-08-11T01:19:10",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Nova Iguaçu",
+    "codigoUnidade": "926669",
+    "nomeUnidade": "ERJ- INT. DE SAUDE DA BAIXADA FLUMINENSE",
+    "codigoIbge": "3303500"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "03681070000140-1-000012/2025",
+  "valorTotalEstimado": 23500.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,11 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: JUSTICA FEDERAL DE PRIMEIRA INSTANCIA (Curitiba/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços de assistência odontológica, mediante rede credenciada/conveniada/cooperada/contratada e/ou própria, aos servidores e magistrados (ativos e inativos) da Justiça Federal de 1.º Grau - SJPR e a seus dependentes e pensionistas. 
+
+VALOR ESTIMADO: R$ 29.58
+PRAZO PARA PROPOSTAS: 2026-10-15T14:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=09001805001022026
+SELO LOGÍSTICO: [BASE: JOINVILLE | Curitiba/PR (130km)]
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+DISTÂNCIA ESTIMADA: 130 km

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DE ESTADO DA SAUDE (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação para fornecimento de licenças de firewall  
+VALOR ESTIMADO: R$ 2.900.121,46
+PRAZO PARA PROPOSTAS: 2025-08-18T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=09010205902452025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46374500000194/compras/2025/7104/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Firewall | Qtd: 1.0 | R$ Unit: 2900121.46
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 2405000.0,
+  "orgaoEntidade": {
+    "cnpj": "46374500000194",
+    "razaoSocial": "SECRETARIA DE ESTADO DA SAUDE",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-08-04T07:38:55",
+  "dataAtualizacao": "2025-08-04T07:38:55",
+  "numeroControlePNCP": "46374500000194-1-007104/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 7104,
+  "emendaParlamentar": null,
+  "numeroCompra": "90245",
+  "processo": "60736/2025-16",
+  "srp": false,
+  "objetoCompra": "Contratação para fornecimento de licenças de firewall  ",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=09010205902452025",
+  "dataAberturaProposta": "2025-08-04T08:00:00",
+  "dataEncerramentoProposta": "2025-08-18T10:00:00",
+  "dataPublicacaoPncp": "2025-08-04T07:38:55",
+  "dataAtualizacaoGlobal": "2025-10-01T08:06:24",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoIbge": "3550308",
+    "codigoUnidade": "090102",
+    "nomeUnidade": "ESP-COORD. GERAL ADMINIST. - CGA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=09010205902452025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 2900121.46,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

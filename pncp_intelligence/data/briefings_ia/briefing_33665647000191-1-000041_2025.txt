@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO FEDERAL DE ENGENHARIA E AGRONOMIA (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Formação de Ata de Registro de Preços para a contratação de empresa especializada na prestação de serviços presenciais ou remotos de desenvolvimento, manutenção e sustentação de software, com práticas ágeis, em regime de empreitada por preço unitário, conforme Termo de Referência de TIC GIT nº 4/2025
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-04-22T08:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92517505900032025
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/33665647000191/compras/2025/41/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 15.0 | R$ Unit: 313592.64
+  - Item 2: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 15.0 | R$ Unit: 265431.6
+  - Item 3: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 60.0 | R$ Unit: 382618.44
+  - Item 4: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 12.0 | R$ Unit: 247283.16
+  - Item 5: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 12.0 | R$ Unit: 384809.4
+  - Item 6: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 8.0 | R$ Unit: 426889.2
+  - Item 7: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 8.0 | R$ Unit: 329098.2
+  - Item 8: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 15.0 | R$ Unit: 301031.4
+  - Item 9: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 12.0 | R$ Unit: 432849.24
+  - Item 10: Serviços Auxiliares de Tecnologia Informação e Comunicação | Qtd: 6.0 | R$ Unit: 301031.4
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "33665647000191",
+    "razaoSocial": "CONSELHO FEDERAL DE ENGENHARIA E AGRONOMIA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2025-04-04T07:48:25",
+  "dataAtualizacao": "2025-04-04T07:48:25",
+  "numeroControlePNCP": "33665647000191-1-000041/2025",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 41,
+  "emendaParlamentar": null,
+  "numeroCompra": "90003",
+  "processo": "00.004332/2024-49",
+  "objetoCompra": "Formação de Ata de Registro de Preços para a contratação de empresa especializada na prestação de serviços presenciais ou remotos de desenvolvimento, manutenção e sustentação de software, com práticas ágeis, em regime de empreitada por preço unitário, conforme Termo de Referência de TIC GIT nº 4/2025",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=92517505900032025",
+  "dataAberturaProposta": "2025-04-04T08:00:00",
+  "dataEncerramentoProposta": "2025-04-22T08:30:00",
+  "dataPublicacaoPncp": "2025-04-04T07:48:25",
+  "dataAtualizacaoGlobal": "2025-07-17T15:55:51",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoIbge": "5300108",
+    "codigoUnidade": "925175",
+    "nomeUnidade": "CONSELHO FED.DE ENGENHARIA E AGRONOMIA/DF"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92517505900032025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE VARGEM GRANDE PAULISTA (Vargem Grande Paulista/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para fornecimento de serviços de locação de Software Integrado de Gestão para a Administração Pública Municipal de Vargem Grande Paulista, incluindo a instalação de licenças, configuração e parametrização do sistema, conversão de dados pré-existentes, suporte técnico e treinamentos para os usuários, além de oferecer manutenção preventiva, corretiva e evolutiva, através da disponibilização dos serviços em nuvem
+VALOR ESTIMADO: R$ 3.611.972,50
+PRAZO PARA PROPOSTAS: 2026-10-06T08:29:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/51455087000122-1-000121/2026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/51455087000122/compras/2026/121/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/51455087000122/compras/2026/121/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licença de Uso dos Sistemas (Prefeitura Municipal) | Qtd: 1.0 | R$ Unit: 247995.75
+  - Item 2: Conversão/Migração de Dados Pré-existentes (Prefeitura Municipal) | Qtd: 1.0 | R$ Unit: 66749.75
+  - Item 3: Treinamento de Usuários (Prefeitura Municipal) | Qtd: 200.0 | R$ Unit: 236.5
+  - Item 4: Disponibilização dos Sistemas instalados em Data Center (ambiente de nuvem) (Prefeitura Municipal) | Qtd: 12.0 | R$ Unit: 26924.75
+  - Item 5: Suporte Presencial para atendimento de suporte de primeiro nível alocados nas dependências da entidade (Prefeitura Munic | Qtd: 2.0 | R$ Unit: 25724.75
+  - Item 6: Manutenção dos Sistemas Contratados de Forma Permanente (Prefeitura Municipal) | Qtd: 12.0 | R$ Unit: 211749.75
+  - Item 7: Licença de Uso dos Sistemas ( Câmara Municipal) | Qtd: 1.0 | R$ Unit: 22374.75
+  - Item 8: Conversão/Migração de Dados Pré-existentes ( Câmara Municipal) | Qtd: 1.0 | R$ Unit: 37249.75
+  - Item 9: Treinamento de Usuários  ( Câmara Municipal) | Qtd: 10.0 | R$ Unit: 236.5
+  - Item 10: Disponibilização dos Sistemas instalados em Data Center (ambiente de nuvem)  (Câmara Municipal) | Qtd: 12.0 | R$ Unit: 8424.75
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "51455087000122",
+    "razaoSocial": "MUNICIPIO DE VARGEM GRANDE PAULISTA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-21T15:18:14",
+  "dataAtualizacao": "2026-09-21T15:18:14",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 121,
+  "emendaParlamentar": null,
+  "numeroCompra": "159/2026",
+  "processo": "085/2026",
+  "objetoCompra": "Contratação de empresa especializada para fornecimento de serviços de locação de Software Integrado de Gestão para a Administração Pública Municipal de Vargem Grande Paulista, incluindo a instalação de licenças, configuração e parametrização do sistema, conversão de dados pré-existentes, suporte técnico e treinamentos para os usuários, além de oferecer manutenção preventiva, corretiva e evolutiva, através da disponibilização dos serviços em nuvem",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-22T09:00:00",
+  "dataEncerramentoProposta": "2026-10-06T08:29:00",
+  "dataPublicacaoPncp": "2026-09-21T15:18:14",
+  "dataAtualizacaoGlobal": "2026-09-21T15:18:15",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Vargem Grande Paulista",
+    "codigoUnidade": "1097",
+    "nomeUnidade": "PM Vargem Grande Paulista",
+    "codigoIbge": "3556453"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "51455087000122-1-000121/2026",
+  "valorTotalEstimado": 3611972.5,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações"
+}

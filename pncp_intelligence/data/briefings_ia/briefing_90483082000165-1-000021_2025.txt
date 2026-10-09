@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO JOAO DA URTIGA (São João da Urtiga/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA VOLTADOS À ELABORAÇÃO, ORGANIZAÇÃO E ACOMPANHAMENTO DA PRESTAÇÃO DE CONTAS DOS RECURSOS FINANCEIROS RECEBIDOS PELO MUNICÍPIO. ESSES RECURSOS SÃO PROVENIENTES DE CONVÊNIOS, CONTRATOS DE REPASSE, TERMOS DE FOMENTO, TERMOS DE COLABORAÇÃO, TRANSFERÊNCIAS VOLUNTÁRIAS E OUTROS INSTRUMENTOS FIRMADOS COM ÓRGÃOS E ENTIDADES DO GOVERNO FEDERAL, ESTADUAL E INSTITUIÇÕES PRIVADAS.
+VALOR ESTIMADO: R$ 36.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/90483082000165-1-000021/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/90483082000165/compras/2025/21/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/90483082000165/compras/2025/21/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1001: PRESTAÇÃO DE SERVIÇOS - Contratação de empresa especializada para prestação de serviços de assessoria e consultoria técn | Qtd: 12.0 | R$ Unit: 3000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "90483082000165",
+    "razaoSocial": "MUNICIPIO DE SAO JOAO DA URTIGA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 36000.0,
+  "dataInclusao": "2025-08-07T15:34:58",
+  "dataAtualizacao": "2025-08-07T15:34:58",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "São João da Urtiga",
+    "codigoUnidade": "01",
+    "nomeUnidade": "MUNICÍPIO DE SÃO JOÃO DA URTIGA",
+    "codigoIbge": "4318424"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 21,
+  "emendaParlamentar": null,
+  "numeroCompra": "14",
+  "processo": "00014987_00000034_2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA VOLTADOS À ELABORAÇÃO, ORGANIZAÇÃO E ACOMPANHAMENTO DA PRESTAÇÃO DE CONTAS DOS RECURSOS FINANCEIROS RECEBIDOS PELO MUNICÍPIO. ESSES RECURSOS SÃO PROVENIENTES DE CONVÊNIOS, CONTRATOS DE REPASSE, TERMOS DE FOMENTO, TERMOS DE COLABORAÇÃO, TRANSFERÊNCIAS VOLUNTÁRIAS E OUTROS INSTRUMENTOS FIRMADOS COM ÓRGÃOS E ENTIDADES DO GOVERNO FEDERAL, ESTADUAL E INSTITUIÇÕES PRIVADAS.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T15:34:58",
+  "dataAtualizacaoGlobal": "2025-08-07T15:35:34",
+  "numeroControlePNCP": "90483082000165-1-000021/2025",
+  "valorTotalEstimado": 36000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CITTÀ INFORMÁTICA LTDA"
+}

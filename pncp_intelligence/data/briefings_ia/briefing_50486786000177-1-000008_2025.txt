@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: RIFAINA CAMARA MUNICIPAL (Rifaina/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: SERVIÇOS TÉCNICOS DE CONSULTORIA EM GESTÃO ADMINISTRATIVA PARA ACOMPANHAMENTO DE TODAS AS ETAPAS DO CONCURSO PÚBLICO DA CÂMARA MUNICIPAL DE RIFAINA, PARA ATENDIMENTO DAS NECESSIDADES DO SETOR DE ADMINISTRAÇÃO DO LEGISLATIVO.
+VALOR ESTIMADO: R$ 9.800,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://conectagov.com.br/alertagov/transparencia/?menu=lista&id_orgao=6&id_licita=679
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/50486786000177/compras/2025/8/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Proposta para todos os itens | Qtd: 1.0 | R$ Unit: 9800.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 9000.0,
+  "orgaoEntidade": {
+    "cnpj": "50486786000177",
+    "razaoSocial": "RIFAINA CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-25T10:39:38",
+  "dataAtualizacao": "2025-03-25T10:39:38",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 8,
+  "emendaParlamentar": null,
+  "numeroCompra": "7",
+  "processo": "7",
+  "objetoCompra": "SERVIÇOS TÉCNICOS DE CONSULTORIA EM GESTÃO ADMINISTRATIVA PARA ACOMPANHAMENTO DE TODAS AS ETAPAS DO CONCURSO PÚBLICO DA CÂMARA MUNICIPAL DE RIFAINA, PARA ATENDIMENTO DAS NECESSIDADES DO SETOR DE ADMINISTRAÇÃO DO LEGISLATIVO.",
+  "informacaoComplementar": "SERVIÇOS TÉCNICOS DE CONSULTORIA EM GESTÃO ADMINISTRATIVA PARA ACOMPANHAMENTO DE TODAS AS ETAPAS DO CONCURSO PÚBLICO DA CÂMARA MUNICIPAL DE RIFAINA, PARA ATENDIMENTO DAS NECESSIDADES DO SETOR DE ADMINISTRAÇÃO DO LEGISLATIVO.\r\n",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-25T10:39:38",
+  "dataAtualizacaoGlobal": "2025-03-28T14:29:26",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Rifaina",
+    "codigoUnidade": "1",
+    "nomeUnidade": "CÂMARA MUNICIPAL DE RIFAINA",
+    "codigoIbge": "3543600"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://conectagov.com.br/alertagov/transparencia/?menu=lista&id_orgao=6&id_licita=679",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "50486786000177-1-000008/2025",
+  "valorTotalEstimado": 9800.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software"
+}

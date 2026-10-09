@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO INTERMUNICIPAL DE SAUDE DAS VERTENTES (São João del Rei/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa prestadora de serviços de locação e cessão de direito de uso de software de gestão em consórcio de saúde, na modalidade SaaS (Software as a Service) bem como atualizações, customizações conforme necessidade, manutenção, suporte e treinamentos, em atendimento ao Consórcio Intermunicipal de Saúde das Vertentes - CISVER.
+VALOR ESTIMADO: R$ 12.590,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/01098929000168-1-000007/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01098929000168/compras/2025/7/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: MODULO I GESTAO CONSÓRCIO DE SAÚDE | Qtd: 2.0 | R$ Unit: 4795.0
+  - Item 2: MODULO II TRANSPORTE | Qtd: 2.0 | R$ Unit: 1500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01098929000168",
+    "razaoSocial": "CONSORCIO INTERMUNICIPAL DE SAUDE DAS VERTENTES",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-03-21T17:17:42",
+  "dataAtualizacao": "2025-03-24T14:30:04",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "São João del Rei",
+    "codigoUnidade": "51001",
+    "nomeUnidade": "CONSÓRCIO INTERMUN DE SAÚDE DAS VERT-CISVER",
+    "codigoIbge": "3162500"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, VIII",
+    "descricao": "Dispensa de Licitação: nos casos de emergência ou de calamidade pública, quando caracterizada urgência de atendimento de situação que possa ocasionar prejuízo ou comprometer a continuidade dos serviços públicos ou a segurança de pessoas, obras, serviços, equipamentos e outros bens, públicos ou particulares, e somente para aquisição dos bens necessários ao atendimento da situação emergencial ou calamitosa e para as parcelas de obras e serviços que possam ser concluídas no prazo máximo de 1 (um) ano, contado da data de ocorrência da emergência ou da calamidade, vedadas a prorrogação dos respectivos contratos e a recontratação de empresa já contratada com base no disposto neste inciso",
+    "codigo": 38
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Dispensa de Licitação (Emergencial) conforme art.75, inc.VIII, da Lei 14.133/2021 para evitar a paralização dos processos administrativos e assistenciais evitando lacunas que poderiam comprometer o atendimento aos munícipes.",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 7,
+  "emendaParlamentar": null,
+  "numeroCompra": "00072025",
+  "processo": "00072025",
+  "objetoCompra": "Contratação de empresa prestadora de serviços de locação e cessão de direito de uso de software de gestão em consórcio de saúde, na modalidade SaaS (Software as a Service) bem como atualizações, customizações conforme necessidade, manutenção, suporte e treinamentos, em atendimento ao Consórcio Intermunicipal de Saúde das Vertentes - CISVER.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-21T17:17:42",
+  "dataAtualizacaoGlobal": "2025-03-24T14:30:10",
+  "numeroControlePNCP": "01098929000168-1-000007/2025",
+  "valorTotalEstimado": 12590.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "SH3 Informática Ltda."
+}

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO MARANHAO - DEFENSORIA PUBLICA DO ESTADO DO MARANHAO (São Luís/MA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Licenciamento de uso de plataforma digital (SaaS: Software as a Service), para gerenciamento da atividade de conciliação, mediação e negociação online, para atender a demanda institucional da DPE nas condições do Edital e seus anexos.
+VALOR ESTIMADO: R$ 1.472.400,00
+PRAZO PARA PROPOSTAS: 2025-06-12T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=45374705900132025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00820295000142/compras/2025/34/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como Servico - Saas | Qtd: 1.0 | R$ Unit: 1472400.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00820295000142",
+    "razaoSocial": "ESTADO DO MARANHAO - DEFENSORIA PUBLICA DO ESTADO DO MARANHAO",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 836325.0,
+  "dataInclusao": "2025-05-05T07:19:00",
+  "dataAtualizacao": "2025-05-29T09:05:59",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 34,
+  "emendaParlamentar": null,
+  "numeroCompra": "90013",
+  "processo": "0001154.110000931",
+  "objetoCompra": "Licenciamento de uso de plataforma digital (SaaS: Software as a Service), para gerenciamento da atividade de conciliação, mediação e negociação online, para atender a demanda institucional da DPE nas condições do Edital e seus anexos.",
+  "informacaoComplementar": "Em caso de discordância existente entre as especificações do objeto deste Pregão descritas no Comprasnet e aquelas constantes no Termo de Referência, prevalecerão as do Termo de Referência.     A licitação será realizada em ITEM ÚNICO. Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=45374705900132025",
+  "dataAberturaProposta": "2025-05-29T08:00:00",
+  "dataEncerramentoProposta": "2025-06-12T09:00:00",
+  "dataPublicacaoPncp": "2025-05-05T07:19:00",
+  "dataAtualizacaoGlobal": "2025-07-22T18:35:51",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "São Luís",
+    "codigoUnidade": "453747",
+    "nomeUnidade": "DEFENSORIA PÚBLICA DO ESTADO DO MARANHÃO",
+    "codigoIbge": "2111300"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "00820295000142-1-000034/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=45374705900132025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 1472400.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

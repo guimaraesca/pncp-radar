@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE NAQUE (Naque/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Constitui objeto da presente licitação o Registro de preços para contratação de empresa, para ofertar formação continuada aos professores e monitoramento dos alunos das escolas municipais pertencentes à Secretaria Municipal de Educação, em conformidade com as especificações técnicas constantes em anexo, mediante utilização de recursos próprios e recursos vinculados disponibilizados do FUNDEB –Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação.
+VALOR ESTIMADO: R$ 85.428,00
+PRAZO PARA PROPOSTAS: 2025-05-15T08:50:00
+LINK OFICIAL: https://www.naque.mg.gov.br/licitacoes
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01613208000149/compras/2025/28/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: formação continuada aos professores e monitoramento dos alunos | Qtd: 1.0 | R$ Unit: 85428.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01613208000149",
+    "razaoSocial": "MUNICIPIO DE NAQUE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 85140.0,
+  "dataInclusao": "2025-05-07T13:10:42",
+  "dataAtualizacao": "2025-05-07T13:10:42",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Naque",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE NAQUE (MG)",
+    "codigoIbge": "3144359"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.naque.mg.gov.br/licitacoes",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 28,
+  "emendaParlamentar": null,
+  "numeroCompra": "11",
+  "processo": "11",
+  "objetoCompra": "Constitui objeto da presente licitação o Registro de preços para contratação de empresa, para ofertar formação continuada aos professores e monitoramento dos alunos das escolas municipais pertencentes à Secretaria Municipal de Educação, em conformidade com as especificações técnicas constantes em anexo, mediante utilização de recursos próprios e recursos vinculados disponibilizados do FUNDEB –Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-30T08:00:00",
+  "dataEncerramentoProposta": "2025-05-15T08:50:00",
+  "dataPublicacaoPncp": "2025-05-07T13:10:42",
+  "dataAtualizacaoGlobal": "2025-05-23T13:27:01",
+  "numeroControlePNCP": "01613208000149-1-000028/2025",
+  "valorTotalEstimado": 85428.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software"
+}

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DA PB (João Pessoa/PB)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: DATA CENTER VIRTUAL
+VALOR ESTIMADO: R$ 35.298,24
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/09122706000109-1-000014/2025
+BASE LOGÍSTICA COMPATÍVEL: Recife (100 a 200 km)
+SELO LOGÍSTICO: [BASE: RECIFE | João Pessoa/PB (120km)]
+DISTÂNCIA ESTIMADA DA BASE: 120 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/09122706000109/compras/2025/14/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇO terceiro pessoa jurídica, com detalhamento conforme Termo de Referência.  | Qtd: 1.0 | R$ Unit: 35298.24
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "09122706000109",
+    "razaoSocial": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DA PB",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 35298.24,
+  "dataInclusao": "2025-08-05T09:04:51",
+  "dataAtualizacao": "2025-08-05T09:04:51",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 14,
+  "emendaParlamentar": null,
+  "numeroCompra": "31201-004",
+  "processo": "31.201.000616.2025",
+  "objetoCompra": "DATA CENTER VIRTUAL",
+  "informacaoComplementar": "Contratação de Data Center Virtual para implantação de soluções internas do DERPB",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T09:04:51",
+  "dataAtualizacaoGlobal": "2025-08-05T09:16:33",
+  "numeroControlePNCP": "09122706000109-1-000014/2025",
+  "unidadeOrgao": {
+    "ufNome": "Paraíba",
+    "ufSigla": "PB",
+    "municipioNome": "João Pessoa",
+    "codigoUnidade": "31201",
+    "nomeUnidade": "DEPARTAMENTO DE ESTRADAS DE RODAGEM",
+    "codigoIbge": "2507507"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "valorTotalEstimado": 35298.24,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Central de Compras da Paraíba/PB"
+}

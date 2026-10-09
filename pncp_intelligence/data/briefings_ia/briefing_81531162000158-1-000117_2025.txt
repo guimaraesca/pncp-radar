@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE FORQUILHINHA (Forquilhinha/SC)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: EMPENHO REFERENTE Á TAXA DE INSCRIÇÃO PARA CURSO DE CAPACITAÇÃO PARA AS CONSELHEIRAS TUTELARES DO MUNICÍPIO DE FORQUILHINHA-SC
+VALOR ESTIMADO: R$ 900,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/81531162000158-1-000117/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/81531162000158/compras/2025/117/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Inscrição para Capacitação Do XIX Encontro Estadual Para Conselheiros Tutelares E Atores Do Sistema De Garantia De Direi | Qtd: 2.0 | R$ Unit: 450.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "81531162000158",
+    "razaoSocial": "MUNICIPIO DE FORQUILHINHA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-05-05T10:03:05",
+  "dataAtualizacao": "2025-05-05T10:03:05",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 117,
+  "emendaParlamentar": null,
+  "numeroCompra": "7595",
+  "processo": "7595",
+  "objetoCompra": "EMPENHO REFERENTE Á TAXA DE INSCRIÇÃO PARA CURSO DE CAPACITAÇÃO PARA AS CONSELHEIRAS TUTELARES DO MUNICÍPIO DE FORQUILHINHA-SC",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-05-05T10:03:05",
+  "dataAtualizacaoGlobal": "2025-05-05T10:03:07",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Forquilhinha",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE FORQUILHINHA - SC",
+    "codigoIbge": "4205456"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "81531162000158-1-000117/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 900.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas"
+}

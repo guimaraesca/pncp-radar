@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ASSOCIACAO REGIONAL DE SAUDE DO SUDOESTE (Francisco Beltrão/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento de licenças de uso de plataforma corporativa de Inteligência Artificial Generativa, disponibilizada na modalidade de Software como Serviço (SaaS) baseada em computação em nuvem, incluindo suporte técnico especializado e gerenciamento centralizado de usuários, para atender às demandas operacionais e administrativas das equipes técnicas do Consórcio Intermunicipal de Saúde do Sudoeste (CONSUD).
+VALOR ESTIMADO: R$ 36.771,00
+PRAZO PARA PROPOSTAS: 2026-10-06T08:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45840305000072026
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00333678000196/compras/2026/30/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como Servico - Saas Software como Servico - Saas SOLUÇÃO CORPORATIVA DE INTELIGÊNCIA ARTIFICIAL GENERATIVA DISP | Qtd: 12.0 | R$ Unit: 3064.25
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00333678000196",
+    "razaoSocial": "ASSOCIACAO REGIONAL DE SAUDE DO SUDOESTE",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-16T10:54:12",
+  "dataAtualizacao": "2026-09-16T10:54:12",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 30,
+  "emendaParlamentar": null,
+  "numeroCompra": "7",
+  "processo": "17/2026",
+  "objetoCompra": "Contratação de empresa especializada para o fornecimento de licenças de uso de plataforma corporativa de Inteligência Artificial Generativa, disponibilizada na modalidade de Software como Serviço (SaaS) baseada em computação em nuvem, incluindo suporte técnico especializado e gerenciamento centralizado de usuários, para atender às demandas operacionais e administrativas das equipes técnicas do Consórcio Intermunicipal de Saúde do Sudoeste (CONSUD).",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-17T08:30:00",
+  "dataEncerramentoProposta": "2026-10-06T08:30:00",
+  "dataPublicacaoPncp": "2026-09-16T10:54:12",
+  "dataAtualizacaoGlobal": "2026-09-16T10:54:12",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Francisco Beltrão",
+    "codigoUnidade": "458403",
+    "nomeUnidade": "MPR-CONSORCIO INTERM. SAÚDE SUDOESTE",
+    "codigoIbge": "4108403"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "00333678000196-1-000030/2026",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45840305000072026",
+  "linkProcessoEletronico": "https://viaprocesso.com.br/empresas/editais/2c1c7296-dd3d-46b6-a2d4-b03b8d5370b4",
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 36771.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-16T10:54:12"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

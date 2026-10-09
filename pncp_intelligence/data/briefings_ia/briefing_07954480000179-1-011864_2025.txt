@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO CEARA (Fortaleza/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição das licenças 50(cinquenta) do Microsoft Office 365 Business Standard, 05 (cinco) Power BI, 01(um) Coreldraw Graphics Suite, 01 (um) Pacote Adobe Creative Cloud e 02(dois) MS Project Plan 3.
+VALOR ESTIMADO: R$ 48.238,62
+PRAZO PARA PROPOSTAS: 2025-08-27T09:06:37
+LINK OFICIAL: https://pncp.gov.br/app/editais/07954480000179-1-011864/2025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2025/11864/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ASSINATURA E LICENCA DE USO DE SOFTWARE - POWER BI PRO
+ | Qtd: 5.0 | R$ Unit: 612.43
+  - Item 2: ASSINATURA E LICENCA DE USO DE SOFTWARE - LICENCA DE SOFTWARE, USO DE SOFTWARE MICROSOFT PROJECT PLANO 3
+ | Qtd: 2.0 | R$ Unit: 1608.24
+  - Item 3: LICENCA DE SOFTWARE, PACOTE COMPLETO DO SOFTWARE CORELDRAW GRAPHICS SUITE, EMBALAGEM 1.0 UNIDADE | Qtd: 1.0 | R$ Unit: 2560.0
+  - Item 4: ASSINATURA E LICENCA DE USO DE SOFTWARE - ASSINATURA E LICENCA DE USO DE SOFTWARE ADOBE CREATIVE CLOUD COMPLETO: CREATIV | Qtd: 1.0 | R$ Unit: 5299.99
+  - Item 5: SOFTWARE, OFFICE 365 BUSINESS MICROSOFT, EMBALAGEM 1.0 UNIDADE | Qtd: 50.0 | R$ Unit: 682.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07954480000179",
+    "razaoSocial": "ESTADO DO CEARA",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 46302.0,
+  "dataInclusao": "2025-08-04T10:37:15",
+  "dataAtualizacao": "2025-11-27T12:35:28",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 11864,
+  "emendaParlamentar": null,
+  "numeroCompra": "202516786",
+  "processo": "08001001761202547",
+  "objetoCompra": "Aquisição das licenças 50(cinquenta) do Microsoft Office 365 Business Standard, 05 (cinco) Power BI, 01(um) Coreldraw Graphics Suite, 01 (um) Pacote Adobe Creative Cloud e 02(dois) MS Project Plan 3.",
+  "informacaoComplementar": "Aquisição das licenças 50(cinquenta) do Microsoft Office 365 Business Standard, 05 (cinco) Power BI, 01(um) Coreldraw Graphics Suite, 01 (um) Pacote Adobe Creative Cloud e 02(dois) MS Project Plan 3 conforme especificações descritas no Termo de Referência.",
+  "dataAberturaProposta": "2025-08-04T13:00:00",
+  "dataEncerramentoProposta": "2025-08-27T09:06:37",
+  "dataPublicacaoPncp": "2025-08-04T10:37:15",
+  "dataAtualizacaoGlobal": "2025-11-27T12:35:28",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Fortaleza",
+    "codigoUnidade": "080001",
+    "nomeUnidade": "SECRETARIA DA INFRAESTRUTURA",
+    "codigoIbge": "2304400"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "07954480000179-1-011864/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 48238.62,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria do Planejamento e Gestão do Ceará"
+}

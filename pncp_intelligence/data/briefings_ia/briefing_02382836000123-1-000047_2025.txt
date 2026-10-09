@@ -1,0 +1,85 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RUBIATABA (Rubiataba/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: SOLICITAÇÃO PARA CONTRATAÇÃO DE  EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO (TI) NO MUNICÍPIO DE RUBIATABA,  ESSENCIAL PARA GARANTIR A MODERNIZAÇÃO, SEGURANÇA E EFICIÊNCIA DOS SISTEMAS E PROCESSOS ADMINISTRATIVOS, ALÉM DE OTIMIZAR A COMUNICAÇÃO E O ATENDIMENTO AO CIDADÃO. A IMPLEMENTAÇÃO E MANUTENÇÃO DE SOLUÇÕES TECNOLÓGICAS ADEQUADAS SÃO IMPRESCINDÍVEIS PARA ASSEGURAR O BOM FUNCIONAMENTO DAS ATIVIDADES DESSES SETORES, QUE DESEMPENHAM FUNÇÕES CRUCIAIS NA ADMINISTRAÇÃO PÚBLICA. A EMPRESA CONTRATADA SERÁ RESPONSÁVEL POR PRESTAR SUPORTE TÉCNICO, MANUTENÇÃO DE SISTEMAS, GESTÃO DE INFRAESTRUTURA DE TI, ALÉM DE PROPOR SOLUÇÕES INOVADORAS QUE ATENDAM ÀS NECESSIDADES ESPECÍFICAS DE CADA ÁREA,  SECRETARIAS: ADMINSTRAÇÃO, CONTROLE INTERNO, AGRICULTURA, CONSELHO TUTELAR, SEGURANÇA PUBLICA E OUTROS.
+VALOR ESTIMADO: R$ 145.500,42
+PRAZO PARA PROPOSTAS: 2025-05-22T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/02382836000123-1-000047/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/47/arquivos/14
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Município de Rubiataba, distribuídos entre as Secretaria de administração e demais secretarias do prédio administrativo. | Qtd: 12.0 | R$ Unit: 3838.7491
+  - Item 2: Fundo Municipal de Assistência Social, distribuído entre Secretaria de Promoção e Assistência Social, CRAS, CREAS, Conse | Qtd: 12.0 | R$ Unit: 2243.2857
+  - Item 3: Fundo Municipal de Educação e Cultura, distribuídas entre Secretaria de Educação, escolas na cidade e distritos: de Cruz | Qtd: 12.0 | R$ Unit: 6043.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "02382836000123",
+    "razaoSocial": "MUNICIPIO DE RUBIATABA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 59999.88,
+  "dataInclusao": "2025-05-07T09:52:50",
+  "dataAtualizacao": "2025-05-07T09:52:50",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Rubiataba",
+    "codigoUnidade": "10",
+    "nomeUnidade": "MUNICIPIO DE RUBIATABA",
+    "codigoIbge": "5218904"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 47,
+  "emendaParlamentar": null,
+  "numeroCompra": "(15102) | 12-0",
+  "processo": "2801/2025",
+  "objetoCompra": "SOLICITAÇÃO PARA CONTRATAÇÃO DE  EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO (TI) NO MUNICÍPIO DE RUBIATABA,  ESSENCIAL PARA GARANTIR A MODERNIZAÇÃO, SEGURANÇA E EFICIÊNCIA DOS SISTEMAS E PROCESSOS ADMINISTRATIVOS, ALÉM DE OTIMIZAR A COMUNICAÇÃO E O ATENDIMENTO AO CIDADÃO. A IMPLEMENTAÇÃO E MANUTENÇÃO DE SOLUÇÕES TECNOLÓGICAS ADEQUADAS SÃO IMPRESCINDÍVEIS PARA ASSEGURAR O BOM FUNCIONAMENTO DAS ATIVIDADES DESSES SETORES, QUE DESEMPENHAM FUNÇÕES CRUCIAIS NA ADMINISTRAÇÃO PÚBLICA. A EMPRESA CONTRATADA SERÁ RESPONSÁVEL POR PRESTAR SUPORTE TÉCNICO, MANUTENÇÃO DE SISTEMAS, GESTÃO DE INFRAESTRUTURA DE TI, ALÉM DE PROPOR SOLUÇÕES INOVADORAS QUE ATENDAM ÀS NECESSIDADES ESPECÍFICAS DE CADA ÁREA,  SECRETARIAS: ADMINSTRAÇÃO, CONTROLE INTERNO, AGRICULTURA, CONSELHO TUTELAR, SEGURANÇA PUBLICA E OUTROS.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-05-08T08:00:00",
+  "dataEncerramentoProposta": "2025-05-22T08:00:00",
+  "dataPublicacaoPncp": "2025-05-07T09:52:50",
+  "dataAtualizacaoGlobal": "2025-06-17T16:40:47",
+  "numeroControlePNCP": "02382836000123-1-000047/2025",
+  "valorTotalEstimado": 145500.42,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Megasoft Informática"
+}

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ARACAJU (Aracaju/SE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM COBERTURA FOTOGRÁFICA DE CORRIDA DE RUA, PARA COBERTURA DA 40ª CORRIDA CIDADE DE ARACAJU, QUE SERÁ REALIZADA NO DIA 29/03/2025
+VALOR ESTIMADO: R$ 22.000,00
+PRAZO PARA PROPOSTAS: 2025-03-25T16:00:00
+LINK OFICIAL: https://aracajucompras.se.gov.br/publico/WKF.aspx?code=SEJESP-DI0143/2025&validation=52820
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13128780009581/compras/2025/4/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13128780009581/compras/2025/4/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13128780009581/compras/2025/4/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13128780009581/compras/2025/4/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇO DE FOTOGRAFIA PROFISSIONAL. | Qtd: 1.0 | R$ Unit: 22000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 17800.0,
+  "orgaoEntidade": {
+    "cnpj": "13128780009581",
+    "razaoSocial": "MUNICIPIO DE ARACAJU",
+    "esferaId": "M",
+    "poderId": "E"
+  },
+  "dataInclusao": "2025-03-24T08:54:10",
+  "dataAtualizacao": "2025-03-24T08:54:10",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ASJB Consultoria S/C Ltda",
+  "dataAberturaProposta": "2025-03-24T09:00:00",
+  "dataEncerramentoProposta": "2025-03-25T16:00:00",
+  "dataPublicacaoPncp": "2025-03-24T08:54:10",
+  "dataAtualizacaoGlobal": "2025-07-11T11:43:15",
+  "unidadeOrgao": {
+    "ufNome": "Sergipe",
+    "ufSigla": "SE",
+    "municipioNome": "Aracaju",
+    "codigoIbge": "2800308",
+    "codigoUnidade": "13128780009581",
+    "nomeUnidade": "SECRETARIA MUNICIPAL DA JUVENTUDE E DO ESPORTE"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://aracajucompras.se.gov.br/publico/WKF.aspx?code=SEJESP-DI0143/2025&validation=52820",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 4,
+  "emendaParlamentar": null,
+  "numeroCompra": "143",
+  "processo": "DI0143/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM COBERTURA FOTOGRÁFICA DE CORRIDA DE RUA, PARA COBERTURA DA 40ª CORRIDA CIDADE DE ARACAJU, QUE SERÁ REALIZADA NO DIA 29/03/2025",
+  "informacaoComplementar": "A CIDADE DE ARACAJU COMPLETARÁ 170 ANOS NO DIA 17 DE MARÇO DE 2025. NO MÊS DO ANIVERSÁRIO DA CAPITAL REALIZA-SE, ALÉM DE VÁRIOS EVENTOS ARTÍSTICOS E CULTURAIS, EVENTOS ESPORTIVOS, A EXEMPLO DA CORRIDA DE RUA DO ESTADO.\n\nREPETINDO O SUCESSO DOS ANOS ANTERIORES, O PREFEITO ANUNCIOU A REALIZAÇÃO DA 40ª CORRIDA CIDADE DE ARACAJU, PARA O DIA 29 DE MARÇO DE 2025, COM EXPECTATIVA DE PARTICIPAÇÃO DE 10.000 (DEZ) MIL ATLETAS, SUPERANDO O ANO ANTERIOR QUE CONTAMOS COM 9.000 (NOVE) MIL INSCRITOS.\nA CORRIDA É TÃO APRECIADA E ESCOLHIDA POR SER PRATICADA PELA GRANDE PARTE DAS PESSOAS, É UMA PRÁTICA ESPORTIVA ONDE MULHERES E HOMENS DIVIDEM O MESMO ESPAÇO CONCOMITANTEMENTE E AO AR LIVRE, TEREMOS TAMBÉM A CATEGORIA JUVENIL E DE PESSOAS COM DEFICIÊNCIA (PCD).\nA REALIZAÇÃO DA 40ª CORRIDA DE RUA É RESULTADO DE UM TRABALHO DETALHADO PELA PREFEITURA MUNICIPAL DE ARACAJU, ATRAVÉS DA SECRETARIA DA JUVENTUDE E DO ESPORTE-SEJESP E ESTÁ A CADA DIA QUE PASSA GANHANDO MAIS PROPORÇÃO E DESTAQUE NO CIRCUITO DE CORRIDAS DE RUA DO PAÍS.\n\nFAZ-SE NECESSÁRIO A REFERIDA CONTRATAÇÃO PARA REALIZAR PRODUÇÃO, EDIÇÃO, TRATAMENTO, ARQUIVAMENTO E O ENVIO DO REGISTRO EM PEN-DRIVE PARA QUE SEJA DOCUMENTADO DE MANEIRA VÍVIDA E DE ALTA QUALIDADE. ESSAS IMAGENS CAPTURADAS SERÃO ESSENCIAIS PARA CRIAR UM ARQUIVO HISTÓRICO DA CELEBRAÇÃO, QUE PODE SER USADO PARA FUTURAS REFERÊNCIAS, PROMOÇÕES E MATERIAIS DE MARKETING.\n\nAS CONTRATAÇÕES DA CORRIDA DE ARACAJU ESTÃO PREVISTAS NO PLANEJAMENTO ESTRATÉGICO E ALINHADAS COM O PLANO DE CONTRATAÇÕES ANUAL DE 2025.\n\nJUSTIFICAMOS A CONTRATAÇÃO DA COBERTURA FOTOGRÁFICA DO EVENTO TENDO EM VISTA A NECESSIDADE DE FORNECERMOS UMA EQUIPE ESPECIALIZADA E RECONHECIDA PROFISSIONALMENTE COM EXPERTISE EM COBERTURA NESTE TIPO DE EVENTO.",
+  "numeroControlePNCP": "13128780009581-1-000004/2025",
+  "valorTotalEstimado": 22000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta"
+}

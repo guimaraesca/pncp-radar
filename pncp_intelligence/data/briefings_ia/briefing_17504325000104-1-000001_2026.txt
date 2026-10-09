@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CENTRAIS DE ABASTECIMENTO DE MINAS GERAIS (Contagem/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para execução de serviços técnicos de consultoria, adequação, implementação e conformidade à Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD).
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-19T09:30:00
+LINK OFICIAL: https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101453
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17504325000104/compras/2026/1/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 10001: Serviços técnicos de consultoria, adequação, implementação e conformidade à Lei n.º 13.709/2018 (Lei Geral de Proteção d | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "17504325000104",
+    "razaoSocial": "CENTRAIS DE ABASTECIMENTO DE MINAS GERAIS",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-09-24T15:30:57",
+  "dataAtualizacao": "2026-09-24T15:30:57",
+  "objetoCompra": "Contratação de empresa especializada para execução de serviços técnicos de consultoria, adequação, implementação e conformidade à Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD).",
+  "dataAberturaProposta": "2026-09-24T17:00:00",
+  "dataEncerramentoProposta": "2026-10-19T09:30:00",
+  "dataPublicacaoPncp": "2026-09-24T15:30:57",
+  "dataAtualizacaoGlobal": "2026-09-24T15:30:57",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Contagem",
+    "codigoIbge": "3118601",
+    "codigoUnidade": "000000001",
+    "nomeUnidade": "CONTAGEM-MG"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 13.303/2016, Art. 32, IV",
+    "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+    "codigo": 113
+  },
+  "linkSistemaOrigem": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101453",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "17504325000104-1-000001/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 1,
+  "emendaParlamentar": null,
+  "numeroCompra": "27/2026",
+  "processo": "27/2026",
+  "informacaoComplementar": "",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitações-E BB"
+}

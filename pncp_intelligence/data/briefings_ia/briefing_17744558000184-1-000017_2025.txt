@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SILVEIRANIA (Silveirânia/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa para prestação de serviços de Assessoria e Consultoria técnica com foco no desenvolvimento, implementação e monitoramento de programas de estímulo à Cultura com especial ênfase na operacionalização do ICMS Cultural.
+VALOR ESTIMADO: R$ 24.000,00
+PRAZO PARA PROPOSTAS: 2025-08-14T08:10:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Silveirania-5160/DE-15-2025-2025-410544
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17744558000184/compras/2025/17/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17744558000184/compras/2025/17/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de Assessoria e Consultoria técnica com foco no desenvolvimento, implementação e monitoramento de programas de  | Qtd: 12.0 | R$ Unit: 2000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "17744558000184",
+    "razaoSocial": "MUNICIPIO DE SILVEIRANIA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 10680.0,
+  "dataInclusao": "2025-08-04T14:39:58",
+  "dataAtualizacao": "2025-08-04T14:39:58",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Silveirânia",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Prefeitura Municipal de Silveirânia",
+    "codigoIbge": "3167301"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Silveirania-5160/DE-15-2025-2025-410544",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 17,
+  "emendaParlamentar": null,
+  "numeroCompra": "15",
+  "processo": "73/2025",
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa para prestação de serviços de Assessoria e Consultoria técnica com foco no desenvolvimento, implementação e monitoramento de programas de estímulo à Cultura com especial ênfase na operacionalização do ICMS Cultural.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-08-06T09:00:00",
+  "dataEncerramentoProposta": "2025-08-14T08:10:00",
+  "dataPublicacaoPncp": "2025-08-04T14:39:58",
+  "dataAtualizacaoGlobal": "2025-08-19T12:48:45",
+  "numeroControlePNCP": "17744558000184-1-000017/2025",
+  "valorTotalEstimado": 24000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

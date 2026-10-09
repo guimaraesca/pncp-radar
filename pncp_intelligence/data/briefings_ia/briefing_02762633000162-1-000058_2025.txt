@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FASI FUNDACAO DE ATENCAO A SAUDE DE ITABUNA (Itabuna/BA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para prestação de serviços de intermediação de publicidade legal com licenciamento de software com a finalidade de veiculação e publicação dos atos de licitação em jornal de grande circulação no Estado da Bahia e Diário oficial da União  
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-08-14T16:00:00
+LINK OFICIAL: sai.io.org.br/site/PublicadoPncp/142136?localConsulta=2&title=2&cod=2058
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02762633000162/compras/2025/58/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02762633000162/compras/2025/58/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02762633000162/compras/2025/58/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02762633000162/compras/2025/58/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02762633000162/compras/2025/58/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02762633000162/compras/2025/58/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02762633000162/compras/2025/58/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02762633000162/compras/2025/58/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02762633000162/compras/2025/58/arquivos/9
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PUBLICAÇÃO DE ATOS OFICIAIS E INSTITUCIONAIS NO DIARIO OFICIAL DA UNIÃO FORMATO 03 COLUNAS X 2 CM  | Qtd: 50.0 | R$ Unit: 0.0
+  - Item 2: PUBLICAÇÃO DE ATOS OFICIAIS E INSTITUCIONAIS EM JORNAL DIARIO DE GRANDE CIRCULAÇÃO NO ESTADO DA BAHIA 3 COLUNAS X 2CM | Qtd: 500.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "02762633000162",
+    "razaoSocial": "FASI FUNDACAO DE ATENCAO A SAUDE DE ITABUNA",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-11T11:04:10",
+  "dataAtualizacao": "2025-08-11T11:04:10",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 58,
+  "emendaParlamentar": null,
+  "numeroCompra": "012",
+  "processo": "128",
+  "objetoCompra": "Contratação de empresa para prestação de serviços de intermediação de publicidade legal com licenciamento de software com a finalidade de veiculação e publicação dos atos de licitação em jornal de grande circulação no Estado da Bahia e Diário oficial da União  ",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-08-12T07:00:00",
+  "dataEncerramentoProposta": "2025-08-14T16:00:00",
+  "dataPublicacaoPncp": "2025-08-11T11:04:10",
+  "dataAtualizacaoGlobal": "2025-08-15T12:54:59",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Itabuna",
+    "codigoUnidade": "2058",
+    "nomeUnidade": "Fundação de Atenção a Saúde de Itabuna - FASI",
+    "codigoIbge": "2914802"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "sai.io.org.br/site/PublicadoPncp/142136?localConsulta=2&title=2&cod=2058",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "02762633000162-1-000058/2025",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Instituto Municipal de Administração Pública - IMAP"
+}

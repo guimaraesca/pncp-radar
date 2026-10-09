@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RIO NOVO DO SUL (Rio Novo do Sul/ES)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de materiais e insumos de informática para estruturação, atualização e manutenção do parque tecnológico das Secretarias do Município de Rio Novo do Sul.
+VALOR ESTIMADO: R$ 8.360,44
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/27165711000172-1-000120/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/27165711000172/compras/2025/120/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CABO DE REDE CAT5E | Qtd: 4.0 | R$ Unit: 757.67
+  - Item 2: FITA DUPLA FACE TRANSPARENTE | Qtd: 3.0 | R$ Unit: 57.33
+  - Item 3: SSD 240GB SATA III | Qtd: 5.0 | R$ Unit: 191.0
+  - Item 4: BATERIA LITHIUM 3V PARA PLACA MÃE CR2032 | Qtd: 3.0 | R$ Unit: 14.33
+  - Item 5: MOUSE USB ÓPTICO | Qtd: 5.0 | R$ Unit: 12.63
+  - Item 6: SSD 480 GB SATA III | Qtd: 5.0 | R$ Unit: 286.0
+  - Item 7: MOUSE PAD | Qtd: 5.0 | R$ Unit: 14.0
+  - Item 8: TESTADOR DE CABOS MULTIFUNCIONAL | Qtd: 2.0 | R$ Unit: 39.67
+  - Item 9: PASTA TÉRMICA | Qtd: 3.0 | R$ Unit: 31.0
+  - Item 10: CABO HDMI 3 METROS | Qtd: 5.0 | R$ Unit: 66.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 6484.5,
+  "orgaoEntidade": {
+    "cnpj": "27165711000172",
+    "razaoSocial": "MUNICIPIO DE RIO NOVO DO SUL",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-04T10:30:45",
+  "dataAtualizacao": "2025-08-04T10:30:45",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 120,
+  "emendaParlamentar": null,
+  "numeroCompra": "000078",
+  "processo": "0RXNQD/2025",
+  "objetoCompra": "Aquisição de materiais e insumos de informática para estruturação, atualização e manutenção do parque tecnológico das Secretarias do Município de Rio Novo do Sul.",
+  "informacaoComplementar": "A presente solicitação de aquisição de materiais e insumos de informática visa atender à necessidade de atualização, manutenção preventiva e corretiva do parque tecnológico da Prefeitura Municipal de Rio Novo do Sul, garantindo a continuidade e eficiência dos serviços prestados à população.Com o avanço constante da tecnologia e a crescente demanda por serviços públicos digitais, torna-se indispensável manter os equipamentos de informática em pleno funcionamento, com níveis adequados de desempenho e compatibilidade com os sistemas atualmente utilizados pela administração pública. A aquisição dos materiais e insumos de informática é imprescindível para:- Garantir a manutenção corretiva dos equipamentos atualmente em uso;- Evitar interrupções nos serviços administrativos e operacionais;- Promover a atualização tecnológica dos setores com maior defasagem;- Assegurar a segurança da informação e o funcionamento adequado das redes internas;- Reduzir os custos com reparos emergenciais e aumentar a vida útil dos equipamentos.",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-04T10:30:45",
+  "dataAtualizacaoGlobal": "2025-08-04T10:41:20",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Rio Novo do Sul",
+    "codigoUnidade": "27165711000172-001",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE RIO NOVO DO SUL",
+    "codigoIbge": "3204401"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Conforme Processo",
+  "numeroControlePNCP": "27165711000172-1-000120/2025",
+  "valorTotalEstimado": 8360.44,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "E & L PRODUCOES DE SOFTWARE LTDA"
+}

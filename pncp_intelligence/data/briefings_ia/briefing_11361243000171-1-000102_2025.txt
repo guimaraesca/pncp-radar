@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SALGUEIRO (Salgueiro/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para prestação de serviços de assessoria contábil de tributação municipal, com foco em diagnóstico da estrutura tributária existente, planejamento estratégico para aumento da eficiência arrecadatória, orientação técnic
+VALOR ESTIMADO: R$ 120.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]Pdut43JKN81bwS_JDwYy1/jpurLmYOt7X92p4289a/kUv/MoezwGTpLTX_FoVYqX8Ur0EF92f/TBFWrNA8rbbXTVH5Xi6OgEwWodwS5cHBI=
+BASE LOGÍSTICA COMPATÍVEL: Recife (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PE]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11361243000171/compras/2025/102/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa especializada para prestação de serviços de assessoria contábil de tributação municipal, com foco | Qtd: 1.0 | R$ Unit: 120000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "11361243000171",
+    "razaoSocial": "MUNICIPIO DE SALGUEIRO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 120000.0,
+  "dataInclusao": "2025-07-04T11:50:38",
+  "dataAtualizacao": "2025-07-04T11:50:38",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Salgueiro",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SALGUEIRO",
+    "codigoIbge": "2612208"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, III, b",
+    "descricao": "Dispensa de Licitação: as propostas apresentadas consignaram preços manifestamente superiores aos praticados no mercado ou incompatíveis com os fixados pelos órgãos oficiais competentes",
+    "codigo": 21
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]Pdut43JKN81bwS_JDwYy1/jpurLmYOt7X92p4289a/kUv/MoezwGTpLTX_FoVYqX8Ur0EF92f/TBFWrNA8rbbXTVH5Xi6OgEwWodwS5cHBI=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 102,
+  "emendaParlamentar": null,
+  "numeroCompra": "023",
+  "processo": "050/2025",
+  "objetoCompra": "Contratação de empresa especializada para prestação de serviços de assessoria contábil de tributação municipal, com foco em diagnóstico da estrutura tributária existente, planejamento estratégico para aumento da eficiência arrecadatória, orientação técnic",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-04T11:50:38",
+  "dataAtualizacaoGlobal": "2025-07-04T11:50:51",
+  "numeroControlePNCP": "11361243000171-1-000102/2025",
+  "valorTotalEstimado": 120000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC"
+}

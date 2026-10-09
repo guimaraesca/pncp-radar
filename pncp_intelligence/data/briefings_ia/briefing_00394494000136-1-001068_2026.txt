@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO DA JUSTICA E SEGURANCA PUBLICA (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de desenvolvimento, manutenção e sustentação de software para o Ministério da Justiça e Segurança Pública - MJSP, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.
+VALOR ESTIMADO: R$ 107.412.480,00
+PRAZO PARA PROPOSTAS: 2026-10-07T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=20000505000582026
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00394494000136/compras/2026/1068/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Implementação Ágil de Software Item 1 - Desenvolvimento, manutenção e sustentação de software. Unidade de Medida: Horas  | Qtd: 768000.0 | R$ Unit: 139.86
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "00394494000136",
+    "razaoSocial": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-09-23T07:42:05",
+  "dataAtualizacao": "2026-09-23T07:42:05",
+  "anoCompra": 2026,
+  "sequencialCompra": 1068,
+  "emendaParlamentar": null,
+  "numeroCompra": "58",
+  "processo": "08006.000703/2025-56",
+  "objetoCompra": "Contratação de serviços de desenvolvimento, manutenção e sustentação de software para o Ministério da Justiça e Segurança Pública - MJSP, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-23T08:00:00",
+  "dataEncerramentoProposta": "2026-10-07T09:00:00",
+  "dataPublicacaoPncp": "2026-09-23T07:42:05",
+  "dataAtualizacaoGlobal": "2026-09-23T07:43:10",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoIbge": "5300108",
+    "codigoUnidade": "200005",
+    "nomeUnidade": "MJ-CGS-COORDENACAO GERAL DE LOGISTICA/DF"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=20000505000582026",
+  "linkProcessoEletronico": "https://sei.mj.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?Y8dBid4LOmA7F7ZrGjJ-H6cNen3i-MyUPMxYsZPDjQ2CqPeqb2VA573kbr2ok415wPleq4aXgB4IfaTwyt0HVggQebiJ55TEjzSxzjqg_jtM8QOdNlYUUGjHIFKgWDa4",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "00394494000136-1-001068/2026",
+  "srp": false,
+  "valorTotalEstimado": 107412480.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T07:42:06"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

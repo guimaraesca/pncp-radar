@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE POTE (Poté/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA, ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA DE COMUNICAÇÃO/IMPRENSA/REDE SOCIAL, PLANEJAMENTO ESTRATÉGICO DAS AÇÕES DE COMUNICAÇÃO SOCIAL INTERNAS E EXTERNAS E DA GESTÃO DAS REDES SOCIAIS DA PREFEITURA MUNICIPAL DE POTÉ
+VALOR ESTIMADO: R$ 208.465,12
+PRAZO PARA PROPOSTAS: 2025-05-09T07:50:00
+LINK OFICIAL: app2.licitardigital.com.br/pesquisa/62272
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18404970000118/compras/2025/7/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA EM MARKETING DIGITAL MENSAL | Qtd: 12.0 | R$ Unit: 6499.33
+  - Item 2: SERVIÇO DE GESTÃO DE REDES SOCIAIS (FACEBOOK, INSTAGRAM, YOUTUBE | Qtd: 12.0 | R$ Unit: 4891.93
+  - Item 3: GRAVAÇÃO E PRODUÇÃO DE ÁUDIO/PROPAGANDA INSTITUCIONAL DE ATÉ 60 SEGUNDOS | Qtd: 1000.0 | R$ Unit: 71.77
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "18404970000118",
+    "razaoSocial": "MUNICIPIO DE POTE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-06T17:03:42",
+  "dataAtualizacao": "2025-05-06T17:03:42",
+  "numeroControlePNCP": "18404970000118-1-000007/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 7,
+  "emendaParlamentar": null,
+  "numeroCompra": "012",
+  "processo": "026/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA, ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA DE COMUNICAÇÃO/IMPRENSA/REDE SOCIAL, PLANEJAMENTO ESTRATÉGICO DAS AÇÕES DE COMUNICAÇÃO SOCIAL INTERNAS E EXTERNAS E DA GESTÃO DAS REDES SOCIAIS DA PREFEITURA MUNICIPAL DE POTÉ",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-06T17:03:43",
+  "dataEncerramentoProposta": "2025-05-09T07:50:00",
+  "dataPublicacaoPncp": "2025-05-06T17:03:42",
+  "dataAtualizacaoGlobal": "2025-05-06T17:03:44",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Poté",
+    "codigoIbge": "3152402",
+    "codigoUnidade": "516",
+    "nomeUnidade": "Unidade Única"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "app2.licitardigital.com.br/pesquisa/62272",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 208465.12,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+}

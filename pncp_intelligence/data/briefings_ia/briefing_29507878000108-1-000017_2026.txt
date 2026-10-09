@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: COMISSAO DE VALORES MOBILIARIOS (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de solução de tecnologia da informação e comunicação de serviço de garantia estendida, oficial do fabricante, para os equipamentos de infraestrutura de TI da CVM, especificamente sete servidores de rede Lenovo ThinkSystem SR630 e dois servidores de rede Lenovo ThinkSystem SR650.
+VALOR ESTIMADO: R$ 121.963,00
+PRAZO PARA PROPOSTAS: 2026-10-08T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=17303005000552026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29507878000108/compras/2026/17/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29507878000108/compras/2026/17/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29507878000108/compras/2026/17/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29507878000108/compras/2026/17/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29507878000108/compras/2026/17/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29507878000108/compras/2026/17/arquivos/12
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de Garantia de Equipamentos de TIC Serviço de garantia estendida de 24 meses para os servidores de rede Lenovo  | Qtd: 7.0 | R$ Unit: 13960.0
+  - Item 2: Serviços de Garantia de Equipamentos de TIC Serviço de garantia estendida de 24 meses para os servidores de rede Lenovo  | Qtd: 2.0 | R$ Unit: 12121.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "29507878000108",
+    "razaoSocial": "COMISSAO DE VALORES MOBILIARIOS",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-08-11T04:00:01",
+  "dataAtualizacao": "2026-09-24T04:28:27",
+  "objetoCompra": "Contratação de solução de tecnologia da informação e comunicação de serviço de garantia estendida, oficial do fabricante, para os equipamentos de infraestrutura de TI da CVM, especificamente sete servidores de rede Lenovo ThinkSystem SR630 e dois servidores de rede Lenovo ThinkSystem SR650.",
+  "dataAberturaProposta": "2026-09-24T09:00:00",
+  "dataEncerramentoProposta": "2026-10-08T10:00:00",
+  "dataPublicacaoPncp": "2026-08-11T04:00:01",
+  "dataAtualizacaoGlobal": "2026-09-24T04:28:27",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoIbge": "3304557",
+    "codigoUnidade": "173030",
+    "nomeUnidade": "MF-CVM-COMISSAO DE VALORES MOBILIARIOS/RJ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=17303005000552026",
+  "linkProcessoEletronico": "https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=rel_bloco_protocolo_listar&acao_retorno=rel_bloco_protocolo_listar&id_procedimento=2703091&id_bloco=21760&infra_sistema=100000100&infra_unidade_atual=110000946&infra_hash=13ffd84912c597278bd327c98afba4ed5f2049d646d8257dda302efa9c435c7a",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "29507878000108-1-000017/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 17,
+  "emendaParlamentar": null,
+  "numeroCompra": "55",
+  "processo": "19957000057202685",
+  "informacaoComplementar": null,
+  "valorTotalEstimado": 121963.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-08-11T04:00:02"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DE ESTADO DA EDUCACAO DO ESPORTE E DA CULTURA (Aracaju/SE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE CURSOS DE FORMAÇÃO INICIAL E CONTINUADA (FIC) PARA ESTUDANTES DO
+ENSINO MÉDIO DA REDE ESTADUAL, EM SUAS DIVERSAS MODALIDADES, E PARA PROFISSIONAIS DA EDUCAÇÃO DA REDE
+ESTADUAL, VISANDO O DESENVOLVIMENTO DE HABILIDADES NOS EIXOS DE GESTÃO E NEGÓCIOS, SAÚDE E TECNOLOGIA
+DA INFORMAÇÃO (NÍVEIS BÁSICO, INTERMEDIÁRIO E AVANÇADO). PROPORCIONANDO UMA FORMAÇÃO ADICIONAL
+CERTIFICADA QUE AMPLIE AS OPORTUNIDADES DE INSERÇÃO NO MERCADO DE TRABALHO E FORTALEÇA A CAPACITAÇÃO
+CONTÍNUA DOS PROFISSIONAIS DA EDUCAÇÃO.
+VALOR ESTIMADO: R$ 2.946.021,12
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://sistema.comprasnet.se.gov.br/publico/WKF.aspx?code=SEED-DP0221/2025&validation=47766
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/34841195000114/compras/2025/25/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVICO DE CAPACITACAO DE PESSOAL - CURSO DE FORMACAO INICIAL E CONTINUADAPARA ESTUDANTES DA REDE ESTADUAL DE ENSINO | Qtd: 1.0 | R$ Unit: 2946021.12
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "34841195000114",
+    "razaoSocial": "SECRETARIA DE ESTADO DA EDUCACAO DO ESPORTE E DA CULTURA",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "dataInclusao": "2025-07-18T08:45:50",
+  "dataAtualizacao": "2025-07-18T08:45:50",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ASJB Consultoria S/C Ltda",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-18T08:45:50",
+  "dataAtualizacaoGlobal": "2025-07-18T08:45:56",
+  "unidadeOrgao": {
+    "ufNome": "Sergipe",
+    "ufSigla": "SE",
+    "municipioNome": "Aracaju",
+    "codigoIbge": "2800308",
+    "codigoUnidade": "34841195000114",
+    "nomeUnidade": "SECRETARIA DE ESTADO DA EDUCAÇÃO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, XV",
+    "descricao": "Dispensa de Licitação: para contratação de instituição brasileira que tenha por finalidade estatutária apoiar, captar e executar atividades de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive para gerir administrativa e financeiramente essas atividades, ou para contratação de instituição dedicada à recuperação social da pessoa presa, desde que o contratado tenha inquestionável reputação ética e profissional e não tenha fins lucrativos",
+    "codigo": 45
+  },
+  "linkSistemaOrigem": "https://sistema.comprasnet.se.gov.br/publico/WKF.aspx?code=SEED-DP0221/2025&validation=47766",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 25,
+  "emendaParlamentar": null,
+  "numeroCompra": "DP0221",
+  "processo": "DP0221/2025",
+  "objetoCompra": "CONTRATAÇÃO DE CURSOS DE FORMAÇÃO INICIAL E CONTINUADA (FIC) PARA ESTUDANTES DO\nENSINO MÉDIO DA REDE ESTADUAL, EM SUAS DIVERSAS MODALIDADES, E PARA PROFISSIONAIS DA EDUCAÇÃO DA REDE\nESTADUAL, VISANDO O DESENVOLVIMENTO DE HABILIDADES NOS EIXOS DE GESTÃO E NEGÓCIOS, SAÚDE E TECNOLOGIA\nDA INFORMAÇÃO (NÍVEIS BÁSICO, INTERMEDIÁRIO E AVANÇADO). PROPORCIONANDO UMA FORMAÇÃO ADICIONAL\nCERTIFICADA QUE AMPLIE AS OPORTUNIDADES DE INSERÇÃO NO MERCADO DE TRABALHO E FORTALEÇA A CAPACITAÇÃO\nCONTÍNUA DOS PROFISSIONAIS DA EDUCAÇÃO.",
+  "informacaoComplementar": "1 TENDO A SEED COMO UMA DAS PRIORIDADES AMPLIAR A OFERTA DE EDUCAÇÃO PROFISSIONAL E\nQUALIFICAÇÃO PROFISSIONAL EM TODA A REDE ESTADUAL. A CONTRATAÇÃO DE CURSOS DE FORMAÇÃO INICIAL E CONTINUADA\n(FIC) ATENDE À NECESSIDADE DE QUALIFICAÇÃO DE ESTUDANTES DO ENSINO MÉDIO E PROFISSIONAIS DA EDUCAÇÃO,\nPROMOVENDO O DESENVOLVIMENTO DE COMPETÊNCIAS ESSENCIAIS PARA O MERCADO DE TRABALHO E O APRIMORAMENTO\nEDUCACIONAL. CONSULTAS PÚBLICAS E ESCUTAS ATIVAS EVIDENCIARAM A DEMANDA POR QUALIFICAÇÃO PROFISSIONAL, TANTO PARA\nAMPLIAR AS OPORTUNIDADES DE INSERÇÃO DOS JOVENS NO MERCADO QUANTO PARA FORTALECER A FORMAÇÃO CONTINUADA DOS\nPROFISSIONAIS. A OFERTA DESSES CURSOS COMPLEMENTARES E OPTATIVOS FORTALECE A INTEGRAÇÃO ENTRE EDUCAÇÃO E MUNDO\nDO TRABALHO, ALINHANDO-SE ÀS EXIGÊNCIAS DO SETOR PRODUTIVO. CONTRIBUINDO PARA UMA EDUCAÇÃO PÚBLICA MAIS\nINCLUSIVA E DINÂMICA, PROMOVENDO UM CICLO CONTÍNUO DE APRENDIZADO E EVOLUÇÃO. DESSA FORMA, TRATA-SE DE UM\nINVESTIMENTO ESTRATÉGICO PARA O DESENVOLVIMENTO SOCIOECONÔMICO DO ESTADO, GARANTINDO FORMAÇÃO DE QUALIDADE\nE IMPACTO POSITIVO NA EMPREGABILIDADE E NA PRÁTICA PROFISSIONAL EDUCACIONAL.",
+  "numeroControlePNCP": "34841195000114-1-000025/2025",
+  "valorTotalEstimado": 2946021.12,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

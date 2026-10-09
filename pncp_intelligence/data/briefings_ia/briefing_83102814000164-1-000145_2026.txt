@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RODEIO (Rodeio/SC)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de assessoria e consultoria técnica e operacional para gerenciamento, execução e prestação de contas de convênios, elaboração de projetos e captação de recursos
+VALOR ESTIMADO: R$ 126.399,96
+PRAZO PARA PROPOSTAS: 2026-10-13T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/83102814000164-1-000145/2026
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102814000164/compras/2026/145/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102814000164/compras/2026/145/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102814000164/compras/2026/145/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA E OPERACIONAL EM GERENCIAMENTO DE CONVÊNIOS E PRESTAÇÃO DE CON | Qtd: 12.0 | R$ Unit: 10533.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "83102814000164",
+    "razaoSocial": "MUNICIPIO DE RODEIO",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2026-09-24T15:10:21",
+  "dataAtualizacao": "2026-09-24T15:10:21",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas",
+  "dataAberturaProposta": "2026-09-24T00:00:00",
+  "dataEncerramentoProposta": "2026-10-13T08:00:00",
+  "dataPublicacaoPncp": "2026-09-24T15:10:21",
+  "dataAtualizacaoGlobal": "2026-09-24T15:11:18",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Rodeio",
+    "codigoIbge": "4215109",
+    "codigoUnidade": "03001",
+    "nomeUnidade": "SAF - Secretaria Administração e Finanças"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 145,
+  "emendaParlamentar": null,
+  "numeroCompra": "PCE 23",
+  "processo": "99/2026",
+  "objetoCompra": "Contratação de serviços de assessoria e consultoria técnica e operacional para gerenciamento, execução e prestação de contas de convênios, elaboração de projetos e captação de recursos",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "83102814000164-1-000145/2026",
+  "valorTotalEstimado": 126399.96,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

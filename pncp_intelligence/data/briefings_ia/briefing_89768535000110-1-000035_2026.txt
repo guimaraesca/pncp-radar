@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CANOAS CAMARA DE VEREADORES (Canoas/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para prestação contínua de serviço de acesso dedicado à internet, com link simétrico de no mínimo 5 Gbps, e solução integrada de segurança de rede e firewall gerenciado, incluindo instalação, configuração, suporte técnico, monitoramento e garantia de níveis de serviço (SLA), fornecidos pela mesma contratada, conforme especificações definidas no Termo de Referência.
+VALOR ESTIMADO: R$ 133.164,00
+PRAZO PARA PROPOSTAS: 2026-10-13T12:30:00
+LINK OFICIAL: https://pregaobanrisul.com.br/editais/0005_2026/356099
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89768535000110/compras/2026/35/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89768535000110/compras/2026/35/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89768535000110/compras/2026/35/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89768535000110/compras/2026/35/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89768535000110/compras/2026/35/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89768535000110/compras/2026/35/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89768535000110/compras/2026/35/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço de acesso dedicado à internet | Qtd: 12.0 | R$ Unit: 11097.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "89768535000110",
+    "razaoSocial": "CANOAS CAMARA DE VEREADORES",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-02T00:10:42",
+  "dataAtualizacao": "2026-09-28T00:01:02",
+  "numeroControlePNCP": "89768535000110-1-000035/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 35,
+  "emendaParlamentar": null,
+  "numeroCompra": "0005",
+  "processo": "16423",
+  "srp": false,
+  "objetoCompra": "Contratação de empresa especializada para prestação contínua de serviço de acesso dedicado à internet, com link simétrico de no mínimo 5 Gbps, e solução integrada de segurança de rede e firewall gerenciado, incluindo instalação, configuração, suporte técnico, monitoramento e garantia de níveis de serviço (SLA), fornecidos pela mesma contratada, conforme especificações definidas no Termo de Referência.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-28T12:00:00",
+  "dataEncerramentoProposta": "2026-10-13T12:30:00",
+  "dataPublicacaoPncp": "2026-09-02T00:10:42",
+  "dataAtualizacaoGlobal": "2026-09-28T00:01:05",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Canoas",
+    "codigoIbge": "4304606",
+    "codigoUnidade": "39899",
+    "nomeUnidade": "CÂMARA MUNICIPAL DE CANOAS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://pregaobanrisul.com.br/editais/0005_2026/356099",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 133164.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PROCERGS - CENTRO DE TECNOLOGIA DA INFORMACAO E COMUNICACAO DO ESTADO DO RIO GRANDE DO SUL S.A."
+}

@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO DE DESENVOLVIMENTO SUSTENTAVEL DO ALTO SERTAO (Caetité/BA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: AVISO DE CONTRATAÇÃO DIRETA 028/2025 - contratação de empresa para licenciamento e manutenção de software, composto de um site oficial, que permita a edição, diagramação, arte-finalização e publicação automática na internet, dos atos oficiais do Consórcio de Desenvolvimento Sustentável do Alto Sertão, em Diário Oficial Próprio, possuindo funcionamento em ambiente web, armazenamento de dados em servidor certificado ICP - Brasil e carimbo do tempo e pleno atendimento das exigências da Lei no 12.527/2011 e publicação dos atos oficiais em Jornal de Grande Circulação no Estado da Bahia e Criação, configuração e manutenção de e-mails institucionais. 
+VALOR ESTIMADO: R$ 29.950,04
+PRAZO PARA PROPOSTAS: 2025-08-07T09:00:01
+LINK OFICIAL: https://pncp.gov.br/app/editais/18635734000102-1-000062/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18635734000102/compras/2025/62/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: licenciamento e manutenção de software, composto de um site oficial, que permita a edição, diagramação, arte-finalização | Qtd: 1.0 | R$ Unit: 29950.04
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "18635734000102",
+    "razaoSocial": "CONSORCIO DE DESENVOLVIMENTO SUSTENTAVEL DO ALTO SERTAO",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": 24600.0,
+  "dataInclusao": "2025-08-04T10:06:59",
+  "dataAtualizacao": "2025-08-04T10:06:59",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 62,
+  "emendaParlamentar": null,
+  "numeroCompra": "100217020",
+  "processo": "050/2025",
+  "objetoCompra": "AVISO DE CONTRATAÇÃO DIRETA 028/2025 - contratação de empresa para licenciamento e manutenção de software, composto de um site oficial, que permita a edição, diagramação, arte-finalização e publicação automática na internet, dos atos oficiais do Consórcio de Desenvolvimento Sustentável do Alto Sertão, em Diário Oficial Próprio, possuindo funcionamento em ambiente web, armazenamento de dados em servidor certificado ICP - Brasil e carimbo do tempo e pleno atendimento das exigências da Lei no 12.527/2011 e publicação dos atos oficiais em Jornal de Grande Circulação no Estado da Bahia e Criação, configuração e manutenção de e-mails institucionais. ",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-08-01T17:00:01",
+  "dataEncerramentoProposta": "2025-08-07T09:00:01",
+  "dataPublicacaoPncp": "2025-08-04T10:06:59",
+  "dataAtualizacaoGlobal": "2025-09-01T09:22:25",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Caetité",
+    "codigoUnidade": "´01",
+    "nomeUnidade": "CONSÓRCIO PÚBLICO",
+    "codigoIbge": "2905206"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "18635734000102-1-000062/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 29950.04,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Procede Bahia Processamento e Certificação de Documentos Eletrônicos"
+}

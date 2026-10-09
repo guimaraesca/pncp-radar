@@ -1,0 +1,11 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DE ADMINISTRACAO (Recife/PE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Formação de Registro de Preços para contratação eventual com execusão mediante demanda de empresa especializada
+de prestação de serviços de fornecimento de água potável em caminhão-pipa com capacidade de 16.000 litros (16 m³). visando atenderas necessidades do Hospital dos Servidores do Estado de Pernambuco – HSE PE.
+VALOR ESTIMADO: R$ 324,172.80
+PRAZO PARA PROPOSTAS: 2026-10-08T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92615005001812026
+SELO LOGÍSTICO: [BASE DIRETA: RECIFE/PE]
+BASE LOGÍSTICA COMPATÍVEL: Recife (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

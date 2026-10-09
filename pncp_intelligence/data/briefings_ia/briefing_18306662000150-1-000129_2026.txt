@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ARCOS (Arcos/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Locacao de equipamentos  prestacao de servicos e instalacao e manutencao mensal inclusa licenca do software  contendo suporte tecnico  para monitoramento de Calha Parshall e ainda  disponibilizar opcoes presentes como  armazenamento de dados  graficos e impressoes de relatorios. Ambos para afericao da vazao de entrada de efluente e criacao de banco de dados digitalizado das informacoes oriundas desse objeto 
+VALOR ESTIMADO: R$ 32.400,00
+PRAZO PARA PROPOSTAS: 2026-10-14T13:30:00
+LINK OFICIAL:  
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18306662000150/compras/2026/129/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Monitoramento de Vazao  Fornecimento de Sensor ultrassonico canal aberto  especificacao tecnica contendo  Sensor do tipo | Qtd: 12.0 | R$ Unit: 2700.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "18306662000150",
+    "razaoSocial": "MUNICIPIO DE ARCOS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-25T11:01:02",
+  "dataAtualizacao": "2026-09-28T14:43:32",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Arcos",
+    "codigoUnidade": "0000",
+    "nomeUnidade": "PREFEITURA MUNICIPAL",
+    "codigoIbge": "3104205"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": " ",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": " ",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 129,
+  "emendaParlamentar": null,
+  "numeroCompra": "56 | Processo 136",
+  "processo": "56",
+  "objetoCompra": "Locacao de equipamentos  prestacao de servicos e instalacao e manutencao mensal inclusa licenca do software  contendo suporte tecnico  para monitoramento de Calha Parshall e ainda  disponibilizar opcoes presentes como  armazenamento de dados  graficos e impressoes de relatorios. Ambos para afericao da vazao de entrada de efluente e criacao de banco de dados digitalizado das informacoes oriundas desse objeto ",
+  "informacaoComplementar": " ",
+  "dataAberturaProposta": "2026-09-28T07:00:00",
+  "dataEncerramentoProposta": "2026-10-14T13:30:00",
+  "dataPublicacaoPncp": "2026-09-25T11:01:02",
+  "dataAtualizacaoGlobal": "2026-09-28T14:43:32",
+  "numeroControlePNCP": "18306662000150-1-000129/2026",
+  "valorTotalEstimado": 32400.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Governançabrasil Tecnologia e Gestão em Serviços"
+}

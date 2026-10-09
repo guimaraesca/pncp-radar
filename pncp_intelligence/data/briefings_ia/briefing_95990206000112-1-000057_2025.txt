@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GUATAMBU (Guatambú/SC)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS CONTINUADOS DE ASSESSORIA E CONSULTORIA TÉCNICA NA ÁREA DE GESTÃO EM SAÚDE PÚBLICA, COM VISTAS A QUALIFICAR O PLANEJAMENTO, O MONITORAMENTO, A CAPTAÇÃO DE RECURSOS, A GESTÃO DE PROGRAMAS E A CORRETA UTILIZAÇÃO DOS SISTEMAS DE INFORMAÇÃO EM SAÚDE NO ÂMBITO DA SECRETARIA MUNICIPAL DE SAÚDE DE GUATAMBU/SC
+VALOR ESTIMADO: R$ 20.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/95990206000112-1-000057/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/95990206000112/compras/2025/57/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS CONTINUADOS DE ASSESSORIA E CONSULTORIA TÉCNICA NA ÁREA  | Qtd: 5.0 | R$ Unit: 4000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "95990206000112",
+    "razaoSocial": "MUNICIPIO DE GUATAMBU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 20000.0,
+  "dataInclusao": "2025-08-05T09:20:48",
+  "dataAtualizacao": "2025-08-05T09:20:48",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 57,
+  "emendaParlamentar": null,
+  "numeroCompra": "PRD 24",
+  "processo": "1315/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS CONTINUADOS DE ASSESSORIA E CONSULTORIA TÉCNICA NA ÁREA DE GESTÃO EM SAÚDE PÚBLICA, COM VISTAS A QUALIFICAR O PLANEJAMENTO, O MONITORAMENTO, A CAPTAÇÃO DE RECURSOS, A GESTÃO DE PROGRAMAS E A CORRETA UTILIZAÇÃO DOS SISTEMAS DE INFORMAÇÃO EM SAÚDE NO ÂMBITO DA SECRETARIA MUNICIPAL DE SAÚDE DE GUATAMBU/SC",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T09:20:48",
+  "dataAtualizacaoGlobal": "2025-08-05T09:26:35",
+  "numeroControlePNCP": "95990206000112-1-000057/2025",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Guatambú",
+    "codigoUnidade": "05001",
+    "nomeUnidade": "Fundo de Saúde",
+    "codigoIbge": "4206652"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "valorTotalEstimado": 20000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

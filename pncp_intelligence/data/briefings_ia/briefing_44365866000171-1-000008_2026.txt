@@ -1,0 +1,84 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de licenciamento de suíte integrada de produtividade e colaboração em nuvem (Software como Serviço – SaaS), contemplando ferramentas de comunicação, colaboração, armazenamento, produtividade, inteligência de negócios (Business Intelligence – BI) e recursos avançados de segurança da informação, mediante licenciamento por subscrição mensal, com pagamento mensal conforme as subscrições efetivamente demandadas, disponibilizadas, aceitas e mantidas em execução no período, vigência de 36 (trinta e seis) meses, incluindo serviços agregados de suporte técnico, atualizações de versão, manutenção evolutiva e corretiva disponibilizadas pelo fabricante, administração da solução, documentação técnica e demais serviços necessários à plena utilização da plataforma.
+VALOR ESTIMADO: R$ 14.169.500,64
+PRAZO PARA PROPOSTAS: 2026-10-06T10:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=30212205000572026
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/44365866000171/compras/2026/8/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como Servico - Saas Software como Servico - Saas - M365 E5 Unified Sub Per User / AAD-33168 | Qtd: 700.0 | R$ Unit: 12390.48
+  - Item 2: Software como Servico - Saas Software como Servico - Saas | Qtd: 700.0 | R$ Unit: 6898.32
+  - Item 3: Software como Servico - Saas Software como Servico - Saas - Planner P1 Sub Per User /TRS-00002 | Qtd: 153.0 | R$ Unit: 2173.68
+  - Item 4: Software como Servico - Saas Software como Servico - Saas - Exchange Online P2 Sub Per User /TQA-00001 | Qtd: 100.0 | R$ Unit: 1739.16
+  - Item 5: Software como Servico - Saas Software como Servico - Saas - Exchange Online P1 Sub Per User /TRA-00047
+ | Qtd: 60.0 | R$ Unit: 869.4
+  - Item 6: Software como Servico - Saas Software como Servico - Saas - Teams Rooms Pro Sub Per Device /V9B-00001 | Qtd: 10.0 | R$ Unit: 8695.08
+  - Item 7: Software como Servico - Saas Software como Servico - Saas - Teams Premium Sub Per User /WFI-00005 | Qtd: 10.0 | R$ Unit: 2173.68
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "44365866000171",
+    "razaoSocial": "AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-09-22T04:00:23",
+  "dataAtualizacao": "2026-09-22T04:00:23",
+  "objetoCompra": "Contratação de licenciamento de suíte integrada de produtividade e colaboração em nuvem (Software como Serviço – SaaS), contemplando ferramentas de comunicação, colaboração, armazenamento, produtividade, inteligência de negócios (Business Intelligence – BI) e recursos avançados de segurança da informação, mediante licenciamento por subscrição mensal, com pagamento mensal conforme as subscrições efetivamente demandadas, disponibilizadas, aceitas e mantidas em execução no período, vigência de 36 (trinta e seis) meses, incluindo serviços agregados de suporte técnico, atualizações de versão, manutenção evolutiva e corretiva disponibilizadas pelo fabricante, administração da solução, documentação técnica e demais serviços necessários à plena utilização da plataforma.",
+  "dataAberturaProposta": "2026-09-22T08:00:00",
+  "dataEncerramentoProposta": "2026-10-06T10:30:00",
+  "dataPublicacaoPncp": "2026-09-22T04:00:23",
+  "dataAtualizacaoGlobal": "2026-09-22T04:01:07",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoIbge": "5300108",
+    "codigoUnidade": "302122",
+    "nomeUnidade": "AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=30212205000572026",
+  "linkProcessoEletronico": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/pregao%20ano%202026",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "44365866000171-1-000008/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 8,
+  "emendaParlamentar": null,
+  "numeroCompra": "57",
+  "processo": "00261.000211/2026-19",
+  "informacaoComplementar": null,
+  "valorTotalEstimado": 14169500.64,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-22T04:00:23"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

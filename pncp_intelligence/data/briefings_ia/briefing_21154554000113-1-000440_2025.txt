@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL DE JUSTICA DO ESTADO DE MINAS GERAIS (Belo Horizonte/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Elaboração de arranjos musicais destinados ao concerto temático Chica da Silva, a ser realizado por alunos e monitores do Programa de Formação Continuada Orquestra e Coral Infantojuvenil do TJMG.
+VALOR ESTIMADO: R$ 5.000,00
+PRAZO PARA PROPOSTAS: 2025-08-11T09:00:01
+LINK OFICIAL: https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2025/582/1031018
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/21154554000113/compras/2025/440/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/21154554000113/compras/2025/440/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/21154554000113/compras/2025/440/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVICOS ARTISTICOS, TAIS COMO MUSICAIS, CORAIS, ARTES  CENICAS ETC. | Qtd: 1.0 | R$ Unit: 5000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "21154554000113",
+    "razaoSocial": "TRIBUNAL DE JUSTICA DO ESTADO DE MINAS GERAIS",
+    "esferaId": "E",
+    "poderId": "J"
+  },
+  "dataInclusao": "2025-08-05T12:17:49",
+  "dataAtualizacao": "2025-08-05T12:17:49",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Portal de Compras do Estado de Minas Gerais",
+  "dataAberturaProposta": "2025-08-05T12:17:49",
+  "dataEncerramentoProposta": "2025-08-11T09:00:01",
+  "dataPublicacaoPncp": "2025-08-05T12:17:49",
+  "dataAtualizacaoGlobal": "2025-08-12T11:50:51",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belo Horizonte",
+    "codigoIbge": "3106200",
+    "codigoUnidade": "1031018",
+    "nomeUnidade": "GECOMP"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2025/582/1031018",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 440,
+  "emendaParlamentar": null,
+  "numeroCompra": "582",
+  "processo": "1031018 000582/2025",
+  "objetoCompra": "Elaboração de arranjos musicais destinados ao concerto temático Chica da Silva, a ser realizado por alunos e monitores do Programa de Formação Continuada Orquestra e Coral Infantojuvenil do TJMG.",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "21154554000113-1-000440/2025",
+  "valorTotalEstimado": 5000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta"
+}

@@ -1,0 +1,82 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL REGIONAL FEDERAL 3 REGIAO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de Preços para a contratação de serviço de segurança da informação
+VALOR ESTIMADO: R$ 69.321.655,62
+PRAZO PARA PROPOSTAS: 2026-10-07T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=09002905000792026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/59949362000176/compras/2026/96/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como Servico - Saas Software como Servico - Saas | Qtd: 3.0 | R$ Unit: 3791903.3
+  - Item 2: Serviços de Consultoria em  Segurança de Tecnologia da Informação e Comunicação (TIC) Serviços de Consultoria em  Segura | Qtd: 5.0 | R$ Unit: 2757758.4
+  - Item 3: Serviços de Consultoria em  Segurança de Tecnologia da Informação e Comunicação (TIC) Serviços de Consultoria em  Segura | Qtd: 19.0 | R$ Unit: 1194783.5
+  - Item 4: Software como Servico - Saas Software como Servico - Saas | Qtd: 5.0 | R$ Unit: 1518326.02
+  - Item 5: Software como Servico - Saas Software como Servico - Saas | Qtd: 5.0 | R$ Unit: 1949008.48
+  - Item 6: Serviços de Consultoria em  Segurança de Tecnologia da Informação e Comunicação (TIC) Serviços de Consultoria em  Segura | Qtd: 123.0 | R$ Unit: 33492.64
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "59949362000176",
+    "razaoSocial": "TRIBUNAL REGIONAL FEDERAL 3 REGIAO",
+    "poderId": "J",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-09-22T04:00:22",
+  "dataAtualizacao": "2026-10-02T16:50:41",
+  "objetoCompra": "Registro de Preços para a contratação de serviço de segurança da informação",
+  "dataAberturaProposta": "2026-09-22T08:00:00",
+  "dataEncerramentoProposta": "2026-10-07T10:00:00",
+  "dataPublicacaoPncp": "2026-09-22T04:00:22",
+  "dataAtualizacaoGlobal": "2026-10-02T16:50:41",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoIbge": "3550308",
+    "codigoUnidade": "090029",
+    "nomeUnidade": "TRIBUNAL REGIONAL FEDERAL DA 3A.REGIAO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=09002905000792026",
+  "linkProcessoEletronico": "https://sei.trf3.jus.br/sei/controlador_externo.php?acao=usuario_externo_logar&id_orgao_acesso_externo=0",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "59949362000176-1-000096/2026",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 96,
+  "emendaParlamentar": null,
+  "numeroCompra": "79",
+  "processo": "0000653-28.2026.4.03.8000",
+  "informacaoComplementar": null,
+  "valorTotalEstimado": 69321655.62,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-22T04:00:23"
+    }
+  ],
+  "situacaoCompraId": 4,
+  "situacaoCompraNome": "Suspensa",
+  "usuarioNome": "Compras.gov.br"
+}

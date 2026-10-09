@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INST DA PREVIDENCIA E ASSIST DOS SERVIDORES DE CATALAO (Catalão/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE IMPLANTAÇÃO E INSTALAÇÃO DE SERVIDOR DE GERENCIAMENTO BASEADO EM GNU/LINUX OPEN SOURCE, COM A INSTALAÇÃO E CONFIGURAÇÃO DE SERVIÇOS COMO: ROTEAMENTO, SERVIÇOS DE NAT (NETWORK ADDRESS TRANSLATION), IMPLEMENTAÇÃO DE SERVIDOR DHCP, IMPLEMENTAÇÃO DO CONTROLE DE BANDA, IMPLEMENTAÇÃO DO SERVIDOR FIREWALL E IMPLEMANTAÇÃO DE SERVIDOS DNS.
+VALOR ESTIMADO: R$ 60.796,33
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/24811705000157-1-000003/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (100 a 200 km)
+SELO LOGÍSTICO: [BASE: GOIÂNIA | Catalão/GO (260km)]
+DISTÂNCIA ESTIMADA DA BASE: 260 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24811705000157/compras/2025/3/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS TÉCNICOS PROFISSIONAIS DE TIC-IMPLANTAÇÃO E INSTALAÇÃO DE SERVIDOR DE GERENCIAMENTO BASEADO EM GNU/LINUX OPEN S | Qtd: 1.0 | R$ Unit: 60796.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 59500.0,
+  "orgaoEntidade": {
+    "cnpj": "24811705000157",
+    "razaoSocial": "INST DA PREVIDENCIA E ASSIST DOS SERVIDORES DE CATALAO",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-07-03T11:07:46",
+  "dataInclusao": "2025-07-03T11:07:46",
+  "numeroControlePNCP": "24811705000157-1-000003/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 3,
+  "emendaParlamentar": null,
+  "numeroCompra": "86278",
+  "processo": "2025022806",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "CONTRAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE IMPLANTAÇÃO E INSTALAÇÃO DE SERVIDOR DE GERENCIAMENTO BASEADO EM GNU/LINUX OPEN SOURCE, COM A INSTALAÇÃO E CONFIGURAÇÃO DE SERVIÇOS COMO: ROTEAMENTO, SERVIÇOS DE NAT (NETWORK ADDRESS TRANSLATION), IMPLEMENTAÇÃO DE SERVIDOR DHCP, IMPLEMENTAÇÃO DO CONTROLE DE BANDA, IMPLEMENTAÇÃO DO SERVIDOR FIREWALL E IMPLEMANTAÇÃO DE SERVIDOS DNS.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-07-03T11:07:46",
+  "dataAtualizacaoGlobal": "2025-07-03T11:08:15",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Catalão",
+    "codigoUnidade": "0901",
+    "nomeUnidade": "IPASC",
+    "codigoIbge": "5205109"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Prodata Informática",
+  "valorTotalEstimado": 60796.33
+}

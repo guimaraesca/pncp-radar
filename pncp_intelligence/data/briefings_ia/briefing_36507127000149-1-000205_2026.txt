@@ -1,0 +1,64 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDO MUNICIPAL DE SAUDE (Barra Mansa/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: REGISTRO DE PREÇOS PARA EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM FORNECIMENTO, INSTALAÇÃO E CONFIGURAÇÃO DE CÂMERAS DE VIDEOMONITORAMENTO COM INTELIGÊNCIA ARTIFICIAL, CÂMERAS CONVENCIONAIS E CATRACAS DE CONTROLE DE ACESSO, INCLUINDO EQUIPAMENTOS, SOFTWARES E LICENÇAS
+VALOR ESTIMADO: R$ 2.426.064,00
+PRAZO PARA PROPOSTAS: 2026-10-15T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/36507127000149-1-000205/2026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/36507127000149/compras/2026/205/arquivos/1
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "36507127000149",
+    "razaoSocial": "FUNDO MUNICIPAL DE SAUDE",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-25T16:29:13",
+  "dataAtualizacao": "2026-09-25T16:29:13",
+  "anoCompra": 2026,
+  "sequencialCompra": 205,
+  "emendaParlamentar": null,
+  "numeroCompra": "067/2026",
+  "processo": "721/2026",
+  "objetoCompra": "REGISTRO DE PREÇOS PARA EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM FORNECIMENTO, INSTALAÇÃO E CONFIGURAÇÃO DE CÂMERAS DE VIDEOMONITORAMENTO COM INTELIGÊNCIA ARTIFICIAL, CÂMERAS CONVENCIONAIS E CATRACAS DE CONTROLE DE ACESSO, INCLUINDO EQUIPAMENTOS, SOFTWARES E LICENÇAS",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-29T17:30:00",
+  "dataEncerramentoProposta": "2026-10-15T09:00:00",
+  "dataPublicacaoPncp": "2026-09-25T16:29:13",
+  "dataAtualizacaoGlobal": "2026-09-25T16:29:14",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Barra Mansa",
+    "codigoIbge": "3300407",
+    "codigoUnidade": "1195",
+    "nomeUnidade": "FMS Barra Mansa"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "36507127000149-1-000205/2026",
+  "srp": true,
+  "valorTotalEstimado": 2426064.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações"
+}

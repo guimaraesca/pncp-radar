@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO DE TERRAS DO PARA (Belém/PA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada na prestação de serviço de outsourcing de Data Center, englobando o fornecimento, a instalação, a configuração, a operação e a manutenção de infraestrutura de Tecnologia da Informação e Comunicação – TIC, na modalidade de serviço gerenciado, destinado a suportar os sistemas e dados institucionais do Instituto de Terras do Pará – ITERPA
+VALOR ESTIMADO: R$ 5.051.441,00
+PRAZO PARA PROPOSTAS: 2026-10-19T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92530105000012026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05089495000190/compras/2026/14/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos Serviço de almoxarifado  vir | Qtd: 1.0 | R$ Unit: 5051441.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "05089495000190",
+    "razaoSocial": "INSTITUTO DE TERRAS DO PARA",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "dataInclusao": "2026-08-21T10:23:59",
+  "dataAtualizacao": "2026-09-30T11:00:11",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-08-21T10:24:00"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2026-10-01T08:00:00",
+  "dataEncerramentoProposta": "2026-10-19T09:00:00",
+  "dataPublicacaoPncp": "2026-08-21T10:23:59",
+  "dataAtualizacaoGlobal": "2026-09-30T11:00:11",
+  "unidadeOrgao": {
+    "ufNome": "Pará",
+    "ufSigla": "PA",
+    "municipioNome": "Belém",
+    "codigoIbge": "1501402",
+    "codigoUnidade": "925301",
+    "nomeUnidade": "EPA-INSTITUTO DE TERRAS DO PARÁ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92530105000012026",
+  "linkProcessoEletronico": "https://portal.iterpa.pa.gov.br/editais-e-licitacoes/",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 14,
+  "emendaParlamentar": null,
+  "numeroCompra": "1",
+  "processo": "2026/2650481",
+  "objetoCompra": "Contratação de empresa especializada na prestação de serviço de outsourcing de Data Center, englobando o fornecimento, a instalação, a configuração, a operação e a manutenção de infraestrutura de Tecnologia da Informação e Comunicação – TIC, na modalidade de serviço gerenciado, destinado a suportar os sistemas e dados institucionais do Instituto de Terras do Pará – ITERPA",
+  "informacaoComplementar": "Havendo discordância entre as especificações deste objeto descritas no COMPRASNET-CATMAT e as especificações constantes do ANEXO I – Termo de Referência e seus adendos, prevalecerão as últimas.",
+  "numeroControlePNCP": "05089495000190-1-000014/2026",
+  "valorTotalEstimado": 5051441.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

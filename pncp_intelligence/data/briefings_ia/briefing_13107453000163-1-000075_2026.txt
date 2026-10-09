@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SALGADO (Salgado/SE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para disponibilização de solução digital integrada de participação social, atendimento ao cidadão, gestão de demandas e comunicação institucional, na modalidade Software como Serviço – SaaS, compreendendo implantação, parametrização, hospedagem em nuvem, licenciamento de uso, suporte técnico, manutenção, atualizações e demais serviços necessários ao adequado funcionamento da solução
+VALOR ESTIMADO: R$ 163.893,41
+PRAZO PARA PROPOSTAS: 2026-10-07T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/13107453000163-1-000075/2026
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13107453000163/compras/2026/75/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13107453000163/compras/2026/75/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13107453000163/compras/2026/75/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13107453000163/compras/2026/75/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13107453000163/compras/2026/75/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13107453000163/compras/2026/75/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: IMPLANTAÇÃO DO SOFTWARE. Especificação: IMPLANTAÇÃO DO SOFTWARE | Qtd: 1.0 | R$ Unit: 22133.33
+  - Item 2: LICENÇA MENSAL DA PLATAFORMA SAAS INTEGRADA, COM TODOS OS MÓDULOS OBRIGATÓRIOS E IMPLANTAÇÃO, PARAMETRIZAÇÃO INICIAL, TR | Qtd: 12.0 | R$ Unit: 11813.34
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "13107453000163",
+    "razaoSocial": "MUNICIPIO DE SALGADO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-18T13:57:48",
+  "dataAtualizacao": "2026-09-18T13:57:48",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 75,
+  "emendaParlamentar": null,
+  "numeroCompra": "022",
+  "processo": "79",
+  "objetoCompra": "Contratação de empresa especializada para disponibilização de solução digital integrada de participação social, atendimento ao cidadão, gestão de demandas e comunicação institucional, na modalidade Software como Serviço – SaaS, compreendendo implantação, parametrização, hospedagem em nuvem, licenciamento de uso, suporte técnico, manutenção, atualizações e demais serviços necessários ao adequado funcionamento da solução",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-21T08:00:00",
+  "dataEncerramentoProposta": "2026-10-07T09:00:00",
+  "dataPublicacaoPncp": "2026-09-18T13:57:48",
+  "dataAtualizacaoGlobal": "2026-09-18T13:57:52",
+  "unidadeOrgao": {
+    "ufNome": "Sergipe",
+    "ufSigla": "SE",
+    "municipioNome": "Salgado",
+    "codigoUnidade": "13107453000163",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SALGADO",
+    "codigoIbge": "2806206"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "13107453000163-1-000075/2026",
+  "valorTotalEstimado": 163893.41,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "3Tecnos Tecnologia LTDA"
+}

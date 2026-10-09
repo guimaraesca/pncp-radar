@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CAETANOPOLIS (Caetanópolis/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: “Registro de Preços para eventual e futura Aquisição de Sistema Estruturado de Ensino para professores e alunos da Educação Infantil, alinhado a Base Nacional Comum Curricular (BNCC) e Aquisição de material didático complementar para SAEB  nos componentes curriculares de língua portuguesa e matemática, que atenda as novas matrizes do SAEB, para alunos do Ensino Fundamental Anos Iniciais e Finais, contendo plataforma digital, assessoria pedagógica e recursos conforme condições, quantidades e exigências estabelecidas neste instrumento convocatório.”
+VALOR ESTIMADO: R$ 820.373,20
+PRAZO PARA PROPOSTAS: 2025-06-03T08:00:00
+LINK OFICIAL: app2.licitardigital.com.br/pesquisa/62052
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23221351000128/compras/2025/15/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: KIT DO ALUNO PARA 2 ANOS | Qtd: 50.0 | R$ Unit: 442.07
+  - Item 2: KIT DO  ALUNO PARA 3 ANOS | Qtd: 50.0 | R$ Unit: 442.07
+  - Item 3: KIT DO ALUNO PARA 4 ANOS | Qtd: 150.0 | R$ Unit: 542.24
+  - Item 4: KIT DO ALUNO PARA 5 ANOS | Qtd: 170.0 | R$ Unit: 556.34
+  - Item 5: KIT DO ALUNO - 1º ANO. | Qtd: 190.0 | R$ Unit: 542.24
+  - Item 6: KIT DO ALUNO - 2º ANO | Qtd: 170.0 | R$ Unit: 558.58
+  - Item 7: KIT DO ALUNO - 3º ANO | Qtd: 150.0 | R$ Unit: 536.34
+  - Item 8: KIT DO ALUNO - 4º ANO | Qtd: 150.0 | R$ Unit: 542.24
+  - Item 9: KIT DO ALUNO - 5º ANO. | Qtd: 150.0 | R$ Unit: 542.24
+  - Item 10: KIT DO ALUNO - 6º ANO | Qtd: 90.0 | R$ Unit: 442.07
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "23221351000128",
+    "razaoSocial": "MUNICIPIO DE CAETANOPOLIS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-05-05T13:32:52",
+  "dataAtualizacao": "2025-05-05T13:32:52",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Caetanópolis",
+    "codigoUnidade": "25",
+    "nomeUnidade": "Unidade Única",
+    "codigoIbge": "3109907"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "app2.licitardigital.com.br/pesquisa/62052",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 15,
+  "emendaParlamentar": null,
+  "numeroCompra": "015",
+  "processo": "032/2025",
+  "objetoCompra": "“Registro de Preços para eventual e futura Aquisição de Sistema Estruturado de Ensino para professores e alunos da Educação Infantil, alinhado a Base Nacional Comum Curricular (BNCC) e Aquisição de material didático complementar para SAEB  nos componentes curriculares de língua portuguesa e matemática, que atenda as novas matrizes do SAEB, para alunos do Ensino Fundamental Anos Iniciais e Finais, contendo plataforma digital, assessoria pedagógica e recursos conforme condições, quantidades e exigências estabelecidas neste instrumento convocatório.”",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-05T13:32:52",
+  "dataEncerramentoProposta": "2025-06-03T08:00:00",
+  "dataPublicacaoPncp": "2025-05-05T13:32:52",
+  "dataAtualizacaoGlobal": "2025-05-05T13:32:54",
+  "numeroControlePNCP": "23221351000128-1-000015/2025",
+  "valorTotalEstimado": 820373.2,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+}

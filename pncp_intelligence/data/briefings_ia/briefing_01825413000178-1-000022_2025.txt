@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PETROLINA DE GOIAS (Petrolina de Goiás/GO)
+MODALIDADE: Credenciamento
+OBJETO DA CONTRATAÇÃO: CREDENCIAMENTO DE PROFISSIONAIS DO TIPO LEILOEIROS PARA GESTÃO INTEGRADA E ASSESSORIA TÉCNICA ESPECIALIZADA NA PREPARAÇÃO, APOIO LOGÍSTICO, AVALIAÇÃO E ALIENAÇÃO POR MEIO DE LEILÃO DE BENS MÓVEIS INSERVÍVEIS, DE VEÍCULOS E MAQUINÁRIOS DO MUNICÍPIO DE PETROLINA DE GOIÁS-GO.
+VALOR ESTIMADO: R$ 5,00
+PRAZO PARA PROPOSTAS: 2025-03-21T17:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/01825413000178-1-000022/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01825413000178/compras/2025/22/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01825413000178/compras/2025/22/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS DE LEILOEIRO PÚBLICO OFICIAL
+CREDENCIAMENTO DE PROFISSIONAIS DO TIPO LEILOEIROS PARA GESTÃO INTEGRADA E ASSESSO | Qtd: 1.0 | R$ Unit: 5.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 5.0,
+  "orgaoEntidade": {
+    "cnpj": "01825413000178",
+    "razaoSocial": "MUNICIPIO DE PETROLINA DE GOIAS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-07T12:29:55",
+  "dataAtualizacao": "2025-03-07T12:29:55",
+  "numeroControlePNCP": "01825413000178-1-000022/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 22,
+  "emendaParlamentar": null,
+  "numeroCompra": "(5475) | 2-0",
+  "processo": "503/2025",
+  "objetoCompra": "CREDENCIAMENTO DE PROFISSIONAIS DO TIPO LEILOEIROS PARA GESTÃO INTEGRADA E ASSESSORIA TÉCNICA ESPECIALIZADA NA PREPARAÇÃO, APOIO LOGÍSTICO, AVALIAÇÃO E ALIENAÇÃO POR MEIO DE LEILÃO DE BENS MÓVEIS INSERVÍVEIS, DE VEÍCULOS E MAQUINÁRIOS DO MUNICÍPIO DE PETROLINA DE GOIÁS-GO.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-03-07T07:00:00",
+  "dataEncerramentoProposta": "2025-03-21T17:00:00",
+  "dataPublicacaoPncp": "2025-03-07T12:29:55",
+  "dataAtualizacaoGlobal": "2025-09-02T09:39:00",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Petrolina de Goiás",
+    "codigoIbge": "5216809",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE PETROLINA DE GOIAS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 79, II",
+    "descricao": "Credenciamento: na hipótese de contratação com seleção a critério de terceiros: caso em que a seleção do contratado está a cargo do beneficiário direto da prestação.",
+    "codigo": 141
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 5.0,
+  "modalidadeId": 12,
+  "modalidadeNome": "Credenciamento",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 4,
+  "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Megasoft Informática"
+}

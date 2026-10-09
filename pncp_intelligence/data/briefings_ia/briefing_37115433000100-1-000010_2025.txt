@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE PSICOLOGIA DA 6 REGIAO - CRP-06 (São Paulo/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para fornecimento de solução de firewall NGFW (Next Generation Firewall) composta por subscrição de licenças, com fornecimento de appliances, licenciamento, software de gerenciamento, serviço de implantação, instalação e configuração, serviço de operação e sustentação de ambiente, suporte técnico e treinamento para a solução ofertada, e serviço de garantia da solução ofertada pelo tempo que perdurar o contrato.
+VALOR ESTIMADO: R$ 58.980,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/37115433000100-1-000010/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37115433000100/compras/2025/10/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Firewall aplicação: segurança rede computadores, modelo: apliance ngfw | Qtd: 1.0 | R$ Unit: 58980.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 58980.0,
+  "orgaoEntidade": {
+    "cnpj": "37115433000100",
+    "razaoSocial": "CONSELHO REGIONAL DE PSICOLOGIA DA 6 REGIAO - CRP-06",
+    "esferaId": "F",
+    "poderId": "E"
+  },
+  "dataInclusao": "2025-03-24T10:55:21",
+  "dataAtualizacao": "2025-03-24T10:55:21",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-24T10:55:21",
+  "dataAtualizacaoGlobal": "2025-03-24T10:58:23",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoIbge": "3550308",
+    "codigoUnidade": "389255",
+    "nomeUnidade": "CONSELHO REGIONAL DE PSICOLOGIA 6ª - SP"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 10,
+  "emendaParlamentar": null,
+  "numeroCompra": "6",
+  "processo": "570600313.000001/2025-45",
+  "objetoCompra": "Contratação de empresa especializada para fornecimento de solução de firewall NGFW (Next Generation Firewall) composta por subscrição de licenças, com fornecimento de appliances, licenciamento, software de gerenciamento, serviço de implantação, instalação e configuração, serviço de operação e sustentação de ambiente, suporte técnico e treinamento para a solução ofertada, e serviço de garantia da solução ofertada pelo tempo que perdurar o contrato.",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "37115433000100-1-000010/2025",
+  "valorTotalEstimado": 58980.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

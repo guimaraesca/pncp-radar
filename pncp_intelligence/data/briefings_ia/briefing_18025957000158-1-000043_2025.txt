@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MARIA DA FE (Maria da Fé/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE GRÁFICA PARA CONFECÇÃO DE FAIXAS E CARTAZES E IMPRESSÃO DE PROVAS E SIMULADOS DO SAEB, EM ATENDIMENTO À SECRETARIA MUNICIPAL DE EDUCAÇÃO.
+VALOR ESTIMADO: R$ 36.125,00
+PRAZO PARA PROPOSTAS: 2025-05-20T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/18025957000158-1-000043/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025957000158/compras/2025/43/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025957000158/compras/2025/43/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025957000158/compras/2025/43/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025957000158/compras/2025/43/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025957000158/compras/2025/43/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025957000158/compras/2025/43/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025957000158/compras/2025/43/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: IMPRESSÃO - IMPRESSÃO COLORIDA EM PAPEL COMUM | Qtd: 10000.0 | R$ Unit: 1.25
+  - Item 2: SERVIÇOS GRÁFICOS - FAIXA EM LONA IMPRESSA - 3,50X0,60 | Qtd: 150.0 | R$ Unit: 157.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 15650.0,
+  "orgaoEntidade": {
+    "cnpj": "18025957000158",
+    "razaoSocial": "MUNICIPIO DE MARIA DA FE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-07T13:23:21",
+  "dataAtualizacao": "2025-05-07T13:23:21",
+  "numeroControlePNCP": "18025957000158-1-000043/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 43,
+  "emendaParlamentar": null,
+  "numeroCompra": "52",
+  "processo": "52/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE GRÁFICA PARA CONFECÇÃO DE FAIXAS E CARTAZES E IMPRESSÃO DE PROVAS E SIMULADOS DO SAEB, EM ATENDIMENTO À SECRETARIA MUNICIPAL DE EDUCAÇÃO.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-08T08:00:00",
+  "dataEncerramentoProposta": "2025-05-20T09:00:00",
+  "dataPublicacaoPncp": "2025-05-07T13:23:21",
+  "dataAtualizacaoGlobal": "2025-06-03T10:07:20",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Maria da Fé",
+    "codigoIbge": "3139904",
+    "codigoUnidade": "28091",
+    "nomeUnidade": "Prefeitura Municipal de Maria da Fé"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Não se aplica",
+  "valorTotalEstimado": 36125.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Planejar Consultores Associados Ltda"
+}

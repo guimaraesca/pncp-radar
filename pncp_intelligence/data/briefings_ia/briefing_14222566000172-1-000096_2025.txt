@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTO AMARO (Santo Amaro/BA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para eventual contratação de empresa(s) especializada(s) na locação de equipamentos e
+prestação de serviços de monitoramento urbano e predial, rastreamento veicular, radiocomunicação, telefonia fixa em nuvem e infraestrutura de datacenter (colocation).
+VALOR ESTIMADO: R$ 1.970.979,13
+PRAZO PARA PROPOSTAS: 2025-05-19T08:00:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]NHae9ZXtoQAumvmmSx2i8_rdnU58yQva0zzyNqoSM842JxZlntrC0UYzdl5JkYhkIf6COPjvEqDuvOwav11FE6O4eAhv7MmW483fEZGKpv4=
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14222566000172/compras/2025/96/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: DESCRITIVO CONFORME LOTE I ANEXO AO TERMO DE REFERÊNCIA, VINCULADO AO EDITAL, CONTENDO MARCA/MODELO. | Qtd: 1.0 | R$ Unit: 246688.47
+  - Item 2: DESCRITIVO CONFORME LOTE II ANEXO AO TERMO DE REFERÊNCIA, VINCULADO AO EDITAL, CONTENDO MARCA/MODELO. | Qtd: 1.0 | R$ Unit: 193264.56
+  - Item 3: DESCRITIVO CONFORME LOTE III ANEXO AO TERMO DE REFERÊNCIA, VINCULADO AO EDITAL, CONTENDO MARCA/MODELO. | Qtd: 1.0 | R$ Unit: 851236.0
+  - Item 4: DESCRITIVO CONFORME LOTE IV ANEXO AO TERMO DE REFERÊNCIA, VINCULADO AO EDITAL, CONTENDO MARCA/MODELO. | Qtd: 1.0 | R$ Unit: 49212.0
+  - Item 5: DESCRITIVO CONFORME LOTE V ANEXO AO TERMO DE REFERÊNCIA, VINCULADO AO EDITAL, CONTENDO MARCA/MODELO. | Qtd: 1.0 | R$ Unit: 92915.4
+  - Item 6: DESCRITIVO CONFORME LOTE VI ANEXO AO TERMO DE REFERÊNCIA, VINCULADO AO EDITAL, CONTENDO MARCA/MODELO. | Qtd: 1.0 | R$ Unit: 537662.7
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "14222566000172",
+    "razaoSocial": "MUNICIPIO DE SANTO AMARO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-05-06T08:39:58",
+  "dataAtualizacao": "2025-05-06T08:39:58",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 96,
+  "emendaParlamentar": null,
+  "numeroCompra": "PE0008",
+  "processo": "0154/2025",
+  "objetoCompra": "Registro de preços para eventual contratação de empresa(s) especializada(s) na locação de equipamentos e\r\nprestação de serviços de monitoramento urbano e predial, rastreamento veicular, radiocomunicação, telefonia fixa em nuvem e infraestrutura de datacenter (colocation).",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-05-06T09:00:00",
+  "dataEncerramentoProposta": "2025-05-19T08:00:00",
+  "dataPublicacaoPncp": "2025-05-06T08:39:58",
+  "dataAtualizacaoGlobal": "2025-05-06T08:40:00",
+  "numeroControlePNCP": "14222566000172-1-000096/2025",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Santo Amaro",
+    "codigoUnidade": "000000001",
+    "nomeUnidade": "ADM SANTO AMARO",
+    "codigoIbge": "2928604"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]NHae9ZXtoQAumvmmSx2i8_rdnU58yQva0zzyNqoSM842JxZlntrC0UYzdl5JkYhkIf6COPjvEqDuvOwav11FE6O4eAhv7MmW483fEZGKpv4=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 1970979.13,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

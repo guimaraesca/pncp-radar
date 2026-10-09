@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO RIO GRANDE DO NORTE - CREA/RN (Natal/RN)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada na prestação de serviços de consultoria em Gestão por Processos (BPM), Gerenciamento de Riscos Institucionais e Implantação de Gestão por Competências no âmbito do Crea-RN. 
+VALOR ESTIMADO: R$ 190.000,00
+PRAZO PARA PROPOSTAS: 2026-10-06T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92639305000392026
+BASE LOGÍSTICA COMPATÍVEL: Natal (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: NATAL/RN]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08025934000190/compras/2026/12/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços especializados em modelagem de processos - bpm Prestação de serviços de consultoria em Gestão por Processos (BP | Qtd: 1.0 | R$ Unit: 190000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "08025934000190",
+    "razaoSocial": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO RIO GRANDE DO NORTE - CREA/RN",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-18T16:42:29",
+  "dataAtualizacao": "2026-09-18T16:42:29",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 12,
+  "emendaParlamentar": null,
+  "numeroCompra": "39",
+  "processo": "4873483/2026",
+  "objetoCompra": "Contratação de empresa especializada na prestação de serviços de consultoria em Gestão por Processos (BPM), Gerenciamento de Riscos Institucionais e Implantação de Gestão por Competências no âmbito do Crea-RN. ",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-21T08:00:00",
+  "dataEncerramentoProposta": "2026-10-06T09:00:00",
+  "dataPublicacaoPncp": "2026-09-18T16:42:29",
+  "dataAtualizacaoGlobal": "2026-09-18T16:43:31",
+  "numeroControlePNCP": "08025934000190-1-000012/2026",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Norte",
+    "ufSigla": "RN",
+    "municipioNome": "Natal",
+    "codigoUnidade": "926393",
+    "nomeUnidade": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA",
+    "codigoIbge": "2408102"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92639305000392026",
+  "linkProcessoEletronico": "https://crea-rn.implanta.net.br/portaltransparencia/#publico/LicitacoesContratos?param=13",
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 190000.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-18T16:42:29"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

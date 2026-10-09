@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ALUMINIO (Alumínio/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento de cestas básicas destinadas aos servidores da Prefeitura Municipal de Alumínio/SP, compreendendo aquisição, montagem, acondicionamento e entrega, conforme condições, quantidades e especificações constantes do Termo de Referência.
+VALOR ESTIMADO: R$ 6,180,030.00
+PRAZO PARA PROPOSTAS: 2026-10-08T09:30:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

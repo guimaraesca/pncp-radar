@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ITATINGA (Itatinga/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em  instalação e manutenção elétrica para atualização do sistema de Firewall da Prefeitura. Proc. Administrativo 966/2025.
+VALOR ESTIMADO: R$ 5.936,63
+PRAZO PARA PROPOSTAS: 2025-06-17T14:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/46634127000163-1-000685/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46634127000163/compras/2025/685/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONDULETE TRAMONTINA 1 POLE CONDULETE TRAMONTINA 1 POLE | Qtd: 6.0 | R$ Unit: 24.0
+  - Item 2: ESPELHO TOMADA ESPELHO TOMADA HORIZONTAL LUX 1 POL | Qtd: 6.0 | R$ Unit: 17.5
+  - Item 3: LIZ MODULO TOMADA 20 A TRAMONTINA LIZ MODULO TOMADA 20 A TRAMONTINA | Qtd: 6.0 | R$ Unit: 10.9667
+  - Item 4: LIZ MODULO TOMADA 10A TRAMONTINA LIZ MODULO TOMADA 10A TRAMONTINA | Qtd: 6.0 | R$ Unit: 10.2
+  - Item 5: ELETRODUTO ZINCADO 1 POLEGADA ELETRODUTO ZINCADO 1 POLEGADA | Qtd: 3.0 | R$ Unit: 50.3
+  - Item 6: QUADRO DISJUNTOR EMBUTIR 24 NEMA 32 DIN QUADRO DISJUNTOR EMBUTIR 24 NEMA 32 DIN | Qtd: 1.0 | R$ Unit: 297.6667
+  - Item 7: DISJUNTOR BIPOLAR 32A DIN DISJUNTOR BIPOLAR 32A DIN | Qtd: 6.0 | R$ Unit: 70.6667
+  - Item 8: DISJUNTOR 63 DISJUNTOR BIPOLAR 63 AP | Qtd: 1.0 | R$ Unit: 79.9667
+  - Item 9: CAIXA DE PASSAGEM 40x40 CAIXA DE PASSAGEM 40x40 - ALUMÍNIO | Qtd: 2.0 | R$ Unit: 33.0
+  - Item 10: ELETRODUTO 1.1/4 ELETRODUTO 1.1/4 | Qtd: 1.0 | R$ Unit: 88.3333
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "46634127000163",
+    "razaoSocial": "MUNICIPIO DE ITATINGA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 5637.8,
+  "dataInclusao": "2025-06-18T07:56:54",
+  "dataAtualizacao": "2025-06-18T07:56:54",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 685,
+  "emendaParlamentar": null,
+  "numeroCompra": "24003",
+  "processo": "951/2025",
+  "objetoCompra": "Contratação de empresa especializada em  instalação e manutenção elétrica para atualização do sistema de Firewall da Prefeitura. Proc. Administrativo 966/2025.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-06-17T13:00:00",
+  "dataEncerramentoProposta": "2025-06-17T14:00:00",
+  "dataPublicacaoPncp": "2025-06-18T07:56:54",
+  "dataAtualizacaoGlobal": "2025-06-18T08:00:01",
+  "numeroControlePNCP": "46634127000163-1-000685/2025",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Itatinga",
+    "codigoUnidade": "1",
+    "nomeUnidade": "ITATINGA",
+    "codigoIbge": "3523503"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Justifica-se a aquisição presencial devido a inviabilidade por meio eletrônico",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "valorTotalEstimado": 5936.63,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CECAM - Consultoria Econômica, Contábil e Administrativa Municipal"
+}

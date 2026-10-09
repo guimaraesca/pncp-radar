@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TOCANTINS PROCURADORIA GERAL DA JUSTICA (Palmas/TO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de 1 (um) Sistema de Nobreak (UPS) de grande porte com capacidade de no mínimo 80 kVA / 80 kW, incluindo o fornecimento de equipamentos novos, banco de baterias de chumbo-ácido reguladas por válvula (VRLA), Serviços Especializados de Instalação, Configuração, Comissionamento, Garantia Integral e Suporte Técnico on-site por 60 (sessenta) meses, destinado à proteção da infraestrutura crítica do Data Center da Sede do Ministério Público do Estado do Tocantins (MPTO) em Palmas-TO.
+VALOR ESTIMADO: R$ 184.815,33
+PRAZO PARA PROPOSTAS: 2026-10-09T09:59:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92589205002822026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01786078000146/compras/2026/66/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Fonte Alimentação Ininterrupta tipo: trifásico, tensão entrada: 380, tensão saída: 380, tipo onda: senoidal, software: c | Qtd: 1.0 | R$ Unit: 184815.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "01786078000146",
+    "razaoSocial": "TOCANTINS PROCURADORIA GERAL DA JUSTICA",
+    "poderId": "J",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-24T11:56:53",
+  "dataAtualizacao": "2026-09-24T11:56:53",
+  "anoCompra": 2026,
+  "sequencialCompra": 66,
+  "emendaParlamentar": null,
+  "numeroCompra": "282",
+  "processo": "19.30.1036.0001582/2026-69",
+  "objetoCompra": "Aquisição de 1 (um) Sistema de Nobreak (UPS) de grande porte com capacidade de no mínimo 80 kVA / 80 kW, incluindo o fornecimento de equipamentos novos, banco de baterias de chumbo-ácido reguladas por válvula (VRLA), Serviços Especializados de Instalação, Configuração, Comissionamento, Garantia Integral e Suporte Técnico on-site por 60 (sessenta) meses, destinado à proteção da infraestrutura crítica do Data Center da Sede do Ministério Público do Estado do Tocantins (MPTO) em Palmas-TO.",
+  "informacaoComplementar": "Em caso de discordância existente entre as especificações do objeto descritas no CATMAT/CATSER e as constantes deste edital, prevalecerão as últimas.",
+  "dataAberturaProposta": "2026-09-24T15:00:00",
+  "dataEncerramentoProposta": "2026-10-09T09:59:00",
+  "dataPublicacaoPncp": "2026-09-24T11:56:53",
+  "dataAtualizacaoGlobal": "2026-09-24T11:57:54",
+  "unidadeOrgao": {
+    "ufNome": "Tocantins",
+    "ufSigla": "TO",
+    "municipioNome": "Palmas",
+    "codigoIbge": "1721000",
+    "codigoUnidade": "925892",
+    "nomeUnidade": "ETO-PROCURADORIA GERAL DA JUSTIÇA TOCANTINS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92589205002822026",
+  "linkProcessoEletronico": "https://sei.mpto.mp.br",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "01786078000146-1-000066/2026",
+  "srp": false,
+  "valorTotalEstimado": 184815.33,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-24T11:56:53"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

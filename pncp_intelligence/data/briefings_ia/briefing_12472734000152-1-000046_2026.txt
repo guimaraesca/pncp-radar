@@ -1,0 +1,84 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: PROCURADORIA GERAL DE JUSTICA DO ESTADO DE ALAGOAS (Maceió/AL)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para contratação de solução de segurança cibernética
+VALOR ESTIMADO: R$ 1.991.274,87
+PRAZO PARA PROPOSTAS: 2026-10-08T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45379105000482026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12472734000152/compras/2026/46/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12472734000152/compras/2026/46/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de gerenciamento de infraestrutura de tecnologia dainformação e comunicação (tic) Serviços de gerenciamento de  | Qtd: 2.0 | R$ Unit: 122069.97
+  - Item 2: Serviços de gerenciamento de infraestrutura de tecnologia dainformação e comunicação (tic) Serviços de gerenciamento de  | Qtd: 2.0 | R$ Unit: 77851.68
+  - Item 3: Serviços de gerenciamento de infraestrutura de tecnologia dainformação e comunicação (tic) Serviços de gerenciamento de  | Qtd: 2.0 | R$ Unit: 77400.99
+  - Item 4: Serviços de gerenciamento de infraestrutura de tecnologia dainformação e comunicação (tic) Serviços de gerenciamento de  | Qtd: 2.0 | R$ Unit: 68986.51
+  - Item 5: Serviços de gerenciamento de infraestrutura de tecnologia dainformação e comunicação (tic) Serviços de gerenciamento de  | Qtd: 300.0 | R$ Unit: 783.67
+  - Item 6: Serviços de Gerenciamento de Infraestrutura de Tecnologia daInformação e Comunicação (TIC) Serviços de Gerenciamento de  | Qtd: 1.0 | R$ Unit: 8617.0
+  - Item 7: Serviços de Gerenciamento de Infraestrutura de Tecnologia daInformação e Comunicação (TIC) Serviços de Gerenciamento de  | Qtd: 200.0 | R$ Unit: 650.67
+  - Item 8: Serviços de Gerenciamento de Infraestrutura de Tecnologia daInformação e Comunicação (TIC) Serviços de Gerenciamento de  | Qtd: 150.0 | R$ Unit: 714.0
+  - Item 9: Serviços de Gerenciamento de Infraestrutura de Tecnologia daInformação e Comunicação (TIC) Serviços de Gerenciamento de  | Qtd: 20.0 | R$ Unit: 790.67
+  - Item 10: Serviços de Gerenciamento de Infraestrutura de Tecnologia daInformação e Comunicação (TIC) Serviços de Gerenciamento de  | Qtd: 30.0 | R$ Unit: 615.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "12472734000152",
+    "razaoSocial": "PROCURADORIA GERAL DE JUSTICA DO ESTADO DE ALAGOAS",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-21T10:58:04",
+  "dataAtualizacao": "2026-09-21T10:58:04",
+  "objetoCompra": "Registro de preços para contratação de solução de segurança cibernética",
+  "dataAberturaProposta": "2026-09-22T08:00:00",
+  "dataEncerramentoProposta": "2026-10-08T09:00:00",
+  "dataPublicacaoPncp": "2026-09-21T10:58:04",
+  "dataAtualizacaoGlobal": "2026-09-21T10:59:44",
+  "unidadeOrgao": {
+    "ufNome": "Alagoas",
+    "ufSigla": "AL",
+    "municipioNome": "Maceió",
+    "codigoIbge": "2704302",
+    "codigoUnidade": "453791",
+    "nomeUnidade": "PROCURADORIA GERAL DE JUSTIÇA DE ALAGOAS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45379105000482026",
+  "linkProcessoEletronico": "https://sistemas.mpal.mp.br/ged/Administrativo/Publico.html#/Expediente/ConsultaPublica",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "12472734000152-1-000046/2026",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 46,
+  "emendaParlamentar": null,
+  "numeroCompra": "48",
+  "processo": "20.08.1328.0000298/2025-42",
+  "informacaoComplementar": "Conforme TR.",
+  "valorTotalEstimado": 1991274.87,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-21T10:58:04"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

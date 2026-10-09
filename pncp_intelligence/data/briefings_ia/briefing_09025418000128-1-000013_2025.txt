@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDACAO AMAZONIA DE AMPARO A ESTUDOS E PESQUISAS - FAPESPA (Belém/PA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Licença de firewall Blockbit modelo BB-15000
+VALOR ESTIMADO: R$ 45.288,73
+PRAZO PARA PROPOSTAS: 2025-08-18T12:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/09025418000128-1-000013/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/09025418000128/compras/2025/13/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/09025418000128/compras/2025/13/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/09025418000128/compras/2025/13/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licença de firewall Blockbit modelo BB-15000 | Qtd: 1.0 | R$ Unit: 45288.73
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "09025418000128",
+    "razaoSocial": "FUNDACAO AMAZONIA DE AMPARO A ESTUDOS E PESQUISAS - FAPESPA",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-05T16:00:23",
+  "dataAtualizacao": "2025-08-05T16:00:23",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 13,
+  "emendaParlamentar": null,
+  "numeroCompra": "007",
+  "processo": "E-2025/2914088",
+  "objetoCompra": "Licença de firewall Blockbit modelo BB-15000",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-08-18T09:00:00",
+  "dataEncerramentoProposta": "2025-08-18T12:00:00",
+  "dataPublicacaoPncp": "2025-08-05T16:00:23",
+  "dataAtualizacaoGlobal": "2025-08-05T16:06:01",
+  "unidadeOrgao": {
+    "ufNome": "Pará",
+    "ufSigla": "PA",
+    "municipioNome": "Belém",
+    "codigoUnidade": "76",
+    "nomeUnidade": "FAPESPA",
+    "codigoIbge": "1501402"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "09025418000128-1-000013/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 1º, § 2º",
+    "descricao": "As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos nesta Lei, na forma de regulamentação específica a ser editada por ministro de Estado.",
+    "codigo": 80
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 45288.73,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras Pará"
+}

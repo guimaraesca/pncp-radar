@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BARRA DE SAO FRANCISCO (Barra de São Francisco/ES)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de unidades de disco rígido (HD) com as seguintes especificações mínimas: Capacidade de 1,2 TB, interface SAS 12 Gbps, velocidade de rotação d 10.000 RPM, formato 2,5 polegadas, compatíveis com os servidores em operação na infraestrutura de TI da Prefeitura.
+VALOR ESTIMADO: R$ 3.379,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/27165745000167-1-000123/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/27165745000167/compras/2025/123/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: DISCO RIGIDO HD | Qtd: 2.0 | R$ Unit: 1689.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 3379.0,
+  "orgaoEntidade": {
+    "cnpj": "27165745000167",
+    "razaoSocial": "MUNICIPIO DE BARRA DE SAO FRANCISCO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-05T14:21:43",
+  "dataAtualizacao": "2025-08-05T14:21:43",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 123,
+  "emendaParlamentar": null,
+  "numeroCompra": "000051",
+  "processo": "007711/2025",
+  "objetoCompra": "Aquisição de unidades de disco rígido (HD) com as seguintes especificações mínimas: Capacidade de 1,2 TB, interface SAS 12 Gbps, velocidade de rotação d 10.000 RPM, formato 2,5 polegadas, compatíveis com os servidores em operação na infraestrutura de TI da Prefeitura.",
+  "informacaoComplementar": "Aquisição de unidades de disco rígido (HD) com as seguintes especificações mínimas: Capacidade de 1,2 TB, interface SAS 12 Gbps, velocidade de rotação d 10.000 RPM, formato 2,5 polegadas, compatíveis com os servidores em operação na infraestrutura de TI d",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T14:21:43",
+  "dataAtualizacaoGlobal": "2025-08-08T16:16:03",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Barra de São Francisco",
+    "codigoUnidade": "27165745000167-001",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE BARRA DE SÃO FRANCISCO",
+    "codigoIbge": "3200904"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Conforme Processo",
+  "numeroControlePNCP": "27165745000167-1-000123/2025",
+  "valorTotalEstimado": 3379.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "E & L PRODUCOES DE SOFTWARE LTDA"
+}

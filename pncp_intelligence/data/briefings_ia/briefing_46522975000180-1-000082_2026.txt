@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RIO GRANDE DA SERRA (Rio Grande da Serra/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: REGISTRO DE PREÇOS PARA FORNECIMENTO DE MEDICAMENTOS E MATERIAIS ODONTOLÓGICOS.  Proc Adm 711 2026
+VALOR ESTIMADO: R$ 124.442,06
+PRAZO PARA PROPOSTAS: 2026-10-06T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/46522975000180-1-000082/2026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46522975000180/compras/2026/82/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ADESIVO DENTAL FOTOPOLIMERIZÁVEL – SISTEMA ADESIVO CONVENCIONAL DE FRASCO ÚNICO (5ª GERAÇÃO). INDICADO PARA ESMALTE E DE | Qtd: 10.0 | R$ Unit: 291.66
+  - Item 2: PANO MULTIUSO EM ROLO (DESCARTÁVEL) – PANO TÉCNICO TNT (TECIDO NÃO TECIDO) AGULHADO, INDICADO PARA LIMPEZA, DESINFECÇÃO  | Qtd: 50.0 | R$ Unit: 90.0
+  - Item 3: SOLUÇÃO ANESTÉSICA INJETÁVEL ODONTOLÓGICA – COMPOSIÇÃO: CLORIDRATO DE LIDOCAÍNA A 2% ASSOCIADO AO VASOCONSTRITOR EPINEFR | Qtd: 70.0 | R$ Unit: 255.66
+  - Item 4: ANESTÉSICO TÓPICO ODONTOLÓGICO – FORMA FARMACÊUTICA: GEL. COMPOSIÇÃO: BENZOCAÍNA A 20%. COM AROMATIZANTE (SABORIZADO). I | Qtd: 15.0 | R$ Unit: 38.9
+  - Item 5: FIO DE SUTURA CIRÚRGICO NÃO ABSORVÍVEL (4-0) – MATERIAL DO FIO: MONOFILAMENTO DE POLIAMIDA (NYLON). DIÂMETRO DO FIO: CAL | Qtd: 50.0 | R$ Unit: 48.3
+  - Item 6: SOLUÇÃO ODONTOLÓGICA DE FORMOCRESOL – MEDICAÇÃO INTRACANAL E PARA PULPOTOMIA. SOLUÇÃO CONTENDO FORMALDEÍDO (CRESOL/FORMO | Qtd: 20.0 | R$ Unit: 32.36
+  - Item 7: KIT IONOMERO DE VIDRO RESTAURADOR COR A3 - KIT CONTÉM: 1 FRASCO DE CIMENTO EM PÓ COM 10 GR; 1 FRASCO LÍQUIDO COM 8 GR; 1 | Qtd: 60.0 | R$ Unit: 51.8
+  - Item 8: CIMENTO À BASE DE HIDRÓXIDO DE CÁLCIO – SISTEMA PASTA-PASTA (BASE E CATALISADORA), AUTOPOLIMERIZÁVEL, RADIOPACO. INDICAD | Qtd: 10.0 | R$ Unit: 44.36
+  - Item 9: ESPÁTULA PARA RESINA NÚMERO 1  – TIPO: INSTRUMENTAL ODONTOLÓGICO EM AÇO INOX  ESPÁTULA DE INSERÇÃO E MODELAGEM PARA RESI | Qtd: 10.0 | R$ Unit: 28.83
+  - Item 10: HIDROXIDO DE CÁLCIO EM PÓ GRAU P.A. – INSUMO ODONTOLÓGICO EM PÓ DE ALTA PUREZA, INDICADO PARA A FORMULAÇÃO DE PASTAS E C | Qtd: 5.0 | R$ Unit: 18.56
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "46522975000180",
+    "razaoSocial": "MUNICIPIO DE RIO GRANDE DA SERRA",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2026-09-23T13:44:00",
+  "dataAtualizacao": "2026-09-23T13:44:00",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PRESCON INFORMATICA ASSESSORIA LTDA.",
+  "dataAberturaProposta": "2026-09-23T18:00:00",
+  "dataEncerramentoProposta": "2026-10-06T09:00:00",
+  "dataPublicacaoPncp": "2026-09-23T13:44:00",
+  "dataAtualizacaoGlobal": "2026-09-23T13:44:00",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Rio Grande da Serra",
+    "codigoIbge": "3544103",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Municipio De Rio Grande Da Serra"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "A presente justificativa tem finalidade demonstrar a necessidade da aquisição de medicamentos, materiais odontológicos destinados ao atendimento nas Unidades de Saúde, em consonância com o Planejamento Estratégico da Secretaria Municipal de Saúde e com as diretrizes da Atenção Primária à Saúde.",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 82,
+  "emendaParlamentar": null,
+  "numeroCompra": "50",
+  "processo": "136319/2026",
+  "objetoCompra": "REGISTRO DE PREÇOS PARA FORNECIMENTO DE MEDICAMENTOS E MATERIAIS ODONTOLÓGICOS.  Proc Adm 711 2026",
+  "informacaoComplementar": "A presente justificativa tem finalidade demonstrar a necessidade da aquisição de medicamentos, materiais odontológicos destinados ao atendimento nas Unidades de Saúde, em consonância com o Planejamento Estratégico da Secretaria Municipal de Saúde e com as diretrizes da Atenção Primária à Saúde.",
+  "numeroControlePNCP": "46522975000180-1-000082/2026",
+  "valorTotalEstimado": 124442.06,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

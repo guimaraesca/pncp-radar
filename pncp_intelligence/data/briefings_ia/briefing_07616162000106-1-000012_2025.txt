@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CAUCAIA (Caucaia/CE)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de Serviços Técnicos especializados na execução dos procedimentos contábeis orçamentários no auxílio, acompanhamento, revisão e avaliação dos instrumentos de planejamento da Prefeitura Municipal de Caucaia, compreendendo: Plano Plurianual, Diretrizes Orçamentárias e Orçamento Anual, Serviços de Assessoria e Consultoria em Gestão Fiscal, Controle da Execução Orçamentária e Financeira, acompanhamento dos créditos adicionais, acompanhamento das audiências previstas da LRF, acompanhamento dos índices constitucionais e da LRF, legislação e acompanhamento mensal das despesas de pessoal e encargos, elaboração, processamento e transmissão de dados do SIOPE, elaboração, processamento e transmissão de dados do SIOPS, para atender as necessidades das Unidades Administrativas do Município de Caucaia /CE.
+VALOR ESTIMADO: R$ 999.516,71
+PRAZO PARA PROPOSTAS: 2025-04-08T09:00:00
+LINK OFICIAL: https://licitamaisbrasil.com.br/detalhes-do-edital/63dNiWkjxBRY10SN
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07616162000106/compras/2025/12/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07616162000106/compras/2025/12/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07616162000106/compras/2025/12/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07616162000106/compras/2025/12/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07616162000106/compras/2025/12/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07616162000106/compras/2025/12/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07616162000106/compras/2025/12/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07616162000106/compras/2025/12/arquivos/8
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LOTE 01 – PLANO PLURIANUAL E ORÇAMENTO GERAL DO MUNICIPIO  | Qtd: 1.0 | R$ Unit: 183316.67
+  - Item 2: LOTE 02 – CONTRATAÇÃO DE ASSESSORIA E CONSULTORIA ESPECIALIZADA | Qtd: 1.0 | R$ Unit: 816200.04
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07616162000106",
+    "razaoSocial": "MUNICIPIO DE CAUCAIA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 598057.96,
+  "dataInclusao": "2025-03-20T17:55:08",
+  "dataAtualizacao": "2025-03-20T17:55:08",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 12,
+  "emendaParlamentar": null,
+  "numeroCompra": "2025.03.14.01-DIV",
+  "processo": "2025.03.14.01-DIV",
+  "objetoCompra": "Contratação de Serviços Técnicos especializados na execução dos procedimentos contábeis orçamentários no auxílio, acompanhamento, revisão e avaliação dos instrumentos de planejamento da Prefeitura Municipal de Caucaia, compreendendo: Plano Plurianual, Diretrizes Orçamentárias e Orçamento Anual, Serviços de Assessoria e Consultoria em Gestão Fiscal, Controle da Execução Orçamentária e Financeira, acompanhamento dos créditos adicionais, acompanhamento das audiências previstas da LRF, acompanhamento dos índices constitucionais e da LRF, legislação e acompanhamento mensal das despesas de pessoal e encargos, elaboração, processamento e transmissão de dados do SIOPE, elaboração, processamento e transmissão de dados do SIOPS, para atender as necessidades das Unidades Administrativas do Município de Caucaia /CE.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-03-20T18:10:00",
+  "dataEncerramentoProposta": "2025-04-08T09:00:00",
+  "dataPublicacaoPncp": "2025-03-20T17:55:08",
+  "dataAtualizacaoGlobal": "2025-08-11T14:47:38",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Caucaia",
+    "codigoUnidade": "1",
+    "nomeUnidade": "MUNICIPIO DE CAUCAIA",
+    "codigoIbge": "2303709"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "07616162000106-1-000012/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://licitamaisbrasil.com.br/detalhes-do-edital/63dNiWkjxBRY10SN",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 999516.71,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licita + Brasil"
+}

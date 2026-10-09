@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE VERANOPOLIS (Veranópolis/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: SERVICOS TECNICOS PROFISSIONAIS
+VALOR ESTIMADO: R$ 11.500,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://veranopolis.msgestaopublica.app.br:8079/transparencia/?AcessoIndividual=lnkLicitacoes
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/98671597000109/compras/2025/314/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/98671597000109/compras/2025/314/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/98671597000109/compras/2025/314/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/98671597000109/compras/2025/314/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/98671597000109/compras/2025/314/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇO TÉCNICO | Qtd: 100.0 | R$ Unit: 115.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "98671597000109",
+    "razaoSocial": "MUNICIPIO DE VERANOPOLIS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 11500.0,
+  "dataInclusao": "2025-08-08T08:49:49",
+  "dataAtualizacao": "2025-08-08T08:49:49",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Veranópolis",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Prefeitura Municipal de Veranópolis",
+    "codigoIbge": "4322806"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://veranopolis.msgestaopublica.app.br:8079/transparencia/?AcessoIndividual=lnkLicitacoes",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 314,
+  "emendaParlamentar": null,
+  "numeroCompra": "211",
+  "processo": "211",
+  "objetoCompra": "SERVICOS TECNICOS PROFISSIONAIS",
+  "informacaoComplementar": "Contratação de horas de serviço técnico para atender as necessidades do município, no que tange à assessoria técnica especializada, para realizar os processos de licenciamento de suas próprias ações enquanto requerente, entre eles: projetos, estudos, análises, execuções e monitoramentos de atividades de licenciamento ambiental e/ou atividades relacionadas às demandas nas mais diversas esferas de atuação de gestão ambiental do município, tais como atividades de gestão e responsabilidade técnica entre outras. \r\nA Nota Fiscal deverá vir acompanhada de Relatório das Atividades.\r\nPeríodo de vigência do contrato: A contar da assinatura do contrato até 31/12/2025. Podendo ser prorrogado por igual período. \r\n",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-08T08:49:49",
+  "dataAtualizacaoGlobal": "2025-08-08T08:51:36",
+  "numeroControlePNCP": "98671597000109-1-000314/2025",
+  "valorTotalEstimado": 11500.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software"
+}

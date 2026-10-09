@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MOZARLANDIA (Mozarlândia/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: PREGÃO ELETRÔNICO PARA A CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS PARA LOCAÇÃO - LICENÇA DE USO DE SOFTWARE DE GESTÃO PÚBLICA, SISTEMATIZADO EM AMBIENTE 100% WEB, COM HOSPEDAGEM DE DADOS EM INTERNET DATA CENTER - IDC
+VALOR ESTIMADO: R$ 235.999,92
+PRAZO PARA PROPOSTAS: 2025-05-19T08:00:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]EayuR8UN3qc/Pq5EmBMP6DOKWP9ChVn59R_cpg6zfpbOAmjAuj_E4UeRaX2N7qrvbdgaNKd2bhVBO7n1leymh88QcZVG01CHWG7Jl4TFjEQ=
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01135227000107/compras/2025/10/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTAÇÃO DE SERVIÇOS PARA LOCAÇÃO - LICENÇA DE USO DE SOFTWARE DE GESTÃO PÚBLICA, SISTEMATIZADO EM AMBIENTE 100% WEB, C | Qtd: 12.0 | R$ Unit: 19666.66
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01135227000107",
+    "razaoSocial": "MUNICIPIO DE MOZARLANDIA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-05-06T11:08:17",
+  "dataAtualizacao": "2025-05-06T11:08:17",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 10,
+  "emendaParlamentar": null,
+  "numeroCompra": "0000008",
+  "processo": "2212/2025",
+  "objetoCompra": "PREGÃO ELETRÔNICO PARA A CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS PARA LOCAÇÃO - LICENÇA DE USO DE SOFTWARE DE GESTÃO PÚBLICA, SISTEMATIZADO EM AMBIENTE 100% WEB, COM HOSPEDAGEM DE DADOS EM INTERNET DATA CENTER - IDC",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-05-06T12:00:00",
+  "dataEncerramentoProposta": "2025-05-19T08:00:00",
+  "dataPublicacaoPncp": "2025-05-06T11:08:17",
+  "dataAtualizacaoGlobal": "2025-05-06T11:08:19",
+  "numeroControlePNCP": "01135227000107-1-000010/2025",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Mozarlândia",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE MOZARLÂNDIA - GO",
+    "codigoIbge": "5214002"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]EayuR8UN3qc/Pq5EmBMP6DOKWP9ChVn59R_cpg6zfpbOAmjAuj_E4UeRaX2N7qrvbdgaNKd2bhVBO7n1leymh88QcZVG01CHWG7Jl4TFjEQ=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 235999.92,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

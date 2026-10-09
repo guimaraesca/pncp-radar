@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE MATO GROSSO DO SUL (Campo Grande/MS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: O REGISTRO DE PREÇOS visando a contratação de empresas especializadas em organização de evento, assessoria no planejamento estratégico, organizacional e operacional, conforme descritivo, quantidade e especificações técnicas, apresentadas no Termo de Referência.
+VALOR ESTIMADO: R$ 1.104.850,90
+PRAZO PARA PROPOSTAS: 2025-04-03T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=38908605900022025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/15417520000171/compras/2025/6/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Organização de Congresso, Simpósio, Conferência e Exposição | Qtd: 5.0 | R$ Unit: 12000.0
+  - Item 2: Planejamento / organização / execução / arbitragem / atividades lúdicas / desportivas / recreativas / colônia de férias | Qtd: 5.0 | R$ Unit: 25500.0
+  - Item 3: Buffet | Qtd: 300.0 | R$ Unit: 46.0
+  - Item 4: Buffet | Qtd: 300.0 | R$ Unit: 45.0
+  - Item 5: Buffet | Qtd: 300.0 | R$ Unit: 52.5
+  - Item 6: Buffet | Qtd: 500.0 | R$ Unit: 63.5
+  - Item 7: Buffet | Qtd: 400.0 | R$ Unit: 90.5
+  - Item 8: Buffet | Qtd: 400.0 | R$ Unit: 67.0
+  - Item 9: Buffet | Qtd: 300.0 | R$ Unit: 75.5
+  - Item 10: Buffet | Qtd: 600.0 | R$ Unit: 127.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "15417520000171",
+    "razaoSocial": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE MATO GROSSO DO SUL",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 696316.0,
+  "dataInclusao": "2025-03-20T07:21:04",
+  "dataAtualizacao": "2025-03-20T07:21:04",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 6,
+  "emendaParlamentar": null,
+  "numeroCompra": "90002",
+  "processo": "P2024/070419-8",
+  "objetoCompra": "O REGISTRO DE PREÇOS visando a contratação de empresas especializadas em organização de evento, assessoria no planejamento estratégico, organizacional e operacional, conforme descritivo, quantidade e especificações técnicas, apresentadas no Termo de Referência.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=38908605900022025",
+  "dataAberturaProposta": "2025-03-20T08:00:00",
+  "dataEncerramentoProposta": "2025-04-03T09:00:00",
+  "dataPublicacaoPncp": "2025-03-20T07:21:04",
+  "dataAtualizacaoGlobal": "2025-09-16T22:21:28",
+  "unidadeOrgao": {
+    "ufNome": "Mato Grosso do Sul",
+    "ufSigla": "MS",
+    "municipioNome": "Campo Grande",
+    "codigoUnidade": "389086",
+    "nomeUnidade": "CONSELHO REG. DE ENGENHARIA E AGRONOMIA - MS",
+    "codigoIbge": "5002704"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "15417520000171-1-000006/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=38908605900022025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 1104850.9,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

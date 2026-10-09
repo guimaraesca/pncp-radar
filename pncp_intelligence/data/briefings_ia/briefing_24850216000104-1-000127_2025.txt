@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MATRINCHA (Matrinchã/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS DE CONSULTORIA TÉCNICA EM ASSISTENCIALISMO SOCIAL RELATIVOS A EQUIPE TÉCNICA DO CRAS
+VALOR ESTIMADO: R$ 57.750,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/24850216000104-1-000127/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24850216000104/compras/2025/127/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24850216000104/compras/2025/127/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS DE CONSULTORIA TÉCNICA EM ASSISTENCIALISMO SOCIAL RELATIVOS A EQUIPE | Qtd: 1.0 | R$ Unit: 2750.0
+  - Item 2: CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS DE CONSULTORIA TÉCNICA EM ASSISTENCIALISMO SOCIAL RELATIVOS A EQUIPE | Qtd: 10.0 | R$ Unit: 5500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 57750.0,
+  "orgaoEntidade": {
+    "cnpj": "24850216000104",
+    "razaoSocial": "MUNICIPIO DE MATRINCHA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-24T16:39:33",
+  "dataAtualizacao": "2025-03-24T16:39:33",
+  "numeroControlePNCP": "24850216000104-1-000127/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 127,
+  "emendaParlamentar": null,
+  "numeroCompra": "27043",
+  "processo": "27043",
+  "objetoCompra": "CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS DE CONSULTORIA TÉCNICA EM ASSISTENCIALISMO SOCIAL RELATIVOS A EQUIPE TÉCNICA DO CRAS",
+  "informacaoComplementar": "CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS DE CONSULTORIA TÉCNICA EM ASSISTENCIALISMO SOCIAL RELATIVOS A EQUIPE TÉCNICA DO CRAS",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-24T16:39:33",
+  "dataAtualizacaoGlobal": "2025-03-24T16:39:43",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Matrinchã",
+    "codigoIbge": "5212956",
+    "codigoUnidade": "9",
+    "nomeUnidade": "FMAS FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 57750.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CENTI"
+}

@@ -1,0 +1,161 @@
+﻿cidade,uf,base,distancia_km,faixa_raio,porte,prioridade,regiao
+Brasília,DF,Brasília,0,0 km (Base Central),Metrópole,1,Centro-Oeste
+Águas Lindas de Goiás,GO,Brasília,50,Até 50 km,Grande,1,Centro-Oeste
+Valparaíso de Goiás,GO,Brasília,35,Até 50 km,Grande,1,Centro-Oeste
+Luziânia,GO,Brasília,60,50 a 100 km,Grande,2,Centro-Oeste
+Formosa,GO,Brasília,75,50 a 100 km,Grande,2,Centro-Oeste
+Novo Gama,GO,Brasília,40,Até 50 km,Grande,1,Centro-Oeste
+Cidade Ocidental,GO,Brasília,45,Até 50 km,Médio,1,Centro-Oeste
+Planaltina,GO,Brasília,65,50 a 100 km,Grande,2,Centro-Oeste
+Santo Antônio do Descoberto,GO,Brasília,50,Até 50 km,Médio,1,Centro-Oeste
+Cristalina,GO,Brasília,130,100 a 200 km,Médio,3,Centro-Oeste
+Unaí,MG,Brasília,165,100 a 200 km,Médio,3,Sudeste
+Paracatu,MG,Brasília,200,100 a 200 km,Médio,3,Sudeste
+Padre Bernardo,GO,Brasília,110,100 a 200 km,Médio,3,Centro-Oeste
+Alexânia,GO,Brasília,90,50 a 100 km,Médio,2,Centro-Oeste
+Cocalzinho de Goiás,GO,Brasília,105,100 a 200 km,Médio,3,Centro-Oeste
+Abadiânia,GO,Brasília,115,100 a 200 km,Pequeno,3,Centro-Oeste
+Pirenópolis,GO,Brasília,150,100 a 200 km,Pequeno,3,Centro-Oeste
+Corumbá de Goiás,GO,Brasília,130,100 a 200 km,Pequeno,3,Centro-Oeste
+Goiânia,GO,Goiânia,0,0 km (Base Central),Metrópole,1,Centro-Oeste
+Aparecida de Goiânia,GO,Goiânia,15,Até 50 km,Grande,1,Centro-Oeste
+Anápolis,GO,Goiânia,55,50 a 100 km,Grande,2,Centro-Oeste
+Senador Canedo,GO,Goiânia,20,Até 50 km,Grande,1,Centro-Oeste
+Trindade,GO,Goiânia,25,Até 50 km,Grande,1,Centro-Oeste
+Goianira,GO,Goiânia,30,Até 50 km,Médio,1,Centro-Oeste
+Bela Vista de Goiás,GO,Goiânia,50,Até 50 km,Médio,1,Centro-Oeste
+Inhumas,GO,Goiânia,45,Até 50 km,Médio,1,Centro-Oeste
+Nerópolis,GO,Goiânia,35,Até 50 km,Médio,1,Centro-Oeste
+Guapó,GO,Goiânia,35,Até 50 km,Pequeno,1,Centro-Oeste
+Morrinhos,GO,Goiânia,130,100 a 200 km,Médio,3,Centro-Oeste
+Caldas Novas,GO,Goiânia,170,100 a 200 km,Médio,3,Centro-Oeste
+Itumbiara,GO,Goiânia,205,100 a 200 km,Grande,3,Centro-Oeste
+Rio Verde,GO,Goiânia,230,100 a 200 km,Grande,3,Centro-Oeste
+Catalão,GO,Goiânia,260,100 a 200 km,Grande,3,Centro-Oeste
+Jataí,GO,Goiânia,320,100 a 200 km,Grande,3,Centro-Oeste
+Goiatuba,GO,Goiânia,175,100 a 200 km,Médio,3,Centro-Oeste
+Jaraguá,GO,Goiânia,125,100 a 200 km,Médio,3,Centro-Oeste
+Ceres,GO,Goiânia,180,100 a 200 km,Médio,3,Centro-Oeste
+Joinville,SC,Joinville,0,0 km (Base Central),Grande,1,Sul
+Jaraguá do Sul,SC,Joinville,35,Até 50 km,Grande,1,Sul
+Guaramirim,SC,Joinville,30,Até 50 km,Médio,1,Sul
+São Francisco do Sul,SC,Joinville,45,Até 50 km,Médio,1,Sul
+Araquari,SC,Joinville,25,Até 50 km,Médio,1,Sul
+São Bento do Sul,SC,Joinville,80,50 a 100 km,Grande,2,Sul
+Rio Negrinho,SC,Joinville,95,50 a 100 km,Médio,2,Sul
+Blumenau,SC,Joinville,100,50 a 100 km,Grande,2,Sul
+Itajaí,SC,Joinville,90,50 a 100 km,Grande,2,Sul
+Balneário Camboriú,SC,Joinville,95,50 a 100 km,Grande,2,Sul
+Brusque,SC,Joinville,105,100 a 200 km,Grande,3,Sul
+Navegantes,SC,Joinville,85,50 a 100 km,Médio,2,Sul
+Gaspar,SC,Joinville,100,50 a 100 km,Médio,2,Sul
+Indaial,SC,Joinville,115,100 a 200 km,Médio,3,Sul
+Pomerode,SC,Joinville,85,50 a 100 km,Médio,2,Sul
+Florianópolis,SC,Joinville,180,100 a 200 km,Metrópole,3,Sul
+São José,SC,Joinville,175,100 a 200 km,Grande,3,Sul
+Palhoça,SC,Joinville,185,100 a 200 km,Grande,3,Sul
+Biguaçu,SC,Joinville,170,100 a 200 km,Médio,3,Sul
+Curitiba,PR,Joinville,130,100 a 200 km,Metrópole,2,Sul
+São José dos Pinhais,PR,Joinville,110,100 a 200 km,Grande,2,Sul
+Araucária,PR,Joinville,125,100 a 200 km,Grande,2,Sul
+Colombo,PR,Joinville,140,100 a 200 km,Grande,3,Sul
+Pinhais,PR,Joinville,125,100 a 200 km,Grande,2,Sul
+Campo Largo,PR,Joinville,140,100 a 200 km,Grande,3,Sul
+Fazenda Rio Grande,PR,Joinville,115,100 a 200 km,Grande,2,Sul
+Paranaguá,PR,Joinville,135,100 a 200 km,Grande,3,Sul
+São Paulo,SP,São Paulo,0,0 km (Base Central),Metrópole,1,Sudeste
+Guarulhos,SP,São Paulo,20,Até 50 km,Metrópole,1,Sudeste
+São Bernardo do Campo,SP,São Paulo,20,Até 50 km,Grande,1,Sudeste
+Santo André,SP,São Paulo,18,Até 50 km,Grande,1,Sudeste
+Osasco,SP,São Paulo,16,Até 50 km,Grande,1,Sudeste
+Mauá,SP,São Paulo,28,Até 50 km,Grande,1,Sudeste
+Mogi das Cruzes,SP,São Paulo,50,Até 50 km,Grande,1,Sudeste
+Diadema,SP,São Paulo,17,Até 50 km,Grande,1,Sudeste
+Carapicuíba,SP,São Paulo,22,Até 50 km,Grande,1,Sudeste
+Barueri,SP,São Paulo,26,Até 50 km,Grande,1,Sudeste
+Santana de Parnaíba,SP,São Paulo,35,Até 50 km,Grande,1,Sudeste
+Cotia,SP,São Paulo,32,Até 50 km,Grande,1,Sudeste
+Taboão da Serra,SP,São Paulo,18,Até 50 km,Grande,1,Sudeste
+Suzano,SP,São Paulo,36,Até 50 km,Grande,1,Sudeste
+Itapecerica da Serra,SP,São Paulo,33,Até 50 km,Grande,1,Sudeste
+Santos,SP,São Paulo,75,50 a 100 km,Grande,2,Sudeste
+São Vicente,SP,São Paulo,72,50 a 100 km,Grande,2,Sudeste
+Praia Grande,SP,São Paulo,78,50 a 100 km,Grande,2,Sudeste
+Guarujá,SP,São Paulo,85,50 a 100 km,Grande,2,Sudeste
+Cubatão,SP,São Paulo,60,50 a 100 km,Grande,2,Sudeste
+São José dos Campos,SP,São Paulo,85,50 a 100 km,Grande,2,Sudeste
+Jacareí,SP,São Paulo,75,50 a 100 km,Grande,2,Sudeste
+Taubaté,SP,São Paulo,130,100 a 200 km,Grande,3,Sudeste
+Pindamonhangaba,SP,São Paulo,145,100 a 200 km,Grande,3,Sudeste
+Guaratinguetá,SP,São Paulo,175,100 a 200 km,Grande,3,Sudeste
+Campinas,SP,Campinas,0,0 km (Base Central),Metrópole,1,Sudeste
+Sumaré,SP,Campinas,25,Até 50 km,Grande,1,Sudeste
+Indaiatuba,SP,Campinas,28,Até 50 km,Grande,1,Sudeste
+Americana,SP,Campinas,35,Até 50 km,Grande,1,Sudeste
+Hortolândia,SP,Campinas,20,Até 50 km,Grande,1,Sudeste
+Santa Bárbara d'Oeste,SP,Campinas,40,Até 50 km,Grande,1,Sudeste
+Paulínia,SP,Campinas,18,Até 50 km,Grande,1,Sudeste
+Valinhos,SP,Campinas,12,Até 50 km,Grande,1,Sudeste
+Vinhedo,SP,Campinas,20,Até 50 km,Grande,1,Sudeste
+Itatiba,SP,Campinas,32,Até 50 km,Grande,1,Sudeste
+Jundiaí,SP,Campinas,40,Até 50 km,Grande,1,Sudeste
+Piracicaba,SP,Campinas,70,50 a 100 km,Grande,2,Sudeste
+Limeira,SP,Campinas,55,50 a 100 km,Grande,2,Sudeste
+Rio Claro,SP,Campinas,85,50 a 100 km,Grande,2,Sudeste
+Sorocaba,SP,Campinas,85,50 a 100 km,Grande,2,Sudeste
+Itu,SP,Campinas,45,Até 50 km,Grande,1,Sudeste
+Salto,SP,Campinas,40,Até 50 km,Grande,1,Sudeste
+Bragança Paulista,SP,Campinas,70,50 a 100 km,Grande,2,Sudeste
+Atibaia,SP,Campinas,65,50 a 100 km,Grande,2,Sudeste
+Araras,SP,Campinas,90,50 a 100 km,Grande,2,Sudeste
+Mogi Guaçu,SP,Campinas,70,50 a 100 km,Grande,2,Sudeste
+Mogi Mirim,SP,Campinas,65,50 a 100 km,Grande,2,Sudeste
+São Carlos,SP,Campinas,140,100 a 200 km,Grande,3,Sudeste
+Extrema,MG,Campinas,95,50 a 100 km,Médio,2,Sudeste
+Pouso Alegre,MG,Campinas,160,100 a 200 km,Grande,3,Sudeste
+Poços de Caldas,MG,Campinas,150,100 a 200 km,Grande,3,Sudeste
+Itajubá,MG,Campinas,180,100 a 200 km,Médio,3,Sudeste
+Camanducaia,MG,Campinas,110,100 a 200 km,Pequeno,3,Sudeste
+Recife,PE,Recife,0,0 km (Base Central),Metrópole,1,Nordeste
+Jaboatão dos Guararapes,PE,Recife,18,Até 50 km,Grande,1,Nordeste
+Olinda,PE,Recife,10,Até 50 km,Grande,1,Nordeste
+Paulista,PE,Recife,20,Até 50 km,Grande,1,Nordeste
+Camaragibe,PE,Recife,16,Até 50 km,Grande,1,Nordeste
+Cabo de Santo Agostinho,PE,Recife,35,Até 50 km,Grande,1,Nordeste
+Igarassu,PE,Recife,30,Até 50 km,Grande,1,Nordeste
+São Lourenço da Mata,PE,Recife,25,Até 50 km,Grande,1,Nordeste
+Abreu e Lima,PE,Recife,22,Até 50 km,Grande,1,Nordeste
+Ipojuca,PE,Recife,50,Até 50 km,Grande,1,Nordeste
+Vitória de Santo Antão,PE,Recife,50,Até 50 km,Grande,1,Nordeste
+Gravatá,PE,Recife,85,50 a 100 km,Grande,2,Nordeste
+Bezerros,PE,Recife,105,100 a 200 km,Médio,3,Nordeste
+Caruaru,PE,Recife,135,100 a 200 km,Grande,3,Nordeste
+Goiana,PE,Recife,65,50 a 100 km,Grande,2,Nordeste
+Carpina,PE,Recife,55,50 a 100 km,Grande,2,Nordeste
+Escada,PE,Recife,60,50 a 100 km,Médio,2,Nordeste
+Palmares,PE,Recife,120,100 a 200 km,Médio,3,Nordeste
+João Pessoa,PB,Recife,120,100 a 200 km,Metrópole,2,Nordeste
+Santa Rita,PB,Recife,125,100 a 200 km,Grande,2,Nordeste
+Bayeux,PB,Recife,120,100 a 200 km,Grande,2,Nordeste
+Cabedelo,PB,Recife,135,100 a 200 km,Médio,3,Nordeste
+Conde,PB,Recife,105,100 a 200 km,Pequeno,3,Nordeste
+Natal,RN,Natal,0,0 km (Base Central),Grande,1,Nordeste
+Parnamirim,RN,Natal,15,Até 50 km,Grande,1,Nordeste
+São Gonçalo do Amarante,RN,Natal,20,Até 50 km,Grande,1,Nordeste
+Macaíba,RN,Natal,25,Até 50 km,Grande,1,Nordeste
+Ceará-Mirim,RN,Natal,35,Até 50 km,Grande,1,Nordeste
+Extremoz,RN,Natal,20,Até 50 km,Médio,1,Nordeste
+São José de Mipibu,RN,Natal,35,Até 50 km,Médio,1,Nordeste
+Nísia Floresta,RN,Natal,40,Até 50 km,Pequeno,1,Nordeste
+Goianinha,RN,Natal,55,50 a 100 km,Médio,2,Nordeste
+Canguaretama,RN,Natal,75,50 a 100 km,Médio,2,Nordeste
+Touros,RN,Natal,90,50 a 100 km,Médio,2,Nordeste
+Nova Cruz,RN,Natal,100,100 a 200 km,Médio,3,Nordeste
+Santa Cruz,RN,Natal,115,100 a 200 km,Médio,3,Nordeste
+Currais Novos,RN,Natal,180,100 a 200 km,Médio,3,Nordeste
+Assú,RN,Natal,210,100 a 200 km,Médio,3,Nordeste
+Mossoró,RN,Natal,280,Polo Regional,Grande,3,Nordeste
+Caicó,RN,Natal,280,Polo Regional,Médio,3,Nordeste
+Mamanguape,PB,Natal,110,100 a 200 km,Médio,3,Nordeste
+Rio Tinto,PB,Natal,120,100 a 200 km,Pequeno,3,Nordeste
+Guarabira,PB,Natal,160,100 a 200 km,Grande,3,Nordeste

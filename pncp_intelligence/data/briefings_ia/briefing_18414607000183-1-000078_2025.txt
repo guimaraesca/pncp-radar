@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MEDINA (Medina/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE ASSESSORIA E CONSULTORIA TÉCNICA À SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL DO MUNICÍPIO DE MEDINA/MG
+VALOR ESTIMADO: R$ 21.000,00
+PRAZO PARA PROPOSTAS: 2025-08-12T07:00:00
+LINK OFICIAL: https://bnccompras.com/Process/ProcessView?param1=[gkz]zmrOnlfafhbyjUGVcnk5Krum1xBaCooOXsWRYr37Lrppp5ES9BeazbDh0CAuAs3F2EAHhEW5jJO8cYX6itUZHj28p8jxBQhbGUwHUG_xx90=
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18414607000183/compras/2025/78/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTACAO DE SERVICO DE ASSESSORIA E CONSULTORIA TECNICA A SECRETARIA MUNICIPAL DE ASSISTENCIA SOCIAL DO MUNICIPIO DE ME | Qtd: 6.0 | R$ Unit: 3500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "18414607000183",
+    "razaoSocial": "MUNICIPIO DE MEDINA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-05T16:02:37",
+  "dataAtualizacao": "2025-08-05T16:02:37",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 78,
+  "emendaParlamentar": null,
+  "numeroCompra": "011",
+  "processo": "085/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE ASSESSORIA E CONSULTORIA TÉCNICA À SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL DO MUNICÍPIO DE MEDINA/MG",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-08-06T07:00:00",
+  "dataEncerramentoProposta": "2025-08-12T07:00:00",
+  "dataPublicacaoPncp": "2025-08-05T16:02:37",
+  "dataAtualizacaoGlobal": "2025-08-05T16:02:48",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Medina",
+    "codigoUnidade": "2",
+    "nomeUnidade": "MUNICIPIO DE MEDINA",
+    "codigoIbge": "3141405"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "18414607000183-1-000078/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]zmrOnlfafhbyjUGVcnk5Krum1xBaCooOXsWRYr37Lrppp5ES9BeazbDh0CAuAs3F2EAHhEW5jJO8cYX6itUZHj28p8jxBQhbGUwHUG_xx90=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 21000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC"
+}

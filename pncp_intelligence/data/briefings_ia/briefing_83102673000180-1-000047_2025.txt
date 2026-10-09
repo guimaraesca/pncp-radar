@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PETROLANDIA (Petrolândia/SC)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MINISTRAR AULAS DE EDUCAÇÃO TECNOLÓGICA E ROBÓTICA EDUCACIONAL, COMO CURSO EXTRACURRICULAR, PARA SER APLICADO AOS ALUNOS QU FAZEM USO DA ESCOLA EM TEMPO INTEGRAL, OFERECIDO PELA SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA DO MUNICÍPIO DE PETROLÂNDIA/SC
+VALOR ESTIMADO: R$ 72.151,60
+PRAZO PARA PROPOSTAS: 2025-04-25T08:59:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Petrolandia-1478/PE-5-2025-2025-379414
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102673000180/compras/2025/47/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102673000180/compras/2025/47/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MINISTRAR AULAS DE EDUCAÇÃO TECNOLÓGICA E ROBÓTICA EDUCACIONAL - CONTRATAÇÃO D | Qtd: 8.0 | R$ Unit: 9018.95
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 41560.0,
+  "orgaoEntidade": {
+    "cnpj": "83102673000180",
+    "razaoSocial": "MUNICIPIO DE PETROLANDIA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-04-08T09:37:11",
+  "dataAtualizacao": "2025-04-08T09:37:11",
+  "numeroControlePNCP": "83102673000180-1-000047/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 47,
+  "emendaParlamentar": null,
+  "numeroCompra": "5",
+  "processo": "39/2025",
+  "srp": false,
+  "objetoCompra": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MINISTRAR AULAS DE EDUCAÇÃO TECNOLÓGICA E ROBÓTICA EDUCACIONAL, COMO CURSO EXTRACURRICULAR, PARA SER APLICADO AOS ALUNOS QU FAZEM USO DA ESCOLA EM TEMPO INTEGRAL, OFERECIDO PELA SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA DO MUNICÍPIO DE PETROLÂNDIA/SC",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-09T08:00:00",
+  "dataEncerramentoProposta": "2025-04-25T08:59:00",
+  "dataPublicacaoPncp": "2025-04-08T09:37:11",
+  "dataAtualizacaoGlobal": "2025-04-25T13:47:53",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Petrolândia",
+    "codigoIbge": "4212700",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Prefeitura Municipal de Petrolândia"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Petrolandia-1478/PE-5-2025-2025-379414",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 72151.6,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

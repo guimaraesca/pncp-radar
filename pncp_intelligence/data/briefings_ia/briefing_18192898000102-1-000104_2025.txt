@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTA RITA DO SAPUCAI (Santa Rita do Sapucaí/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MIGRAÇÃO DO SISTEMA E-SUS APS PARA A INFRAESTRUTURA DE NUVEM AWS, MEDIANTE A IMPLANTAÇÃO DE UMA PLATAFORMA AVANÇADA DE INTELIGÊNCIA DE DADOS, POR DISPENSA DE LICITAÇÃO, ART. 75, INCISO II DA LEI FEDERAL N.º 14.133/21.
+VALOR ESTIMADO: R$ 30.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pmsrs.mg.gov.br/licitacao/prc-n-123-2025/
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18192898000102/compras/2025/104/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: MIGRAÇÃO DO SISTEMA E-SUS APS PARA A INFRAESTRUTURA DE NUVEM AWS, MEDIANTE A IMPLANTAÇÃO DE UMA PLATAFORMA AVANÇADA DE I | Qtd: 12.0 | R$ Unit: 2500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "18192898000102",
+    "razaoSocial": "MUNICIPIO DE SANTA RITA DO SAPUCAI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 30000.0,
+  "dataInclusao": "2025-08-06T15:31:22",
+  "dataAtualizacao": "2025-08-06T15:31:22",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 104,
+  "emendaParlamentar": null,
+  "numeroCompra": "27",
+  "processo": "27",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MIGRAÇÃO DO SISTEMA E-SUS APS PARA A INFRAESTRUTURA DE NUVEM AWS, MEDIANTE A IMPLANTAÇÃO DE UMA PLATAFORMA AVANÇADA DE INTELIGÊNCIA DE DADOS, POR DISPENSA DE LICITAÇÃO, ART. 75, INCISO II DA LEI FEDERAL N.º 14.133/21.",
+  "informacaoComplementar": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MIGRAÇÃO DO SISTEMA E-SUS APS PARA A INFRAESTRUTURA DE NUVEM AWS, MEDIANTE A IMPLANTAÇÃO DE UMA PLATAFORMA AVANÇADA DE INTELIGÊNCIA DE DADOS, POR DISPENSA DE LICITAÇÃO, ART. 75, INCISO II DA LEI FEDERAL N.º 14.133/21.\r\n",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-06T15:31:22",
+  "dataAtualizacaoGlobal": "2025-08-06T15:31:41",
+  "numeroControlePNCP": "18192898000102-1-000104/2025",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Santa Rita do Sapucaí",
+    "codigoUnidade": "1",
+    "nomeUnidade": "MUNICIPIO DE SANTA RITA DO SAPUCAI",
+    "codigoIbge": "3159605"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://pmsrs.mg.gov.br/licitacao/prc-n-123-2025/",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "valorTotalEstimado": 30000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software"
+}

@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DA FAZENDA (Palmas/TO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de licenças de uso dos softwares Canva, Adobe Creative Cloud, CapCut Pro, Windows 11 Pro, Grafana Enterprise, Windows Server 2025 Datacenter, Zoho Assist Remote Support-Enterprise e Zoho Assist Unattended Access Professional.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-06T08:58:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/25043514000155-1-000053/2026
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/25043514000155/compras/2026/53/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/25043514000155/compras/2026/53/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/25043514000155/compras/2026/53/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Assinatura de aplicativo CANVA, para até 5 (cinco) acessos pelo período de 12 (doze) meses. | Qtd: 2.0 | R$ Unit: 0.0
+  - Item 2: Licença de aplicativos adobe suite creative cloud | Qtd: 10.0 | R$ Unit: 0.0
+  - Item 3: Licença do software capcut pro | Qtd: 1.0 | R$ Unit: 0.0
+  - Item 4: Windows 11 pro | Qtd: 30.0 | R$ Unit: 0.0
+  - Item 5: Windows server 2025 | Qtd: 2.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "25043514000155",
+    "razaoSocial": "SECRETARIA DA FAZENDA",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-25T12:22:54",
+  "dataAtualizacao": "2026-09-25T12:22:54",
+  "numeroControlePNCP": "25043514000155-1-000053/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 53,
+  "emendaParlamentar": null,
+  "numeroCompra": "900033/PE/SEFAZ",
+  "processo": "2025/25000/000912",
+  "srp": false,
+  "objetoCompra": "Aquisição de licenças de uso dos softwares Canva, Adobe Creative Cloud, CapCut Pro, Windows 11 Pro, Grafana Enterprise, Windows Server 2025 Datacenter, Zoho Assist Remote Support-Enterprise e Zoho Assist Unattended Access Professional.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-25T08:00:00",
+  "dataEncerramentoProposta": "2026-10-06T08:58:59",
+  "dataPublicacaoPncp": "2026-09-25T12:22:54",
+  "dataAtualizacaoGlobal": "2026-09-25T12:23:17",
+  "unidadeOrgao": {
+    "ufNome": "Tocantins",
+    "ufSigla": "TO",
+    "municipioNome": "Palmas",
+    "codigoIbge": "1721000",
+    "codigoUnidade": "325",
+    "nomeUnidade": " Secretaria da Fazenda "
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "AZ INFORMATICA LTDA"
+}

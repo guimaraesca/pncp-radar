@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO FEDERAL DE NUTRICIONISTAS (Brasília/DF)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação por dispensa de licitação de empresa especializada para prestação de serviços de renovação subscrição de 15 instâncias do Veeam Data Platform Essentials pelo período de 24 meses (item 1); Aquisição de subscrição de licenças para proteção de dados em ambiente Microsoft 365 pelo prazo de 12 (doze) meses (item 2).
+VALOR ESTIMADO: R$ 55.154,07
+PRAZO PARA PROPOSTAS: 2025-08-12T08:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/00579987000140-1-000012/2025
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00579987000140/compras/2025/12/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 1.0 | R$ Unit: 55154.07
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00579987000140",
+    "razaoSocial": "CONSELHO FEDERAL DE NUTRICIONISTAS",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 49236.26,
+  "dataInclusao": "2025-08-07T09:59:21",
+  "dataAtualizacao": "2025-08-07T09:59:21",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoUnidade": "389216",
+    "nomeUnidade": "CONSELHO FEDERAL DE NUTRICIONISTAS",
+    "codigoIbge": "5300108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 12,
+  "emendaParlamentar": null,
+  "numeroCompra": "90010",
+  "processo": "999915000016-44",
+  "objetoCompra": "Contratação por dispensa de licitação de empresa especializada para prestação de serviços de renovação subscrição de 15 instâncias do Veeam Data Platform Essentials pelo período de 24 meses (item 1); Aquisição de subscrição de licenças para proteção de dados em ambiente Microsoft 365 pelo prazo de 12 (doze) meses (item 2).",
+  "informacaoComplementar": "O valor da contratação está baixo do valor exigido para contratação através de processo licitatório.",
+  "dataAberturaProposta": "2025-08-07T09:59:20",
+  "dataEncerramentoProposta": "2025-08-12T08:59:59",
+  "dataPublicacaoPncp": "2025-08-07T09:59:21",
+  "dataAtualizacaoGlobal": "2025-08-18T09:37:30",
+  "numeroControlePNCP": "00579987000140-1-000012/2025",
+  "valorTotalEstimado": 55154.07,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

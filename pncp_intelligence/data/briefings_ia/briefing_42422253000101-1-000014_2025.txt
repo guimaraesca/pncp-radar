@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: EMPRESA DE TECNOLOGIA E INFORMACOES DA PREVIDENCIA S.A. - DATAPREV (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada no ramo de engenharia para Execução de Adequações Físicas e Instalação de Cabeamento Estruturado para a Sala Segura do Datacenter da Dataprev no Rio de Janeiro (DCRJ).
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-04-25T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=23801405910192025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42422253000101/compras/2025/14/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lançamento Linhas Flexíveis | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "42422253000101",
+    "razaoSocial": "EMPRESA DE TECNOLOGIA E INFORMACOES DA PREVIDENCIA S.A. - DATAPREV",
+    "poderId": "N",
+    "esferaId": "N"
+  },
+  "dataInclusao": "2025-04-08T07:16:11",
+  "dataAtualizacao": "2025-07-14T11:32:30",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 14,
+  "emendaParlamentar": null,
+  "numeroCompra": "91019",
+  "processo": "44129013527202417",
+  "objetoCompra": "Contratação de empresa especializada no ramo de engenharia para Execução de Adequações Físicas e Instalação de Cabeamento Estruturado para a Sala Segura do Datacenter da Dataprev no Rio de Janeiro (DCRJ).",
+  "informacaoComplementar": "O Edital encontra-se disponível no sítio www.gov.br/compras e www.dataprev.gov.br. Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=23801405910192025",
+  "dataAberturaProposta": "2025-04-08T08:00:00",
+  "dataEncerramentoProposta": "2025-04-25T10:00:00",
+  "dataPublicacaoPncp": "2025-04-08T07:16:11",
+  "dataAtualizacaoGlobal": "2025-07-14T11:32:31",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoUnidade": "238014",
+    "nomeUnidade": "EMPRESA DE TEC. E INFORMAÇOES DA PREVID. S.A.",
+    "codigoIbge": "3304557"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=23801405910192025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "42422253000101-1-000014/2025",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 2,
+  "situacaoCompraNome": "Revogada",
+  "usuarioNome": "Compras.gov.br"
+}

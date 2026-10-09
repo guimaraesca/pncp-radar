@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE CACHOEIRO DE ITAPEMIRIM (Cachoeiro de Itapemirim/ES)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de serviços terceirizados de Tecnologia da Informação T.I., com o objetivo de suprir lacunas operacionais identificadas na estrutura atualda instituição. Atualmente, a equipe interna de T.I. encontrase com capacidade técnica equantitativa insuficiente para atender de forma eficiente às demandas crescentes por suportetécnico, manutenção de sistemas, segurança da informação e gestão de infraestruturatecnológica.
+VALOR ESTIMADO: R$ 60.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/31723265000141-1-000074/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31723265000141/compras/2025/74/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31723265000141/compras/2025/74/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31723265000141/compras/2025/74/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31723265000141/compras/2025/74/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE SERVIÇOS TERCEIRIZADOS DE TECNOLOGIA DA INFORMAÇÃO | Qtd: 1.0 | R$ Unit: 60000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "31723265000141",
+    "razaoSocial": "CAMARA MUNICIPAL DE CACHOEIRO DE ITAPEMIRIM",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-06T11:55:34",
+  "dataAtualizacao": "2025-08-06T11:55:34",
+  "numeroControlePNCP": "31723265000141-1-000074/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 74,
+  "emendaParlamentar": null,
+  "numeroCompra": "000055",
+  "processo": "17143 /2025",
+  "srp": false,
+  "objetoCompra": "Contratação de serviços terceirizados de Tecnologia da Informação T.I., com o objetivo de suprir lacunas operacionais identificadas na estrutura atualda instituição. Atualmente, a equipe interna de T.I. encontrase com capacidade técnica equantitativa insuficiente para atender de forma eficiente às demandas crescentes por suportetécnico, manutenção de sistemas, segurança da informação e gestão de infraestruturatecnológica.",
+  "informacaoComplementar": "conforme documentos anexos",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-06T11:55:34",
+  "dataAtualizacaoGlobal": "2025-10-02T11:45:06",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Cachoeiro de Itapemirim",
+    "codigoIbge": "3201209",
+    "codigoUnidade": "31723265000141",
+    "nomeUnidade": "CÂMARA MUNICIPAL CACHOEIRO DE ITAPEMIRIM"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Conforme Instrumento Convocatório",
+  "valorTotalEstimado": 60000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "E & L PRODUCOES DE SOFTWARE LTDA"
+}

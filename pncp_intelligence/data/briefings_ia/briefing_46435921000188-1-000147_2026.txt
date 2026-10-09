@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE DIVINOLANDIA (Divinolândia/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa especializada para a prestação de serviços de Saúde e Segurança do Trabalho, compreendendo a elaboração, implantação, atualização e gerenciamento dos programas legais, emissão de laudos técnicos, realização de exames médicos ocupacionais, perícias médicas, gestão das informações de Saúde e Segurança do Trabalho destinadas ao e-Social, assessoria técnica especializada e demais serviços correlatos, destinados ao atendimento das necessidades da Prefeitura Municipal de Divinolândia, conforme condições, quantidades e exigências estabelecidas neste Termo de Referência.
+VALOR ESTIMADO: R$ 128.800,00
+PRAZO PARA PROPOSTAS: 2026-10-06T08:30:00
+LINK OFICIAL: https://www.portaldecompraspublicas.com.br/processos/SP/Prefeitura-Municipal-de-Divinolandia-1488/PE-22-2026-2026-507794
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46435921000188/compras/2026/147/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46435921000188/compras/2026/147/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46435921000188/compras/2026/147/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratacao de empresa especializada para a prestacao de servicos de Saude e Seguranca do Trabalho, compreendendo a elab | Qtd: 12.0 | R$ Unit: 10733.3333
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "46435921000188",
+    "razaoSocial": "MUNICIPIO DE DIVINOLANDIA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-18T15:56:59",
+  "dataAtualizacao": "2026-09-18T15:57:00",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 147,
+  "emendaParlamentar": null,
+  "numeroCompra": "22",
+  "processo": "61/2026",
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa especializada para a prestação de serviços de Saúde e Segurança do Trabalho, compreendendo a elaboração, implantação, atualização e gerenciamento dos programas legais, emissão de laudos técnicos, realização de exames médicos ocupacionais, perícias médicas, gestão das informações de Saúde e Segurança do Trabalho destinadas ao e-Social, assessoria técnica especializada e demais serviços correlatos, destinados ao atendimento das necessidades da Prefeitura Municipal de Divinolândia, conforme condições, quantidades e exigências estabelecidas neste Termo de Referência.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-22T08:30:00",
+  "dataEncerramentoProposta": "2026-10-06T08:30:00",
+  "dataPublicacaoPncp": "2026-09-18T15:56:59",
+  "dataAtualizacaoGlobal": "2026-09-18T15:57:00",
+  "numeroControlePNCP": "46435921000188-1-000147/2026",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Divinolândia",
+    "codigoUnidade": "2431",
+    "nomeUnidade": "Prefeitura Municipal de Divinolândia",
+    "codigoIbge": "3513900"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/SP/Prefeitura-Municipal-de-Divinolandia-1488/PE-22-2026-2026-507794",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 128800.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

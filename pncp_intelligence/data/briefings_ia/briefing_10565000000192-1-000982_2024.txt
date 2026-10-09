@@ -1,0 +1,111 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DO RECIFE (Recife/PE)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: A CONTRATAÇÃO DE EMPRESA OU CONSÓRCIO DE EMPRESAS 
+PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE ASSESSORIA, CONSULTORIA TÉCNICA, À SECRETARIA DE 
+SANEAMENTO DA PREFEITURA DA CIDADE DO RECIFE, PARA A EXECUÇÃO DAS AÇÕES DE REGULARIZAÇÃO FUNDIÁRIA 
+URBANA DE INTERESSE SOCIAL, CONFORME PREVISTO NA LEI 14.133/20.1, ART..18, §1°.
+VALOR ESTIMADO: R$ 4.194.132,90
+PRAZO PARA PROPOSTAS: 2025-01-16T10:00:00
+LINK OFICIAL: http://portaldecompras.recife.pe.gov.br/
+BASE LOGÍSTICA COMPATÍVEL: Recife (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: RECIFE/PE]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/14
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/15
+doc_16.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/16
+doc_17.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/17
+doc_18.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/18
+doc_19.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/19
+doc_20.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/20
+doc_21.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/21
+doc_22.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/22
+doc_23.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/23
+doc_24.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/24
+doc_25.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/25
+doc_33.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/33
+doc_34.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/34
+doc_35.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/35
+doc_36.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/36
+doc_37.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/37
+doc_38.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/38
+doc_39.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/39
+doc_40.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/40
+doc_43.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/43
+doc_44.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/44
+doc_45.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/45
+doc_46.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/46
+doc_47.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/47
+doc_48.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10565000000192/compras/2024/982/arquivos/48
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTAÇÃO DE SERVIÇO DE ASSESSORIA/CONSULTORIA, CONFORME PROJETO ESPECÍFICO. | Qtd: 1.0 | R$ Unit: 4194132.9
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 3900543.6,
+  "orgaoEntidade": {
+    "cnpj": "10565000000192",
+    "razaoSocial": "MUNICIPIO DO RECIFE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-20T16:39:22",
+  "dataAtualizacao": "2025-03-20T17:19:02",
+  "anoCompra": 2024,
+  "srp": false,
+  "sequencialCompra": 982,
+  "emendaParlamentar": null,
+  "numeroCompra": "GC-SESAN-002-PL 0001",
+  "processo": "GC-SESAN-002-PL 0001",
+  "objetoCompra": "A CONTRATAÇÃO DE EMPRESA OU CONSÓRCIO DE EMPRESAS \r\nPARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE ASSESSORIA, CONSULTORIA TÉCNICA, À SECRETARIA DE \r\nSANEAMENTO DA PREFEITURA DA CIDADE DO RECIFE, PARA A EXECUÇÃO DAS AÇÕES DE REGULARIZAÇÃO FUNDIÁRIA \r\nURBANA DE INTERESSE SOCIAL, CONFORME PREVISTO NA LEI 14.133/20.1, ART..18, §1°.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-01-09T10:00:00",
+  "dataEncerramentoProposta": "2025-01-16T10:00:00",
+  "dataPublicacaoPncp": "2025-03-20T16:39:22",
+  "dataAtualizacaoGlobal": "2026-05-19T12:24:59",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Recife",
+    "codigoUnidade": "15",
+    "nomeUnidade": "SECRETARIA DE SANEAMENTO",
+    "codigoIbge": "2611606"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "http://portaldecompras.recife.pe.gov.br/",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "10565000000192-1-000982/2024",
+  "valorTotalEstimado": 4194132.9,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Prefeitura da Cidade do Recife"
+}

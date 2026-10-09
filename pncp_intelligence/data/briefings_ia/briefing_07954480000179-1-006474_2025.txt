@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO CEARA (Fortaleza/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: O objeto da licitação é a prestação do serviço de manutenção preventiva e corretiva, modernização e assistência técnica, com fornecimento de peças, para o ambiente físico, seguro do Data Center da SEFAZ-CE, nas condições estabelecidas neste edital e seus anexos.
+VALOR ESTIMADO: R$ 4.720.678,52
+PRAZO PARA PROPOSTAS: 2025-07-24T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=94300105904772025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2025/6474/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Instalação / Manutenção - Equipamento Eletroeletrônico | Qtd: 36.0 | R$ Unit: 35594.48
+  - Item 2: Aparelho Ar Condicionado | Qtd: 4.0 | R$ Unit: 360134.85
+  - Item 3: Serviços de Instalação de Equipamentos de TI (Computadores e seus Periféricos) | Qtd: 2.0 | R$ Unit: 408158.14
+  - Item 4: Manutenção / Reparo - Bateria | Qtd: 1.0 | R$ Unit: 144470.22
+  - Item 5: Outros Serviços de  Gerenciamento de Infraestrutura De Tecnologia da Informação e Comunicação (TIC) | Qtd: 1.0 | R$ Unit: 275165.37
+  - Item 6: Serviços de Instalação de Equipamentos de TI (Computadores e seus Periféricos) | Qtd: 2.0 | R$ Unit: 66818.94
+  - Item 7: Serviços de Instalação de Equipamentos de TI (Computadores e seus Periféricos) | Qtd: 1.0 | R$ Unit: 199418.68
+  - Item 8: Cilindro Gás | Qtd: 1.0 | R$ Unit: 141469.8
+  - Item 9: Manutenção Equipamentos Dinâmicos | Qtd: 1.0 | R$ Unit: 96177.07
+  - Item 10: Câmara Climática | Qtd: 2.0 | R$ Unit: 96041.13
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 2841624.0,
+  "orgaoEntidade": {
+    "cnpj": "07954480000179",
+    "razaoSocial": "ESTADO DO CEARA",
+    "esferaId": "E",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-05-19T07:16:37",
+  "dataAtualizacao": "2025-07-09T08:04:43",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2025-07-10T08:00:00",
+  "dataEncerramentoProposta": "2025-07-24T09:00:00",
+  "dataPublicacaoPncp": "2025-05-19T07:16:37",
+  "dataAtualizacaoGlobal": "2025-10-20T09:54:04",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Fortaleza",
+    "codigoIbge": "2304400",
+    "codigoUnidade": "943001",
+    "nomeUnidade": "GOVERNO DO ESTADO DO CEARÁ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=94300105904772025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 6474,
+  "emendaParlamentar": null,
+  "numeroCompra": "90477",
+  "processo": "19001089887202551",
+  "objetoCompra": "O objeto da licitação é a prestação do serviço de manutenção preventiva e corretiva, modernização e assistência técnica, com fornecimento de peças, para o ambiente físico, seguro do Data Center da SEFAZ-CE, nas condições estabelecidas neste edital e seus anexos.",
+  "informacaoComplementar": "O edital poderá ser adquirido no saite www.seplag.ce.gov.br Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=94300105904772025",
+  "numeroControlePNCP": "07954480000179-1-006474/2025",
+  "valorTotalEstimado": 4720678.52,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ERERE (Ereré/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA DE TECNOLOGIA DA INFORMAÇÃO PARA FORNECIMENTO DE SOLUÇÃO TECNOLOGICA NA GESTÃO DE SERVIÇOS NA MODALIDADE SAAS-SOFTWARE COMO SERVIÇOS, SOLUÇÃO COMPOSTA PARA OS MODULOS: CONTÁBIL, PATREOMONIAL, ALMOXARFADO, REFERNTE A NO MÍNIMO 20 (VENTE) ACESSOS SIMULTÂNEO, DE RESPOSANBILIDADE DA SECRETARIA DE FINANÇAS, ADMINISTRAÇÃO E PLANEJAMENTO.
+VALOR ESTIMADO: R$ 32.000,04
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/6c33d655d4cf49168994a3e997870ae3/contratacao-de-pessoa-juridica-para-prestacao-de-s
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12465068000125/compras/2025/9/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12465068000125/compras/2025/9/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12465068000125/compras/2025/9/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA DE TECNOLOGIA DA INFORMAÇÃO. | Qtd: 12.0 | R$ Unit: 2666.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 24000.0,
+  "orgaoEntidade": {
+    "cnpj": "12465068000125",
+    "razaoSocial": "MUNICIPIO DE ERERE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-21T07:37:43",
+  "dataAtualizacao": "2025-03-21T07:37:43",
+  "numeroControlePNCP": "12465068000125-1-000009/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 9,
+  "emendaParlamentar": null,
+  "numeroCompra": "DE-2025.02.24.002",
+  "processo": "DE-2025.01.30.02.",
+  "srp": false,
+  "objetoCompra": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA DE TECNOLOGIA DA INFORMAÇÃO PARA FORNECIMENTO DE SOLUÇÃO TECNOLOGICA NA GESTÃO DE SERVIÇOS NA MODALIDADE SAAS-SOFTWARE COMO SERVIÇOS, SOLUÇÃO COMPOSTA PARA OS MODULOS: CONTÁBIL, PATREOMONIAL, ALMOXARFADO, REFERNTE A NO MÍNIMO 20 (VENTE) ACESSOS SIMULTÂNEO, DE RESPOSANBILIDADE DA SECRETARIA DE FINANÇAS, ADMINISTRAÇÃO E PLANEJAMENTO.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-21T07:37:43",
+  "dataAtualizacaoGlobal": "2025-03-21T07:38:01",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Ereré",
+    "codigoIbge": "2304277",
+    "codigoUnidade": "202501",
+    "nomeUnidade": "SEC. FINANCAS E PLANEJAMENTO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/6c33d655d4cf49168994a3e997870ae3/contratacao-de-pessoa-juridica-para-prestacao-de-s",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 32000.04,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

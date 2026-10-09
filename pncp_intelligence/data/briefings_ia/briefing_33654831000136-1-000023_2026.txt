@@ -1,0 +1,78 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO-CNPQ (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de solução de TIC composta pela renovação das subscrições, atualização das assinaturas de segurança e garantia do fabricante da solução  Check Point, composta por 2 (dois) Appliances de Firewall Quantum Force 9700, 2 (dois) Appliances Maestro Orchestrator MHO-140  e Plataforma de Gerenciamento Centralizado, bem como pela prestação de serviços de suporte técnico especializado em regime 24x7 (vinte e quatro horas por dia, sete dias por semana), com atendimento remoto e presencial quando necessário, conforme condições e exigências estabelecidas no Termo de Referência.
+VALOR ESTIMADO: R$ 4.969.282,74
+PRAZO PARA PROPOSTAS: 2026-10-14T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=36410205001222026
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/33654831000136/compras/2026/23/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS DE GARANTIA DE EQUIPAMENTOS DE TIC Renovação das subscrições e garantia do fabricante para solução corporativa  | Qtd: 1.0 | R$ Unit: 4277257.74
+  - Item 2: SERVIÇOS DE GERENCIAMENTO DE INFRAESTRUTURA DE TECNOLOGIA DAINFORMAÇÃO E COMUNICAÇÃO (TIC) Suporte técnico especializado | Qtd: 60.0 | R$ Unit: 11533.75
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "33654831000136",
+    "razaoSocial": "CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO-CNPQ",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-09-08T15:33:59",
+  "dataAtualizacao": "2026-09-28T11:24:46",
+  "anoCompra": 2026,
+  "sequencialCompra": 23,
+  "emendaParlamentar": null,
+  "numeroCompra": "122",
+  "processo": "01300.007162/2025-13",
+  "objetoCompra": "Contratação de solução de TIC composta pela renovação das subscrições, atualização das assinaturas de segurança e garantia do fabricante da solução  Check Point, composta por 2 (dois) Appliances de Firewall Quantum Force 9700, 2 (dois) Appliances Maestro Orchestrator MHO-140  e Plataforma de Gerenciamento Centralizado, bem como pela prestação de serviços de suporte técnico especializado em regime 24x7 (vinte e quatro horas por dia, sete dias por semana), com atendimento remoto e presencial quando necessário, conforme condições e exigências estabelecidas no Termo de Referência.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-29T08:00:00",
+  "dataEncerramentoProposta": "2026-10-14T10:00:00",
+  "dataPublicacaoPncp": "2026-09-08T15:33:59",
+  "dataAtualizacaoGlobal": "2026-09-28T11:24:46",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoIbge": "5300108",
+    "codigoUnidade": "364102",
+    "nomeUnidade": "CNPQ - ADMINISTRACAO CENTRAL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=36410205001222026",
+  "linkProcessoEletronico": "https://sei.cnpq.br/sei",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "33654831000136-1-000023/2026",
+  "srp": false,
+  "valorTotalEstimado": 4969282.74,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-08T15:33:59"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

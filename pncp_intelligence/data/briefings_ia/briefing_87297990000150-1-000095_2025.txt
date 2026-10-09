@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CRUZEIRO DO SUL (Cruzeiro do Sul/AC)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CURSOS E TREINAMENTOS
+VALOR ESTIMADO: R$ 9.800,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/87297990000150-1-000095/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/87297990000150/compras/2025/95/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ANOS INICIAIS | Qtd: 2.0 | R$ Unit: 2000.0
+  - Item 2: EDUCAÇÃO INFANTIL | Qtd: 2.0 | R$ Unit: 2000.0
+  - Item 3: TEORIA E PRÁTICA GERAL | Qtd: 1.0 | R$ Unit: 1800.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 9800.0,
+  "orgaoEntidade": {
+    "cnpj": "87297990000150",
+    "razaoSocial": "MUNICIPIO DE CRUZEIRO DO SUL",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-07-04T08:40:51",
+  "dataInclusao": "2025-07-04T08:39:42",
+  "numeroControlePNCP": "87297990000150-1-000095/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 95,
+  "emendaParlamentar": null,
+  "numeroCompra": "210",
+  "processo": "622/2025",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "CURSOS E TREINAMENTOS",
+  "informacaoComplementar": "Contratação de empresa especializada para a prestação de serviço de formação continuada aos professores da rede municipal de ensino de Cruzeiro do Sul - RS, promovida pela Secretaria Municipal de Educação, com conteúdos teóricos e práticos voltados à educação infantil e aos anos iniciais do ensino fundamental.",
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-07-04T08:39:42",
+  "dataAtualizacaoGlobal": "2025-07-04T08:41:02",
+  "unidadeOrgao": {
+    "ufNome": "Acre",
+    "ufSigla": "AC",
+    "municipioNome": "Cruzeiro do Sul",
+    "codigoUnidade": "148",
+    "nomeUnidade": "P.M. De Cruzeiro Do Sul",
+    "codigoIbge": "1200203"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Tecnosweb - Tecnologia de Gestão",
+  "valorTotalEstimado": 9800.0
+}

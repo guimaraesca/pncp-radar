@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO INT DE SAUDE DA COM DOS M DA REG DE C MOURAO (Campo Mourão/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento de Sistema Integrado de Gestão em Saúde Pública, sob o modelo de licenciamento por assinatura (Software como Serviço), destinado a atender o Consórcio Intermunicipal de Saúde da Comunidade dos Municípios da Região de Campo Mourão - CISCOMCAM, contemplando os módulos de agendamento e regulação, prontuário eletrônico do paciente, atendimento odontológico, laboratório e diagnóstico por imagem, autorização de procedimentos ambulatoriais de alta complexidade (APAC), tratamento fora do domicílio (TFD) e transporte sanitário, painel eletrônico de chamadas, configurações de sistema, importações, exportações e integrações com sistemas do Ministério da Saúde, faturamento, programa de atenção especializada, comunicação com o paciente, certificação digital, gestão de credenciamento de prestadores e aplicativo móvel de digitalização, incluindo, sem custo adicional, os serviços de hospedagem em nuvem, migração de dados, implantação, parametrização, capacitação inicial dos usuários, suporte técnico e manutenção contínua.
+VALOR ESTIMADO: R$ 183.447,24
+PRAZO PARA PROPOSTAS: 2026-10-06T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/95640322000101-1-000082/2026
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/95640322000101/compras/2026/82/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/95640322000101/compras/2026/82/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/95640322000101/compras/2026/82/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/95640322000101/compras/2026/82/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/95640322000101/compras/2026/82/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CESSÃO DE DIREITO DE USO SEM LIMITE DE USUÁRIO, SUPORTE TÉCNICO REMOTO ILIMITADO E HOSPEDAGEM EM NUVEM | Qtd: 12.0 | R$ Unit: 13166.67
+  - Item 2: HORA DE VISITA TÉCNICA PÓS IMPLANTAÇÃO DO SISTEMA | Qtd: 120.0 | R$ Unit: 212.06
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "95640322000101",
+    "razaoSocial": "CONSORCIO INT DE SAUDE DA COM DOS M DA REG DE C MOURAO",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "dataInclusao": "2026-09-22T13:07:01",
+  "dataAtualizacao": "2026-09-22T13:07:01",
+  "anoCompra": 2026,
+  "sequencialCompra": 82,
+  "emendaParlamentar": null,
+  "numeroCompra": "5",
+  "processo": "80/2026",
+  "objetoCompra": "Contratação de empresa especializada para o fornecimento de Sistema Integrado de Gestão em Saúde Pública, sob o modelo de licenciamento por assinatura (Software como Serviço), destinado a atender o Consórcio Intermunicipal de Saúde da Comunidade dos Municípios da Região de Campo Mourão - CISCOMCAM, contemplando os módulos de agendamento e regulação, prontuário eletrônico do paciente, atendimento odontológico, laboratório e diagnóstico por imagem, autorização de procedimentos ambulatoriais de alta complexidade (APAC), tratamento fora do domicílio (TFD) e transporte sanitário, painel eletrônico de chamadas, configurações de sistema, importações, exportações e integrações com sistemas do Ministério da Saúde, faturamento, programa de atenção especializada, comunicação com o paciente, certificação digital, gestão de credenciamento de prestadores e aplicativo móvel de digitalização, incluindo, sem custo adicional, os serviços de hospedagem em nuvem, migração de dados, implantação, parametrização, capacitação inicial dos usuários, suporte técnico e manutenção contínua.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-22T08:29:00",
+  "dataEncerramentoProposta": "2026-10-06T09:00:00",
+  "dataPublicacaoPncp": "2026-09-22T13:07:01",
+  "dataAtualizacaoGlobal": "2026-09-22T14:04:03",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Campo Mourão",
+    "codigoIbge": "4104303",
+    "codigoUnidade": "95640322000101",
+    "nomeUnidade": "Unidade administrativa"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "95640322000101-1-000082/2026",
+  "srp": false,
+  "valorTotalEstimado": 183447.24,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Elotech Gestão Pública Ltda"
+}

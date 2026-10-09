@@ -1,0 +1,106 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CAMPO ALEGRE DE GOIAS (Campo Alegre de Goiás/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: REFERENTE A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇO DE ASSESSORIA E CONSULTORIA TÉCNICA EM ASSUNTOS LIGADOS AO DEPARTAMENTO DE PESSOAL, RECURSOS HUMANOS E FISCO FEDERAL
+VALOR ESTIMADO: R$ 108.792,00
+PRAZO PARA PROPOSTAS: 2025-05-13T07:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/01763614000198-1-000077/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/14
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/15
+doc_16.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/16
+doc_17.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/17
+doc_18.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/18
+doc_19.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/19
+doc_20.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/20
+doc_21.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/21
+doc_22.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/22
+doc_23.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/23
+doc_24.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/24
+doc_25.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/25
+doc_26.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/26
+doc_27.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/27
+doc_28.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/28
+doc_29.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/29
+doc_30.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/30
+doc_31.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/31
+doc_32.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/32
+doc_33.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/33
+doc_34.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/34
+doc_35.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/35
+doc_36.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/36
+doc_37.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01763614000198/compras/2025/77/arquivos/37
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS ESPECIALIZADOS EM ASSESSORIA NOS ENVIOS DAS INFORMAÇÕES RELACIONADAS AO COLARE PESSOAL, ESOCIAL, EFDREINF E SER | Qtd: 12.0 | R$ Unit: 9066.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 42000.0,
+  "orgaoEntidade": {
+    "cnpj": "01763614000198",
+    "razaoSocial": "MUNICIPIO DE CAMPO ALEGRE DE GOIAS",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-05-05T10:50:47",
+  "dataAtualizacao": "2025-05-05T10:50:47",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Megasoft Informática",
+  "dataAberturaProposta": "2025-04-29T15:00:00",
+  "dataEncerramentoProposta": "2025-05-13T07:00:00",
+  "dataPublicacaoPncp": "2025-05-05T10:50:47",
+  "dataAtualizacaoGlobal": "2025-06-02T14:31:43",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Campo Alegre de Goiás",
+    "codigoIbge": "5204805",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE CAMPO ALEGRE DE GOIÁS GO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 77,
+  "emendaParlamentar": null,
+  "numeroCompra": "(5919) | 25-0",
+  "processo": "3878/2025",
+  "objetoCompra": "REFERENTE A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇO DE ASSESSORIA E CONSULTORIA TÉCNICA EM ASSUNTOS LIGADOS AO DEPARTAMENTO DE PESSOAL, RECURSOS HUMANOS E FISCO FEDERAL",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "01763614000198-1-000077/2025",
+  "valorTotalEstimado": 108792.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

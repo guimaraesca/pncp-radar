@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE TIBAU (Tibau/RN)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de consultoria em gestão de riscos associados a contratos administrativos, implementando metodologias fundamentais por meio de capacitações e oficinas, buscando um diagnóstico situacional, permitindo a identificação precoce de problemas e o planejamento de ações corretivas
+VALOR ESTIMADO: R$ 4,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/01622882000190-1-000047/2025
+BASE LOGÍSTICA COMPATÍVEL: Natal (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: RN]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01622882000190/compras/2025/47/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01622882000190/compras/2025/47/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de serviços de consultoria em gestão de riscos associados a contratos administrativos, implementando metodol | Qtd: 4.0 | R$ Unit: 1.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01622882000190",
+    "razaoSocial": "MUNICIPIO DE TIBAU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 36000.0,
+  "dataInclusao": "2025-08-12T09:28:50",
+  "dataAtualizacao": "2025-08-12T09:28:50",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Norte",
+    "ufSigla": "RN",
+    "municipioNome": "Tibau",
+    "codigoUnidade": "01622882000190",
+    "nomeUnidade": "MUNICÍPIO DE TIBAU",
+    "codigoIbge": "2411056"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 47,
+  "emendaParlamentar": null,
+  "numeroCompra": "17",
+  "processo": "722087",
+  "objetoCompra": "Contratação de serviços de consultoria em gestão de riscos associados a contratos administrativos, implementando metodologias fundamentais por meio de capacitações e oficinas, buscando um diagnóstico situacional, permitindo a identificação precoce de problemas e o planejamento de ações corretivas",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-12T09:28:50",
+  "dataAtualizacaoGlobal": "2026-01-06T11:16:16",
+  "numeroControlePNCP": "01622882000190-1-000047/2025",
+  "valorTotalEstimado": 4.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "TOP DOWN CONSULTORIA LTDA"
+}

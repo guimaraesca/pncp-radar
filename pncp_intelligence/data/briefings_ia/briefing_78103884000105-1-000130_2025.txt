@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE NOVA PRATA DO IGUACU (Nova Prata do Iguaçu/PR)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de licenciamento, implementação e customização de software, solução tecnológica integrada que utiliza inteligência artificial para automação da fase interna dos processos licitatórios, incluindo suporte técnico especializado, treinamento de usuários e manutenção continuada.
+VALOR ESTIMADO: R$ 62.000,00
+PRAZO PARA PROPOSTAS: 2025-07-09T23:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/78103884000105-1-000130/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/78103884000105/compras/2025/130/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/78103884000105/compras/2025/130/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/78103884000105/compras/2025/130/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LICENCIAMENTO MENSAL DE SISTEMA DE AUTOMAÇÃO LICITATÓRIA COM INTELIGÊNCIA  ARTIFICIAL PARA PROCESSOS  LICITATÓRIOS MUNIC | Qtd: 12.0 | R$ Unit: 4000.0
+  - Item 2: IMPLEMENTAÇÃO E CUSTOMIZAÇÃO COMPLETA DO SISTEMA DE AUTOMAÇÃO LICITATÓRIA, INCLUINDO CONFIGURAÇÃO INICIAL, CUSTOMIZAÇÃO  | Qtd: 1.0 | R$ Unit: 14000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 62000.0,
+  "orgaoEntidade": {
+    "cnpj": "78103884000105",
+    "razaoSocial": "MUNICIPIO DE NOVA PRATA DO IGUACU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-07-04T09:57:02",
+  "dataInclusao": "2025-07-04T09:57:02",
+  "numeroControlePNCP": "78103884000105-1-000130/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 130,
+  "emendaParlamentar": null,
+  "numeroCompra": "PRD 11",
+  "processo": "74/2025",
+  "dataEncerramentoProposta": "2025-07-09T23:59:59",
+  "objetoCompra": "Contratação de licenciamento, implementação e customização de software, solução tecnológica integrada que utiliza inteligência artificial para automação da fase interna dos processos licitatórios, incluindo suporte técnico especializado, treinamento de usuários e manutenção continuada.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-07-07T08:00:00",
+  "dataPublicacaoPncp": "2025-07-04T09:57:02",
+  "dataAtualizacaoGlobal": "2025-07-17T08:36:59",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Nova Prata do Iguaçu",
+    "codigoUnidade": "03001",
+    "nomeUnidade": "DEPARTAMENTO DE ADMINISTRAÇÃO DE NOVA PRATA DO IGUAÇU",
+    "codigoIbge": "4117255"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas",
+  "valorTotalEstimado": 62000.0
+}

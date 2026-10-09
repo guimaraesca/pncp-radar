@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO BERNARDINO (São Bernardino/SC)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DIRETA ATRAVÉS DE DISPENSA DE LICITAÇÃO DE FORMA FÍSICA DE ACORDO COM O ARTIGO 75 INCISO II DA LEI FEDERAL Nº 14.133/2021 E DECRETO DE REGULAMENTAÇÃO 496/2023, PARA CONTRATAÇÃO DE EMPRESA  ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE CURSO DE CAPACITAÇÃO E ATUALIZAÇÃO PARA CONDUTORES DO TRANSPORTE ESCOLAR, CONDUTORES DE TRANSPORTE COLETIVO E PARA CONDUTORES DE TRANSPORTE DE VEÍCULOS DE EMERGÊNCIA. ESTE AVISO  FICARÁ PUBLICADO 03(TRÊS DIAS) PARA RECEBIMENTO DE PROPOSTAS E DOCUMENTAÇÃO.
+VALOR ESTIMADO: R$ 3.625,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/01612812000150-1-000054/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612812000150/compras/2025/54/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612812000150/compras/2025/54/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CURSO PARA CONDUTORES DE TRANSPORTE ESCOLAR (ATUALIZAÇÃO) ONLINE – 16H/AULA | Qtd: 1.0 | R$ Unit: 195.0
+  - Item 2: CURSO PARA CONDUTORES DE TRANSPORTE COLETIVO DE PASSAGEIROS (COMPLETO) ONLINE 50H/AULA | Qtd: 8.0 | R$ Unit: 245.0
+  - Item 3: CURSO PARA CONDUTORES DE TRANSPORTE DE VEÍCULOS DE EMERGÊNCIA (COMPLETO) ONLINE - 50 H/AULA | Qtd: 6.0 | R$ Unit: 245.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01612812000150",
+    "razaoSocial": "MUNICIPIO DE SAO BERNARDINO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 2902.4,
+  "dataInclusao": "2025-03-20T09:04:30",
+  "dataAtualizacao": "2025-03-20T09:06:25",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "São Bernardino",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SAO BERNARDINO",
+    "codigoIbge": "4215752"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "CONTRATAÇÃO DIRETA ATRAVÉS DE DISPENSA FÍSICA DE ACORDO COM O ART. 75, INCISO II DA LEI FEDERAL Nº 14.133/2021 DECRETO QUE REGULAMENTA 4969/2023, PARA A PRESTAÇÃO DE SERVIÇOS DE CAPACITAÇÃO E ATUALIZAÇÃO PROFISSIONAL PARA OS MOTORISTAS QUE COMPÕEM O QUADRO DE SERVIDORES DA SECRETARIA DE EDUCAÇÃO, POR MEIO DE CURSOS ONLINE NA MODALIDADE DE EDUCAÇÃO A DISTÂNCIA (EAD), SENDO: CURSO DE ATUALIZAÇÃO ONLINE – 16 HORAS/AULA PARA CONDUTORES DE TRANSPORTE ESCOLAR DE PASSAGEIROS E CURSO COMPLETO COLETIVO ONLINE – 50 HORAS/AULA PARA CONDUTORES DE TRANSPORTE ESCOLAR.",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 54,
+  "emendaParlamentar": null,
+  "numeroCompra": "DL 11",
+  "processo": "36/2025",
+  "objetoCompra": "CONTRATAÇÃO DIRETA ATRAVÉS DE DISPENSA DE LICITAÇÃO DE FORMA FÍSICA DE ACORDO COM O ARTIGO 75 INCISO II DA LEI FEDERAL Nº 14.133/2021 E DECRETO DE REGULAMENTAÇÃO 496/2023, PARA CONTRATAÇÃO DE EMPRESA  ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE CURSO DE CAPACITAÇÃO E ATUALIZAÇÃO PARA CONDUTORES DO TRANSPORTE ESCOLAR, CONDUTORES DE TRANSPORTE COLETIVO E PARA CONDUTORES DE TRANSPORTE DE VEÍCULOS DE EMERGÊNCIA. ESTE AVISO  FICARÁ PUBLICADO 03(TRÊS DIAS) PARA RECEBIMENTO DE PROPOSTAS E DOCUMENTAÇÃO.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-20T09:04:30",
+  "dataAtualizacaoGlobal": "2025-03-26T17:10:27",
+  "numeroControlePNCP": "01612812000150-1-000054/2025",
+  "valorTotalEstimado": 3625.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas"
+}

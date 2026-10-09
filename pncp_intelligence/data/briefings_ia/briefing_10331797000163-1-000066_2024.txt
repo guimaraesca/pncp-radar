@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO INTERMUNICIPAL DE SANEAMENTO BASICO DA ZONA DA MATA DE MINAS GERAIS - CISAB ZONA DA MATA (Viçosa/MG)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONCEPÇÃO, IMPLEMENTAÇÃO, AVALIAÇÃO E MONITORAMENTO A PROJETOS PILOTOS DE SISTEMA PARA DETECÇÃO DE VAZAMENTOS DE ÁGUA NA REDE DE DISTRIBUIÇÃO ATRAVÉS DO MONITORAMENTO DE FLUXO COM AUXÍLIO DE INTELIGÊNCIA ARTIFICIAL – IA
+VALOR ESTIMADO: R$ 994.128,80
+PRAZO PARA PROPOSTAS: 2025-02-28T09:00:00
+LINK OFICIAL: app2.ammlicita.org.br/pesquisa/50287
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10331797000163/compras/2024/66/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: MONITORAMENTO MANHUAÇU - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONCEPÇÃO, IMPLEMENTAÇÃO, AVALIAÇÃO E MONITORAMENTO | Qtd: 1.0 | R$ Unit: 336417.97
+  - Item 2: MONITORAMENTO RAUL SOARES - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONCEPÇÃO, IMPLEMENTAÇÃO, AVALIAÇÃO E MONITORAME | Qtd: 1.0 | R$ Unit: 310815.14
+  - Item 3: MONITORAMENTO SENADOR FIRMINO - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONCEPÇÃO, IMPLEMENTAÇÃO, AVALIAÇÃO E MONITO | Qtd: 1.0 | R$ Unit: 346895.69
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "10331797000163",
+    "razaoSocial": "CONSORCIO INTERMUNICIPAL DE SANEAMENTO BASICO DA ZONA DA MATA DE MINAS GERAIS - CISAB ZONA DA MATA",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "dataAtualizacao": "2025-08-01T12:36:19",
+  "dataInclusao": "2025-08-01T12:36:19",
+  "numeroControlePNCP": "10331797000163-1-000066/2024",
+  "anoCompra": 2024,
+  "srp": false,
+  "sequencialCompra": 66,
+  "emendaParlamentar": null,
+  "numeroCompra": "000004",
+  "processo": "000054/2024",
+  "dataEncerramentoProposta": "2025-02-28T09:00:00",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONCEPÇÃO, IMPLEMENTAÇÃO, AVALIAÇÃO E MONITORAMENTO A PROJETOS PILOTOS DE SISTEMA PARA DETECÇÃO DE VAZAMENTOS DE ÁGUA NA REDE DE DISTRIBUIÇÃO ATRAVÉS DO MONITORAMENTO DE FLUXO COM AUXÍLIO DE INTELIGÊNCIA ARTIFICIAL – IA",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2024-12-23T09:15:09",
+  "dataPublicacaoPncp": "2025-08-01T12:36:19",
+  "dataAtualizacaoGlobal": "2025-08-01T12:36:24",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Viçosa",
+    "codigoUnidade": "1270",
+    "nomeUnidade": "Unidade Única",
+    "codigoIbge": "3171303"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "app2.ammlicita.org.br/pesquisa/50287",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online",
+  "valorTotalEstimado": 994128.8
+}

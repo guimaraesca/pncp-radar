@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CIDELANDIA (Cidelândia/MA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em desenvolvimento e Cessão de solução de plataforma digital com implantação, treinamento e capacitação dos servidores da Prefeitura Municipal de Cidelândia - MA
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/01610134000197-1-000017/2025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01610134000197/compras/2025/17/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Prestação de serviços de cessão de uso de software informatizado de gerenciamento de conteúdo para atualização do Site O | Qtd: 1.0 | R$ Unit: 0.0
+  - Item 2: Prestação de serviços técnicos de manutenção – adaptativa, corretiva, evolutiva e preventiva, como hospedagem do site, p | Qtd: 9.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01610134000197",
+    "razaoSocial": "MUNICIPIO DE CIDELANDIA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 58500.0,
+  "dataInclusao": "2025-03-23T06:06:54",
+  "dataAtualizacao": "2025-06-04T14:50:29",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 17,
+  "emendaParlamentar": null,
+  "numeroCompra": "008",
+  "processo": "024/2025",
+  "objetoCompra": "Contratação de empresa especializada em desenvolvimento e Cessão de solução de plataforma digital com implantação, treinamento e capacitação dos servidores da Prefeitura Municipal de Cidelândia - MA",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-23T06:06:54",
+  "dataAtualizacaoGlobal": "2025-06-04T14:50:29",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "Cidelândia",
+    "codigoUnidade": "1996",
+    "nomeUnidade": "Secretaria Municipal de Administração, Planejamento e Finanças",
+    "codigoIbge": "2103257"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "01610134000197-1-000017/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "STARTGOV SOLUCOES EM TECNOLOGIA LTDA"
+}

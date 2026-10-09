@@ -1,0 +1,81 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: PRATA CAMARA MUNICIPAL (Prata/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de licenças do software Microsoft Office 365 Business Standard e software antivírus
+VALOR ESTIMADO: R$ 19.225,00
+PRAZO PARA PROPOSTAS: 2026-10-07T13:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92962605000222026
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/22236517000117/compras/2026/24/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/22236517000117/compras/2026/24/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/22236517000117/compras/2026/24/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/22236517000117/compras/2026/24/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como Servico - Saas Licença anual – Microsoft Office 365 Business Standard | Qtd: 25.0 | R$ Unit: 651.2
+  - Item 2: Software como Servico - Saas Licença anual -Software antivírus corporativo com gerenciamento centralizado em nuvem EDR | Qtd: 31.0 | R$ Unit: 95.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "22236517000117",
+    "razaoSocial": "PRATA CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-22T16:13:55",
+  "dataAtualizacao": "2026-09-22T16:13:55",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 24,
+  "emendaParlamentar": null,
+  "numeroCompra": "22",
+  "processo": "013/2026",
+  "objetoCompra": "Contratação de licenças do software Microsoft Office 365 Business Standard e software antivírus",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-23T12:00:00",
+  "dataEncerramentoProposta": "2026-10-07T13:00:00",
+  "dataPublicacaoPncp": "2026-09-22T16:13:55",
+  "dataAtualizacaoGlobal": "2026-09-22T16:15:23",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Prata",
+    "codigoUnidade": "929626",
+    "nomeUnidade": "CAMARA MUNICIPAL DO PRATA - MG",
+    "codigoIbge": "3152808"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "22236517000117-1-000024/2026",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92962605000222026",
+  "linkProcessoEletronico": "https://sistemas.prata.mg.leg.br/portalcidadao/#ab3507a746d749745e6e2186f2abefb2be565fd44b5501b5048bfb9fcd6a5d022892edb976b9fd1d6d1506164dbff171452183777b6104a81659e196071ec8f7ceedcfafe5cf039e7de078ae62f62b1677211b654dca7d5111edd32457d7629f10283b80b58c3f64bc653760565f08054c8180ce793c41ac85fe8d6ad1c8c6e52cbdc195d50124fda567dd68511f3f39f16bb06a24244e744513e66fff62c426cfdb92897e7b58144840b640b442c033",
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 19225.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-22T16:13:56"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

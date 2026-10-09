@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO DE APOSENTADORIA E PENSOES CM - IAPCM (Cachoeiras de Macacu/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [LICITANET] - Contratação de solução tecnológica especializada, disponibilizada em ambiente totalmente digital e acessível via internet, destinado à gestão previdenciária institucional, por meio de licença de uso de plataforma integrada no modelo de Software como Serviço (SaaS), contemplando um ecossistema de sistemas interligados acompanhado de serviços técnicos  indispensáveis à sua plena operacionalização (incluindo levantamento, diagnóstico, implantação assistida, migração e tratamento de base de dados, parametrizações, capacitação, suporte técnico contínuo e manutenção) para atendimento das demandas do Instituto de Aposentadoria e Pensão de Cachoeiras de Macacu.
+VALOR ESTIMADO: R$ 92.926,56
+PRAZO PARA PROPOSTAS: 2026-10-06T10:00:00
+LINK OFICIAL: https://licitanet.com.br/sessao/202326
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/39248745000100/compras/2026/9/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/39248745000100/compras/2026/9/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 8034808: Contratação de solução tecnológica especializada, disponibilizada em ambiente totalmente digital e acessível via interne | Qtd: 12.0 | R$ Unit: 7743.88
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "39248745000100",
+    "razaoSocial": "INSTITUTO DE APOSENTADORIA E PENSOES CM - IAPCM",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-22T13:46:31",
+  "dataAtualizacao": "2026-09-30T16:26:17",
+  "numeroControlePNCP": "39248745000100-1-000009/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 9,
+  "emendaParlamentar": null,
+  "numeroCompra": "002",
+  "processo": "349/2026",
+  "srp": false,
+  "objetoCompra": "[LICITANET] - Contratação de solução tecnológica especializada, disponibilizada em ambiente totalmente digital e acessível via internet, destinado à gestão previdenciária institucional, por meio de licença de uso de plataforma integrada no modelo de Software como Serviço (SaaS), contemplando um ecossistema de sistemas interligados acompanhado de serviços técnicos  indispensáveis à sua plena operacionalização (incluindo levantamento, diagnóstico, implantação assistida, migração e tratamento de base de dados, parametrizações, capacitação, suporte técnico contínuo e manutenção) para atendimento das demandas do Instituto de Aposentadoria e Pensão de Cachoeiras de Macacu.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-22T13:46:27",
+  "dataEncerramentoProposta": "2026-10-06T10:00:00",
+  "dataPublicacaoPncp": "2026-09-22T13:46:31",
+  "dataAtualizacaoGlobal": "2026-09-30T16:26:17",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Cachoeiras de Macacu",
+    "codigoIbge": "3300803",
+    "codigoUnidade": "2162",
+    "nomeUnidade": "IAPCM-INSTITUTO DE APOSENTADORIA E PENSOES DE CACHOEIRAS DE MACACU/RJ "
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://licitanet.com.br/sessao/202326",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 92926.56,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 4,
+  "situacaoCompraNome": "Suspensa",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA"
+}

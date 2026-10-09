@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO CARLOS (São Carlos/SP)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE SISTEMA DE GESTÃO DO CADASTRO TÉCNICO TERRITORIAL MULTIFINALITÁRIO EM PLATAFORMA WEB E MOBILE, SISTEMA DE MONITORAMENTO QUADRIMESTRAL DE ALTERAÇÕES URBANAS, RURAIS E INVASÕES, SISTEMA DE MONITORAMENTO E ALERTA DE EVENTOS CLIMÁTICOS E AMBIENTAIS EXTREMOS, COM LICENCIAMENTO TEMPORÁRIO E HOSPEDAGEM EM DATACENTER; CAPACITAÇÃO DE SERVIDORES E DESENVOLVIMENTO SOB DEMANDA; LEVANTAMENTO AEROFOTOGRAMÉTRICO DIGITAL; ATUALIZAÇÃO DO CADASTRO TERRITORIAL MUNICIPAL E INTEGRAÇÃO COM SISTEMAS LEGADOS PARA O MUNICÍPIO DE SÃO CARLOS-SP.
+VALOR ESTIMADO: R$ 23.761.120,75
+PRAZO PARA PROPOSTAS: 2025-08-07T09:30:00
+LINK OFICIAL: https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1075359
+BASE LOGÍSTICA COMPATÍVEL: Campinas (100 a 200 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | São Carlos/SP (140km)]
+DISTÂNCIA ESTIMADA DA BASE: 140 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45358249000101/compras/2025/1255/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 10001: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE SISTEMA DE GESTÃO DO CADASTRO TÉCNICO TERRITORIAL MULTIFINALIT | Qtd: 1.0 | R$ Unit: 23761120.75
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 18481194.0,
+  "orgaoEntidade": {
+    "cnpj": "45358249000101",
+    "razaoSocial": "MUNICIPIO DE SAO CARLOS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-24T18:33:24",
+  "dataAtualizacao": "2025-09-24T23:18:41",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 1255,
+  "emendaParlamentar": null,
+  "numeroCompra": "CP-08/2025",
+  "processo": "19037/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE SISTEMA DE GESTÃO DO CADASTRO TÉCNICO TERRITORIAL MULTIFINALITÁRIO EM PLATAFORMA WEB E MOBILE, SISTEMA DE MONITORAMENTO QUADRIMESTRAL DE ALTERAÇÕES URBANAS, RURAIS E INVASÕES, SISTEMA DE MONITORAMENTO E ALERTA DE EVENTOS CLIMÁTICOS E AMBIENTAIS EXTREMOS, COM LICENCIAMENTO TEMPORÁRIO E HOSPEDAGEM EM DATACENTER; CAPACITAÇÃO DE SERVIDORES E DESENVOLVIMENTO SOB DEMANDA; LEVANTAMENTO AEROFOTOGRAMÉTRICO DIGITAL; ATUALIZAÇÃO DO CADASTRO TERRITORIAL MUNICIPAL E INTEGRAÇÃO COM SISTEMAS LEGADOS PARA O MUNICÍPIO DE SÃO CARLOS-SP.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-24T17:00:00",
+  "dataEncerramentoProposta": "2025-08-07T09:30:00",
+  "dataPublicacaoPncp": "2025-07-24T18:33:24",
+  "dataAtualizacaoGlobal": "2025-09-24T23:18:43",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Carlos",
+    "codigoUnidade": "000000001",
+    "nomeUnidade": "PREF MUNIC DE SAO CARLOS - DIVISAO DE COMPRAS",
+    "codigoIbge": "3548906"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1075359",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "45358249000101-1-001255/2025",
+  "valorTotalEstimado": 23761120.75,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitações-E BB"
+}

@@ -1,0 +1,89 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDO MUNICIPAL DOS DIREITOS DA CRIANCA E DO ADOLESCENTE (Firminópolis/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: SOLICITA A AQUISIÇÃO DE MATERIAL PARA O EVENTO FORMAÇÃO CONTINUADA PARA A REDE DE PROTEÇÃO EM DEFESA DOS DIREITOS DAS CRINÇAS E ADOLESCENTES A SER REALIZADO NOS DIAS 27 E 28 DE AGOSTO DE 2025
+HORARIO 08 AS 17 HORAS 
+LOCAL: SALÃO DA MAÇONARIA 
+PASTA DE PVC CRISTAL TRANSPARENTE COM FECHAMENTO ZIP ZAP, MEDIDAS: 26,6 CM X 36 CM PESO APROXIMADO: 190 Gr PERSONALIZADA COM A LOGO DO EVENTO DO CMDCA
+VALOR ESTIMADO: R$ 3.035,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/23583291000193-1-000003/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23583291000193/compras/2025/3/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23583291000193/compras/2025/3/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23583291000193/compras/2025/3/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23583291000193/compras/2025/3/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23583291000193/compras/2025/3/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23583291000193/compras/2025/3/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23583291000193/compras/2025/3/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PASTA DE PVC CRISTAL TRANSPARENTE COM
+FECHAMENTO ZIP ZAP, MEDIDAS: 26,6 CM X 36 CM PESO
+APROXIMADO: 190 Gr PERSONALIZADA | Qtd: 100.0 | R$ Unit: 16.8833
+  - Item 2: BLOCO DE ANOTAÇÃO COM CAPA PRODUZIDA EM PAPELÃO COM DETALHE VAZADO QUE REMETE AO SÍMBOLO DA RECICLAGEM, ENCADERNAÇÃO WIR | Qtd: 100.0 | R$ Unit: 13.4667
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 2240.0,
+  "orgaoEntidade": {
+    "cnpj": "23583291000193",
+    "razaoSocial": "FUNDO MUNICIPAL DOS DIREITOS DA CRIANCA E DO ADOLESCENTE",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-08T15:45:27",
+  "dataAtualizacao": "2025-08-08T15:45:27",
+  "numeroControlePNCP": "23583291000193-1-000003/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 3,
+  "emendaParlamentar": null,
+  "numeroCompra": "(13745) | 7983-D",
+  "processo": "7983/2025",
+  "objetoCompra": "SOLICITA A AQUISIÇÃO DE MATERIAL PARA O EVENTO FORMAÇÃO CONTINUADA PARA A REDE DE PROTEÇÃO EM DEFESA DOS DIREITOS DAS CRINÇAS E ADOLESCENTES A SER REALIZADO NOS DIAS 27 E 28 DE AGOSTO DE 2025\nHORARIO 08 AS 17 HORAS \nLOCAL: SALÃO DA MAÇONARIA \nPASTA DE PVC CRISTAL TRANSPARENTE COM FECHAMENTO ZIP ZAP, MEDIDAS: 26,6 CM X 36 CM PESO APROXIMADO: 190 Gr PERSONALIZADA COM A LOGO DO EVENTO DO CMDCA",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-08T15:45:27",
+  "dataAtualizacaoGlobal": "2025-09-01T10:47:22",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Firminópolis",
+    "codigoIbge": "5207808",
+    "codigoUnidade": "7",
+    "nomeUnidade": "FUNDO M. DA CRIANÇ  E ADOLECENTE - FMDCA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 3035.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2025-08-08T15:45:34"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Megasoft Informática"
+}

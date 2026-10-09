@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAPIVARI CAMARA MUNICIPAL (Capivari/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de fragmentadora de papel para a Câmara Municipal de Capivari. 
+VALOR ESTIMADO: R$ 3.399,00
+PRAZO PARA PROPOSTAS: 2025-08-04T14:20:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/52347473000163-1-000048/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/52347473000163/compras/2025/48/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: FRAGMENTADORA PROFISSIONAL DE PAPEL EM PARTÍCULAS, CAPACIDADE DE 150 FOLHAS, COM DEPÓSITO DE APROXIMADAMENTE 53 LITROS,  | Qtd: 1.0 | R$ Unit: 3399.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "52347473000163",
+    "razaoSocial": "CAPIVARI CAMARA MUNICIPAL",
+    "esferaId": "M",
+    "poderId": "L"
+  },
+  "dataInclusao": "2025-08-04T14:35:52",
+  "dataAtualizacao": "2025-08-04T14:35:52",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Obara Informática Ltda",
+  "dataAberturaProposta": "2025-08-04T14:20:00",
+  "dataEncerramentoProposta": "2025-08-04T14:20:00",
+  "dataPublicacaoPncp": "2025-08-04T14:35:52",
+  "dataAtualizacaoGlobal": "2025-08-04T14:35:58",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Capivari",
+    "codigoIbge": "3510401",
+    "codigoUnidade": "4",
+    "nomeUnidade": "Câmara Municipal De Capivari"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "A aquisição de uma fragmentadora de papel se faz necessária para atender à demanda crescente da Câmara Municipal de Capivari quanto ao descarte seguro e eficiente de documentos e materiais impressos que contenham informações sigilosas, pessoais ou estratégicas da administração pública.\r\n2.2 O uso da fragmentadora garantirá o cumprimento das normas da Lei Geral de Proteção de Dados Pessoais (LGPD – Lei nº 13.709/2018), que impõe medidas para a proteção de dados sensíveis, evitando o vazamento de informações e preservando a integridade institucional.\r\n2.3 Além disso, o equipamento contribuirá para a organização e otimização do espaço físico, eliminando acúmulo de papéis descartáveis, promovendo sustentabilidade e práticas de descarte consciente.\r\n2.4 Assim, a aquisição da fragmentadora representa um investimento em segurança da informação, eficiência operacional e responsabilidade administrativa.\r\n",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 48,
+  "emendaParlamentar": null,
+  "numeroCompra": "57",
+  "processo": "67/2025",
+  "objetoCompra": "Aquisição de fragmentadora de papel para a Câmara Municipal de Capivari. ",
+  "informacaoComplementar": "A aquisição de uma fragmentadora de papel se faz necessária para atender à demanda crescente da Câmara Municipal de Capivari quanto ao descarte seguro e eficiente de documentos e materiais impressos que contenham informações sigilosas, pessoais ou estratégicas da administração pública.\r\n2.2 O uso da fragmentadora garantirá o cumprimento das normas da Lei Geral de Proteção de Dados Pessoais (LGPD – Lei nº 13.709/2018), que impõe medidas para a proteção de dados sensíveis, evitando o vazamento de informações e preservando a integridade institucional.\r\n2.3 Além disso, o equipamento contribuirá para a organização e otimização do espaço físico, eliminando acúmulo de papéis descartáveis, promovendo sustentabilidade e práticas de descarte consciente.\r\n2.4 Assim, a aquisição da fragmentadora representa um investimento em segurança da informação, eficiência operacional e responsabilidade administrativa.\r\n",
+  "numeroControlePNCP": "52347473000163-1-000048/2025",
+  "valorTotalEstimado": 3399.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta"
+}

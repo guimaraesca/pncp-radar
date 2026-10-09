@@ -1,0 +1,78 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO PUBLICO DE SAUDE DA MICRORREGIAO DE IGUATU - CPSMIG (Iguatu/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: serviços especializados na área de tecnologia da informação para fornecimento de serviços de solução tecnológica de acesso remoto para gestão de negócios na modalidade SaaS - software como serviço, solução integrada com módulos/ contábil, patrimonial, almoxarifado, orçamento, destinando-se a atender as necessidades do Consórcio Público de Saúde da Microrregião de Iguatu/CPSMIG.
+VALOR ESTIMADO: R$ 10.800,00
+PRAZO PARA PROPOSTAS: 2025-04-25T08:29:00
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/8bf491a3c52748749aff6102461b44ce/servicos-especializados-na-area-de-tecnologia-da-i
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14770466000180/compras/2025/23/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14770466000180/compras/2025/23/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14770466000180/compras/2025/23/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14770466000180/compras/2025/23/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14770466000180/compras/2025/23/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14770466000180/compras/2025/23/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14770466000180/compras/2025/23/arquivos/7
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14770466000180/compras/2025/23/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14770466000180/compras/2025/23/arquivos/10
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços especializados na área de tecnologia da informação para fornecimento de serviços de solução tecnológica de aces | Qtd: 12.0 | R$ Unit: 900.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 10800.0,
+  "orgaoEntidade": {
+    "cnpj": "14770466000180",
+    "razaoSocial": "CONSORCIO PUBLICO DE SAUDE DA MICRORREGIAO DE IGUATU - CPSMIG",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "dataInclusao": "2025-04-22T00:12:14",
+  "dataAtualizacao": "2025-04-22T00:12:14",
+  "numeroControlePNCP": "14770466000180-1-000023/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 23,
+  "emendaParlamentar": null,
+  "numeroCompra": "2025.04.16.04",
+  "processo": "0000120250306000244",
+  "objetoCompra": "serviços especializados na área de tecnologia da informação para fornecimento de serviços de solução tecnológica de acesso remoto para gestão de negócios na modalidade SaaS - software como serviço, solução integrada com módulos/ contábil, patrimonial, almoxarifado, orçamento, destinando-se a atender as necessidades do Consórcio Público de Saúde da Microrregião de Iguatu/CPSMIG.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-22T00:00:00",
+  "dataEncerramentoProposta": "2025-04-25T08:29:00",
+  "dataPublicacaoPncp": "2025-04-22T00:12:14",
+  "dataAtualizacaoGlobal": "2025-07-11T15:07:33",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Iguatu",
+    "codigoIbge": "2305506",
+    "codigoUnidade": "202501",
+    "nomeUnidade": "CONS.PUB.DE SAUDE DA MIC.DE IGUATU"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/8bf491a3c52748749aff6102461b44ce/servicos-especializados-na-area-de-tecnologia-da-i",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 10800.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

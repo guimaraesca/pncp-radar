@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CACHOEIRA DO SUL (Cachoeira do Sul/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Curso de Capacitacao para Idosos
+VALOR ESTIMADO: R$ 21.433,33
+PRAZO PARA PROPOSTAS: 2026-10-08T09:00:00
+LINK OFICIAL:  
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/87530978000143/compras/2026/380/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/87530978000143/compras/2026/380/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/87530978000143/compras/2026/380/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATACAO DE EMPRESA PARA CAPACITACAO | Qtd: 1.0 | R$ Unit: 21433.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "87530978000143",
+    "razaoSocial": "MUNICIPIO DE CACHOEIRA DO SUL",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-21T10:29:33",
+  "dataAtualizacao": "2026-09-21T10:29:33",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 380,
+  "emendaParlamentar": null,
+  "numeroCompra": "123 | Processo 8809",
+  "processo": "123",
+  "objetoCompra": "Curso de Capacitacao para Idosos",
+  "informacaoComplementar": " ",
+  "dataAberturaProposta": "2026-09-21T09:00:00",
+  "dataEncerramentoProposta": "2026-10-08T09:00:00",
+  "dataPublicacaoPncp": "2026-09-21T10:29:33",
+  "dataAtualizacaoGlobal": "2026-09-21T13:30:02",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Cachoeira do Sul",
+    "codigoUnidade": "0000",
+    "nomeUnidade": "PREFEITURA MUNICIPAL",
+    "codigoIbge": "4303004"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "87530978000143-1-000380/2026",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": " ",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": " ",
+  "valorTotalEstimado": 21433.33,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Governançabrasil Tecnologia e Gestão em Serviços"
+}

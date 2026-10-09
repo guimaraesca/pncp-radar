@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE TARUMA (Tarumã/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE
+SERVIÇOS TÉCNICOS DE ASSESSORIA, ELABORAÇÃO, REGULARIZAÇÃO E
+OBTENÇÃO DO AUTO DE VISTORIA DO CORPO DE BOMBEIROS (AVCB) PARA O
+IMÓVEL SEDE ADMINISTRATIVA, SITUADA NA RUA DOS CRISÂNTEMOS, 40,
+TARUMÃ/SP, CEP 19820-023, CÂMARA MUNICIPAL DE TARUMÃ
+VALOR ESTIMADO: R$ 3.000,00
+PRAZO PARA PROPOSTAS: 2025-03-25T23:59:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/64614605000155-1-000019/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/64614605000155/compras/2025/19/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇO TÉCNICO PROFISSIONAL - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE CONSULTORIA TÉCNICA E DOCUMENTAL PARA | Qtd: 1.0 | R$ Unit: 3000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 2700.0,
+  "orgaoEntidade": {
+    "cnpj": "64614605000155",
+    "razaoSocial": "CAMARA MUNICIPAL DE TARUMA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-20T11:06:21",
+  "dataAtualizacao": "2025-03-20T11:06:21",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 19,
+  "emendaParlamentar": null,
+  "numeroCompra": "56",
+  "processo": "56/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE\r\nSERVIÇOS TÉCNICOS DE ASSESSORIA, ELABORAÇÃO, REGULARIZAÇÃO E\r\nOBTENÇÃO DO AUTO DE VISTORIA DO CORPO DE BOMBEIROS (AVCB) PARA O\r\nIMÓVEL SEDE ADMINISTRATIVA, SITUADA NA RUA DOS CRISÂNTEMOS, 40,\r\nTARUMÃ/SP, CEP 19820-023, CÂMARA MUNICIPAL DE TARUMÃ\r",
+  "informacaoComplementar": "CONSULTORIA TÉCNICA E DOCUMENTAL PARA OBTENÇÃO DO AVCB - AUTO DE VISTORIA DO CORPO DE\r\nBOMBEIROS",
+  "dataAberturaProposta": "2025-03-21T08:00:00",
+  "dataEncerramentoProposta": "2025-03-25T23:59:00",
+  "dataPublicacaoPncp": "2025-03-20T11:06:21",
+  "dataAtualizacaoGlobal": "2025-03-31T14:37:16",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Tarumã",
+    "codigoUnidade": "1.2025",
+    "nomeUnidade": "CÂMARA MUNICIPAL",
+    "codigoIbge": "3553955"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "64614605000155-1-000019/2025",
+  "valorTotalEstimado": 3000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "NOVOSERV INFORMATICA LTDA EPP"
+}

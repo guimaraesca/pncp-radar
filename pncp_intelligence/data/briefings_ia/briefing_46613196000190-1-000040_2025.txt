@@ -1,0 +1,78 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SALES (Sales/SP)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em planejamento e gestão para prestação de serviços técnicos de elaboração do Planejamento Estratégico Situacional da Secretaria Municipal de Saúde
+VALOR ESTIMADO: R$ 60.000,00
+PRAZO PARA PROPOSTAS: 2025-08-26T23:59:00
+LINK OFICIAL: http://170.0.48.169:8079/comprasedital/
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46613196000190/compras/2025/40/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46613196000190/compras/2025/40/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46613196000190/compras/2025/40/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46613196000190/compras/2025/40/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46613196000190/compras/2025/40/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46613196000190/compras/2025/40/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46613196000190/compras/2025/40/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46613196000190/compras/2025/40/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46613196000190/compras/2025/40/arquivos/9
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Proposta para todos os itens | Qtd: 1.0 | R$ Unit: 60000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 58000.0,
+  "orgaoEntidade": {
+    "cnpj": "46613196000190",
+    "razaoSocial": "MUNICIPIO DE SALES",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-07-22T16:27:10",
+  "dataInclusao": "2025-07-22T16:27:10",
+  "numeroControlePNCP": "46613196000190-1-000040/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 40,
+  "emendaParlamentar": null,
+  "numeroCompra": "1",
+  "processo": "1",
+  "dataEncerramentoProposta": "2025-08-26T23:59:00",
+  "objetoCompra": "Contratação de empresa especializada em planejamento e gestão para prestação de serviços técnicos de elaboração do Planejamento Estratégico Situacional da Secretaria Municipal de Saúde",
+  "informacaoComplementar": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PLANEJAMENTO PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS, INOVAÇÃO E ELABORAÇÃO DO PLANEJAMENTO ESTRATÉGICO SITUACIONAL DA SECRETARIA MUNICIPAL DE SAÚDE, CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS EM EDITAL E SEUS ANEXOS. ",
+  "dataAberturaProposta": "2025-07-23T00:01:00",
+  "dataPublicacaoPncp": "2025-07-22T16:27:10",
+  "dataAtualizacaoGlobal": "2025-09-09T13:57:19",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Sales",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SALES",
+    "codigoIbge": "3544806"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "http://170.0.48.169:8079/comprasedital/",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software",
+  "valorTotalEstimado": 60000.0
+}

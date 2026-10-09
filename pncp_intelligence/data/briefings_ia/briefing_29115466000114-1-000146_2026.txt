@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CONCEICAO DE MACABU (Conceição de Macabu/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa especializada para fornecimento de solução tecnológica integrada para gestão da saúde pública municipal, compreendendo licenciamento de uso de software em ambiente cloud (SaaS), implantação, migração de dados, treinamento de usuários, suporte técnico e manutenção corretiva e evolutiva, para atender as necessidades da Secretaria Municipal de Saúde de Conceição de Macabu.
+VALOR ESTIMADO: R$ 226.666,70
+PRAZO PARA PROPOSTAS: 2026-10-09T10:00:00
+LINK OFICIAL: https://www.portaldecompraspublicas.com.br/processos/RJ/Prefeitura-Municipal-de-Conceicao-de-Macabu-2900/PE-056-2026-2026-513924
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29115466000114/compras/2026/146/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29115466000114/compras/2026/146/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29115466000114/compras/2026/146/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lote Único - LICENCIAMENTO MENSAL DO SISTEMA A solução deverá contemplar, no mínimo, os seguintes módulos integrados: "  | Qtd: 12.0 | R$ Unit: 9000.0
+  - Item 2: Lote Único - IMPLANTAÇÃO DO SISTEMA A solução deverá contemplar, no mínimo, os seguintes módulos integrados: " Prontuári | Qtd: 1.0 | R$ Unit: 14000.0
+  - Item 3: Lote Único - MIGRAÇÃO DE DADOS A solução deverá contemplar, no mínimo, os seguintes módulos integrados: " Prontuário ele | Qtd: 1.0 | R$ Unit: 12333.33
+  - Item 4: Lote Único - TREINAMENTO DE USUÁRIOS A solução deverá contemplar, no mínimo, os seguintes módulos integrados: " Prontuár | Qtd: 1.0 | R$ Unit: 12333.33
+  - Item 5: Lote Único - SUPORTE TÉCNICO MENSAL A solução deverá contemplar, no mínimo, os seguintes módulos integrados: " Prontuári | Qtd: 12.0 | R$ Unit: 3666.67
+  - Item 6: Lote Único - MANUTENÇÃO (CORRETIVA/EVOLUTIVA) A solução deverá contemplar, no mínimo, os seguintes módulos integrados: " | Qtd: 12.0 | R$ Unit: 3000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "29115466000114",
+    "razaoSocial": "MUNICIPIO DE CONCEICAO DE MACABU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-24T13:51:50",
+  "dataAtualizacao": "2026-09-24T13:51:55",
+  "anoCompra": 2026,
+  "sequencialCompra": 146,
+  "emendaParlamentar": null,
+  "numeroCompra": "056",
+  "processo": "5.037/2026",
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa especializada para fornecimento de solução tecnológica integrada para gestão da saúde pública municipal, compreendendo licenciamento de uso de software em ambiente cloud (SaaS), implantação, migração de dados, treinamento de usuários, suporte técnico e manutenção corretiva e evolutiva, para atender as necessidades da Secretaria Municipal de Saúde de Conceição de Macabu.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-25T10:00:00",
+  "dataEncerramentoProposta": "2026-10-09T10:00:00",
+  "dataPublicacaoPncp": "2026-09-24T13:51:50",
+  "dataAtualizacaoGlobal": "2026-09-24T13:51:55",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Conceição de Macabu",
+    "codigoIbge": "3301405",
+    "codigoUnidade": "5478",
+    "nomeUnidade": "Fundo Municipal de Saude"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/RJ/Prefeitura-Municipal-de-Conceicao-de-Macabu-2900/PE-056-2026-2026-513924",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "29115466000114-1-000146/2026",
+  "srp": false,
+  "valorTotalEstimado": 226666.7,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

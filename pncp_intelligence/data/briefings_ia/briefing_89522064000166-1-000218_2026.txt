@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: RIO GRANDE DO SUL PODER JUDICIARIO (Porto Alegre/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para o fornecimento do Sistema de Videoconferência Cisco Webex, na modalidade Software como Serviço (SaaS).
+VALOR ESTIMADO: R$ 6,534,991.46
+PRAZO PARA PROPOSTAS: 2026-10-16T14:00:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

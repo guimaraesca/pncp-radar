@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PORTO FERREIRA (Porto Ferreira/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Futura e eventual prestação de serviços de manutenção preventiva e corretiva, em veículos da linha PESADA multimarcas com fornecimento de peças e acessórios originais ou genuínos, e acesso as tabelas de preços das montadoras/fabricantes, sistema AUDATEX e TEMPÁRIO, para utilização nos veículos pertencentes a frota oficial do Município e sua possível ampliação.
+VALOR ESTIMADO: R$ 70.00
+PRAZO PARA PROPOSTAS: 2026-10-13T08:00:00
+LINK OFICIAL: 
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

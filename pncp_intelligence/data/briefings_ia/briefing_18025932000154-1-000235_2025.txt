@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GONCALVES (Gonçalves/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: PRESTAÇÃO DE SERVIÇOS DE CURSO DE CAPACITAÇÃO SOBRE ROTINAS DE 
+FOLHA DE PAGAMENTO, E-SOCIAL, DCTFWEB e FGTS DIGITAL
+VALOR ESTIMADO: R$ 790,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/18025932000154-1-000235/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025932000154/compras/2025/235/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CURSO DE CAPACITAÇÃO SOBRE A FISCALIZAÇÃO DO ISS NO SIMPLES NACIONAL | Qtd: 1.0 | R$ Unit: 790.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 790.0,
+  "orgaoEntidade": {
+    "cnpj": "18025932000154",
+    "razaoSocial": "MUNICIPIO DE GONCALVES",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-08-12T11:46:41",
+  "dataInclusao": "2025-08-12T11:46:41",
+  "numeroControlePNCP": "18025932000154-1-000235/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 235,
+  "emendaParlamentar": null,
+  "numeroCompra": "900204",
+  "processo": "900204/2025",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "PRESTAÇÃO DE SERVIÇOS DE CURSO DE CAPACITAÇÃO SOBRE ROTINAS DE \r\nFOLHA DE PAGAMENTO, E-SOCIAL, DCTFWEB e FGTS DIGITAL",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-08-12T11:46:41",
+  "dataAtualizacaoGlobal": "2025-08-12T11:46:47",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Gonçalves",
+    "codigoUnidade": "040101",
+    "nomeUnidade": "Compras e Licitação",
+    "codigoIbge": "3127404"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ADPM - Administração Pública para Municípios Ltda",
+  "valorTotalEstimado": 790.0
+}

@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RONDONOPOLIS (Rondonópolis/MT)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa de consultoria técnica na aérea de engenharia e arquitetura especializada para a revisão do plano de mobilidade urbana (Planmob) do município de Rondonópolis-Mt
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-09-15T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98915103900062025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03347101000121/compras/2025/108/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Consultoria / Assessoria - Engenharia | Qtd: 1.0 | R$ Unit: 1907133.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "03347101000121",
+    "razaoSocial": "MUNICIPIO DE RONDONOPOLIS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-12-03T07:38:47",
+  "dataInclusao": "2025-07-28T07:50:59",
+  "numeroControlePNCP": "03347101000121-1-000108/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 108,
+  "emendaParlamentar": null,
+  "numeroCompra": "90006",
+  "processo": "06/2025",
+  "dataEncerramentoProposta": "2025-09-15T10:00:00",
+  "objetoCompra": "Contratação de empresa de consultoria técnica na aérea de engenharia e arquitetura especializada para a revisão do plano de mobilidade urbana (Planmob) do município de Rondonópolis-Mt",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=98915103900062025",
+  "dataAberturaProposta": "2025-07-28T08:00:00",
+  "dataPublicacaoPncp": "2025-07-28T07:50:59",
+  "dataAtualizacaoGlobal": "2025-12-03T07:38:47",
+  "unidadeOrgao": {
+    "ufNome": "Mato Grosso",
+    "ufSigla": "MT",
+    "municipioNome": "Rondonópolis",
+    "codigoUnidade": "989151",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE RONDONÓPOLIS - MT",
+    "codigoIbge": "5107602"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98915103900062025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 2,
+  "situacaoCompraNome": "Revogada",
+  "usuarioNome": "Compras.gov.br",
+  "valorTotalEstimado": 0.0
+}

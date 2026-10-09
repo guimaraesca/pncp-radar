@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TUPA CAMARA MUNICIPAL (Tupã/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de equipamentos de 01 (uma) Mesa de Corte Switcher, 01 (uma) Unidade Central de Processamento (CPU), 01 (um) Storage NAS (servidor de armazenamento), 01 (uma) Caixa Acústica Ativa e 01 (um) Sistema de Microfone sem Fio Duplo, conforme Anexo I – Termo de Referência do Edital
+VALOR ESTIMADO: R$ 94.965,94
+PRAZO PARA PROPOSTAS: 2026-10-08T09:00:00
+LINK OFICIAL: https://bnccompras.com/Process/ProcessView?param1=[gkz]mRvvEcRDn5QBNDnB/5dI7wkEB6P98L6P4Jyri3rKxMSs9B3lN03A93hDEaNB_3e_iSyva55CaWjNA0InwupKbp5gcpsDDZtsR08U_U3hXuQ=
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/51507085000130/compras/2026/18/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/51507085000130/compras/2026/18/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Mesa de corte/switcher de vídeo digital, destinada à operação e gerenciamento dos sinais de vídeo da TV Câmara, permitin | Qtd: 1.0 | R$ Unit: 15072.8
+  - Item 2: Unidade Central de Processamento (CPU) contendo, no mínimo, Processador Core i7 - 14700F, placa mãe B760-Plus, DDR5, mem | Qtd: 1.0 | R$ Unit: 13787.22
+  - Item 3: Storage/NAS para armazenamento centralizado dos arquivos audiovisuais da TV Câmara. | Qtd: 1.0 | R$ Unit: 61585.0
+  - Item 4: Caixa acústica ativa, destinada ao retorno e reprodução do áudio no plenário da Câmara Municipal, especialmente para ate | Qtd: 1.0 | R$ Unit: 2794.25
+  - Item 5: Sistema de microfone sem fio duplo, destinado à captação de voz em entrevistas, apresentações, gravações e transmissões  | Qtd: 1.0 | R$ Unit: 1726.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "51507085000130",
+    "razaoSocial": "TUPA CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-23T09:15:15",
+  "dataAtualizacao": "2026-09-23T09:15:15",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 18,
+  "emendaParlamentar": null,
+  "numeroCompra": "05",
+  "processo": "809/2026",
+  "objetoCompra": "Aquisição de equipamentos de 01 (uma) Mesa de Corte Switcher, 01 (uma) Unidade Central de Processamento (CPU), 01 (um) Storage NAS (servidor de armazenamento), 01 (uma) Caixa Acústica Ativa e 01 (um) Sistema de Microfone sem Fio Duplo, conforme Anexo I – Termo de Referência do Edital",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-24T09:00:00",
+  "dataEncerramentoProposta": "2026-10-08T09:00:00",
+  "dataPublicacaoPncp": "2026-09-23T09:15:15",
+  "dataAtualizacaoGlobal": "2026-09-23T09:16:05",
+  "numeroControlePNCP": "51507085000130-1-000018/2026",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Tupã",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Câmara Municipal De Tupã",
+    "codigoIbge": "3555000"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]mRvvEcRDn5QBNDnB/5dI7wkEB6P98L6P4Jyri3rKxMSs9B3lN03A93hDEaNB_3e_iSyva55CaWjNA0InwupKbp5gcpsDDZtsR08U_U3hXuQ=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 94965.94,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC"
+}

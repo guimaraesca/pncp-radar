@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CAPIVARI (Capivari/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: SECRETARIA MUNICIPAL DA SEGURANÇA PÚBLICA SOLICITA A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇO CONTINUADO DE SOLUÇÃO INTEGRADA, COM FORNECIMENTO DE 30 (TRINTA)CÂMERAS PORTÁTEIS EM REGIME DE COMODATO, LICENCIAMENTO DE SOFTWARE DE CUSTÓDIO E COMPARTILHAMENTO DE EVIDÊNCIAS DIGITAIS POR MEIO DE CÂMERAS OPERACIONAIS PORTÁTEIS (BODY CAM), PELO PERÍODO DE 36 MESES.
+VALOR ESTIMADO: R$ 835.272,00
+PRAZO PARA PROPOSTAS: 2026-10-06T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/44723674000190-1-000795/2026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/44723674000190/compras/2026/795/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/44723674000190/compras/2026/795/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/44723674000190/compras/2026/795/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇO CONTINUADO DE SOLUÇÃO INTEGRADA, COM FORNECIMENTO DE 30 (TRINTA)CÂMERAS PORTÁTEIS, MENSAIS, EM REGIME DE COMODAT | Qtd: 1.0 | R$ Unit: 835272.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "44723674000190",
+    "razaoSocial": "MUNICIPIO DE CAPIVARI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-21T14:33:14",
+  "dataAtualizacao": "2026-09-21T14:33:14",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 795,
+  "emendaParlamentar": null,
+  "numeroCompra": "108",
+  "processo": "1102/2026",
+  "objetoCompra": "SECRETARIA MUNICIPAL DA SEGURANÇA PÚBLICA SOLICITA A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇO CONTINUADO DE SOLUÇÃO INTEGRADA, COM FORNECIMENTO DE 30 (TRINTA)CÂMERAS PORTÁTEIS EM REGIME DE COMODATO, LICENCIAMENTO DE SOFTWARE DE CUSTÓDIO E COMPARTILHAMENTO DE EVIDÊNCIAS DIGITAIS POR MEIO DE CÂMERAS OPERACIONAIS PORTÁTEIS (BODY CAM), PELO PERÍODO DE 36 MESES.",
+  "informacaoComplementar": "A presente contratação fundamenta-se na necessidade imperiosa de adequação de câmeras operacionais portáteis (body cam), a natureza das atividades desempenhadas pela Guarda Civil Municipal exige que tais unidades sejam dotadas de equipamentos específicos. ",
+  "dataAberturaProposta": "2026-09-22T08:00:00",
+  "dataEncerramentoProposta": "2026-10-06T08:00:00",
+  "dataPublicacaoPncp": "2026-09-21T14:33:14",
+  "dataAtualizacaoGlobal": "2026-09-21T14:33:23",
+  "numeroControlePNCP": "44723674000190-1-000795/2026",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Capivari",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE CAPIVARI - SP",
+    "codigoIbge": "3510401"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "A presente contratação fundamenta-se na necessidade imperiosa de adequação de câmeras operacionais portáteis (body cam), a natureza das atividades desempenhadas pela Guarda Civil Municipal exige que tais unidades sejam dotadas de equipamentos específicos. ",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 835272.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Obara Informática Ltda"
+}

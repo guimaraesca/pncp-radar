@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTA BARBARA (Santa Bárbara/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Curso de capacitação de servidores
+VALOR ESTIMADO: R$ 600,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://www.diariomunicipal.com.br/amm-mg/
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/19391945000100/compras/2025/42/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/19391945000100/compras/2025/42/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CURSO DE CAPACITACAO | Qtd: 1.0 | R$ Unit: 600.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 600.0,
+  "orgaoEntidade": {
+    "cnpj": "19391945000100",
+    "razaoSocial": "MUNICIPIO DE SANTA BARBARA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-21T07:20:21",
+  "dataAtualizacao": "2025-03-21T07:20:21",
+  "numeroControlePNCP": "19391945000100-1-000042/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 42,
+  "emendaParlamentar": null,
+  "numeroCompra": "19",
+  "processo": "47",
+  "srp": false,
+  "objetoCompra": "Curso de capacitação de servidores",
+  "informacaoComplementar": "Participação de servidor no curso de capacitação \"O Planejamento da Licitação Fase Interna e seus Instrumentos - DFD, ETP, TR e PB - sob sob a ótica da Lei 14.133/21\" nos dias 24 e 25 de março de 2025.",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-21T07:20:21",
+  "dataAtualizacaoGlobal": "2025-03-21T07:24:48",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Santa Bárbara",
+    "codigoIbge": "3157203",
+    "codigoUnidade": "021400",
+    "nomeUnidade": "SECRETARIA MUNICIPAL DE PLANEJAMENTO    "
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://www.diariomunicipal.com.br/amm-mg/",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 600.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Memory Projetos e Desenvolvimento de Sistemas LTDA"
+}

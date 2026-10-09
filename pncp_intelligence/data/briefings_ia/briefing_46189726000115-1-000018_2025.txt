@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ITAPUI (Itapuí/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de Empresa para Fornecimento de Assinatura de Programas de Inteligência Artificial
+ 
+VALOR ESTIMADO: R$ 1.913,93
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://www.itapui.sp.gov.br/portal/editais/0/1/1799
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46189726000115/compras/2025/18/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Fornecimento de Assinatura de Programas de Inteligência Artificial | Qtd: 1.0 | R$ Unit: 1913.93
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "46189726000115",
+    "razaoSocial": "MUNICIPIO DE ITAPUI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-03-24T15:17:08",
+  "dataAtualizacao": "2025-03-24T15:17:10",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 18,
+  "emendaParlamentar": null,
+  "numeroCompra": "2",
+  "processo": "157/2024",
+  "objetoCompra": "Contratação de Empresa para Fornecimento de Assinatura de Programas de Inteligência Artificial\r\n ",
+  "informacaoComplementar": "\r\n\t\r\n\t\t\r\n\t\t\tFornecimento de assinaturas de programas em Inteligência Atificial - IA, assinaturas das plataformas:- ChatGPT-4,- Canva Pro.(Pacote de licenças ANUAL)\r\n\t\t\r\n\t\r\n\r\n",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-24T15:17:08",
+  "dataAtualizacaoGlobal": "2025-03-24T15:17:10",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Itapuí",
+    "codigoUnidade": "01",
+    "nomeUnidade": "LICITAÇÃO",
+    "codigoIbge": "3522901"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "46189726000115-1-000018/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://www.itapui.sp.gov.br/portal/editais/0/1/1799",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 1913.93,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Instar Tecnologia em Informática"
+}

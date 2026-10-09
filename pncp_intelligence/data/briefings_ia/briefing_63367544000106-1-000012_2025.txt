@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ACARAPE - CAMARA MUNICIPAL (Acarape/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de prestação de serviços de consultoria técnica-administrativa ao setor de pessoal do Poder Legislativo Municipal, compreendendo a Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas, através do E-Social e EFDReinf, e ainda, a DCTF-Web, seguindo todas as normativas do Manual utilizado pela Receita Federal do Brasil.
+VALOR ESTIMADO: R$ 60.000,00
+PRAZO PARA PROPOSTAS: 2025-07-10T08:29:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/63367544000106-1-000012/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/63367544000106/compras/2025/12/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Consultoria e Assessoria - Fiscal | Qtd: 12.0 | R$ Unit: 5000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 59760.0,
+  "orgaoEntidade": {
+    "cnpj": "63367544000106",
+    "razaoSocial": "MUNICIPIO DE ACARAPE - CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-04T11:16:29",
+  "dataAtualizacao": "2025-07-04T11:16:29",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 12,
+  "emendaParlamentar": null,
+  "numeroCompra": "90012",
+  "processo": "2025070301DL",
+  "objetoCompra": "Contratação de prestação de serviços de consultoria técnica-administrativa ao setor de pessoal do Poder Legislativo Municipal, compreendendo a Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas, através do E-Social e EFDReinf, e ainda, a DCTF-Web, seguindo todas as normativas do Manual utilizado pela Receita Federal do Brasil.",
+  "informacaoComplementar": "Valor do orçamento dentro dos limites do art. 75, II da Lei nº 14.133/2021.",
+  "dataAberturaProposta": "2025-07-04T11:16:28",
+  "dataEncerramentoProposta": "2025-07-10T08:29:59",
+  "dataPublicacaoPncp": "2025-07-04T11:16:29",
+  "dataAtualizacaoGlobal": "2025-07-18T09:10:11",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Acarape",
+    "codigoUnidade": "931489",
+    "nomeUnidade": "MCE-CÂMARA MUNICIPAL DE ACARÁPE",
+    "codigoIbge": "2300150"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "63367544000106-1-000012/2025",
+  "valorTotalEstimado": 60000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

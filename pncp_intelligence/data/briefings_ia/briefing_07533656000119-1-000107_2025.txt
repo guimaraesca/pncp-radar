@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO GONCALO DO AMARANTE (São Gonçalo do Amarante/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATANÇÃO DE EMPRESA ESPECIALIZADA, PARA MINISTRAR CURSO DE CAPACITAÇÃO E APERFEIÇOAMENTO PROFISSINAL AOS INTEGRANTES DA GUARDA CIVIL MUNICIPAL, VISANDO À MELHORIA CONTÍNUA DOS SERVIÇOS PRESTADOS À POPULAÇÃO, ATRAVÉS DA SECRETARIA DE SEGURANÇA PÚBLICA E DEFESA SOCIAL DO MUNICÍPIO DE SÃO GONÇALO DO AMARANTE-CE.
+VALOR ESTIMADO: R$ 35.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/3c467c135a2243dab127e199360ff22e/contratancao-de-empresa-especializada-para-minist
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07533656000119/compras/2025/107/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07533656000119/compras/2025/107/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07533656000119/compras/2025/107/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07533656000119/compras/2025/107/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07533656000119/compras/2025/107/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Treinamento , curso - armamento e tiro | Qtd: 1.0 | R$ Unit: 35000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "07533656000119",
+    "razaoSocial": "MUNICIPIO DE SAO GONCALO DO AMARANTE",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-06-18T09:51:04",
+  "dataAtualizacao": "2025-06-18T09:51:12",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-06-18T09:51:04",
+  "dataAtualizacaoGlobal": "2025-06-18T09:51:36",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "São Gonçalo do Amarante",
+    "codigoIbge": "2312403",
+    "codigoUnidade": "202542",
+    "nomeUnidade": "SECRETARIA MUNICIPAL SEGURANCA PUBL. DEFESA SOCIAL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/3c467c135a2243dab127e199360ff22e/contratancao-de-empresa-especializada-para-minist",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 107,
+  "emendaParlamentar": null,
+  "numeroCompra": "018.2025- SMSPDS",
+  "processo": "018.2025- SMSPDS",
+  "objetoCompra": "CONTRATANÇÃO DE EMPRESA ESPECIALIZADA, PARA MINISTRAR CURSO DE CAPACITAÇÃO E APERFEIÇOAMENTO PROFISSINAL AOS INTEGRANTES DA GUARDA CIVIL MUNICIPAL, VISANDO À MELHORIA CONTÍNUA DOS SERVIÇOS PRESTADOS À POPULAÇÃO, ATRAVÉS DA SECRETARIA DE SEGURANÇA PÚBLICA E DEFESA SOCIAL DO MUNICÍPIO DE SÃO GONÇALO DO AMARANTE-CE.",
+  "informacaoComplementar": "",
+  "numeroControlePNCP": "07533656000119-1-000107/2025",
+  "valorTotalEstimado": 35000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

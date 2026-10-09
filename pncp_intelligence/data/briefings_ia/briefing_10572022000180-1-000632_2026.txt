@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DE ADMINISTRACAO (Recife/PE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Formação de Registro de Preços Unificada para o fornecimento eventual de medicamentos controlados grupo 2, visando atender as necessidades dos hospitais e estabelecimentos vinculados à Secretaria Estadual de Saúde de Pernambuco, assim como o Hospital da Polícia Militar de Pernambuco - PMPE, Hospital dos Servidores do Estado - HSE e Autarquia Territorial Distrito Estadual  e Fernando de Noronha - ATDEFN.
+VALOR ESTIMADO: R$ 6,053,791.34
+PRAZO PARA PROPOSTAS: 2026-10-14T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92615005002022026
+SELO LOGÍSTICO: [BASE DIRETA: RECIFE/PE]
+BASE LOGÍSTICA COMPATÍVEL: Recife (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

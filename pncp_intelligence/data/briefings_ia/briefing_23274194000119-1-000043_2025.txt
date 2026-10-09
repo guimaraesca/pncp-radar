@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FURNAS-CENTRAIS ELETRICAS S.A. (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços de implantação, operação e suporte de solução de segurança cibernética composta de Detecção e Resposta de Endpoint (do inglês Endpoint Detection and Response - EDR) e Proteção de Caixas Postais, conhecido como AntiSpam, visando proteger o ambiente interno de tecnologia da informação da Eletronuclear. 
+VALOR ESTIMADO: R$ 5.443.593,48
+PRAZO PARA PROPOSTAS: 2025-05-26T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=91084705900122025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23274194000119/compras/2025/43/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de Consultoria em  Segurança de Tecnologia da Informação e Comunicação (TIC) | Qtd: 1.0 | R$ Unit: 5443593.48
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "23274194000119",
+    "razaoSocial": "FURNAS-CENTRAIS ELETRICAS S.A.",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 4050884.52,
+  "dataInclusao": "2025-05-05T07:16:02",
+  "dataAtualizacao": "2025-05-05T07:16:02",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoUnidade": "910847",
+    "nomeUnidade": "ELETROBRAS TERMONUCLEAR S/A",
+    "codigoIbge": "3304557"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=91084705900122025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 43,
+  "emendaParlamentar": null,
+  "numeroCompra": "90012",
+  "processo": "DAN.A-PE 012/2025",
+  "objetoCompra": "Prestação de serviços de implantação, operação e suporte de solução de segurança cibernética composta de Detecção e Resposta de Endpoint (do inglês Endpoint Detection and Response - EDR) e Proteção de Caixas Postais, conhecido como AntiSpam, visando proteger o ambiente interno de tecnologia da informação da Eletronuclear. ",
+  "informacaoComplementar": "O Edital poderá ser baixado do site www.gov.br/compras a partir de 05/05/2025. A visita técnica FACULTATIVA poderá ser realizada em até 03 (três) dias úteis antes da data prevista para abertura das PROPOSTAS, com agendamento.  Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=91084705900122025",
+  "dataAberturaProposta": "2025-05-05T08:00:00",
+  "dataEncerramentoProposta": "2025-05-26T09:00:00",
+  "dataPublicacaoPncp": "2025-05-05T07:16:02",
+  "dataAtualizacaoGlobal": "2026-02-05T07:39:44",
+  "numeroControlePNCP": "23274194000119-1-000043/2025",
+  "valorTotalEstimado": 5443593.48,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

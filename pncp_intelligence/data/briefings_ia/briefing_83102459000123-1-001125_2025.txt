@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE JARAGUA DO SUL (Jaraguá do Sul/SC)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: PASSAGEM AÉREA IDA E VOLTA PARA BRASÍLIA-DF, COMO SEGUE:
+IDA:  23/06/2025 LATAM VOO 4661 SAINDO DE JOINVILLE - SC ÀS 10:15 CHEGANDO EM SÃO PAULO-SP ÀS 11:25 - 23/06/2025 LATAM VOO 3265 SAINDO DE  SÃO PAULO - SP ÀS 12:25 CHEGANDO EM BRASÍLIA - DF ÀS 14:05 
+VOLTA:  26/06/2025 LATAM  VOO 3110 SAINDO DE BRASÍLIA-DF ÀS 08:40 CHEGANDO EM CURITIBA - PR ÀS 10:35
+
+PARA O DIRETOR DE CAPTAÇÃO DE RECURSOS, ESCRITÓRIO DE PROJETOS E PLANEJAMENTO ESTRATÉGICO, ANTONIO CARLOS DA LUZ CUMPRIR AGENDA DE COMPROMISSOS EM BRASÍLIA, JUNTO AOS MINISTÉRIOS DA FAZENDA, SAÚDE, TURISMO, CIDADES, SECRETARIA DO TESOURO NACIONAL, CONGRESSO NACIONAL E DEMAIS ÓRGÃOS DO GOVERNO FEDERAL PARA ACOMPANHAR PROCESSOS DE INTERESSE DO MUNICÍPIO.
+
+PROCESSO SEI 0101070000.000118/2025-32
+VALOR ESTIMADO: R$ 3.752,47
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/83102459000123-1-001125/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Até 50 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Jaraguá do Sul/SC (35km)]
+DISTÂNCIA ESTIMADA DA BASE: 35 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102459000123/compras/2025/1125/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PASSAGEM AÉREA - IDA | Qtd: 1.0 | R$ Unit: 2430.54
+  - Item 2: PASSAGEM AÉREA  - RETORNO | Qtd: 1.0 | R$ Unit: 1321.93
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 3752.47,
+  "orgaoEntidade": {
+    "cnpj": "83102459000123",
+    "razaoSocial": "MUNICIPIO DE JARAGUA DO SUL",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-07-04T08:28:51",
+  "dataInclusao": "2025-07-04T08:28:51",
+  "numeroControlePNCP": "83102459000123-1-001125/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 1125,
+  "emendaParlamentar": null,
+  "numeroCompra": "29723",
+  "processo": "29723",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "PASSAGEM AÉREA IDA E VOLTA PARA BRASÍLIA-DF, COMO SEGUE:\nIDA:  23/06/2025 LATAM VOO 4661 SAINDO DE JOINVILLE - SC ÀS 10:15 CHEGANDO EM SÃO PAULO-SP ÀS 11:25 - 23/06/2025 LATAM VOO 3265 SAINDO DE  SÃO PAULO - SP ÀS 12:25 CHEGANDO EM BRASÍLIA - DF ÀS 14:05 \nVOLTA:  26/06/2025 LATAM  VOO 3110 SAINDO DE BRASÍLIA-DF ÀS 08:40 CHEGANDO EM CURITIBA - PR ÀS 10:35\n\nPARA O DIRETOR DE CAPTAÇÃO DE RECURSOS, ESCRITÓRIO DE PROJETOS E PLANEJAMENTO ESTRATÉGICO, ANTONIO CARLOS DA LUZ CUMPRIR AGENDA DE COMPROMISSOS EM BRASÍLIA, JUNTO AOS MINISTÉRIOS DA FAZENDA, SAÚDE, TURISMO, CIDADES, SECRETARIA DO TESOURO NACIONAL, CONGRESSO NACIONAL E DEMAIS ÓRGÃOS DO GOVERNO FEDERAL PARA ACOMPANHAR PROCESSOS DE INTERESSE DO MUNICÍPIO.\n\nPROCESSO SEI 0101070000.000118/2025-32",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-07-04T08:28:51",
+  "dataAtualizacaoGlobal": "2025-07-04T08:46:50",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Jaraguá do Sul",
+    "codigoUnidade": "31408",
+    "nomeUnidade": "Prefeitura Municipal de Jaraguá do Sul",
+    "codigoIbge": "4208906"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas",
+  "valorTotalEstimado": 3752.47
+}

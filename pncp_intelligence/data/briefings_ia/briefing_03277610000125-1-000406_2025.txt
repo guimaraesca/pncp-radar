@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO DA DEFESA (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de software da solução Next Generation Firewall (NGFW) da fabricante Palo Alto  Networks, para proteção interna do HFA, incluindo licenciamento, suporte e garantia pelo período  deligências 36 (trinta e seis) meses e serviço de implantação, conforme condições, quantidades e  exigências estabelecidas neste Edital e seus anexos
+VALOR ESTIMADO: R$ 994.033,26
+PRAZO PARA PROPOSTAS: 2025-07-16T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=11240805900262025
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03277610000125/compras/2025/406/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Equipamento Segurança Rede | Qtd: 2.0 | R$ Unit: 497016.63
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "03277610000125",
+    "razaoSocial": "MINISTERIO DA DEFESA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 750000.0,
+  "dataInclusao": "2025-07-03T07:46:02",
+  "dataAtualizacao": "2025-07-03T07:46:02",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoUnidade": "112408",
+    "nomeUnidade": "HOSPITAL DAS FORCAS ARMADAS",
+    "codigoIbge": "5300108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=11240805900262025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 406,
+  "emendaParlamentar": null,
+  "numeroCompra": "90026",
+  "processo": "60550002645202549",
+  "objetoCompra": "Aquisição de software da solução Next Generation Firewall (NGFW) da fabricante Palo Alto  Networks, para proteção interna do HFA, incluindo licenciamento, suporte e garantia pelo período  deligências 36 (trinta e seis) meses e serviço de implantação, conforme condições, quantidades e  exigências estabelecidas neste Edital e seus anexos",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=11240805900262025",
+  "dataAberturaProposta": "2025-07-03T08:30:00",
+  "dataEncerramentoProposta": "2025-07-16T09:00:00",
+  "dataPublicacaoPncp": "2025-07-03T07:46:02",
+  "dataAtualizacaoGlobal": "2025-07-18T11:43:13",
+  "numeroControlePNCP": "03277610000125-1-000406/2025",
+  "valorTotalEstimado": 994033.26,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

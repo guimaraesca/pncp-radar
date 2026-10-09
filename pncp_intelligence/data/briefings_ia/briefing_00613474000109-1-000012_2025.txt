@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE NOVA RUSSAS - CAMARA MUNICIPAL (Nova Russas/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA ESPECIALIZADA VOLTADA PARA ADEQUAÇÃO E MONITORAMENTO QUANTO À APLICAÇÃO DA LEI GERAL DE PROTEÇÃO DE DADOS (LGPD), LEI FEDERAL 13.709/2018, JUNTO A CÂMARA MUNICIPAL DE NOVA RUSSAS-CE
+VALOR ESTIMADO: R$ 51.408,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/0d39ca7450634348923510dd206b79ec/prestacao-de-servicos-de-assessoria-e-consultoria
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00613474000109/compras/2025/12/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00613474000109/compras/2025/12/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00613474000109/compras/2025/12/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00613474000109/compras/2025/12/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA ESPECIALIZADA VOLTADA PARA ADEQUAÇÃO E MONITORAMENTO QUANTO À  | Qtd: 10.0 | R$ Unit: 5140.8
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00613474000109",
+    "razaoSocial": "MUNICIPIO DE NOVA RUSSAS - CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 50000.0,
+  "dataInclusao": "2025-03-20T17:08:44",
+  "dataAtualizacao": "2025-03-20T17:08:44",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 12,
+  "emendaParlamentar": null,
+  "numeroCompra": "DLE 012/2025-CMNR",
+  "processo": "0001320250210000106",
+  "objetoCompra": "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA ESPECIALIZADA VOLTADA PARA ADEQUAÇÃO E MONITORAMENTO QUANTO À APLICAÇÃO DA LEI GERAL DE PROTEÇÃO DE DADOS (LGPD), LEI FEDERAL 13.709/2018, JUNTO A CÂMARA MUNICIPAL DE NOVA RUSSAS-CE",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-20T17:08:44",
+  "dataAtualizacaoGlobal": "2025-03-20T17:08:56",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Nova Russas",
+    "codigoUnidade": "202599",
+    "nomeUnidade": "CÂMARA MUNICIPAL DE NOVA RUSSAS",
+    "codigoIbge": "2309300"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "00613474000109-1-000012/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/0d39ca7450634348923510dd206b79ec/prestacao-de-servicos-de-assessoria-e-consultoria",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 51408.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

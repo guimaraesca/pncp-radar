@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE DOIS VIZINHOS (Dois Vizinhos/PR)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para fornecimento de licença de sistema para controle de estacionamento, na modalidade de software como serviço mensal (SAAS – SOFTWARE AS A SERVICE).
+VALOR ESTIMADO: R$ 2.328.608,40
+PRAZO PARA PROPOSTAS: 2025-08-28T08:15:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98754103900112025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76205640000108/compras/2025/132/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como Servico - Saas | Qtd: 60.0 | R$ Unit: 3627.84
+  - Item 2: Software como Servico - Saas | Qtd: 60.0 | R$ Unit: 2059.05
+  - Item 3: Software como Servico - Saas | Qtd: 60.0 | R$ Unit: 3725.9
+  - Item 4: Software como Servico - Saas | Qtd: 60.0 | R$ Unit: 2647.35
+  - Item 5: Software como Servico - Saas | Qtd: 60.0 | R$ Unit: 3600.0
+  - Item 6: Software como Servico - Saas | Qtd: 60.0 | R$ Unit: 22800.0
+  - Item 7: Software como Servico - Saas | Qtd: 1.0 | R$ Unit: 21000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 1504600.2,
+  "orgaoEntidade": {
+    "cnpj": "76205640000108",
+    "razaoSocial": "MUNICIPIO DE DOIS VIZINHOS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-08T08:00:42",
+  "dataAtualizacao": "2025-07-08T08:00:42",
+  "numeroControlePNCP": "76205640000108-1-000132/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 132,
+  "emendaParlamentar": null,
+  "numeroCompra": "90011",
+  "processo": "732/2025",
+  "srp": false,
+  "objetoCompra": "Contratação de empresa para fornecimento de licença de sistema para controle de estacionamento, na modalidade de software como serviço mensal (SAAS – SOFTWARE AS A SERVICE).",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=98754103900112025",
+  "dataAberturaProposta": "2025-07-08T08:00:00",
+  "dataEncerramentoProposta": "2025-08-28T08:15:00",
+  "dataPublicacaoPncp": "2025-07-08T08:00:42",
+  "dataAtualizacaoGlobal": "2025-10-13T11:35:46",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Dois Vizinhos",
+    "codigoIbge": "4107207",
+    "codigoUnidade": "987541",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE DOIS VIZINHOS - PR"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98754103900112025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 2328608.4,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

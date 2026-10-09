@@ -1,0 +1,82 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: DEFENSORIA PUBLICA DO ESTADO DE SAO PAULO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços de assistência técnica, com fornecimento de peças e de consumíveis, abrangendo manutenção preventiva programada, manutenção corretiva, manutenção preditiva, monitoramento remoto de alarmes e suporte técnico 24x7x365, para equipamentos e instalações pertencentes ao ambiente físico seguro, solução Sala-Cofre (data center), localizada no edifício da Rua Boa Vista, nº 200, São Paulo/SP
+VALOR ESTIMADO: R$ 1.524.511,00
+PRAZO PARA PROPOSTAS: 2026-10-08T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=99003705000292026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08036157000189/compras/2026/197/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08036157000189/compras/2026/197/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08036157000189/compras/2026/197/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08036157000189/compras/2026/197/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08036157000189/compras/2026/197/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08036157000189/compras/2026/197/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Instalação / Manutenção / Montagem - Sala Cofre / Sala Tele-presença / VídeoConferência Instalação / Manutenção / Montag | Qtd: 1.0 | R$ Unit: 1524511.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "08036157000189",
+    "razaoSocial": "DEFENSORIA PUBLICA DO ESTADO DE SAO PAULO",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-23T11:25:46",
+  "dataAtualizacao": "2026-09-23T11:25:46",
+  "anoCompra": 2026,
+  "sequencialCompra": 197,
+  "emendaParlamentar": null,
+  "numeroCompra": "29",
+  "processo": "2025/0033034",
+  "objetoCompra": "Prestação de serviços de assistência técnica, com fornecimento de peças e de consumíveis, abrangendo manutenção preventiva programada, manutenção corretiva, manutenção preditiva, monitoramento remoto de alarmes e suporte técnico 24x7x365, para equipamentos e instalações pertencentes ao ambiente físico seguro, solução Sala-Cofre (data center), localizada no edifício da Rua Boa Vista, nº 200, São Paulo/SP",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-08T10:00:00",
+  "dataPublicacaoPncp": "2026-09-23T11:25:46",
+  "dataAtualizacaoGlobal": "2026-09-23T11:26:50",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoIbge": "3550308",
+    "codigoUnidade": "990037",
+    "nomeUnidade": "ESP-FED-CGA FUNDO DE ASSISTENCIA JUDICIARIA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=99003705000292026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "08036157000189-1-000197/2026",
+  "srp": false,
+  "valorTotalEstimado": 1524511.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T11:25:46"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,64 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE NOVO HAMBURGO (Novo Hamburgo/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: PREGÃO ELETRÔNICO PARA CONTRATAÇÃO DE CONSULTORIA TÉCNICA ESPECIALIZADA PARA O ARQUIVO GERAL DO MUNICÍPIO DE NOVO HAMBURGO.
+VALOR ESTIMADO: R$ 116.404,29
+PRAZO PARA PROPOSTAS: 2026-10-13T08:59:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/88254875000160-1-000466/2026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88254875000160/compras/2026/466/arquivos/1
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "88254875000160",
+    "razaoSocial": "MUNICIPIO DE NOVO HAMBURGO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-25T16:29:53",
+  "dataAtualizacao": "2026-09-25T16:29:53",
+  "anoCompra": 2026,
+  "sequencialCompra": 466,
+  "emendaParlamentar": null,
+  "numeroCompra": "PCE 105",
+  "processo": "551/2026",
+  "objetoCompra": "PREGÃO ELETRÔNICO PARA CONTRATAÇÃO DE CONSULTORIA TÉCNICA ESPECIALIZADA PARA O ARQUIVO GERAL DO MUNICÍPIO DE NOVO HAMBURGO.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-25T18:00:00",
+  "dataEncerramentoProposta": "2026-10-13T08:59:00",
+  "dataPublicacaoPncp": "2026-09-25T16:29:53",
+  "dataAtualizacaoGlobal": "2026-09-25T16:29:53",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Novo Hamburgo",
+    "codigoIbge": "4313409",
+    "codigoUnidade": "03002",
+    "nomeUnidade": "Diretoria de Gestão Documental"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "88254875000160-1-000466/2026",
+  "srp": false,
+  "valorTotalEstimado": 116404.29,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE PATY DO ALFERES (Paty do Alferes/RJ)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de pessoa jurídica visando à prestação de serviços de tecnologia da informação por meio de licenciamento e locação de sistemas integrados de gestão pública NATIVOS EM AMBIENTE WEB, sob o modelo de computação em nuvem, para atendimento das necessidades da Câmara Municipal, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.
+VALOR ESTIMADO: R$ 88.373,40
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/31845019000162-1-000024/2025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31845019000162/compras/2025/24/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa especializada visando o fornecimento, licenciamento e locação de sistema integrado de gestão públ | Qtd: 12.0 | R$ Unit: 7364.45
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 88373.4,
+  "orgaoEntidade": {
+    "cnpj": "31845019000162",
+    "razaoSocial": "CAMARA MUNICIPAL DE PATY DO ALFERES",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-08T16:11:04",
+  "dataAtualizacao": "2025-08-08T16:11:04",
+  "numeroControlePNCP": "31845019000162-1-000024/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 24,
+  "emendaParlamentar": null,
+  "numeroCompra": "DL 17",
+  "processo": "292/2025",
+  "srp": false,
+  "objetoCompra": "Contratação de pessoa jurídica visando à prestação de serviços de tecnologia da informação por meio de licenciamento e locação de sistemas integrados de gestão pública NATIVOS EM AMBIENTE WEB, sob o modelo de computação em nuvem, para atendimento das necessidades da Câmara Municipal, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-08T16:11:04",
+  "dataAtualizacaoGlobal": "2025-08-20T13:12:01",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Paty do Alferes",
+    "codigoIbge": "3303856",
+    "codigoUnidade": "423",
+    "nomeUnidade": "Câmara Municipalde Paty do Alferes - RJ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, VIII",
+    "descricao": "Dispensa de Licitação: nos casos de emergência ou de calamidade pública, quando caracterizada urgência de atendimento de situação que possa ocasionar prejuízo ou comprometer a continuidade dos serviços públicos ou a segurança de pessoas, obras, serviços, equipamentos e outros bens, públicos ou particulares, e somente para aquisição dos bens necessários ao atendimento da situação emergencial ou calamitosa e para as parcelas de obras e serviços que possam ser concluídas no prazo máximo de 1 (um) ano, contado da data de ocorrência da emergência ou da calamidade, vedadas a prorrogação dos respectivos contratos e a recontratação de empresa já contratada com base no disposto neste inciso",
+    "codigo": 38
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 88373.4,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas"
+}

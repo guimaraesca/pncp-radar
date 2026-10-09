@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SERVICO AUTONOMO DE AGUA E ESGOTO (Valença/BA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CURSO DE CAPACITAÇÃO PARA CIPISTAS COM CARGA HORÁRIA NÃO INFERIOR A 30H
+VALOR ESTIMADO: R$ 2.639,82
+PRAZO PARA PROPOSTAS: 2025-04-01T08:00:00
+LINK OFICIAL: https://bnccompras.com/Process/ProcessView?param1=[gkz]GhD9duYzGANuy445cEb3c7w05Gb3G9LDRipM1gz_uara4S14wiPka6kJijywgwPFGVrv0n98ygIcZldmdxKFzgjDGBS_t8jcXzEhVmLp6ts=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/16176067000111/compras/2025/21/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CAPACITAÇÃO 30 HS PARA CIPISTAS | Qtd: 1.0 | R$ Unit: 2639.82
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "16176067000111",
+    "razaoSocial": "SERVICO AUTONOMO DE AGUA E ESGOTO",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 2639.82,
+  "dataInclusao": "2025-03-25T08:57:36",
+  "dataAtualizacao": "2025-04-02T11:49:57",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 21,
+  "emendaParlamentar": null,
+  "numeroCompra": "009",
+  "processo": "0014/2025",
+  "objetoCompra": "CURSO DE CAPACITAÇÃO PARA CIPISTAS COM CARGA HORÁRIA NÃO INFERIOR A 30H",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-03-25T11:00:00",
+  "dataEncerramentoProposta": "2025-04-01T08:00:00",
+  "dataPublicacaoPncp": "2025-03-25T08:57:36",
+  "dataAtualizacaoGlobal": "2025-04-02T11:50:00",
+  "numeroControlePNCP": "16176067000111-1-000021/2025",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Valença",
+    "codigoUnidade": "218",
+    "nomeUnidade": "SERVICO AUT DE AGUA E ESGOTO DE VALENCA",
+    "codigoIbge": "2932903"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]GhD9duYzGANuy445cEb3c7w05Gb3G9LDRipM1gz_uara4S14wiPka6kJijywgwPFGVrv0n98ygIcZldmdxKFzgjDGBS_t8jcXzEhVmLp6ts=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "valorTotalEstimado": 2639.82,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC"
+}

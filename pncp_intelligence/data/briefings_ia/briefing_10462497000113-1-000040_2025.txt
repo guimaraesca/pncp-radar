@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE VICOSA DO CEARA (Viçosa do Ceará/CE)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE AÇÕES INTEGRADAS DE FORMAÇÃO DOCENTE, ACOMPANHAMENTO PEDAGÓGICO IN LOCO, E DESENVOLVIMENTO DE PROGRAMA PREPARATÓRIO PARA O ENEM, COM BASE NAS DIRETRIZES DA BASE NACIONAL COMUM CURRICULAR (BNCC) E USO DE RECURSOS TECNOLÓGICOS EDUCACIONAIS
+VALOR ESTIMADO: R$ 417.669,92
+PRAZO PARA PROPOSTAS: 2025-05-12T08:25:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/10462497000113-1-000040/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10462497000113/compras/2025/40/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ACOMPANHAMENTO IN LOCO – visitas mensais às escolas por equipe especializada com a finalidade de orientar os professores | Qtd: 400.0 | R$ Unit: 534.0
+  - Item 2: CAPACITAÇÃO DIDÁTICO-PEDAGÓGICA – capacitação didático-pedagógica para os professores de Língua Portuguesa e Matemática, | Qtd: 96.0 | R$ Unit: 1037.67
+  - Item 3: PROJETO CONEXÃO ENEM – Cursinho preparatório para o Enem 2025 com metodologias ativas e professores especialistas nas Ma | Qtd: 80.0 | R$ Unit: 1305.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "10462497000113",
+    "razaoSocial": "MUNICIPIO DE VICOSA DO CEARA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-04-25T15:57:47",
+  "dataAtualizacao": "2025-04-25T15:57:47",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Viçosa do Ceará",
+    "codigoUnidade": "1952",
+    "nomeUnidade": "Pref Viçosa do Ceará",
+    "codigoIbge": "2314102"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 40,
+  "emendaParlamentar": null,
+  "numeroCompra": "CE02/2025-SEDUC",
+  "processo": "CE02/2025-SEDUC",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE AÇÕES INTEGRADAS DE FORMAÇÃO DOCENTE, ACOMPANHAMENTO PEDAGÓGICO IN LOCO, E DESENVOLVIMENTO DE PROGRAMA PREPARATÓRIO PARA O ENEM, COM BASE NAS DIRETRIZES DA BASE NACIONAL COMUM CURRICULAR (BNCC) E USO DE RECURSOS TECNOLÓGICOS EDUCACIONAIS",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-25T16:30:00",
+  "dataEncerramentoProposta": "2025-05-12T08:25:00",
+  "dataPublicacaoPncp": "2025-04-25T15:57:47",
+  "dataAtualizacaoGlobal": "2025-04-25T15:57:49",
+  "numeroControlePNCP": "10462497000113-1-000040/2025",
+  "valorTotalEstimado": 417669.92,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações"
+}

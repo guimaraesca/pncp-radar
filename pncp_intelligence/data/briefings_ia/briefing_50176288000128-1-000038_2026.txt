@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SAO PAULO CAMARA MUNICIPAL (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de licenças por assinatura para direito de uso dos softwares Microsoft Exchange Online e Microsoft Office 365 no modelo SaaS (software como serviço) pelo período de 36 (trinta e seis) meses, conforme especificações constantes deste Termo de Referência, conforme descrições, condições e quantidades constantes do Anexo I - Termo de Referência - Especificações Técnicas, parte integrante do Edital.
+VALOR ESTIMADO: R$ 0.00
+PRAZO PARA PROPOSTAS: 2026-10-14T11:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92510905000322026
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

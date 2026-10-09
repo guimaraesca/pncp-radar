@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DA FAZENDA E PLANEJAMENTO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de Serviços de suporte técnico, manutenção e atualização da solução de proteção de servidores (antivírus)
+VALOR ESTIMADO: R$ 2,747,999.59
+PRAZO PARA PROPOSTAS: 2026-10-13T08:59:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93301105004002026
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL DE JUSTICA DO ESTADO DE RORAIMA (Boa Vista/RR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Formação de registro de preços para eventual contratação de solução de infraestrutura computacional com armazenamento distribuído por software, incluindo recursos de processamento, memória e virtualização, bem como serviços de implantação, migração de dados, suporte técnico especializado e garantia de hardware, destinada à modernização do Site de Recuperação de Desastres (Site DR) do Tribunal de Justiça de Roraima, conforme Termo de Referência - Anexo I do Edital.
+VALOR ESTIMADO: R$ 26.310.910,94
+PRAZO PARA PROPOSTAS: 2026-10-15T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92548005000172026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/34812669000108/compras/2026/80/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/34812669000108/compras/2026/80/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/34812669000108/compras/2026/80/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/34812669000108/compras/2026/80/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/34812669000108/compras/2026/80/arquivos/5
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "34812669000108",
+    "razaoSocial": "TRIBUNAL DE JUSTICA DO ESTADO DE RORAIMA",
+    "poderId": "J",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-25T12:13:26",
+  "dataAtualizacao": "2026-09-25T12:13:26",
+  "numeroControlePNCP": "34812669000108-1-000080/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 80,
+  "emendaParlamentar": null,
+  "numeroCompra": "17",
+  "processo": "0004872-93.2026.8.23.8000",
+  "srp": true,
+  "objetoCompra": "Formação de registro de preços para eventual contratação de solução de infraestrutura computacional com armazenamento distribuído por software, incluindo recursos de processamento, memória e virtualização, bem como serviços de implantação, migração de dados, suporte técnico especializado e garantia de hardware, destinada à modernização do Site de Recuperação de Desastres (Site DR) do Tribunal de Justiça de Roraima, conforme Termo de Referência - Anexo I do Edital.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-28T08:00:00",
+  "dataEncerramentoProposta": "2026-10-15T10:00:00",
+  "dataPublicacaoPncp": "2026-09-25T12:13:26",
+  "dataAtualizacaoGlobal": "2026-09-25T12:14:58",
+  "unidadeOrgao": {
+    "ufNome": "Roraima",
+    "ufSigla": "RR",
+    "municipioNome": "Boa Vista",
+    "codigoIbge": "1400100",
+    "codigoUnidade": "925480",
+    "nomeUnidade": "TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92548005000172026",
+  "linkProcessoEletronico": "https://tamandua.tjrr.jus.br/tamandua/pages/licitacao.xhtml?wmode=transparent",
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 26310910.94,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-25T12:13:27"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

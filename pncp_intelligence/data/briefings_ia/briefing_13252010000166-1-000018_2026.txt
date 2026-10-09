@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE AMARGOZA (Amargosa/BA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: contratação de empresa especializada para a reestruturação da infraestrutura de rede lógica corporativa, aquisição de servidor corporativo para armazenamento de dados e implantação de sistema de segurança eletrônica (CFTV) do edifício-sede da Câmara Municipal de Amargosa, Bahia, executada em 3 (três) etapas contratuais distintas, conforme as especificações, quantitativos, condições e exigências estabelecidas neste Edital e em seus anexos.
+VALOR ESTIMADO: R$ 273.448,26
+PRAZO PARA PROPOSTAS: 2026-10-06T12:00:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]i9X/DNdOUd7a6/eCBxJA7JXXT6xi/oN4qtvVo/eEKgHth1j6Pjqr6l/n47XvPbWC5oy_EoOB5okbT5Rc8EBO/BSbx7eGqhJPV0EsPN1kOzk=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13252010000166/compras/2026/18/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa especializada para a reestruturação da infraestrutura de rede lógica corporativa, aquisição de se | Qtd: 1.0 | R$ Unit: 273448.26
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "13252010000166",
+    "razaoSocial": "CAMARA MUNICIPAL DE AMARGOZA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-21T15:51:58",
+  "dataAtualizacao": "2026-09-21T15:51:58",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 18,
+  "emendaParlamentar": null,
+  "numeroCompra": "01",
+  "processo": "34/2026",
+  "objetoCompra": "contratação de empresa especializada para a reestruturação da infraestrutura de rede lógica corporativa, aquisição de servidor corporativo para armazenamento de dados e implantação de sistema de segurança eletrônica (CFTV) do edifício-sede da Câmara Municipal de Amargosa, Bahia, executada em 3 (três) etapas contratuais distintas, conforme as especificações, quantitativos, condições e exigências estabelecidas neste Edital e em seus anexos.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-21T15:05:00",
+  "dataEncerramentoProposta": "2026-10-06T12:00:00",
+  "dataPublicacaoPncp": "2026-09-21T15:51:58",
+  "dataAtualizacaoGlobal": "2026-09-21T15:51:58",
+  "numeroControlePNCP": "13252010000166-1-000018/2026",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Amargosa",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Câmara Municipal de Amargosa",
+    "codigoIbge": "2901007"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]i9X/DNdOUd7a6/eCBxJA7JXXT6xi/oN4qtvVo/eEKgHth1j6Pjqr6l/n47XvPbWC5oy_EoOB5okbT5Rc8EBO/BSbx7eGqhJPV0EsPN1kOzk=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 273448.26,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

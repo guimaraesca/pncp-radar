@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL (Campo Grande/MS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de solução de segurança de firewall de rede (Next Generation Firewall - NGFW) em cluster. As aquisições contemplam hardware, software de gerenciamento, licenciamento, implantação, configuração, treinamento e atualizações para garantir a Segurança da Informação no ambiente da UFMS,via Sistema de Registro de Preços (SRP).
+VALOR ESTIMADO: R$ 4.006.898,80
+PRAZO PARA PROPOSTAS: 2025-05-09T14:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=15405405900052025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/15461510000133/compras/2025/20/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Firewall | Qtd: 2.0 | R$ Unit: 1032110.0
+  - Item 2: Firewall | Qtd: 10.0 | R$ Unit: 102855.06
+  - Item 3: Serviços de Gerenciamento de Infraestrutura de Tecnologia daInformação e Comunicação (TIC) | Qtd: 1.0 | R$ Unit: 335854.9
+  - Item 4: Serviços de Instalação de Computadores e seus Periféricos | Qtd: 2.0 | R$ Unit: 35000.0
+  - Item 5: Serviços de Instalação de Computadores e seus Periféricos | Qtd: 2.0 | R$ Unit: 67500.0
+  - Item 6: Serviços de Instalação de Computadores e seus Periféricos | Qtd: 10.0 | R$ Unit: 15350.33
+  - Item 7: Treinamento Informática - Sistema / Software | Qtd: 5.0 | R$ Unit: 20242.0
+  - Item 8: Transceiver | Qtd: 16.0 | R$ Unit: 7410.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 1390358.0,
+  "orgaoEntidade": {
+    "cnpj": "15461510000133",
+    "razaoSocial": "FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2025-04-22T07:18:03",
+  "dataAtualizacao": "2025-04-28T08:17:03",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 20,
+  "emendaParlamentar": null,
+  "numeroCompra": "90005",
+  "processo": "23104003348202391",
+  "objetoCompra": "Contratação de solução de segurança de firewall de rede (Next Generation Firewall - NGFW) em cluster. As aquisições contemplam hardware, software de gerenciamento, licenciamento, implantação, configuração, treinamento e atualizações para garantir a Segurança da Informação no ambiente da UFMS,via Sistema de Registro de Preços (SRP).",
+  "informacaoComplementar": "Em caso de divergência na descrição do item prevalecerá a contida no edital e/ou na descrição complementar. Esclarecimentos e impugnações via e-mail: pregao.proadi@ufms.br. Demais informações e edital também podem ser obtidos no endereço: https://proadi.ufms.br/licitacoes/ Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=15405405900052025",
+  "dataAberturaProposta": "2025-04-22T09:00:00",
+  "dataEncerramentoProposta": "2025-05-09T14:30:00",
+  "dataPublicacaoPncp": "2025-04-22T07:18:03",
+  "dataAtualizacaoGlobal": "2025-05-31T23:24:18",
+  "unidadeOrgao": {
+    "ufNome": "Mato Grosso do Sul",
+    "ufSigla": "MS",
+    "municipioNome": "Campo Grande",
+    "codigoUnidade": "154054",
+    "nomeUnidade": "FUNDACAO UNIVERS.FEDERAL/MS",
+    "codigoIbge": "5002704"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=15405405900052025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "15461510000133-1-000020/2025",
+  "valorTotalEstimado": 4006898.8,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

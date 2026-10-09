@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ITAPURANGA (Itapuranga/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO PARA PRESTAÇÃO DE SERVIÇOS PARA REALIZAÇÃO DE CAPACITAÇÃO DE SERVIDORES E INTEGRANTES DA REDE DE APOIO SOCIOASSISTENCIAL DO MUNICÍPIO DE ITAPURANGA – GO
+VALOR ESTIMADO: R$ 52.103,33
+PRAZO PARA PROPOSTAS: 2025-03-27T23:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/01146604000103-1-000046/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01146604000103/compras/2025/46/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01146604000103/compras/2025/46/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01146604000103/compras/2025/46/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01146604000103/compras/2025/46/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01146604000103/compras/2025/46/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01146604000103/compras/2025/46/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01146604000103/compras/2025/46/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01146604000103/compras/2025/46/arquivos/8
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CAPACITAÇÃO DE SERVIDORES E INTEGRANTES DA REDE DE APOIO SOCIOASSISTENCIAL DO MUNICÍPIO DE ITAPURANGA – GO | Qtd: 7.0 | R$ Unit: 7443.3333
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01146604000103",
+    "razaoSocial": "MUNICIPIO DE ITAPURANGA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 48860.0,
+  "dataInclusao": "2025-03-24T09:55:55",
+  "dataAtualizacao": "2025-03-24T09:55:55",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Itapuranga",
+    "codigoUnidade": "8",
+    "nomeUnidade": "FMAS - FUNDO MUNIC. ASSISTENCIA SOCIAL",
+    "codigoIbge": "5211206"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 46,
+  "emendaParlamentar": null,
+  "numeroCompra": "4078",
+  "processo": "4078",
+  "objetoCompra": "CONTRATAÇÃO PARA PRESTAÇÃO DE SERVIÇOS PARA REALIZAÇÃO DE CAPACITAÇÃO DE SERVIDORES E INTEGRANTES DA REDE DE APOIO SOCIOASSISTENCIAL DO MUNICÍPIO DE ITAPURANGA – GO",
+  "informacaoComplementar": "CONTRATAÇÃO PARA PRESTAÇÃO DE SERVIÇOS PARA REALIZAÇÃO DE CAPACITAÇÃO DE SERVIDORES E INTEGRANTES DA REDE DE APOIO SOCIOASSISTENCIAL DO MUNICÍPIO DE ITAPURANGA – GO",
+  "dataAberturaProposta": "2025-03-20T09:50:13",
+  "dataEncerramentoProposta": "2025-03-27T23:59:59",
+  "dataPublicacaoPncp": "2025-03-24T09:55:55",
+  "dataAtualizacaoGlobal": "2025-04-03T15:57:18",
+  "numeroControlePNCP": "01146604000103-1-000046/2025",
+  "valorTotalEstimado": 52103.33,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CENTI"
+}

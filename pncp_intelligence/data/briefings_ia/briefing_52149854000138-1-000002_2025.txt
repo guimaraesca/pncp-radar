@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SAAE - SERVICO AUTONOMO DE AGUA E ESGOTO (Goianira/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para aquisição de sistema automatizado de atendimento com inteligencia artificial, incluindo a configuração de infraestrutura em VPS, instalação de ferramentas open source para atender a SAAE
+VALOR ESTIMADO: R$ 30.766,24
+PRAZO PARA PROPOSTAS: 2025-08-07T17:00:00
+LINK OFICIAL: ENVIAR COTAÇÃO PARA EMAIL: compras@goianira.go.gov.br
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Até 50 km)
+SELO LOGÍSTICO: [BASE: GOIÂNIA | Goianira/GO (30km)]
+DISTÂNCIA ESTIMADA DA BASE: 30 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/52149854000138/compras/2025/2/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/52149854000138/compras/2025/2/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/52149854000138/compras/2025/2/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/52149854000138/compras/2025/2/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/52149854000138/compras/2025/2/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/52149854000138/compras/2025/2/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Aquisição de sistema automatizado de atendimento com inteligência artificial, incluindo a configuração de infraestrutura | Qtd: 1.0 | R$ Unit: 30766.24
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "52149854000138",
+    "razaoSocial": "SAAE - SERVICO AUTONOMO DE AGUA E ESGOTO",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-08-04T16:51:11",
+  "dataInclusao": "2025-08-04T16:51:11",
+  "numeroControlePNCP": "52149854000138-1-000002/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 2,
+  "emendaParlamentar": null,
+  "numeroCompra": "16",
+  "processo": "6565",
+  "dataEncerramentoProposta": "2025-08-07T17:00:00",
+  "objetoCompra": "Contratação de empresa especializada para aquisição de sistema automatizado de atendimento com inteligencia artificial, incluindo a configuração de infraestrutura em VPS, instalação de ferramentas open source para atender a SAAE",
+  "informacaoComplementar": "ENVIAR COTAÇÃO PARA EMAIL: compras@goianira.go.gov.br",
+  "dataAberturaProposta": "2025-08-04T16:50:00",
+  "dataPublicacaoPncp": "2025-08-04T16:51:11",
+  "dataAtualizacaoGlobal": "2025-08-04T16:51:32",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Goianira",
+    "codigoUnidade": "22",
+    "nomeUnidade": "SAAE - SERVIÇO AUTONOMO DE AGUA E ESGOTO",
+    "codigoIbge": "5208806"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "ENVIAR COTAÇÃO PARA EMAIL: compras@goianira.go.gov.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Contratação de empresa especializada para aquisição de sistema automatizado de atendimento com inteligencia artificial, incluindo a configuração de infraestrutura em VPS, instalação de ferramentas open source para atender a SAAE",
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Sigep - Sistemas Integrados",
+  "valorTotalEstimado": 30766.24
+}

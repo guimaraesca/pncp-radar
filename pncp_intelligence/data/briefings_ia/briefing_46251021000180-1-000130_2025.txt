@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SERVICO AUTONOMO DE AGUA E ESGOTOS (Indaiatuba/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Hospedagem dos sites do saae.sp.gov.br e museudaagua.sp.gov.br com os devidos emails e backup diário de todo o conteúdo em horário programado para Storage DataCenter externo com servidor exclusivo.
+VALOR ESTIMADO: R$ 5.052,24
+PRAZO PARA PROPOSTAS: 2025-03-28T17:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/46251021000180-1-000130/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas (Até 50 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | Indaiatuba/SP (28km)]
+DISTÂNCIA ESTIMADA DA BASE: 28 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46251021000180/compras/2025/130/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de Hospedagem; Domínios: Hospedagem para dois domínios principais, com suporte ilimitado para subdomínios, perm | Qtd: 1.0 | R$ Unit: 5052.24
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "46251021000180",
+    "razaoSocial": "SERVICO AUTONOMO DE AGUA E ESGOTOS",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 3780.96,
+  "dataInclusao": "2025-03-25T08:53:47",
+  "dataAtualizacao": "2025-03-25T08:53:47",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Indaiatuba",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Departamento de Licitações e Contratos",
+    "codigoIbge": "3520509"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 130,
+  "emendaParlamentar": null,
+  "numeroCompra": "Requisição 946/2025 | Cotação 126",
+  "processo": "Cotação 126",
+  "objetoCompra": "Hospedagem dos sites do saae.sp.gov.br e museudaagua.sp.gov.br com os devidos emails e backup diário de todo o conteúdo em horário programado para Storage DataCenter externo com servidor exclusivo.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-03-26T08:00:00",
+  "dataEncerramentoProposta": "2025-03-28T17:00:00",
+  "dataPublicacaoPncp": "2025-03-25T08:53:47",
+  "dataAtualizacaoGlobal": "2025-05-05T11:47:48",
+  "numeroControlePNCP": "46251021000180-1-000130/2025",
+  "valorTotalEstimado": 5052.24,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Saae Serviço Autônomo de Água e Esgotos de Indaiatuba / Saae Indaiatuba"
+}

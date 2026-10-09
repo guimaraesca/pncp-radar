@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RIO GRANDE DA SERRA (Rio Grande da Serra/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento de solução de sistemas de gestão pública municipal, na modalidade Software como Serviço (SaaS), incluindo licenciamento, hospedagem em nuvem, implantação, migração de dados, treinamentos, manutenção, suporte técnico e atualizações legais e tecnológicas.
+VALOR ESTIMADO: R$ 2,350,798.64
+PRAZO PARA PROPOSTAS: 2026-10-13T10:00:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SP]
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

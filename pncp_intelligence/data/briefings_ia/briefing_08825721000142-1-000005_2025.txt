@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRACUNHAEM CAMARA DOS VEREADORES (Tracunhaém/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: contratação de empresa especializada para prestação de serviços de assessoria e consultoria técnica, nas áreas administrativa e de tecnologia da informação e comunicação, relacionados ao gerenciamento eletrônico dos atos em plenário via sistema informatiz
+VALOR ESTIMADO: R$ 24.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]Pi4kt8vZUAtfAbbMBkfS1rai93IYkym2MxvuPzGePfjuWChckMGmCpDy2x9U6mBN/wXxp4y26AbpbVk7ZsiutXCT/8fswUX7/CrzhUSH_Yw=
+BASE LOGÍSTICA COMPATÍVEL: Recife (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PE]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08825721000142/compras/2025/5/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: contratação de empresa especializada para prestação de serviços de assessoria e consultoria técnica, nas áreas administr | Qtd: 12.0 | R$ Unit: 2000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 24000.0,
+  "orgaoEntidade": {
+    "cnpj": "08825721000142",
+    "razaoSocial": "TRACUNHAEM CAMARA DOS VEREADORES",
+    "esferaId": "M",
+    "poderId": "L"
+  },
+  "dataInclusao": "2025-03-21T20:34:42",
+  "dataAtualizacao": "2025-03-21T20:34:42",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-21T20:34:42",
+  "dataAtualizacaoGlobal": "2025-03-21T20:34:48",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Tracunhaém",
+    "codigoIbge": "2615508",
+    "codigoUnidade": "931767",
+    "nomeUnidade": "MPE-CÂMARA MUNICIPAL DE TRACUNHAEM"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]Pi4kt8vZUAtfAbbMBkfS1rai93IYkym2MxvuPzGePfjuWChckMGmCpDy2x9U6mBN/wXxp4y26AbpbVk7ZsiutXCT/8fswUX7/CrzhUSH_Yw=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 5,
+  "emendaParlamentar": null,
+  "numeroCompra": "003",
+  "processo": "005/2025",
+  "objetoCompra": "contratação de empresa especializada para prestação de serviços de assessoria e consultoria técnica, nas áreas administrativa e de tecnologia da informação e comunicação, relacionados ao gerenciamento eletrônico dos atos em plenário via sistema informatiz",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "08825721000142-1-000005/2025",
+  "valorTotalEstimado": 24000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESCOLA DE CONTAS PUBLICAS PROFESSOR BARRETO GUIMARAES (Recife/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: PC24/2025_Dispensa07/2025-Contratação dos serviços de consultoria especializada em Planejamento Estratégico de Comunicação.
+VALOR ESTIMADO: R$ 50.000,00
+PRAZO PARA PROPOSTAS: 2025-08-05T12:12:35
+LINK OFICIAL: www.peintegrado.pe.gov.br/Portal/Pages/DispensaLicitacoes.aspx?ncdmodulo=19&sdsprocesso=3961.2025.CCD.DL.0007.EPBG&nCdProcesso=155611&nCdSituacao=8
+BASE LOGÍSTICA COMPATÍVEL: Recife (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: RECIFE/PE]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02770511000118/compras/2025/26/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: (6047823) - SERVICO DE CONSULTORIA NA AREA ADMINISTRATIVA - PARA AREA DE COMUNICACAO INSTITUCIONAL, COM VISTA A DIAGNOST | Qtd: 80.0 | R$ Unit: 625.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "02770511000118",
+    "razaoSocial": "ESCOLA DE CONTAS PUBLICAS PROFESSOR BARRETO GUIMARAES",
+    "poderId": "L",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 50000.0,
+  "dataInclusao": "2025-08-08T15:25:29",
+  "dataAtualizacao": "2025-08-08T15:25:29",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 26,
+  "emendaParlamentar": null,
+  "numeroCompra": "3961",
+  "processo": "3961.2025.CCD.DL.0007.EPBG",
+  "objetoCompra": "PC24/2025_Dispensa07/2025-Contratação dos serviços de consultoria especializada em Planejamento Estratégico de Comunicação.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-08-05T12:11:35",
+  "dataEncerramentoProposta": "2025-08-05T12:12:35",
+  "dataPublicacaoPncp": "2025-08-08T15:25:29",
+  "dataAtualizacaoGlobal": "2025-08-08T15:25:55",
+  "numeroControlePNCP": "02770511000118-1-000026/2025",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Recife",
+    "codigoUnidade": "8096",
+    "nomeUnidade": "[P]-ESCOLA DE CONTAS PÚBLICAS PROFESSOR BARRETO GU",
+    "codigoIbge": "2611606"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "www.peintegrado.pe.gov.br/Portal/Pages/DispensaLicitacoes.aspx?ncdmodulo=19&sdsprocesso=3961.2025.CCD.DL.0007.EPBG&nCdProcesso=155611&nCdSituacao=8",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "valorTotalEstimado": 50000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria de Administração do Estado de Pernambuco"
+}

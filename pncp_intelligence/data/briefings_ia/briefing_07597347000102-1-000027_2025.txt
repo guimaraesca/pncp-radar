@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTANA DO CARIRI (Santana do Cariri/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA PARA REALIZAR PROJETO DE EDUCAÇÃO CIENTÍFICA, TECNOLÓGICA E DIGITAL COM PENSAMENTO COMPUTACIONAL E ROBÓTICA EDUCACIONAL COM BASE NA BNCC, ATRAVÉS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DE SANTANA DO CARIRI/Ce
+VALOR ESTIMADO: R$ 735.238,74
+PRAZO PARA PROPOSTAS: 2025-05-21T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98154305900482025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07597347000102/compras/2025/27/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Classificação de produto ( material ) | Qtd: 400.0 | R$ Unit: 324.3
+  - Item 2: Classificação de produto ( material ) | Qtd: 10.0 | R$ Unit: 324.3
+  - Item 3: Classificação de produto ( material ) | Qtd: 400.0 | R$ Unit: 356.91
+  - Item 4: Classificação de produto ( material ) | Qtd: 10.0 | R$ Unit: 357.57
+  - Item 5: Classificação de produto ( material ) | Qtd: 100.0 | R$ Unit: 2838.35
+  - Item 6: Classificação de produto ( material ) | Qtd: 12.0 | R$ Unit: 389.53
+  - Item 7: Classificação de produto ( material ) | Qtd: 50.0 | R$ Unit: 3016.0
+  - Item 8: Classificação de produto ( material ) | Qtd: 4.0 | R$ Unit: 4156.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 724065.0,
+  "orgaoEntidade": {
+    "cnpj": "07597347000102",
+    "razaoSocial": "MUNICIPIO DE SANTANA DO CARIRI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-07T07:35:43",
+  "dataAtualizacao": "2025-05-07T07:35:43",
+  "numeroControlePNCP": "07597347000102-1-000027/2025",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 27,
+  "emendaParlamentar": null,
+  "numeroCompra": "90048",
+  "processo": "30.04.2025.01-SRP",
+  "objetoCompra": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA PARA REALIZAR PROJETO DE EDUCAÇÃO CIENTÍFICA, TECNOLÓGICA E DIGITAL COM PENSAMENTO COMPUTACIONAL E ROBÓTICA EDUCACIONAL COM BASE NA BNCC, ATRAVÉS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DE SANTANA DO CARIRI/Ce",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=98154305900482025",
+  "dataAberturaProposta": "2025-05-07T08:00:00",
+  "dataEncerramentoProposta": "2025-05-21T09:00:00",
+  "dataPublicacaoPncp": "2025-05-07T07:35:43",
+  "dataAtualizacaoGlobal": "2025-06-04T12:12:37",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Santana do Cariri",
+    "codigoIbge": "2312106",
+    "codigoUnidade": "981543",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SANTANA DO CARIRI-CE"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98154305900482025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 735238.74,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

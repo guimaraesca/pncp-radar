@@ -1,0 +1,19 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: EMPRESA MATO-GROSSENSE DE TECNOLOGIA DA INFORMAÇÃO  (Cuiabá/MT)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de pessoa jurídica para fornecimento de serviços especializados em
+tecnologia da informação e comunicação (TIC) na área de service desk e suporte técnico
+de atendimento na MTI de nível 1, nível 2 compreendendo a utilizando das melhores
+práticas do ITIL, o atendimento presencial e remoto, para a criação de uma Central
+Integrada de Serviços e Central de Atendimento ao Usuário Digital única destinada ao
+atendimento direto ao cidadão e dos órgãos e entidades do Estado de Mato Grosso, com
+a utilização da ferramenta ITSM disponibilizada pela Empresa Mato-Grossense de
+Tecnologia da Informação do Estado de Mato Grosso - MTI, em obediência ao Decreto
+n.º 546, de 26 de outubro de 2023.
+
+VALOR ESTIMADO: R$ 0.00
+PRAZO PARA PROPOSTAS: 2026-10-22T09:45:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [FORA DAS BASES]
+BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

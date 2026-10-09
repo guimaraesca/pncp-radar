@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SERAFINA CORREA (Serafina Corrêa/RS)
+MODALIDADE: Credenciamento
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE LEILOEIRO
+VALOR ESTIMADO: R$ 0,01
+PRAZO PARA PROPOSTAS: 2025-06-30T23:59:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/88597984000180-1-000015/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88597984000180/compras/2025/15/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTAÇÃO DE SERVIÇO DE LEILOEIRO | Qtd: 1.0 | R$ Unit: 0.01
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "88597984000180",
+    "razaoSocial": "MUNICIPIO DE SERAFINA CORREA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-06-27T16:29:29",
+  "dataAtualizacao": "2025-06-27T16:29:29",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 15,
+  "emendaParlamentar": null,
+  "numeroCompra": "6",
+  "processo": "6",
+  "objetoCompra": "CONTRATAÇÃO DE LEILOEIRO",
+  "informacaoComplementar": "Credenciamento de profissionais do tipo leiloeiros oficiais para gestão integrada e assessoria técnica especializada na preparação, apoio logístico, avaliação e alienação de bens móveis e/ou imóveis inservíveis de propriedade do Município de Serafina Corrêa, RS.",
+  "dataAberturaProposta": "2025-06-30T00:01:00",
+  "dataEncerramentoProposta": "2025-06-30T23:59:00",
+  "dataPublicacaoPncp": "2025-06-27T16:29:29",
+  "dataAtualizacaoGlobal": "2025-06-27T16:29:33",
+  "numeroControlePNCP": "88597984000180-1-000015/2025",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Serafina Corrêa",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Município de Serafina Corrêa",
+    "codigoIbge": "4320404"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 79, I",
+    "descricao": "Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+    "codigo": 140
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 4,
+  "valorTotalEstimado": 0.01,
+  "modalidadeId": 12,
+  "modalidadeNome": "Credenciamento",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software"
+}

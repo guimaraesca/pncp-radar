@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PILAR DO SUL (Pilar do Sul/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇO DE IMPRESSÃO, MONTAGEM E ACABAMENTO DE "CADERNOS DE PROVA DA AVALIAÇÃO FORMATIVA DE PROFICIÊNCIA DA CNCA
+VALOR ESTIMADO: R$ 16.380,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://www.pilardosul.sp.gov.br/licitacao/detalhe/1270/pregistro-de-precos-para-execucao-de-servicos-de-sistemas-de-drenagem-superficial-em-avenidas-ruas-travessas-e-alamedas-executadas-em-vias-publicas-pertencentes-a-municipalidadep/
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46634473000141/compras/2025/40/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46634473000141/compras/2025/40/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46634473000141/compras/2025/40/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46634473000141/compras/2025/40/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46634473000141/compras/2025/40/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: IMPRESSÃO, MONTAGEM E ACABAMENTO DE ''CADERNOS DE PROVA DA 
+AVALIAÇÃO FORMATIVA DE PROFICIÊNCIA DA CNCA” SEGUINDO AS 
+QU | Qtd: 1.0 | R$ Unit: 16380.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "46634473000141",
+    "razaoSocial": "MUNICIPIO DE PILAR DO SUL",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-24T08:19:09",
+  "dataAtualizacao": "2025-03-24T08:19:09",
+  "numeroControlePNCP": "46634473000141-1-000040/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 40,
+  "emendaParlamentar": null,
+  "numeroCompra": "36",
+  "processo": "36",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇO DE IMPRESSÃO, MONTAGEM E ACABAMENTO DE \"CADERNOS DE PROVA DA AVALIAÇÃO FORMATIVA DE PROFICIÊNCIA DA CNCA",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-24T08:19:09",
+  "dataAtualizacaoGlobal": "2025-04-22T07:48:51",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Pilar do Sul",
+    "codigoIbge": "3537909",
+    "codigoUnidade": "1",
+    "nomeUnidade": "MUNICÍPIO DE PILAR DO SUL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://www.pilardosul.sp.gov.br/licitacao/detalhe/1270/pregistro-de-precos-para-execucao-de-servicos-de-sistemas-de-drenagem-superficial-em-avenidas-ruas-travessas-e-alamedas-executadas-em-vias-publicas-pertencentes-a-municipalidadep/",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 16380.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software"
+}

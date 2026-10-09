@@ -1,0 +1,82 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ITAPEMA (Itapema/SC)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para implementação de solução de geoprocessamento e monitoramento territorial em ambiente web (SaaS), com hospedagem em nuvem, suporte técnico, manutenção contínua e integração com o sistema de gestão tributária e demais áreas da Administração Pública Municipal de Itapema, conforme especificações e quantitativos constantes do Anexo I (Termo de Referência) e demais determinações descritas neste Edital.
+VALOR ESTIMADO: R$ 2.624.052,74
+PRAZO PARA PROPOSTAS: 2025-07-04T13:00:00
+LINK OFICIAL: app2.licitardigital.com.br/pesquisa/67311
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82572207000103/compras/2025/54/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82572207000103/compras/2025/54/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82572207000103/compras/2025/54/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82572207000103/compras/2025/54/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82572207000103/compras/2025/54/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ADEQUAÇÃO, IMPLANTAÇÃO DE BASE DE DADOS CONFORME TERMO DE REFERÊNCIA | Qtd: 1.0 | R$ Unit: 66666.67
+  - Item 2: SOLUÇÃO SAAS DE GEOPROCESSAMENTO E MONITORAMENTO TERRITORIAL, CONFORME TERMO DE REFERÊNCIA | Qtd: 12.0 | R$ Unit: 67333.33
+  - Item 3: LEVANTAMENTO CADASTRAL, CONFORME TERMO DE REFERÊNCIA | Qtd: 3500.0 | R$ Unit: 103.33
+  - Item 4: ELABORAÇÃO DA PLANTA GENÉRICA DE VALORES (PGV), CONFORME TERMO DE REFERÊNCIA | Qtd: 1.0 | R$ Unit: 291666.67
+  - Item 5: TREINAMENTO PARA A IMPLANTAÇÃO DOS MÓDULOS DO SISTEMA. | Qtd: 80.0 | R$ Unit: 338.33
+  - Item 6: SERVIÇO TÉCNICO, CONFORME TERMO DE REFERÊNCIA. | Qtd: 500.0 | R$ Unit: 338.33
+  - Item 7: SERVIÇO DE SUPORTE TÉCNICO, CONFORME TERMO DE REFERÊNCIA | Qtd: 12.0 | R$ Unit: 15916.67
+  - Item 8: MONITORAMENTO CONFORME TERMO DE REFERÊNCIA | Qtd: 12.0 | R$ Unit: 56250.0
+  - Item 9: Serviços Técnicos Especializados Geo | Qtd: 100.0 | R$ Unit: 338.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "82572207000103",
+    "razaoSocial": "MUNICIPIO DE ITAPEMA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 2600000.0,
+  "dataInclusao": "2025-06-18T12:29:48",
+  "dataAtualizacao": "2025-06-18T14:43:05",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Itapema",
+    "codigoUnidade": "1576",
+    "nomeUnidade": "Unidade Única",
+    "codigoIbge": "4208302"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "app2.licitardigital.com.br/pesquisa/67311",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 54,
+  "emendaParlamentar": null,
+  "numeroCompra": "3",
+  "processo": "89/2025",
+  "objetoCompra": "Contratação de empresa especializada para implementação de solução de geoprocessamento e monitoramento territorial em ambiente web (SaaS), com hospedagem em nuvem, suporte técnico, manutenção contínua e integração com o sistema de gestão tributária e demais áreas da Administração Pública Municipal de Itapema, conforme especificações e quantitativos constantes do Anexo I (Termo de Referência) e demais determinações descritas neste Edital.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-06-18T12:29:48",
+  "dataEncerramentoProposta": "2025-07-04T13:00:00",
+  "dataPublicacaoPncp": "2025-06-18T12:29:48",
+  "dataAtualizacaoGlobal": "2025-08-14T09:26:34",
+  "numeroControlePNCP": "82572207000103-1-000054/2025",
+  "valorTotalEstimado": 2624052.74,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+}

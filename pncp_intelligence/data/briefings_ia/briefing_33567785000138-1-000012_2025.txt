@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: POLICIA MILITAR DO ESTADO DO TOCANTINS (Palmas/TO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de licenças de software de serviço de análise de dados e Business Intelligence (BI), Microsoft Power BI Pro, para o atendimento das demandas da Polícia Militar do Estado do Tocantins – PMTO. 
+VALOR ESTIMADO: R$ 48.805,27
+PRAZO PARA PROPOSTAS: 2025-06-06T07:40:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/33567785000138-1-000012/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/33567785000138/compras/2025/12/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/33567785000138/compras/2025/12/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/33567785000138/compras/2025/12/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/33567785000138/compras/2025/12/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 23063: Licença de uso do software microsoft power bi pro | Qtd: 47.0 | R$ Unit: 1038.41
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "33567785000138",
+    "razaoSocial": "POLICIA MILITAR DO ESTADO DO TOCANTINS",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-06-03T07:30:13",
+  "dataAtualizacao": "2025-06-03T07:30:13",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 12,
+  "emendaParlamentar": null,
+  "numeroCompra": "9",
+  "processo": "2025/09030/000119",
+  "objetoCompra": "Aquisição de licenças de software de serviço de análise de dados e Business Intelligence (BI), Microsoft Power BI Pro, para o atendimento das demandas da Polícia Militar do Estado do Tocantins – PMTO. ",
+  "informacaoComplementar": "Aquisição de licenças de software de serviço de análise de dados e Business\nIntelligence (BI), Microsoft Power BI Pro, para o atendimento das demandas da\nPolícia Militar do Estado do Tocantins – PMTO.",
+  "dataAberturaProposta": "2025-06-03T07:40:00",
+  "dataEncerramentoProposta": "2025-06-06T07:40:00",
+  "dataPublicacaoPncp": "2025-06-03T07:30:13",
+  "dataAtualizacaoGlobal": "2025-06-09T08:01:07",
+  "unidadeOrgao": {
+    "ufNome": "Tocantins",
+    "ufSigla": "TO",
+    "municipioNome": "Palmas",
+    "codigoUnidade": "317",
+    "nomeUnidade": " Polícia Militar do Estado do Tocantins",
+    "codigoIbge": "1721000"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "33567785000138-1-000012/2025",
+  "valorTotalEstimado": 48805.27,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "AZ INFORMATICA LTDA"
+}

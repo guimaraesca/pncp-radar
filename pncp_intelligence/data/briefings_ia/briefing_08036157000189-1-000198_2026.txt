@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: DEFENSORIA PUBLICA DO ESTADO DE SAO PAULO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para prestação de serviços de licenciamento de software (subscrição), suporte técnico e garantia da solução Adobe Acrobat Pro (Licensing Subscription)
+VALOR ESTIMADO: R$ 96.126,20
+PRAZO PARA PROPOSTAS: 2026-10-09T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=99003705000302026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08036157000189/compras/2026/198/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como Servico - Saas Software como Servico - Saas | Qtd: 1.0 | R$ Unit: 96126.2
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "08036157000189",
+    "razaoSocial": "DEFENSORIA PUBLICA DO ESTADO DE SAO PAULO",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "dataInclusao": "2026-09-23T12:12:22",
+  "dataAtualizacao": "2026-09-23T12:12:22",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T12:12:23"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2026-09-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-09T10:00:00",
+  "dataPublicacaoPncp": "2026-09-23T12:12:22",
+  "dataAtualizacaoGlobal": "2026-09-23T12:13:23",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoIbge": "3550308",
+    "codigoUnidade": "990037",
+    "nomeUnidade": "ESP-FED-CGA FUNDO DE ASSISTENCIA JUDICIARIA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=99003705000302026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 198,
+  "emendaParlamentar": null,
+  "numeroCompra": "30",
+  "processo": "2024/0027833",
+  "objetoCompra": "Contratação de empresa especializada para prestação de serviços de licenciamento de software (subscrição), suporte técnico e garantia da solução Adobe Acrobat Pro (Licensing Subscription)",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "08036157000189-1-000198/2026",
+  "valorTotalEstimado": 96126.2,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

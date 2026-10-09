@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de Produtos para Saúde - Drenos e Cânulas para o novo Hospital Universitário dos Servidores - Unirio, Hospital Universitário Antônio Pedro e Complexo Hospitalar da UFRJ.
+VALOR ESTIMADO: R$ 0.00
+PRAZO PARA PROPOSTAS: 2026-10-06T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15591105000392026
+SELO LOGÍSTICO: [FORA DAS BASES]
+BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

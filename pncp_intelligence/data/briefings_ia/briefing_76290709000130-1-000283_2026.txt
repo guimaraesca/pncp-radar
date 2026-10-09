@@ -1,0 +1,86 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ASSAI (Assaí/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: O objeto da presente licitação é a escolha da proposta mais vantajosa para O REGISTRO DE PREÇOS PARA EVENTUAL AQUISIÇÃO PARCELADA DE EQUIPAMENTOS DE TECNOLOGIA DA INFORMAÇÃO, ESTAÇÕES DE TRABALHO DE ALTO DESEMPENHO VOLTADAS PARA INTELIGÊNCIA ARTIFICIAL, ATIVOS E SUPRIMENTOS DE REDE DE DADOS, PERIFÉRICOS, SOLUÇÕES AUDIOVISUAIS, APARELHOS DE CLIMATIZAÇÃO E SUPORTE DE INFRAESTRUTURA FÍSICA, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.
+VALOR ESTIMADO: R$ 1.899.652,37
+PRAZO PARA PROPOSTAS: 2026-10-08T09:30:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]d_7iHCNW1k44GjABCGGKMsvlcL6Fp9YMo7p_RPVy6S88z5LzwgR_IP4nfaseAT1FZCkoHs0PHWJbIrvP5YPO/xwhx8GXxFHHQ8dPLayruVk=
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290709000130/compras/2026/283/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: COMPUTADOR TIPO DESKTOP - PERFIL BÁSICO - Estação de Computação Tipo Desktop de classe corporativa, projetada para durab | Qtd: 100.0 | R$ Unit: 3288.56
+  - Item 2: COMPUTADOR TIPO DESKTOP - PERFIL INTERMEDIÁRIO - Estação de Computação Tipo Desktop de desempenho intermediário, classe  | Qtd: 50.0 | R$ Unit: 6205.39
+  - Item 3: COMPUTADOR TIPO DESKTOP - PERFIL AVANÇADO - Estação de Alta Performance e Processamento Científico (Workstation), dimens | Qtd: 25.0 | R$ Unit: 16633.19
+  - Item 4: MONITOR DE VÍDEO TIPO LED WIDESCREEN 24 POLEGADAS - Monitor de tela LED classe corporativa, projetado para uso administr | Qtd: 200.0 | R$ Unit: 721.97
+  - Item 5: APARELHO PROJETOR DE IMAGENS (DATASHOW)  - Equipamento óptico de difusão de feixes luminosos digitais interativos voltad | Qtd: 20.0 | R$ Unit: 6335.6
+  - Item 6: MINI COMPUTADOR (MINI PC) - Estação de computação desktop ultracompacta e modular, padrão corporativo (formato Tiny PC,  | Qtd: 12.0 | R$ Unit: 5938.96
+  - Item 7: MONITOR DE VÍDEO TIPO LED WIDESCREEN 27 POLEGADAS - Monitor de tela LED de nível corporativo/profissional, tamanho esten | Qtd: 25.0 | R$ Unit: 881.78
+  - Item 8: TECLADO DE COMPUTADOR COM FIO (CONEXÃO USB) – ALTA DURABILIDADE - Teclado de computador com fio (Conexão USB tipo A), pr | Qtd: 200.0 | R$ Unit: 88.38
+  - Item 9: MOUSE ÓPTICO DE COMPUTADOR COM FIO (CONEXÃO USB) - ALTA PRECISÃO - Mouse óptico cabeado com interface USB tipo A, perten | Qtd: 200.0 | R$ Unit: 62.08
+  - Item 10: KIT TECLADO E MOUSE SEM FIO - ALTA DURABILIDADE - Conjunto integrado (Combo) de periféricos de entrada contendo Teclado  | Qtd: 20.0 | R$ Unit: 283.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "76290709000130",
+    "razaoSocial": "MUNICIPIO DE ASSAI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-24T16:35:13",
+  "dataAtualizacao": "2026-09-24T16:35:13",
+  "numeroControlePNCP": "76290709000130-1-000283/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 283,
+  "emendaParlamentar": null,
+  "numeroCompra": "97",
+  "processo": "97/2026",
+  "srp": true,
+  "objetoCompra": "O objeto da presente licitação é a escolha da proposta mais vantajosa para O REGISTRO DE PREÇOS PARA EVENTUAL AQUISIÇÃO PARCELADA DE EQUIPAMENTOS DE TECNOLOGIA DA INFORMAÇÃO, ESTAÇÕES DE TRABALHO DE ALTO DESEMPENHO VOLTADAS PARA INTELIGÊNCIA ARTIFICIAL, ATIVOS E SUPRIMENTOS DE REDE DE DADOS, PERIFÉRICOS, SOLUÇÕES AUDIOVISUAIS, APARELHOS DE CLIMATIZAÇÃO E SUPORTE DE INFRAESTRUTURA FÍSICA, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-25T08:00:00",
+  "dataEncerramentoProposta": "2026-10-08T09:30:00",
+  "dataPublicacaoPncp": "2026-09-24T16:35:13",
+  "dataAtualizacaoGlobal": "2026-09-24T16:35:15",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Assaí",
+    "codigoIbge": "4101903",
+    "codigoUnidade": "000000001",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE ASSAI - SEDE"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]d_7iHCNW1k44GjABCGGKMsvlcL6Fp9YMo7p_RPVy6S88z5LzwgR_IP4nfaseAT1FZCkoHs0PHWJbIrvP5YPO/xwhx8GXxFHHQ8dPLayruVk=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 1899652.37,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-24T16:35:15"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CRUZ MACHADO (Cruz Machado/PR)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Constitui objeto desta licitação a contratação de empresa especializada objetivando a prestação de serviços para Estudo e Análise diagnóstica para a Reforma ou Construção de novo Hospital, objetivando determinar as diretrizes de planejamento estratégico administrativo e financeiro, além de planejar a estrutura física que uma Instituição Hospitalar deve seguir, conforme condições e exigências estabelecidas neste edital e seus anexos.
+VALOR ESTIMADO: R$ 73.345,03
+PRAZO PARA PROPOSTAS: 2025-08-13T08:00:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]KuNO2q/DPOJYa3N3EhanU4HF/EbD2vIFsM8D_Gf9FwQe5RfZAUJ8SvTs_5kXTeBLXNHpVgKBkpAbRRPOpx5UnPapuoTMbI3whn2KQuuC61Q=
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76339688000109/compras/2025/75/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Selecao de Empresa Especializada na prestacao de Servicos de Elaboracao de Estudo Tecnico de viabilidade de Expansao Hos | Qtd: 1.0 | R$ Unit: 73345.03
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "76339688000109",
+    "razaoSocial": "MUNICIPIO DE CRUZ MACHADO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-06-18T14:23:55",
+  "dataAtualizacao": "2025-06-18T14:23:55",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Cruz Machado",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE CRUZ MACHADO - PR",
+    "codigoIbge": "4106803"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]KuNO2q/DPOJYa3N3EhanU4HF/EbD2vIFsM8D_Gf9FwQe5RfZAUJ8SvTs_5kXTeBLXNHpVgKBkpAbRRPOpx5UnPapuoTMbI3whn2KQuuC61Q=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 75,
+  "emendaParlamentar": null,
+  "numeroCompra": "01",
+  "processo": "56/2025",
+  "objetoCompra": "Constitui objeto desta licitação a contratação de empresa especializada objetivando a prestação de serviços para Estudo e Análise diagnóstica para a Reforma ou Construção de novo Hospital, objetivando determinar as diretrizes de planejamento estratégico administrativo e financeiro, além de planejar a estrutura física que uma Instituição Hospitalar deve seguir, conforme condições e exigências estabelecidas neste edital e seus anexos.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-06-23T08:00:00",
+  "dataEncerramentoProposta": "2025-08-13T08:00:00",
+  "dataPublicacaoPncp": "2025-06-18T14:23:55",
+  "dataAtualizacaoGlobal": "2025-06-18T14:23:59",
+  "numeroControlePNCP": "76339688000109-1-000075/2025",
+  "valorTotalEstimado": 73345.03,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

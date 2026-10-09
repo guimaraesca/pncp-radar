@@ -1,0 +1,78 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: GOVERNADOR VALADARES CAMARA MUNICIPAL (Governador Valadares/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa especializada para implantação de sítio eletrônico, que promova a comunicação, o acesso à informações públicas do Legislativo Municipal, a transparência pública em conformidade com as leis pertinentes, na modalidade software com o serviço na web (SaaS), sem limites de usuários e sem limites de tráfego de informações.
+VALOR ESTIMADO: R$ 237.152,00
+PRAZO PARA PROPOSTAS: 2025-04-24T12:00:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/MG/Camara-Municipal-de-Governador-Valadares-3534/PE-0180-2025-2025-379281
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18419374000101/compras/2025/10/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18419374000101/compras/2025/10/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18419374000101/compras/2025/10/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18419374000101/compras/2025/10/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18419374000101/compras/2025/10/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lote 1 - APLICATIVO PARA DISPOSITIVOS MÓVEIS | Qtd: 1.0 | R$ Unit: 17213.33
+  - Item 2: Lote 1 - SERVIÇO DE GERENCIAMENTO DE CONTAS | Qtd: 1.0 | R$ Unit: 5412.0
+  - Item 3: Lote 1 - WEBSITE PORTAL INSTITUCIONAL | Qtd: 1.0 | R$ Unit: 57440.0
+  - Item 4: Lote 1 - WEBSITES TRANSPARÊNCIA | Qtd: 1.0 | R$ Unit: 35880.0
+  - Item 5: Lote 1 - WEBTV - TRANSMISSÃO DE VÍDEOS | Qtd: 1.0 | R$ Unit: 121206.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 234000.0,
+  "orgaoEntidade": {
+    "cnpj": "18419374000101",
+    "razaoSocial": "GOVERNADOR VALADARES CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-04-07T16:38:50",
+  "dataAtualizacao": "2025-06-05T13:46:46",
+  "numeroControlePNCP": "18419374000101-1-000010/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 10,
+  "emendaParlamentar": null,
+  "numeroCompra": "0180",
+  "processo": "16",
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa especializada para implantação de sítio eletrônico, que promova a comunicação, o acesso à informações públicas do Legislativo Municipal, a transparência pública em conformidade com as leis pertinentes, na modalidade software com o serviço na web (SaaS), sem limites de usuários e sem limites de tráfego de informações.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-07T17:00:00",
+  "dataEncerramentoProposta": "2025-04-24T12:00:00",
+  "dataPublicacaoPncp": "2025-04-07T16:38:50",
+  "dataAtualizacaoGlobal": "2025-06-05T13:47:20",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Governador Valadares",
+    "codigoIbge": "3127701",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Câmara Municipal de Governador Valadares"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/MG/Camara-Municipal-de-Governador-Valadares-3534/PE-0180-2025-2025-379281",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 237152.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

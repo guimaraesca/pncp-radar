@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE VALENCA (Valença/RJ)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento e instalação de 02 (dois) relógios de ponto eletrônico biométrico com leitor de proximidade, bem como serviço continuado de licença de uso de software de controle de jornada em nuvem, com suporte técnico remoto, compatível com a Portaria MTP nº 671/2021, para atender às necessidades da Câmara Municipal de Valença
+VALOR ESTIMADO: R$ 7.558,95
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/39756648000128-1-000015/2025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/39756648000128/compras/2025/15/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/39756648000128/compras/2025/15/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/39756648000128/compras/2025/15/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/39756648000128/compras/2025/15/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Relógio Ponto alimentação: 110/200, material: abs injetado, mostrador: digital, tipo: biométrico e leitor de código de b | Qtd: 1.0 | R$ Unit: 7558.95
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 4174.0,
+  "orgaoEntidade": {
+    "cnpj": "39756648000128",
+    "razaoSocial": "CAMARA MUNICIPAL DE VALENCA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-11T12:48:33",
+  "dataAtualizacao": "2025-08-11T12:48:33",
+  "numeroControlePNCP": "39756648000128-1-000015/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 15,
+  "emendaParlamentar": null,
+  "numeroCompra": "14",
+  "processo": "462/2025",
+  "srp": false,
+  "objetoCompra": "Contratação de empresa especializada para o fornecimento e instalação de 02 (dois) relógios de ponto eletrônico biométrico com leitor de proximidade, bem como serviço continuado de licença de uso de software de controle de jornada em nuvem, com suporte técnico remoto, compatível com a Portaria MTP nº 671/2021, para atender às necessidades da Câmara Municipal de Valença",
+  "informacaoComplementar": "•\tFornecimento de 02 (dois) equipamentos de registro eletrônico de ponto (REP), em conformidade com a Portaria MTP nº 671/2021 e devidamente certificados pelo Inmetro, dotados de:\no\tIdentificação por biometria digital;\no\tLeitor de cartão de proximidade;\no\tIdentificação por senha;\no\tDisplay touchscreen colorido sensível ao toque;\no\tComunicação via TCP/IP e/ou USB;\no\tImpressão de comprovante de marcação;\no\tCapacidade mínima de armazenamento de 5.000 digitais;\no\tMemória inviolável conforme exigências da legislação vigente;\no\tFonte de alimentação bivolt automática (110/220V);\no\tDimensões e estrutura adequadas ao uso institucional, com suporte a instalação em parede ou balcão.\n•\tServiço de instalação e configuração dos equipamentos, com disponibilização de técnico responsável, bem como treinamento básico para utilização e operação do sistema.\n•\tLicença de uso de software de gestão de ponto eletrônico, com as seguintes características:\no\tPlataforma baseada em nuvem (cloud computing), com acesso por navegador web e aplicativo mobile (Android e iOS);\no\tIntegração automática com os equipamentos fornecidos, com sincronização em tempo real;\no\tPermissão de uso para até 100 colaboradores e 01 CNPJ;\no\tControle de jornada com regras flexíveis de cálculo (banco de horas, horas extras, folgas, feriados, etc.);\no\tGeração de relatórios customizáveis;\no\tInterface intuitiva para gestores e usuários;\no\tAcesso multiusuário com diferentes níveis de permissão;\no\tCompatibilidade com exportação de dados para sistemas de folha de pagamento;\no\tSuporte técnico remoto ilimitado (via telefone, e-mail ou acesso remoto);\no\tAtualizações automáticas de sistema, sem custo adicional.\n•\tCondições adicionais:\no\tGarantia mínima de 12 (doze) meses para os equipamentos, conforme condições do fabricante;\no\tEntrega em até 05 (cinco) dias úteis após a formalização da contratação;\no\tFrete incluso;\no\tSuporte técnico remoto durante todo o período de vigência contratual da licença de software.\n",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-11T12:48:33",
+  "dataAtualizacaoGlobal": "2025-08-11T12:51:40",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Valença",
+    "codigoIbge": "3306107",
+    "codigoUnidade": "931175",
+    "nomeUnidade": "MRJ-CÂMARA MUNICIPAL DE VALENÇA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 7558.95,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

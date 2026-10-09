@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO PIAUI (Teresina/PI)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de mensageria (SMS e Whatsapp Business) e de nuvem particular para uso de Inteligência Artificial Generativa, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste documento.
+VALOR ESTIMADO: R$ 830.584,09
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/06553481000149-1-000093/2025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06553481000149/compras/2025/93/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06553481000149/compras/2025/93/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06553481000149/compras/2025/93/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços auxiliares de tecnologia informação e comunicação Serviços auxiliares de tecnologia informação e comunicação | Qtd: 1.0 | R$ Unit: 91000.0
+  - Item 2: Serviços auxiliares de tecnologia informação e comunicação Serviços auxiliares de tecnologia informação e comunicação | Qtd: 1.0 | R$ Unit: 124292.2
+  - Item 3: Serviços auxiliares de tecnologia informação e comunicação Serviços auxiliares de tecnologia informação e comunicação | Qtd: 1.0 | R$ Unit: 615291.89
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 615291.89,
+  "orgaoEntidade": {
+    "cnpj": "06553481000149",
+    "razaoSocial": "ESTADO DO PIAUI",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-06-18T10:29:14",
+  "dataAtualizacao": "2025-06-18T10:29:14",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 93,
+  "emendaParlamentar": null,
+  "numeroCompra": "17",
+  "processo": "00009.001202/2025-55",
+  "objetoCompra": "Contratação de serviços de mensageria (SMS e Whatsapp Business) e de nuvem particular para uso de Inteligência Artificial Generativa, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste documento.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-06-18T10:29:14",
+  "dataAtualizacaoGlobal": "2025-06-18T10:32:31",
+  "unidadeOrgao": {
+    "ufNome": "Piauí",
+    "ufSigla": "PI",
+    "municipioNome": "Teresina",
+    "codigoUnidade": "927352",
+    "nomeUnidade": "SECRETARIA DE FAZENDA DO EST DO PIAUI",
+    "codigoIbge": "2211001"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, IX",
+    "descricao": "Dispensa de Licitação: para a aquisição, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade que integrem a Administração Pública e que tenham sido criados para esse fim específico, desde que o preço contratado seja compatível com o praticado no mercado",
+    "codigo": 39
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "06553481000149-1-000093/2025",
+  "valorTotalEstimado": 830584.09,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

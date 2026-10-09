@@ -1,0 +1,85 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: COMANDO DO EXERCITO (Manaus/AM)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de equipamentos de Tecnologia da Informação e Comunicação (TIC), compreendendo recursos de estações de trabalho, notebook, servidor, sistema de armazenamento de dados (storage), servidor NAS, console KVM, monitores, equipamentos de comunicação de dados, impressoras, scanner e conversores de mídia, destinados à modernização, ampliação, renovação, sustentação e continuidade da infraestrutura tecnológica do 4º Centro de Geoinformação e das Organizações Militares participantes do GCALC/DSG
+VALOR ESTIMADO: R$ 2.531.920,87
+PRAZO PARA PROPOSTAS: 2026-10-06T08:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16001105000072026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00394452000103/compras/2026/20757/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00394452000103/compras/2026/20757/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00394452000103/compras/2026/20757/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Microcomputador Microcomputador, Memória Ram:Superior A 8 GB, Núcleos Por Processador:Superior A 8, Armazenamento Hdd:2  | Qtd: 63.0 | R$ Unit: 7897.0
+  - Item 2: Microcomputador Microcomputador, Memória Ram:Superior A 8 GB, Núcleos Por Processador:Superior A 8, Armazenamento Hdd:2  | Qtd: 24.0 | R$ Unit: 14547.5
+  - Item 3: Microcomputador Microcomputador, Memória Ram:64 GB, Núcleos Por Processador:Superior A 8, Armazenamento Hdd:2 TB., Armaz | Qtd: 7.0 | R$ Unit: 48000.0
+  - Item 4: Notebook Notebook, Tela:Superior A 14 POL, Interatividade Da Tela:Sem Interatividade, Memória Ram:Superior A 8 GB, Núcle | Qtd: 9.0 | R$ Unit: 19900.0
+  - Item 5: Servidor Servidor, Tipo:Rack, Processadores Físicos:2, Núcleos Por Processador:15 A 20, Memória Ram:256 GB, Interface Re | Qtd: 1.0 | R$ Unit: 232973.0
+  - Item 6: Servidor Servidor, Tipo:San - Storage Area Network, Processadores Físicos:4, Núcleos Por Processador:8, Memória Ram:96 G | Qtd: 1.0 | R$ Unit: 173000.0
+  - Item 7: Console De Equipamento De Processamento De Dados Console De Equipamento De Processamento De Dados, Tipo / Padrão:Instala | Qtd: 1.0 | R$ Unit: 10901.0
+  - Item 8: Monitor Computador Monitor Computador, Tamanho Tela:23 A 30 POL, Tipo De Tela:Led, Formato Tela:Widescreen, Qualidade De | Qtd: 38.0 | R$ Unit: 2888.0
+  - Item 9: Switch Switch, Quantidade Portas:24 UN, Tipo Portas:Gigabit Ethernet, Velocidade Porta:1000 Mbps, Alimentação:110/220 V, | Qtd: 31.0 | R$ Unit: 1884.95
+  - Item 10: Switch Switch, Quantidade Portas:24 UN, Tipo Portas:Gigabit Ethernet, Velocidade Porta:1000 Mbps, Alimentação:110/220 V, | Qtd: 7.0 | R$ Unit: 2991.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00394452000103",
+    "razaoSocial": "COMANDO DO EXERCITO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-23T14:47:02",
+  "dataAtualizacao": "2026-09-23T15:22:40",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 20757,
+  "emendaParlamentar": null,
+  "numeroCompra": "7",
+  "processo": "64492.004253/2026-98",
+  "objetoCompra": "Aquisição de equipamentos de Tecnologia da Informação e Comunicação (TIC), compreendendo recursos de estações de trabalho, notebook, servidor, sistema de armazenamento de dados (storage), servidor NAS, console KVM, monitores, equipamentos de comunicação de dados, impressoras, scanner e conversores de mídia, destinados à modernização, ampliação, renovação, sustentação e continuidade da infraestrutura tecnológica do 4º Centro de Geoinformação e das Organizações Militares participantes do GCALC/DSG",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-06T08:00:00",
+  "dataPublicacaoPncp": "2026-09-23T14:47:02",
+  "dataAtualizacaoGlobal": "2026-09-23T15:22:40",
+  "unidadeOrgao": {
+    "ufNome": "Amazonas",
+    "ufSigla": "AM",
+    "municipioNome": "Manaus",
+    "codigoUnidade": "160011",
+    "nomeUnidade": "4 DIVISAO DE LEVANTAMENTO/MEX/AM",
+    "codigoIbge": "1302603"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "00394452000103-1-020757/2026",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=16001105000072026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 2531920.87,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T14:47:02"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

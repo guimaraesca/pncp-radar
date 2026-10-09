@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE JAGUAQUARA (Jaguaquara/BA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Prestação de consultoria técnica especializada e suporte estratégico á Secretaria de Culturta, Turismo, Esporte e Lazer com foco na implementação, acompanhameto, monitoramento e avaliação de projetoss e ações culturais. As ações incluem a a capacitação continuada de agentes culturais, a supervisão técnica das iniciatvas culturais desenvolvidas e o fortalecimento dos indicadores de impacto e qualidade no setor cultural, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta e seus anexos.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-07-10T17:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/13910211000103-1-000160/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13910211000103/compras/2025/160/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13910211000103/compras/2025/160/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Prestação de consultoria técnica especializada e suporte estratégico á Secretaria de Culturta, Turismo, Esporte e Lazer  | Qtd: 6.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "13910211000103",
+    "razaoSocial": "MUNICIPIO DE JAGUAQUARA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-12T10:37:51",
+  "dataAtualizacao": "2025-08-12T10:37:51",
+  "numeroControlePNCP": "13910211000103-1-000160/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 160,
+  "emendaParlamentar": null,
+  "numeroCompra": "040/20205",
+  "processo": "141/2025",
+  "objetoCompra": "Prestação de consultoria técnica especializada e suporte estratégico á Secretaria de Culturta, Turismo, Esporte e Lazer com foco na implementação, acompanhameto, monitoramento e avaliação de projetoss e ações culturais. As ações incluem a a capacitação continuada de agentes culturais, a supervisão técnica das iniciatvas culturais desenvolvidas e o fortalecimento dos indicadores de impacto e qualidade no setor cultural, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta e seus anexos.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-08T08:00:00",
+  "dataEncerramentoProposta": "2025-07-10T17:00:00",
+  "dataPublicacaoPncp": "2025-08-12T10:37:51",
+  "dataAtualizacaoGlobal": "2025-08-12T10:38:15",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Jaguaquara",
+    "codigoIbge": "2917607",
+    "codigoUnidade": "9001",
+    "nomeUnidade": "SECRETARIA MUNICIPAL DE CULTURA, TURISMO, ESPORTE E LAZER"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IBDM Modernização Assessoria e Consultoria"
+}

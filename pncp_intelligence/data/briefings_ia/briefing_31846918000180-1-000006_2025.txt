@@ -1,0 +1,78 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE ITATIAIA (Itatiaia/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa especializada para licenciamento de software de gestão pública para a Câmara Municipal de Itatiaia.
+VALOR ESTIMADO: R$ 259.258,50
+PRAZO PARA PROPOSTAS: 2025-04-29T09:00:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/RJ/Camara-Municipal-de-Itatiaia-3321/PE-003-2025-2025-375813
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31846918000180/compras/2025/6/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31846918000180/compras/2025/6/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/31846918000180/compras/2025/6/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lote 1 - Sistema de Folha de Pagamento | Qtd: 12.0 | R$ Unit: 2828.14
+  - Item 2: Lote 1 - Suporte Técnico de Sistema de Folha de Pagamento | Qtd: 12.0 | R$ Unit: 594.67
+  - Item 3: Lote 1 - Sistema de Recursos Humanos | Qtd: 12.0 | R$ Unit: 2076.57
+  - Item 4: Lote 1 - Suporte Técnico de Sistema de Recursos Humanos | Qtd: 12.0 | R$ Unit: 322.67
+  - Item 5: Lote 1 - Sistema de Atendimento ao Servidor Público | Qtd: 12.0 | R$ Unit: 676.67
+  - Item 6: Lote 1 - Suporte Técnico de Atendimento ao Servidor Público | Qtd: 12.0 | R$ Unit: 79.33
+  - Item 7: Lote 1 - Sistema E-Social | Qtd: 12.0 | R$ Unit: 1026.17
+  - Item 8: Lote 1 - Suporte Técnico de Sistema E-Social | Qtd: 12.0 | R$ Unit: 117.63
+  - Item 9: Lote 1 - Compras, Licitações e Contratos | Qtd: 12.0 | R$ Unit: 2820.74
+  - Item 10: Lote 1 - Suporte Técnico de Compras, Licitações e Contratos | Qtd: 12.0 | R$ Unit: 392.07
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 107159.16,
+  "orgaoEntidade": {
+    "cnpj": "31846918000180",
+    "razaoSocial": "CAMARA MUNICIPAL DE ITATIAIA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-04-07T10:24:33",
+  "dataInclusao": "2025-04-07T10:24:33",
+  "numeroControlePNCP": "31846918000180-1-000006/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 6,
+  "emendaParlamentar": null,
+  "numeroCompra": "003",
+  "processo": "009/2025",
+  "dataEncerramentoProposta": "2025-04-29T09:00:00",
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa especializada para licenciamento de software de gestão pública para a Câmara Municipal de Itatiaia.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-08T09:00:00",
+  "dataPublicacaoPncp": "2025-04-07T10:24:33",
+  "dataAtualizacaoGlobal": "2025-06-02T12:35:09",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Itatiaia",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Câmara Municipal de Itatiaia",
+    "codigoIbge": "3302254"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/RJ/Camara-Municipal-de-Itatiaia-3321/PE-003-2025-2025-375813",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A",
+  "valorTotalEstimado": 259258.5
+}

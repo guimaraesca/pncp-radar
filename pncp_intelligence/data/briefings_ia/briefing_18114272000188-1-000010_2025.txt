@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE DIVINO (Divino/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [LICITANET] - CONTRATAÇÃO DE LICENÇA DE USO DE SOFTWARE, NA MODALIDADE SAAS (SOFTWARE AS A SERVICE), EM AMBIENTE WEB, COMPREENDENDO OS MÓDULOS DE GESTÃO, CAPACITAÇÃO, FORNECIMENTO DE ALERTAS E CONSULTAS, VISANDO O ATENDIMENTO DAS NECESSIDADES DAS ESCOLAS MUNICIPAIS E SECRETARIA MUNICIPAL DE EDUCAÇÃO.
+VALOR ESTIMADO: R$ 39.480,00
+PRAZO PARA PROPOSTAS: 2025-03-28T09:00:00
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/WkpXbm01V28=
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18114272000188/compras/2025/10/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 5495472: Fornecimento de sistema compreendendo módulos para gestão da secretaria municipal de educação, conforme termo de referên | Qtd: 12.0 | R$ Unit: 3290.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "18114272000188",
+    "razaoSocial": "MUNICIPIO DE DIVINO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-03-25T14:27:02",
+  "dataAtualizacao": "2025-03-25T14:27:02",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Divino",
+    "codigoUnidade": "1839",
+    "nomeUnidade": "MUNICÍPIO DE DIVINO/MG",
+    "codigoIbge": "3122009"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/WkpXbm01V28=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 10,
+  "emendaParlamentar": null,
+  "numeroCompra": "08",
+  "processo": "25/2025",
+  "objetoCompra": "[LICITANET] - CONTRATAÇÃO DE LICENÇA DE USO DE SOFTWARE, NA MODALIDADE SAAS (SOFTWARE AS A SERVICE), EM AMBIENTE WEB, COMPREENDENDO OS MÓDULOS DE GESTÃO, CAPACITAÇÃO, FORNECIMENTO DE ALERTAS E CONSULTAS, VISANDO O ATENDIMENTO DAS NECESSIDADES DAS ESCOLAS MUNICIPAIS E SECRETARIA MUNICIPAL DE EDUCAÇÃO.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-03-25T14:26:58",
+  "dataEncerramentoProposta": "2025-03-28T09:00:00",
+  "dataPublicacaoPncp": "2025-03-25T14:27:02",
+  "dataAtualizacaoGlobal": "2025-04-01T13:35:21",
+  "numeroControlePNCP": "18114272000188-1-000010/2025",
+  "valorTotalEstimado": 39480.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA"
+}

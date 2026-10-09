@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MARICA (Maricá/RJ)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação De Revendedora Autorizada Para Prestação Do Serviço De Licenciamento De Software Adobe Indesign Para Atender A Necessidade De Diagramação Do Jornal Oficial De Maricá – Jom.
+VALOR ESTIMADO: R$ 10.000,00
+PRAZO PARA PROPOSTAS: 2025-08-11T07:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/29131075000193-1-000217/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29131075000193/compras/2025/217/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licenciamento de Direitos Permanentes  de  Uso  de  Softwarepara Servidor | Qtd: 4.0 | R$ Unit: 2500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 9234.56,
+  "orgaoEntidade": {
+    "cnpj": "29131075000193",
+    "razaoSocial": "MUNICIPIO DE MARICA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-05T09:48:35",
+  "dataAtualizacao": "2025-08-05T09:48:35",
+  "numeroControlePNCP": "29131075000193-1-000217/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 217,
+  "emendaParlamentar": null,
+  "numeroCompra": "90011",
+  "processo": "34782025",
+  "objetoCompra": "Contratação De Revendedora Autorizada Para Prestação Do Serviço De Licenciamento De Software Adobe Indesign Para Atender A Necessidade De Diagramação Do Jornal Oficial De Maricá – Jom.",
+  "informacaoComplementar": "Necessidade da Administração Pública de Maricá para atender a demanda do Jornal Oficial de Maricá.",
+  "dataAberturaProposta": "2025-08-05T09:48:31",
+  "dataEncerramentoProposta": "2025-08-11T07:59:59",
+  "dataPublicacaoPncp": "2025-08-05T09:48:35",
+  "dataAtualizacaoGlobal": "2025-08-26T10:58:48",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Maricá",
+    "codigoIbge": "3302700",
+    "codigoUnidade": "985853",
+    "nomeUnidade": "MRJ-PREFEITURA MUNICIPAL DE MARICA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 10000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

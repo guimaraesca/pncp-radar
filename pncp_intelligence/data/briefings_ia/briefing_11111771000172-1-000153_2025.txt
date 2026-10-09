@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDO MUNICIPAL DE SAUDE DE CERES (Ceres/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: REFERENTE A PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA TÉCNICA EM GESTÃO DE SAÚDE PÚBLICA, COMPREENDENDO O ACOMPANHAMENTO E ANÁLISE CONTÍNUA DE PORTARIAS, NOTAS TÉCNICAS, ATUALIZAÇÕES NORMATIVAS, MONITORAMENTO DE INDICADORES DE SAÚDE E CÁLCULO DE DESEMPENHO.
+VALOR ESTIMADO: R$ 29.142,90
+PRAZO PARA PROPOSTAS: 2025-07-07T17:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/11111771000172-1-000153/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (100 a 200 km)
+SELO LOGÍSTICO: [BASE: GOIÂNIA | Ceres/GO (180km)]
+DISTÂNCIA ESTIMADA DA BASE: 180 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11111771000172/compras/2025/153/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11111771000172/compras/2025/153/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11111771000172/compras/2025/153/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11111771000172/compras/2025/153/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS DE CONSULTORIA E ASSESSORIA- | Qtd: 1.0 | R$ Unit: 29142.9
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 27000.0,
+  "orgaoEntidade": {
+    "cnpj": "11111771000172",
+    "razaoSocial": "FUNDO MUNICIPAL DE SAUDE DE CERES",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-12T10:21:52",
+  "dataAtualizacao": "2025-08-12T10:21:52",
+  "numeroControlePNCP": "11111771000172-1-000153/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 153,
+  "emendaParlamentar": null,
+  "numeroCompra": "30946",
+  "processo": "2025013763",
+  "srp": false,
+  "objetoCompra": "REFERENTE A PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA TÉCNICA EM GESTÃO DE SAÚDE PÚBLICA, COMPREENDENDO O ACOMPANHAMENTO E ANÁLISE CONTÍNUA DE PORTARIAS, NOTAS TÉCNICAS, ATUALIZAÇÕES NORMATIVAS, MONITORAMENTO DE INDICADORES DE SAÚDE E CÁLCULO DE DESEMPENHO.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-02T08:00:00",
+  "dataEncerramentoProposta": "2025-07-07T17:00:00",
+  "dataPublicacaoPncp": "2025-08-12T10:21:52",
+  "dataAtualizacaoGlobal": "2025-08-12T10:22:04",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Ceres",
+    "codigoIbge": "5205406",
+    "codigoUnidade": "0601",
+    "nomeUnidade": "SAUDE"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 29142.9,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Prodata Informática"
+}

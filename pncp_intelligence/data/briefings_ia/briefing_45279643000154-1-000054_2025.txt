@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE NAZARE PAULISTA (Nazaré Paulista/SP)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa de engenharia para prestação de serviços de aerolevantamento fotogramétrico e perfilométrico LiDAR, mapeamento móvel 360° LiDAR, atualização do cadastro imobiliário e implantação de plataforma de geoprocessamento na modalidade SaaS, incluindo serviços de suporte técnico, treinamento e hospedagem de dados georreferenciados para o Município de Nazaré Paulista – SP, conforme Termo de Referência- Anexo I
+VALOR ESTIMADO: R$ 2.122.283,37
+PRAZO PARA PROPOSTAS: 2025-07-14T08:45:00
+LINK OFICIAL: https://bnccompras.com/Process/ProcessView?param1=[gkz]agir4cRhGh8ybT3y8KISd9NY13PW3EqNh23pl5FUlQS6im3PqYxGjC5si/mbfEoPR4GBvqKpMULBGgcDlCIqt/d7hnIzzQtU483MoijV1HY=
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279643000154/compras/2025/54/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45279643000154/compras/2025/54/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS DE AEROLEVANTAMENTO FOTOGRAMÉTRICO E PERFILOMÉTRICO | Qtd: 1.0 | R$ Unit: 2122283.37
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "45279643000154",
+    "razaoSocial": "MUNICIPIO DE NAZARE PAULISTA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-06-25T09:23:02",
+  "dataAtualizacao": "2025-06-27T08:24:19",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Nazaré Paulista",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE NAZARÉ PAULISTA",
+    "codigoIbge": "3532405"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]agir4cRhGh8ybT3y8KISd9NY13PW3EqNh23pl5FUlQS6im3PqYxGjC5si/mbfEoPR4GBvqKpMULBGgcDlCIqt/d7hnIzzQtU483MoijV1HY=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 54,
+  "emendaParlamentar": null,
+  "numeroCompra": "006",
+  "processo": "3433/2025",
+  "objetoCompra": "Contratação de empresa de engenharia para prestação de serviços de aerolevantamento fotogramétrico e perfilométrico LiDAR, mapeamento móvel 360° LiDAR, atualização do cadastro imobiliário e implantação de plataforma de geoprocessamento na modalidade SaaS, incluindo serviços de suporte técnico, treinamento e hospedagem de dados georreferenciados para o Município de Nazaré Paulista – SP, conforme Termo de Referência- Anexo I",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-06-25T09:25:00",
+  "dataEncerramentoProposta": "2025-07-14T08:45:00",
+  "dataPublicacaoPncp": "2025-06-25T09:23:02",
+  "dataAtualizacaoGlobal": "2025-06-27T08:24:20",
+  "numeroControlePNCP": "45279643000154-1-000054/2025",
+  "valorTotalEstimado": 2122283.37,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC"
+}

@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ITARUMA (Itarumã/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA PARA MINISTRAR CURSO DE CAPACITAÇÃO DE NO MÍNIMO 24 HORAS, COM INTUITO DA CAPACITAÇÃO DE DIRIGENTE DO ITARUMÃ-PREVI, COM PROFISSIONAL CAPACITADOS NAS ÁREAS DE INVESTIMENTOS, ATU
+VALOR ESTIMADO: R$ 912,33
+PRAZO PARA PROPOSTAS: 2025-03-21T13:01:49
+LINK OFICIAL: https://pncp.gov.br/app/editais/01067271000127-1-000148/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01067271000127/compras/2025/148/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01067271000127/compras/2025/148/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01067271000127/compras/2025/148/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01067271000127/compras/2025/148/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CURSO DE CAPACITAÇÃO DE NO MÍNIMO 24 HORAS, COM INTUITO DA CAPACITAÇÃO DE DIRIGENTE PARTICIPANTE PARA A NOVA CERTIFICAÇÃ | Qtd: 1.0 | R$ Unit: 912.3333
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 797.0,
+  "orgaoEntidade": {
+    "cnpj": "01067271000127",
+    "razaoSocial": "MUNICIPIO DE ITARUMA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-24T13:16:16",
+  "dataAtualizacao": "2025-03-24T13:16:16",
+  "numeroControlePNCP": "01067271000127-1-000148/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 148,
+  "emendaParlamentar": null,
+  "numeroCompra": "23214",
+  "processo": "23214",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA MINISTRAR CURSO DE CAPACITAÇÃO DE NO MÍNIMO 24 HORAS, COM INTUITO DA CAPACITAÇÃO DE DIRIGENTE DO ITARUMÃ-PREVI, COM PROFISSIONAL CAPACITADOS NAS ÁREAS DE INVESTIMENTOS, ATU",
+  "informacaoComplementar": "CONTRATAÇÃO DE EMPRESA PARA MINISTRAR CURSO DE CAPACITAÇÃO DE NO MÍNIMO 24 HORAS, COM INTUITO DA CAPACITAÇÃO DE DIRIGENTE DO ITARUMÃ-PREVI, COM PROFISSIONAL CAPACITADOS NAS ÁREAS DE INVESTIMENTOS, ATUARIAL, ADMINISTRATIVA, CONTÁBIL, JURÍDICA COM O SEGUINTE CONTEÚDO: SEGURIDADE SOCIAL RPPS, COMPENSAÇÃO PREVIDENCIÁRIA, GESTÃO DE INVESTIMENTOS - RENDA FIXA, RENDA VARIÁVEL E DERIVATIVOS E LEGISLAÇÃO, CONTROLE, REGULAÇÃO, SUPERVISÃO E FISCALIZAÇÃO - RESPONSABILIDADE E INELEGIBIDADE E ADMINISTRAÇÃO PÚBLICA, CERTIFICAÇÃO INSTITUCIONAL - PRÓ- GESTÃO RPPS, GESTÃO CONTÁBIL, CONTÁBIL, COMPLIANCE E ÉTICA, PLANO DE BENEFÍCIOS E PLANO DE CUSTEIO, GESTÃO ATUARIAL, FUNDOS DE INVESTIMENTOS, NOÇÕES BÁSICAS DE ECONOMIA, GESTÃO, GOVERNANÇA, CONTROLE INTERNO, GESTÃO DE PESSOAS, VISANDO ATENDER AS NECESSIDADES DO FUNDO MUNICIPAL DE PREVIDÊNCIA SOCIAL DOS SERVIDORES DO MUNICÍPIO DE ITARUMÃ/GO - ITARUMÃ -PREVI, CONFORME TERMO DE REFERÊNCIA, E CONDIÇÕES E EXIGÊNCIAS ESTABELECIDAS NESTE INSTRUMENTO.",
+  "dataAberturaProposta": "2025-03-19T13:01:49",
+  "dataEncerramentoProposta": "2025-03-21T13:01:49",
+  "dataPublicacaoPncp": "2025-03-24T13:16:16",
+  "dataAtualizacaoGlobal": "2025-03-24T13:16:32",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Itarumã",
+    "codigoIbge": "5211305",
+    "codigoUnidade": "6",
+    "nomeUnidade": "ITARUMÃ-PREVI"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 912.33,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CENTI"
+}

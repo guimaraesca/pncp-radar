@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE VICOSA DO CEARA (Viçosa do Ceará/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE SERVIÇOS DE AUTOMAÇÃO DOS PROCESSOS DE GESTÃO E FORMAÇÃO CONTINUADA AOS PROFISSIONAIS DA EDUCAÇÃO, NO MUNICÍPIO DE VIÇOSA DO CEARÁ/CE.
+VALOR ESTIMADO: R$ 232.780,00
+PRAZO PARA PROPOSTAS: 2026-10-13T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/10462497000113-1-000095/2026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10462497000113/compras/2026/95/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: FORMAÇÃO CONTINUADA, INTEGRANTE DA SOLUÇÃO CONTRATADA - PRESTAÇÃO DE SERVIÇO TÉCNICO ESPECIALIZADO DE FORMAÇÃO CONTINUAD | Qtd: 32.0 | R$ Unit: 665.0
+  - Item 2: LICENCIAMENTO DE USO DE SISTEMA DE GESTÃO ESCOLAR - LICENCIAMENTO DE USO DE SISTEMA DE GESTÃO ESCOLAR INTEGRADO AOS MÓDU | Qtd: 12.0 | R$ Unit: 17625.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "10462497000113",
+    "razaoSocial": "MUNICIPIO DE VICOSA DO CEARA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-11T14:45:30",
+  "dataAtualizacao": "2026-09-24T16:43:47",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 95,
+  "emendaParlamentar": null,
+  "numeroCompra": "PE04/2026-SEDUC",
+  "processo": "PE04/2026-SEDUC",
+  "objetoCompra": "CONTRATAÇÃO DE SERVIÇOS DE AUTOMAÇÃO DOS PROCESSOS DE GESTÃO E FORMAÇÃO CONTINUADA AOS PROFISSIONAIS DA EDUCAÇÃO, NO MUNICÍPIO DE VIÇOSA DO CEARÁ/CE.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-11T15:30:00",
+  "dataEncerramentoProposta": "2026-10-13T08:00:00",
+  "dataPublicacaoPncp": "2026-09-11T14:45:30",
+  "dataAtualizacaoGlobal": "2026-09-24T16:43:47",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Viçosa do Ceará",
+    "codigoUnidade": "1952",
+    "nomeUnidade": "Pref Viçosa do Ceará",
+    "codigoIbge": "2314102"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "10462497000113-1-000095/2026",
+  "valorTotalEstimado": 232780.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações"
+}

@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO SEBASTIAO DO CAI (São Sebastião do Caí/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: MATERIAL PERMANENTE
+VALOR ESTIMADO: R$ 13.283,40
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/88370879000104-1-001628/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88370879000104/compras/2025/1628/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88370879000104/compras/2025/1628/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88370879000104/compras/2025/1628/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88370879000104/compras/2025/1628/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88370879000104/compras/2025/1628/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SWITCH | Qtd: 3.0 | R$ Unit: 749.8999
+  - Item 2: SWITCH | Qtd: 2.0 | R$ Unit: 2799.9
+  - Item 3: NOBREAK | Qtd: 1.0 | R$ Unit: 1874.9
+  - Item 4: NOBREAK | Qtd: 2.0 | R$ Unit: 1349.9
+  - Item 5: RACK | Qtd: 3.0 | R$ Unit: 89.9
+  - Item 6: PORCA | Qtd: 100.0 | R$ Unit: 3.0
+  - Item 7: HUB SWITCH 08 | Qtd: 5.0 | R$ Unit: 57.8999
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 13283.4,
+  "orgaoEntidade": {
+    "cnpj": "88370879000104",
+    "razaoSocial": "MUNICIPIO DE SAO SEBASTIAO DO CAI",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-07-03T08:56:59",
+  "dataAtualizacao": "2025-07-03T08:59:27",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Tecnosweb - Tecnologia de Gestão",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-03T08:56:59",
+  "dataAtualizacaoGlobal": "2025-07-07T16:48:39",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "São Sebastião do Caí",
+    "codigoIbge": "4319505",
+    "codigoUnidade": "82",
+    "nomeUnidade": "Município de São Sebastião do Cai"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 1628,
+  "emendaParlamentar": null,
+  "numeroCompra": "1899",
+  "processo": "1899/2025",
+  "objetoCompra": "MATERIAL PERMANENTE",
+  "informacaoComplementar": "Aquisição dos equipamentos de rede e infraestrutura de TI, incluindo switches TP-LINK, nobreaks, réguas de tomadas para rack, kits de porca gaiola e hubs de 8 portas, destina-se à modernização, ampliação e manutenção da conectividade, proteção elétrica e organização da rede lógica da Secretaria da Saúde, garantindo maior eficiência, segurança e continuidade dos serviços essenciais.",
+  "numeroControlePNCP": "88370879000104-1-001628/2025",
+  "valorTotalEstimado": 13283.4,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

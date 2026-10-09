@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PACAJUS (Pacajus/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: o CONTRATAÇÃO DE EMPRESA PARA ACOMPANHAMENTO DA GESTÃO ESCOLAR, FORMAÇÃO CONTINUADA COM CERTIFICAÇÃO, DESTINADOS A MELHORIA DA PRESTAÇÃO DE SERVIÇO ESCOLAR, COM LOCAÇÃO DE SISTEMA DE GESTÃO EDUCACIONAL E PLANEJAMENTO PEDAGÓGICO E ADMINISTRATIVO (SOFTWARE), COM INSTALAÇÃO E TREINAMENTO, INTEGRAÇÃO VIA WEB, FERRAMENTAS DE GESTÃO E ACOMPANHAMENTO DE TODO O PROCESSO DE GESTÃO EDUCACIONAL, COM SUPORTE ONLINE E PRESENCIAL JUNTO A SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE PACAJUS/CE
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-05-19T23:59:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/07384407000109-1-000037/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07384407000109/compras/2025/37/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07384407000109/compras/2025/37/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07384407000109/compras/2025/37/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07384407000109/compras/2025/37/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07384407000109/compras/2025/37/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07384407000109/compras/2025/37/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Implantação, Parametrização, Instalação e Treinamento e Capacitação do Sistema de Gestão Educacional (software).
+Quantid | Qtd: 37.0 | R$ Unit: 6937.13
+  - Item 2: Locação de sistema de gestão educacional.
+Quantidade de pontos: 37
+ | Qtd: 12.0 | R$ Unit: 91612.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "07384407000109",
+    "razaoSocial": "MUNICIPIO DE PACAJUS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-07T14:49:48",
+  "dataAtualizacao": "2025-05-07T14:49:48",
+  "numeroControlePNCP": "07384407000109-1-000037/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 37,
+  "emendaParlamentar": null,
+  "numeroCompra": "2025.04.25.001",
+  "processo": "005/2025",
+  "objetoCompra": "o CONTRATAÇÃO DE EMPRESA PARA ACOMPANHAMENTO DA GESTÃO ESCOLAR, FORMAÇÃO CONTINUADA COM CERTIFICAÇÃO, DESTINADOS A MELHORIA DA PRESTAÇÃO DE SERVIÇO ESCOLAR, COM LOCAÇÃO DE SISTEMA DE GESTÃO EDUCACIONAL E PLANEJAMENTO PEDAGÓGICO E ADMINISTRATIVO (SOFTWARE), COM INSTALAÇÃO E TREINAMENTO, INTEGRAÇÃO VIA WEB, FERRAMENTAS DE GESTÃO E ACOMPANHAMENTO DE TODO O PROCESSO DE GESTÃO EDUCACIONAL, COM SUPORTE ONLINE E PRESENCIAL JUNTO A SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE PACAJUS/CE",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-07T17:00:00",
+  "dataEncerramentoProposta": "2025-05-19T23:59:00",
+  "dataPublicacaoPncp": "2025-05-07T14:49:48",
+  "dataAtualizacaoGlobal": "2025-05-22T16:02:51",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Pacajus",
+    "codigoIbge": "2309607",
+    "codigoUnidade": "1968",
+    "nomeUnidade": "Pacajus"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações"
+}

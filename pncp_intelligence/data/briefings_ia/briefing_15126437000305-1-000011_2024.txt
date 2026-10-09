@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH (Salvador/BA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para renovação das licenças do firewall SonicWall NSA 6650 (com HA – High Availability)  do Complexo Hospitalar Universitário Prof. Edgard Santos - filial da Empresa Brasileira de Serviços Hospitalares - EBSERH, por um período de 12 (doze) meses, podendo ter a sua duração prorrogada, conforme condições, quantidades e exigências estabelecidas neste instrumento e no Regulamento de Licitações e Contratos da Ebserh 2.0. 
+VALOR ESTIMADO: R$ 264.726,20
+PRAZO PARA PROPOSTAS: 2025-06-06T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=15590705900352024
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000305/compras/2024/11/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licenciamento de Direitos Permanentes  de  Uso  de  Softwarepara Servidor | Qtd: 1.0 | R$ Unit: 242495.13
+  - Item 2: Licenciamento de Direitos Permanentes  de  Uso  de  Softwarepara Servidor | Qtd: 1.0 | R$ Unit: 22231.07
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 213000.0,
+  "orgaoEntidade": {
+    "cnpj": "15126437000305",
+    "razaoSocial": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+    "poderId": "N",
+    "esferaId": "N"
+  },
+  "dataInclusao": "2025-04-08T07:27:37",
+  "dataAtualizacao": "2025-05-15T08:07:51",
+  "anoCompra": 2024,
+  "srp": false,
+  "sequencialCompra": 11,
+  "emendaParlamentar": null,
+  "numeroCompra": "90035",
+  "processo": "23534004043202417",
+  "objetoCompra": "Contratação de empresa para renovação das licenças do firewall SonicWall NSA 6650 (com HA – High Availability)  do Complexo Hospitalar Universitário Prof. Edgard Santos - filial da Empresa Brasileira de Serviços Hospitalares - EBSERH, por um período de 12 (doze) meses, podendo ter a sua duração prorrogada, conforme condições, quantidades e exigências estabelecidas neste instrumento e no Regulamento de Licitações e Contratos da Ebserh 2.0. ",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=15590705900352024",
+  "dataAberturaProposta": "2025-05-15T08:00:00",
+  "dataEncerramentoProposta": "2025-06-06T09:00:00",
+  "dataPublicacaoPncp": "2025-04-08T07:27:37",
+  "dataAtualizacaoGlobal": "2025-09-16T21:29:58",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Salvador",
+    "codigoUnidade": "155907",
+    "nomeUnidade": "HOSPITAL UNIVERSITARIO PROF. EDGARD SANTOS",
+    "codigoIbge": "2927408"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=15590705900352024",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "15126437000305-1-000011/2024",
+  "valorTotalEstimado": 264726.2,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO CEARA (Fortaleza/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de Solução de Next Generation Firewall para Nuvem Pública ou Nuvem Privada, a fim, de atender as necessidades parcial do HUC, pelo período de 12 (doze) meses.
+VALOR ESTIMADO: R$ 471.531,60
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/07954480000179-1-024545/2024
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2024/24545/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVICO DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - SOLUCAO DE NEXT GENERATION FIREWALL PARA NUVEM PUBLICA OU NUVEM PRIV | Qtd: 15.0 | R$ Unit: 31435.44
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 471531.6,
+  "orgaoEntidade": {
+    "cnpj": "07954480000179",
+    "razaoSocial": "ESTADO DO CEARA",
+    "esferaId": "E",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-03-21T09:30:46",
+  "dataAtualizacao": "2025-07-10T14:02:52",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria do Planejamento e Gestão do Ceará",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-21T09:30:46",
+  "dataAtualizacaoGlobal": "2025-07-10T14:02:52",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Fortaleza",
+    "codigoIbge": "2304400",
+    "codigoUnidade": "240001",
+    "nomeUnidade": "SECRETARIA DA SAUDE"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, IX",
+    "descricao": "Dispensa de Licitação: para a aquisição, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade que integrem a Administração Pública e que tenham sido criados para esse fim específico, desde que o preço contratado seja compatível com o praticado no mercado",
+    "codigo": 39
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2024,
+  "srp": false,
+  "sequencialCompra": 24545,
+  "emendaParlamentar": null,
+  "numeroCompra": "202414564",
+  "processo": "24001035268202404",
+  "objetoCompra": "Contratação de Solução de Next Generation Firewall para Nuvem Pública ou Nuvem Privada, a fim, de atender as necessidades parcial do HUC, pelo período de 12 (doze) meses.",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "07954480000179-1-024545/2024",
+  "valorTotalEstimado": 471531.6,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

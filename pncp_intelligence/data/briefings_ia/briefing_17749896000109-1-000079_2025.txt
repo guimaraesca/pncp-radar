@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO JOAO DEL REI (São João del Rei/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: mútua colaboração dos partícipes para a execução do projeto de extensão intitulado "Governança pública e otimização do controle gerencial e financeiro na Prefeitura de São João del-Rei"
+O projeto está previsto em Plano de Trabalho, conforme art. 6º, §1º, do Decreto 7.423/2010, o qual faz parte do presente instrumento independentemente de transcrição.
+A FUNDAÇÃO DE APOIO será responsável pela gestão administrativa e financeira do projeto, conforme descrição pormenorizada no Plano de Trabalho.
+É vedada a subcontratação total do objeto do presente instrumento, bem como a subcontratação parcial que delegue a terceiros a execução do núcleo do objeto acordado.
+
+VALOR ESTIMADO: R$ 490.191,52
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/17749896000109-1-000079/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17749896000109/compras/2025/79/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17749896000109/compras/2025/79/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17749896000109/compras/2025/79/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17749896000109/compras/2025/79/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17749896000109/compras/2025/79/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17749896000109/compras/2025/79/arquivos/12
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: EXECUÇÃO DO PROJETO DE EXTENSÃO INTITULADOmútua colaboração dos partícipes para a execução do projeto de extensão intitu | Qtd: 16.0 | R$ Unit: 30636.97
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 490191.52,
+  "orgaoEntidade": {
+    "cnpj": "17749896000109",
+    "razaoSocial": "MUNICIPIO DE SAO JOAO DEL REI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-11T11:56:55",
+  "dataAtualizacao": "2025-08-26T15:43:31",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 79,
+  "emendaParlamentar": null,
+  "numeroCompra": "00016125",
+  "processo": "00016125",
+  "objetoCompra": "mútua colaboração dos partícipes para a execução do projeto de extensão intitulado \"Governança pública e otimização do controle gerencial e financeiro na Prefeitura de São João del-Rei\"\r\nO projeto está previsto em Plano de Trabalho, conforme art. 6º, §1º, do Decreto 7.423/2010, o qual faz parte do presente instrumento independentemente de transcrição.\r\nA FUNDAÇÃO DE APOIO será responsável pela gestão administrativa e financeira do projeto, conforme descrição pormenorizada no Plano de Trabalho.\r\nÉ vedada a subcontratação total do objeto do presente instrumento, bem como a subcontratação parcial que delegue a terceiros a execução do núcleo do objeto acordado.\r\n",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-11T11:56:55",
+  "dataAtualizacaoGlobal": "2025-08-26T15:43:35",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "São João del Rei",
+    "codigoUnidade": "02001",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SÃO JOÃO DEL REI",
+    "codigoIbge": "3162500"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, XV",
+    "descricao": "Dispensa de Licitação: para contratação de instituição brasileira que tenha por finalidade estatutária apoiar, captar e executar atividades de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive para gerir administrativa e financeiramente essas atividades, ou para contratação de instituição dedicada à recuperação social da pessoa presa, desde que o contratado tenha inquestionável reputação ética e profissional e não tenha fins lucrativos",
+    "codigo": 45
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "17749896000109-1-000079/2025",
+  "valorTotalEstimado": 490191.52,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "SH3 Informática Ltda."
+}

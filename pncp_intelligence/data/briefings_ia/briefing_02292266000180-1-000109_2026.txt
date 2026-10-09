@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: GOIAS TRIBUNAL DE JUSTICA DO ESTADO DE GOIAS (Goiânia/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para eventual e futura contratação de serviço de desenvolvimento, manutenção, migração, evolução e criação de sistemas de informação (fábrica de software), com objetivo de atender à demanda por sistemas, integrações, manutenções e melhorias nas soluções tecnológicas utilizadas e disponibilizadas pelo Tribunal de Justiça do Estado de Goiás – TJGO,
+VALOR ESTIMADO: R$ 36.780.000,00
+PRAZO PARA PROPOSTAS: 2026-10-15T14:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/02292266000180-1-000109/2026
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: GOIÂNIA/GO]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02292266000180/compras/2026/109/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02292266000180/compras/2026/109/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02292266000180/compras/2026/109/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02292266000180/compras/2026/109/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02292266000180/compras/2026/109/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02292266000180/compras/2026/109/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02292266000180/compras/2026/109/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços em Tecnologia da informação, Serviço de desenvolvimento, manutenção, migração, evolução e criação de sistemas d | Qtd: 400000.0 | R$ Unit: 91.95
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "02292266000180",
+    "razaoSocial": "GOIAS TRIBUNAL DE JUSTICA DO ESTADO DE GOIAS",
+    "poderId": "J",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-18T14:01:00",
+  "dataAtualizacao": "2026-09-18T14:01:00",
+  "objetoCompra": "Registro de preços para eventual e futura contratação de serviço de desenvolvimento, manutenção, migração, evolução e criação de sistemas de informação (fábrica de software), com objetivo de atender à demanda por sistemas, integrações, manutenções e melhorias nas soluções tecnológicas utilizadas e disponibilizadas pelo Tribunal de Justiça do Estado de Goiás – TJGO,",
+  "dataAberturaProposta": "2026-09-21T08:00:00",
+  "dataEncerramentoProposta": "2026-10-15T14:00:00",
+  "dataPublicacaoPncp": "2026-09-18T14:01:00",
+  "dataAtualizacaoGlobal": "2026-09-21T10:08:45",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Goiânia",
+    "codigoIbge": "5208707",
+    "codigoUnidade": "926380",
+    "nomeUnidade": "TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "02292266000180-1-000109/2026",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 109,
+  "emendaParlamentar": null,
+  "numeroCompra": "123042",
+  "processo": "202605000745101",
+  "informacaoComplementar": null,
+  "valorTotalEstimado": 36780000.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "SISLOG - Sistema de Logística de Goiás"
+}

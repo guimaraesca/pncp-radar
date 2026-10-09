@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CAXIAS DO SUL (Caxias do Sul/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços de suporte técnico para a solução de proteção de rede com características de Next Generation Firewall (NGFW) para segurança da informação, baseada no modelo de equipamento Fortigate 1100E, da fabricante Fortinet, e console de relatórios Fortianalyzer.
+VALOR ESTIMADO: R$ 34.200,00
+PRAZO PARA PROPOSTAS: 2025-04-23T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98859905900732025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88830609000139/compras/2025/205/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Auxiliar de Serviços Técnicos | Qtd: 120.0 | R$ Unit: 285.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "88830609000139",
+    "razaoSocial": "MUNICIPIO DE CAXIAS DO SUL",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 33600.0,
+  "dataInclusao": "2025-04-04T07:04:02",
+  "dataAtualizacao": "2025-04-04T07:04:02",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 205,
+  "emendaParlamentar": null,
+  "numeroCompra": "90073",
+  "processo": "2024/47571",
+  "objetoCompra": "Prestação de serviços de suporte técnico para a solução de proteção de rede com características de Next Generation Firewall (NGFW) para segurança da informação, baseada no modelo de equipamento Fortigate 1100E, da fabricante Fortinet, e console de relatórios Fortianalyzer.",
+  "informacaoComplementar": "Em caso de divergência entre as especificações do objeto contidas no Sistema SIASG e as deste Edital e seus Anexos, prevalecerão as constantes nesse último. Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=98859905900732025",
+  "dataAberturaProposta": "2025-04-04T08:00:00",
+  "dataEncerramentoProposta": "2025-04-23T09:00:00",
+  "dataPublicacaoPncp": "2025-04-04T07:04:02",
+  "dataAtualizacaoGlobal": "2025-04-23T14:05:10",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Caxias do Sul",
+    "codigoUnidade": "988599",
+    "nomeUnidade": "MRS-PREFEITURA MUNICIPAL DE CAXIAS DO SUL",
+    "codigoIbge": "4305108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "88830609000139-1-000205/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98859905900732025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 34200.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

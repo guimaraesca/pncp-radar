@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MACAE (Macaé/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: contratação de empresa especializada, devidamente autorizada pela Polícia Federal e pelo Exército Brasileiro, para prestação de serviços de apoio técnico, operacional, logístico, infraestrutural e especializado destinados à realização do curso de capacitação e avaliação em manuseio de arma de fogo dos integrantes da Guarda Municipal de Macaé, sob a supervisão técnica e pedagógica da Coordenação Pedagógica da Guarda Municipal de Macaé
+VALOR ESTIMADO: R$ 9.267.709,21
+PRAZO PARA PROPOSTAS: 2026-10-09T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98584705006352026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29115474000160/compras/2026/643/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Perícia, Laudo e Avaliação Perícia, Laudo e Avaliação | Qtd: 544.0 | R$ Unit: 319.25
+  - Item 2: Treinamento / Curso - Armamento e Tiro Treinamento / Curso - Armamento e Tiro | Qtd: 544.0 | R$ Unit: 8302.0
+  - Item 3: Treinamento Qualificação Profissional Treinamento Qualificação Profissional | Qtd: 544.0 | R$ Unit: 3868.75
+  - Item 4: Treinamento / Curso - Armamento e Tiro Treinamento / Curso - Armamento e Tiro | Qtd: 109.0 | R$ Unit: 4319.25
+  - Item 5: Treinamento / Curso - Armamento e Tiro Treinamento / Curso - Armamento e Tiro | Qtd: 109.0 | R$ Unit: 8425.0
+  - Item 6: Locação Sala / Auditório Locação Sala / Auditório | Qtd: 212.0 | R$ Unit: 5113.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "29115474000160",
+    "razaoSocial": "MUNICIPIO DE MACAE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-24T17:09:20",
+  "dataAtualizacao": "2026-09-24T17:09:20",
+  "objetoCompra": "contratação de empresa especializada, devidamente autorizada pela Polícia Federal e pelo Exército Brasileiro, para prestação de serviços de apoio técnico, operacional, logístico, infraestrutural e especializado destinados à realização do curso de capacitação e avaliação em manuseio de arma de fogo dos integrantes da Guarda Municipal de Macaé, sob a supervisão técnica e pedagógica da Coordenação Pedagógica da Guarda Municipal de Macaé",
+  "dataAberturaProposta": "2026-09-24T17:15:00",
+  "dataEncerramentoProposta": "2026-10-09T09:00:00",
+  "dataPublicacaoPncp": "2026-09-24T17:09:20",
+  "dataAtualizacaoGlobal": "2026-09-24T17:12:31",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Macaé",
+    "codigoIbge": "3302403",
+    "codigoUnidade": "985847",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE MACAE - RJ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98584705006352026",
+  "linkProcessoEletronico": "https://www.macae.rj.gov.br/sei/conteudo/titulo/principal",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "29115474000160-1-000643/2026",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 643,
+  "emendaParlamentar": null,
+  "numeroCompra": "635",
+  "processo": "SEI-002631/2025",
+  "informacaoComplementar": null,
+  "valorTotalEstimado": 9267709.21,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-24T17:09:20"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

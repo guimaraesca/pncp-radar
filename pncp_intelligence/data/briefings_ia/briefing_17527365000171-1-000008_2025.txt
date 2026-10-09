@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: GURUPI - SECRETARIA MUNICIPAL DE PLANEJAMENTO E FINANCAS (Gurupi/TO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATACAO DE EMPRESA ESPECIALIZADA EM ASSESSORIA, CONSULTORIA TECNICA, AUDITORIA FINANCEIRA TRIBUTARIA, PARA ELABORACAO DO LAUDO TECNICO AGRONOMICO VTN/2025 E INSERIR AS INFORMACOES JUNTO AO SISTEMA DA RECEITA FEDERAL DO BRASIL - CONVENIO RECEITA X MUNICIPIO DE GURUPI-TO.
+VALOR ESTIMADO: R$ 7.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/17527365000171-1-000008/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17527365000171/compras/2025/8/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATACAO DE EMPRESA ESPECIALIZADA EM ASSESSORIA, CONSULTORIA TECNICA, AUDITORIA FINANCEIRA TRIBUTARIA | Qtd: 1.0 | R$ Unit: 7000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 7000.0,
+  "orgaoEntidade": {
+    "cnpj": "17527365000171",
+    "razaoSocial": "GURUPI - SECRETARIA MUNICIPAL DE PLANEJAMENTO E FINANCAS",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-04T08:52:53",
+  "dataAtualizacao": "2025-07-04T08:52:53",
+  "numeroControlePNCP": "17527365000171-1-000008/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 8,
+  "emendaParlamentar": null,
+  "numeroCompra": "DL/2025.428-SEPLAF-GURUPI-TO",
+  "processo": "DL/2025.428-SEPLAF-GURUPI-TO",
+  "srp": false,
+  "objetoCompra": "CONTRATACAO DE EMPRESA ESPECIALIZADA EM ASSESSORIA, CONSULTORIA TECNICA, AUDITORIA FINANCEIRA TRIBUTARIA, PARA ELABORACAO DO LAUDO TECNICO AGRONOMICO VTN/2025 E INSERIR AS INFORMACOES JUNTO AO SISTEMA DA RECEITA FEDERAL DO BRASIL - CONVENIO RECEITA X MUNICIPIO DE GURUPI-TO.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-04T08:52:53",
+  "dataAtualizacaoGlobal": "2025-07-04T08:54:45",
+  "unidadeOrgao": {
+    "ufNome": "Tocantins",
+    "ufSigla": "TO",
+    "municipioNome": "Gurupi",
+    "codigoIbge": "1709500",
+    "codigoUnidade": "1300",
+    "nomeUnidade": "SECRETARIA MUNICIPAL DE PLANEJAMENTO E FINANCAS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Modalidade presencial escolhida por critérios de oportunidade e conveniência",
+  "valorTotalEstimado": 7000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "KP SISTEMAS DE INFORMACAO PARA GESTAO PUBLICA MUNICIPAL LTDA"
+}

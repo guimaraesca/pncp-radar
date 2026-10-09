@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BOA VISTA (Boa Vista/RR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento de Sistema voltado para a Gestão Integrada dos resíduos sólidos municipais, na modalidade SAAS (software como serviço), para atender as necessidades da Secretaria Municipal de Meio Ambiente do município de Boa Vista – RR.
+VALOR ESTIMADO: R$ 3.785.367,04
+PRAZO PARA PROPOSTAS: 2025-08-18T09:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98030105900852025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05943030000155/compras/2025/197/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de Instalação, Transição e Configuração / Parametrização de Software | Qtd: 12.0 | R$ Unit: 213666.67
+  - Item 2: Serviços de Instalação, Transição e Configuração / Parametrização de Software | Qtd: 1.0 | R$ Unit: 141466.67
+  - Item 3: Serviços de Instalação, Transição e Configuração / Parametrização de Software | Qtd: 1.0 | R$ Unit: 98233.33
+  - Item 4: Serviços de Instalação, Transição e Configuração / Parametrização de Software | Qtd: 100.0 | R$ Unit: 376.67
+  - Item 5: Serviços de Instalação, Transição e Configuração / Parametrização de Software | Qtd: 2000.0 | R$ Unit: 472.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 2853000.0,
+  "orgaoEntidade": {
+    "cnpj": "05943030000155",
+    "razaoSocial": "MUNICIPIO DE BOA VISTA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-08-04T07:22:38",
+  "dataInclusao": "2025-08-04T07:22:38",
+  "numeroControlePNCP": "05943030000155-1-000197/2025",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 197,
+  "emendaParlamentar": null,
+  "numeroCompra": "90085",
+  "processo": "005061/2025 SEMMA",
+  "dataEncerramentoProposta": "2025-08-18T09:30:00",
+  "objetoCompra": "Contratação de empresa especializada para o fornecimento de Sistema voltado para a Gestão Integrada dos resíduos sólidos municipais, na modalidade SAAS (software como serviço), para atender as necessidades da Secretaria Municipal de Meio Ambiente do município de Boa Vista – RR.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=98030105900852025",
+  "dataAberturaProposta": "2025-08-04T09:00:00",
+  "dataPublicacaoPncp": "2025-08-04T07:22:38",
+  "dataAtualizacaoGlobal": "2025-11-18T11:04:07",
+  "unidadeOrgao": {
+    "ufNome": "Roraima",
+    "ufSigla": "RR",
+    "municipioNome": "Boa Vista",
+    "codigoUnidade": "980301",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE BOA VISTA - RR",
+    "codigoIbge": "1400100"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98030105900852025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "valorTotalEstimado": 3785367.04
+}

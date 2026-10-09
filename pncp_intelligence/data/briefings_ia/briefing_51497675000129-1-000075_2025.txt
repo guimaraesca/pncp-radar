@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: POMPEIA CAMARA MUNICIPAL (Pompéia/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de Licença de Uso de Plataforma de Ferramentas de Inteligência Artificial (IA), destinadas ao uso dos servidores da Câmara Municipal de Pompeia.
+VALOR ESTIMADO: R$ 2.856,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://siap.pompeia.sp.gov.br/portal-transparencia/licitacoes/processo/32563
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/51497675000129/compras/2025/75/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LICENÇA DE USO DE PLATAFORMA DE FERRAMENTAS DE INTELIGÊNCIA ARTIFICIAL (IA)
+Especificação: Aquisição de Licença de Uso d | Qtd: 2.0 | R$ Unit: 1428.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "51497675000129",
+    "razaoSocial": "POMPEIA CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-05T09:28:48",
+  "dataAtualizacao": "2025-08-05T09:28:48",
+  "numeroControlePNCP": "51497675000129-1-000075/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 75,
+  "emendaParlamentar": null,
+  "numeroCompra": "76",
+  "processo": "PC 000077/2025",
+  "objetoCompra": "Aquisição de Licença de Uso de Plataforma de Ferramentas de Inteligência Artificial (IA), destinadas ao uso dos servidores da Câmara Municipal de Pompeia.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T09:28:48",
+  "dataAtualizacaoGlobal": "2025-08-05T09:28:55",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Pompéia",
+    "codigoIbge": "3540002",
+    "codigoUnidade": "1",
+    "nomeUnidade": "GERAL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://siap.pompeia.sp.gov.br/portal-transparencia/licitacoes/processo/32563",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "FUNDAMENTADO NO INCISO II DO ART 75 DALEI 14.133/2021, ATO DA MESA Nº 18 DE 19 DE DEZEMBRO DE 2024 E PARAGRAFO UNICO DO ARTIGO 33 DO DECRETO MUNICIPAL 6.158, DE 09 DE FEVEREIRO DE 2024.",
+  "valorTotalEstimado": 2856.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "EMBRAS - EMPRESA BRASILEIRA DE TECNOLOGIA LTDA"
+}

@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MANHUACU (Manhuaçu/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição futura de equipamentos eletrônicos, tecnológicos, de informática, comunicação,
+infraestrutura de TI e ferramentas elétricas portáteis, destinados ao atendimento das necessidades das Secretarias Municipais da Prefeitura de Manhuaçu/MG, para garantir a continuidade e disponibilidade dos serviços.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-16T08:00:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]lsBqnnIUUxOxMmlHA2hFVIVjcbUJltqjUW911G0zNouoeoVYwwYsS2yhxs3nGOzbUOnrr6v4czMKukX3XcQzbEyXd0zWD6FSDveuLqRs8yk=
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18385088000172/compras/2026/166/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LEITOR DIGITAL DE LIVROS EREADER  LEITOR DIGITAL DE LIVROS EREADER, com tela de tinta eletrônica EInk ou tecnologia equi | Qtd: 15.0 | R$ Unit: 0.0
+  - Item 2: APARELHO TELEFÔNICO MÓVEL smartphone  APARELHO TELEFÔNICO MÓVEL smartphone no mínimo com as seguintes especificações: Te | Qtd: 37.0 | R$ Unit: 0.0
+  - Item 3: SMARTPHONE DE ALTO DESEMPENHO  SMARTPHONE DE ALTO DESEMPENHOdestinado à captação de imagens, produção de conteúdo audiov | Qtd: 10.0 | R$ Unit: 0.0
+  - Item 4: MICROFONE DE LAPELA SEM FIO  MICROFONE DE LAPELA SEM FIOcomposto por transmissor e receptor, com captação omnidirecional | Qtd: 8.0 | R$ Unit: 0.0
+  - Item 5: CARTAO DE MEMORIA DE ALTA VELOCIDADE  CARTAO DE MEMORIA DE ALTA VELOCIDADEpadrão CF express Tipo A, com no mínimo 240GB  | Qtd: 8.0 | R$ Unit: 0.0
+  - Item 6: ESTRUTURA TIPO CAGE gaiola  ESTRUTURA TIPO CAGE gaiolapara câmera digital, destinada à proteção e expansão de montagem d | Qtd: 2.0 | R$ Unit: 0.0
+  - Item 7: BATERIA RECARREGAVEL  BATERIA RECARREGAVELpara câmera digital Original Npfz100 compatível com a câmera Sony FX30.O equip | Qtd: 5.0 | R$ Unit: 0.0
+  - Item 8: SSD PORTÁTIL EXTERNO  SSD PORTÁTIL EXTERNOUnidade de armazenamento portátil do tipo SSD Solid State Drive, com capacidad | Qtd: 4.0 | R$ Unit: 0.0
+  - Item 9: CARREGADOR DUPLO PARA BATERIA   CARREGADOR DUPLO PARA BATERIA original Npfz100 compatível com a câmera Sony FX30, modelo | Qtd: 2.0 | R$ Unit: 0.0
+  - Item 10: ILUMINADOR CONTÍNUO DO TIPO LED  ILUMINADOR CONTÍNUO DO TIPO LED destinado ao uso em vídeo e fotografia, adequado para i | Qtd: 3.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "18385088000172",
+    "razaoSocial": "MUNICIPIO DE MANHUACU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-25T07:39:08",
+  "dataAtualizacao": "2026-09-25T07:39:08",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 166,
+  "emendaParlamentar": null,
+  "numeroCompra": "62",
+  "processo": "14065/2026",
+  "objetoCompra": "Aquisição futura de equipamentos eletrônicos, tecnológicos, de informática, comunicação,\r\ninfraestrutura de TI e ferramentas elétricas portáteis, destinados ao atendimento das necessidades das Secretarias Municipais da Prefeitura de Manhuaçu/MG, para garantir a continuidade e disponibilidade dos serviços.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-25T08:00:00",
+  "dataEncerramentoProposta": "2026-10-16T08:00:00",
+  "dataPublicacaoPncp": "2026-09-25T07:39:08",
+  "dataAtualizacaoGlobal": "2026-09-25T07:39:09",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Manhuaçu",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE MANHUAÇU - MG",
+    "codigoIbge": "3139409"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]lsBqnnIUUxOxMmlHA2hFVIVjcbUJltqjUW911G0zNouoeoVYwwYsS2yhxs3nGOzbUOnrr6v4czMKukX3XcQzbEyXd0zWD6FSDveuLqRs8yk=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "18385088000172-1-000166/2026",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

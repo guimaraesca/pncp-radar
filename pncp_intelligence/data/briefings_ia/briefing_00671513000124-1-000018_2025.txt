@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: DEFENSORIA PUBLICA DO ESTADO DO ESPIRITO SANTO (Vitória/ES)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE ALIMENTAÇÃO -  ALMOÇO, VISANDO ATENDER O PLANEJAMENTO ESTRATÉGICO A SE REALIZAR NO DIA 28 DE MARÇO DE 2025.
+VALOR ESTIMADO: R$ 3.151,50
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/00671513000124-1-000018/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00671513000124/compras/2025/18/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ALMOCO - PLANEJAMENTO ESTRATEGICO | Qtd: 30.0 | R$ Unit: 105.05
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 1914.0,
+  "orgaoEntidade": {
+    "cnpj": "00671513000124",
+    "razaoSocial": "DEFENSORIA PUBLICA DO ESTADO DO ESPIRITO SANTO",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "dataInclusao": "2025-03-25T10:58:15",
+  "dataAtualizacao": "2025-03-25T10:58:15",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "E & L PRODUCOES DE SOFTWARE LTDA",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-25T10:58:15",
+  "dataAtualizacaoGlobal": "2025-03-25T10:58:35",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Vitória",
+    "codigoIbge": "3205309",
+    "codigoUnidade": "00671513000124-001",
+    "nomeUnidade": "DEFENSORIA PUBLICA DO ESTADO DO ESPIRITO SANTO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Conforme Processo",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 18,
+  "emendaParlamentar": null,
+  "numeroCompra": "000006",
+  "processo": "000287/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE ALIMENTAÇÃO -  ALMOÇO, VISANDO ATENDER O PLANEJAMENTO ESTRATÉGICO A SE REALIZAR NO DIA 28 DE MARÇO DE 2025.",
+  "informacaoComplementar": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE ALIMENTAÇÃO -  ALMOÇO, VISANDO ATENDER O PLANEJAMENTO ESTRATÉGICO A SE REALIZAR NO DIA 28 DE MARÇO DE 2025.",
+  "numeroControlePNCP": "00671513000124-1-000018/2025",
+  "valorTotalEstimado": 3151.5,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

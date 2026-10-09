@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO TRIANGULO MINEIRO (Uberaba/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE SERVIÇO DE LICENÇA PARA FIREWALL (RENOVAçãO DA LICENçA UTP BUNDLE PARA O FIREWALL FORTIGATE FG300E, SERIAL FG3H0E5818901883)- CAMPUS PATROCINIO
+VALOR ESTIMADO: R$ 46.416,92
+PRAZO PARA PROPOSTAS: 2025-08-14T07:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/10695891000100-1-000076/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10695891000100/compras/2025/76/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 1.0 | R$ Unit: 46416.92
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 45500.0,
+  "orgaoEntidade": {
+    "cnpj": "10695891000100",
+    "razaoSocial": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO TRIANGULO MINEIRO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataAtualizacao": "2025-08-08T18:36:21",
+  "dataInclusao": "2025-08-08T18:36:21",
+  "numeroControlePNCP": "10695891000100-1-000076/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 76,
+  "emendaParlamentar": null,
+  "numeroCompra": "90026",
+  "processo": "23423003445202532",
+  "dataEncerramentoProposta": "2025-08-14T07:59:59",
+  "objetoCompra": "CONTRATAÇÃO DE SERVIÇO DE LICENÇA PARA FIREWALL (RENOVAçãO DA LICENçA UTP BUNDLE PARA O FIREWALL FORTIGATE FG300E, SERIAL FG3H0E5818901883)- CAMPUS PATROCINIO",
+  "informacaoComplementar": "Contração valor baixo inferior ao limite",
+  "dataAberturaProposta": "2025-08-08T18:36:18",
+  "dataPublicacaoPncp": "2025-08-08T18:36:21",
+  "dataAtualizacaoGlobal": "2025-08-20T16:11:53",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Uberaba",
+    "codigoUnidade": "158099",
+    "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO TRIA.MINEIRO",
+    "codigoIbge": "3170107"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "valorTotalEstimado": 46416.92
+}

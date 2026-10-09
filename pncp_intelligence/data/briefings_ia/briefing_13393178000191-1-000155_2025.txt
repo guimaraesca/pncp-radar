@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE HELIOPOLIS (Heliópolis/BA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [LICITANET] - Contratação de empresa para gerenciar / organizar / realizar curso preparatório intensivo com foco no exame nacional do ensino médio – ENEM 2025, para jovens do programa “Aprova Heliópolis”.
+VALOR ESTIMADO: R$ 61.080,60
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/WkplbW01aW0=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13393178000191/compras/2025/155/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13393178000191/compras/2025/155/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13393178000191/compras/2025/155/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 6252994: OFERECER EQUIPE DE PROFESSORES GABARITADOS E CAPACITADOS E COM EXPERIÊNCIA EM CURSINHOS PRÉ-VESTIBULARES/ENEM/ENSINO MÉD | Qtd: 60.0 | R$ Unit: 546.67
+  - Item 6252995: COORDENAÇÃO PEDAGÓGICA E SECRETÁRIO (A) ADMINISTRATIVO (PERÍODO COMPREENDIDO ENTRE AS INSCRIÇÕES DOS CURSISTAS E O TÉRMI | Qtd: 120.0 | R$ Unit: 235.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 60000.0,
+  "orgaoEntidade": {
+    "cnpj": "13393178000191",
+    "razaoSocial": "MUNICIPIO DE HELIOPOLIS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-08-05T13:22:52",
+  "dataInclusao": "2025-08-05T13:22:52",
+  "numeroControlePNCP": "13393178000191-1-000155/2025",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 155,
+  "emendaParlamentar": null,
+  "numeroCompra": "033",
+  "processo": "139/2025",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "[LICITANET] - Contratação de empresa para gerenciar / organizar / realizar curso preparatório intensivo com foco no exame nacional do ensino médio – ENEM 2025, para jovens do programa “Aprova Heliópolis”.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T13:22:52",
+  "dataAtualizacaoGlobal": "2025-08-18T13:33:57",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Heliópolis",
+    "codigoUnidade": "1072",
+    "nomeUnidade": "MUNICÍPIO DE HELIÓPOLIS/BA",
+    "codigoIbge": "2911857"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/WkplbW01aW0=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA",
+  "valorTotalEstimado": 61080.6
+}

@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE TURURU (Tururu/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA PARA SERVIÇOS DE ASSESSORIA ESPECIALIZADA NAS ÁREAS DE GESTÃO, PLANEJAMENTO, ANÁLISE DE CONTINGÊNCIA, ENCARGOS DE PESSOAL E REPASSES CONSTITUCIONAIS, INSTRUMENTOS DE TRANSPARÊNCIA (LDO/LOA) E AUDIÊNCIAS PÚBLICAS EM CONFORMIDADE COM A LEI DE RESPONSABILIDADE FISCAL (LRF), COM O OBJETIVO DE APRIMORAR A GOVERNANÇA PÚBLICA E GARANTIR O CUMPRIMENTO DAS NORMAS LEGAIS E REGULATÓRIAS APLICÁVEIS AOS PROCESSOS ORÇAMENTÁRIOS, FINANCEIROS E DE GESTÃO DE PESSOAL, VISANDO ATENDER ÀS NECESSIDADES DAS SECRETARIAS DO MUNICÍPIO DE TURURU.
+VALOR ESTIMADO: R$ 271.600,20
+PRAZO PARA PROPOSTAS: 2025-04-24T08:59:00
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/5e18fc38d8fe4e169cedcf7a9934e7d2/contratacao-de-empresa-para-servicos-de-assessoria
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10517878000152/compras/2025/16/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10517878000152/compras/2025/16/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS DE ASSESSORIA ESPECIALIZADA NAS ÁREAS DE GESTÃO, PLANEJAMENTO, ANÁLISE DE CONTINGÊNCIA, ENCARGOS DE PESSOAL E R | Qtd: 12.0 | R$ Unit: 3066.67
+  - Item 2: SERVIÇOS DE ASSESSORIA ESPECIALIZADA NAS ÁREAS DE GESTÃO, PLANEJAMENTO, ANÁLISE DE CONTINGÊNCIA, ENCARGOS DE PESSOAL E R | Qtd: 12.0 | R$ Unit: 3016.67
+  - Item 3: SERVIÇOS DE ASSESSORIA ESPECIALIZADA NAS ÁREAS DE GESTÃO, PLANEJAMENTO, ANÁLISE DE CONTINGÊNCIA, ENCARGOS DE PESSOAL E R | Qtd: 12.0 | R$ Unit: 3716.67
+  - Item 4: SERVIÇOS DE ASSESSORIA ESPECIALIZADA NAS ÁREAS DE GESTÃO, PLANEJAMENTO, ANÁLISE DE CONTINGÊNCIA, ENCARGOS DE PESSOAL E R | Qtd: 12.0 | R$ Unit: 3750.0
+  - Item 5: SERVIÇOS DE ASSESSORIA ESPECIALIZADA NAS ÁREAS DE GESTÃO, PLANEJAMENTO, ANÁLISE DE CONTINGÊNCIA, ENCARGOS DE PESSOAL E R | Qtd: 12.0 | R$ Unit: 2916.67
+  - Item 6: SERVIÇOS DE ASSESSORIA ESPECIALIZADA NAS ÁREAS DE GESTÃO, PLANEJAMENTO, ANÁLISE DE CONTINGÊNCIA, ENCARGOS DE PESSOAL E R | Qtd: 12.0 | R$ Unit: 3100.0
+  - Item 7: SERVIÇOS DE ASSESSORIA ESPECIALIZADA NAS ÁREAS DE GESTÃO, PLANEJAMENTO, ANÁLISE DE CONTINGÊNCIA, ENCARGOS DE PESSOAL E R | Qtd: 12.0 | R$ Unit: 3066.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 222000.0,
+  "orgaoEntidade": {
+    "cnpj": "10517878000152",
+    "razaoSocial": "MUNICIPIO DE TURURU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-04-07T10:15:22",
+  "dataAtualizacao": "2025-04-07T10:15:22",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 16,
+  "emendaParlamentar": null,
+  "numeroCompra": "01.07.04.25.001",
+  "processo": "0000120250108000700",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇOS DE ASSESSORIA ESPECIALIZADA NAS ÁREAS DE GESTÃO, PLANEJAMENTO, ANÁLISE DE CONTINGÊNCIA, ENCARGOS DE PESSOAL E REPASSES CONSTITUCIONAIS, INSTRUMENTOS DE TRANSPARÊNCIA (LDO/LOA) E AUDIÊNCIAS PÚBLICAS EM CONFORMIDADE COM A LEI DE RESPONSABILIDADE FISCAL (LRF), COM O OBJETIVO DE APRIMORAR A GOVERNANÇA PÚBLICA E GARANTIR O CUMPRIMENTO DAS NORMAS LEGAIS E REGULATÓRIAS APLICÁVEIS AOS PROCESSOS ORÇAMENTÁRIOS, FINANCEIROS E DE GESTÃO DE PESSOAL, VISANDO ATENDER ÀS NECESSIDADES DAS SECRETARIAS DO MUNICÍPIO DE TURURU.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-07T00:00:00",
+  "dataEncerramentoProposta": "2025-04-24T08:59:00",
+  "dataPublicacaoPncp": "2025-04-07T10:15:22",
+  "dataAtualizacaoGlobal": "2025-11-17T10:36:26",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Tururu",
+    "codigoUnidade": "202501",
+    "nomeUnidade": "SECRETARIA DE ADMINISTRAÇÃO E FINANÇAS",
+    "codigoIbge": "2313559"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/5e18fc38d8fe4e169cedcf7a9934e7d2/contratacao-de-empresa-para-servicos-de-assessoria",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "10517878000152-1-000016/2025",
+  "valorTotalEstimado": 271600.2,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

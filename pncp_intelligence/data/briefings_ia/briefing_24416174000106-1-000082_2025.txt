@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO (Recife/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de equipamentos de conectividade compreendendo firewall, switch e access points para a Universidade Federal Rural de Pernambuco (UFRPE).
+VALOR ESTIMADO: R$ 61.250,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/24416174000106-1-000082/2025
+BASE LOGÍSTICA COMPATÍVEL: Recife (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: RECIFE/PE]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24416174000106/compras/2025/82/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24416174000106/compras/2025/82/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Firewall aplicação: segurança rede computadores, modelo: apliance ngfw FIREWALL APLICAÇÃO: SEGURANÇA REDE COMPUTADORES M | Qtd: 1.0 | R$ Unit: 9300.0
+  - Item 2: Switch quantidade portas: 24, tipo portas: 10/100/1000 base t, rj45.4, 4 ethernet mini-gbic, velocidade porta: 1000 mbps | Qtd: 3.0 | R$ Unit: 4800.0
+  - Item 3: Equipamento Wireless padrão: 802.11 a/b/g/n/ac, frequência: 5  - 2,4, aplicação: conexão sem fio de equipamentos em rede | Qtd: 35.0 | R$ Unit: 890.0
+  - Item 4: Ponto De Acesso tipo: wi-fi 6, dual band simultâneo, padrão: ieee 802.11 ax/ac/n/g/b/a, características adicionais: múlt | Qtd: 5.0 | R$ Unit: 1280.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "24416174000106",
+    "razaoSocial": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 61250.0,
+  "dataInclusao": "2025-07-03T15:02:54",
+  "dataAtualizacao": "2025-07-03T15:02:54",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Recife",
+    "codigoUnidade": "153165",
+    "nomeUnidade": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+    "codigoIbge": "2611606"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 82,
+  "emendaParlamentar": null,
+  "numeroCompra": "525",
+  "processo": "23082.016762/2025-27",
+  "objetoCompra": "Aquisição de equipamentos de conectividade compreendendo firewall, switch e access points para a Universidade Federal Rural de Pernambuco (UFRPE).",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-03T15:02:54",
+  "dataAtualizacaoGlobal": "2025-07-03T15:06:28",
+  "numeroControlePNCP": "24416174000106-1-000082/2025",
+  "valorTotalEstimado": 61250.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

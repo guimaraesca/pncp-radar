@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DE ESTADO DA EDUCACAO DO ESPORTE E DA CULTURA (Aracaju/SE)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: AUMENTO DE CARGA DE ENERGIA, INSTALAÇÃO DE PONTO ELÉTRICO DE FORÇA DE ADEQUAÇÃO DE AMBIENTES DE 02 ESCOLAS ESTADUAIS
+VALOR ESTIMADO: R$ 628.067,69
+PRAZO PARA PROPOSTAS: 2025-04-14T09:00:00
+LINK OFICIAL: https://sistema.comprasnet.se.gov.br/publico/WKF.aspx?code=SEED-CE0015/2024&validation=45877
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/34841195000114/compras/2024/56/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/34841195000114/compras/2024/56/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 101: INSTALACAO DE ESTRUTURA ELETRICA - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DA OBRA DE AUMENTO DE CARGA DE ENE | Qtd: 1.0 | R$ Unit: 322971.92
+  - Item 102: INSTALACAO DE ESTRUTURA ELETRICA - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DA OBRA DE AUMENTO DE CARGA DE ENE | Qtd: 1.0 | R$ Unit: 305095.77
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "34841195000114",
+    "razaoSocial": "SECRETARIA DE ESTADO DA EDUCACAO DO ESPORTE E DA CULTURA",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-06-20T09:52:33",
+  "dataAtualizacao": "2025-06-20T09:52:33",
+  "unidadeOrgao": {
+    "ufNome": "Sergipe",
+    "ufSigla": "SE",
+    "municipioNome": "Aracaju",
+    "codigoUnidade": "34841195000114",
+    "nomeUnidade": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
+    "codigoIbge": "2800308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://sistema.comprasnet.se.gov.br/publico/WKF.aspx?code=SEED-CE0015/2024&validation=45877",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2024,
+  "srp": false,
+  "sequencialCompra": 56,
+  "emendaParlamentar": null,
+  "numeroCompra": "CE0015",
+  "processo": "CE0015/2024",
+  "objetoCompra": "AUMENTO DE CARGA DE ENERGIA, INSTALAÇÃO DE PONTO ELÉTRICO DE FORÇA DE ADEQUAÇÃO DE AMBIENTES DE 02 ESCOLAS ESTADUAIS",
+  "informacaoComplementar": "A ANÁLISE TÉCNICA DAS INSTALAÇÕES ELÉTRICAS DO COLÉGIO ESTADUAL FELIPE TIAGO GOMES, LOCALIZADO EM MARUIM, E DO CENTRO DE EXCELÊNCIA DOUTOR JOÃO DE MELO PRADO, LOCALIZADO EM DIVINA PASTORA, EVIDENCIA A INSUFICIÊNCIA DA CAPACIDADE DE SUAS REDES ELÉTRICAS PARA ATENDER À DEMANDA ENERGÉTICA ATUAL, ALÉM DE IMPOSSIBILITAR A INSTALAÇÃO E O FUNCIONAMENTO ADEQUADO DE APARELHOS DE AR CONDICIONADO. ESSA LIMITAÇÃO ESTRUTURAL REPRESENTA UMA BARREIRA SIGNIFICATIVA AO ATENDIMENTO DE UMA NECESSIDADE EXPRESSA POR ALUNOS E PROFISSIONAIS DA EDUCAÇÃO E, AO PERMANECER SEM SOLUÇÃO, TEM CAUSADO IMPACTOS NEGATIVOS IMPORTANTES, COMO O DESLOCAMENTO DA COMUNIDADE ESCOLAR PARA OUTRAS INSTITUIÇÕES E O CONSEQUENTE AUMENTO DA EVASÃO ESCOLAR.",
+  "dataAberturaProposta": "2025-04-14T09:00:00",
+  "dataEncerramentoProposta": "2025-04-14T09:00:00",
+  "dataPublicacaoPncp": "2025-06-20T09:52:33",
+  "dataAtualizacaoGlobal": "2025-06-20T09:58:27",
+  "numeroControlePNCP": "34841195000114-1-000056/2024",
+  "valorTotalEstimado": 628067.69,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ASJB Consultoria S/C Ltda"
+}

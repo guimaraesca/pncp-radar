@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO INTERMUNICIPAL BRASIL CENTRAL/GO (Goiânia/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de Preços para a futura e eventual contratação de empresa especializada na prestação de solução tecnológica, em regime de software como serviço (SaaS), de apoio à gestão dos fatores de risco psicossocial relacionados ao trabalho (FRPRT), integrada ao Gerenciamento de Riscos Ocupacionais (GRO) e ao Programa de Gerenciamento de Riscos (PGR), para atendimento das demandas dos municípios vinculados ao CIABC/GO
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-07T12:50:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/18443577000133-1-000028/2026
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: GOIÂNIA/GO]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18443577000133/compras/2026/28/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18443577000133/compras/2026/28/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licença de uso de plataforma digital, em regime de software como serviço (SaaS), devida mensalmente por cada município c | Qtd: 312.0 | R$ Unit: 0.0
+  - Item 2: Aplicação do instrumento de avaliação dos FRPRT cientificamente validado, emissão de relatório técnico assinado por resp | Qtd: 160296.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "18443577000133",
+    "razaoSocial": "CONSORCIO INTERMUNICIPAL BRASIL CENTRAL/GO",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-23T20:02:21",
+  "dataAtualizacao": "2026-09-23T20:02:21",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 28,
+  "emendaParlamentar": null,
+  "numeroCompra": "025/2026",
+  "processo": "032.08.2026",
+  "objetoCompra": "Registro de Preços para a futura e eventual contratação de empresa especializada na prestação de solução tecnológica, em regime de software como serviço (SaaS), de apoio à gestão dos fatores de risco psicossocial relacionados ao trabalho (FRPRT), integrada ao Gerenciamento de Riscos Ocupacionais (GRO) e ao Programa de Gerenciamento de Riscos (PGR), para atendimento das demandas dos municípios vinculados ao CIABC/GO",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-23T20:30:00",
+  "dataEncerramentoProposta": "2026-10-07T12:50:00",
+  "dataPublicacaoPncp": "2026-09-23T20:02:21",
+  "dataAtualizacaoGlobal": "2026-09-23T20:02:28",
+  "numeroControlePNCP": "18443577000133-1-000028/2026",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Goiânia",
+    "codigoUnidade": "54438",
+    "nomeUnidade": "CONSORCIO INTERFEDERATIVO AUTARQUICO BRASIL CENTRAL (CIABC/GO)",
+    "codigoIbge": "5208707"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações"
+}

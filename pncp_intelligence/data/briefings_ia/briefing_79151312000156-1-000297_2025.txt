@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: UNIVERSIDADE ESTADUAL DE MARINGA (Maringá/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de profissional, pessoa física ou jurídica, para prestação de serviço técnico de ANALISTA DE BUSINESS INTELLIGENCE, e em áreas interrelacionadas do HUM.
+VALOR ESTIMADO: R$ 38.400,00
+PRAZO PARA PROPOSTAS: 2025-07-10T08:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92676405900522025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/79151312000156/compras/2025/297/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço Especializado de Business Inteligence (BI) | Qtd: 1200.0 | R$ Unit: 32.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 38328.0,
+  "orgaoEntidade": {
+    "cnpj": "79151312000156",
+    "razaoSocial": "UNIVERSIDADE ESTADUAL DE MARINGA",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-06-18T07:39:57",
+  "dataAtualizacao": "2025-06-25T08:18:01",
+  "numeroControlePNCP": "79151312000156-1-000297/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 297,
+  "emendaParlamentar": null,
+  "numeroCompra": "90052",
+  "processo": "24.016.190-7",
+  "objetoCompra": "Contratação de profissional, pessoa física ou jurídica, para prestação de serviço técnico de ANALISTA DE BUSINESS INTELLIGENCE, e em áreas interrelacionadas do HUM.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=92676405900522025",
+  "dataAberturaProposta": "2025-06-25T08:00:00",
+  "dataEncerramentoProposta": "2025-07-10T08:30:00",
+  "dataPublicacaoPncp": "2025-06-18T07:39:57",
+  "dataAtualizacaoGlobal": "2025-08-18T08:13:19",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Maringá",
+    "codigoIbge": "4115200",
+    "codigoUnidade": "926764",
+    "nomeUnidade": "UNIVERSIDADE ESTADUAL DE MARINGA - PR"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92676405900522025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 38400.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

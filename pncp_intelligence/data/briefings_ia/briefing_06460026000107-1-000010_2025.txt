@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE LAGO DO JUNCO (Lago do Junco/MA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para Prestação de serviços e apoio administrativo, consultoria técnica e orientação no controle interno e rotinas administrativas de interesse da Secretaria Municipal de Administração e Planejamento do Município de Lago do Junco - MA
+VALOR ESTIMADO: R$ 62.666,60
+PRAZO PARA PROPOSTAS: 2025-02-11T18:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/06460026000107-1-000010/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06460026000107/compras/2025/10/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa para Prestação de serviços e apoio administrativo, consultoria técnica e orientação no controle i | Qtd: 10.0 | R$ Unit: 6266.66
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 58000.0,
+  "orgaoEntidade": {
+    "cnpj": "06460026000107",
+    "razaoSocial": "MUNICIPIO DE LAGO DO JUNCO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-24T14:43:09",
+  "dataAtualizacao": "2025-03-24T14:43:09",
+  "numeroControlePNCP": "06460026000107-1-000010/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 10,
+  "emendaParlamentar": null,
+  "numeroCompra": "007/2025",
+  "processo": "0302.01/2025",
+  "srp": false,
+  "objetoCompra": "Contratação de empresa para Prestação de serviços e apoio administrativo, consultoria técnica e orientação no controle interno e rotinas administrativas de interesse da Secretaria Municipal de Administração e Planejamento do Município de Lago do Junco - MA",
+  "informacaoComplementar": ".",
+  "dataAberturaProposta": "2025-02-06T17:00:00",
+  "dataEncerramentoProposta": "2025-02-11T18:00:00",
+  "dataPublicacaoPncp": "2025-03-24T14:43:09",
+  "dataAtualizacaoGlobal": "2025-03-24T14:45:59",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "Lago do Junco",
+    "codigoIbge": "2105807",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Prefeitura Municipal de Lago do Junco"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 62666.6,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Ascontech Solutions"
+}

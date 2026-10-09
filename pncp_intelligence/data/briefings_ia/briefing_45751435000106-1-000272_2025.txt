@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PAULINIA (Paulínia/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Consultoria técnica na elaboração do Plano Municipal pela Primeira Infância do Município de Paulínia
+VALOR ESTIMADO: R$ 23.000,00
+PRAZO PARA PROPOSTAS: 2025-08-13T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/45751435000106-1-000272/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas (Até 50 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | Paulínia/SP (18km)]
+DISTÂNCIA ESTIMADA DA BASE: 18 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45751435000106/compras/2025/272/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS TÉCNICOS ESPECIALIZADOS DE CONSULTORIA | Qtd: 1.0 | R$ Unit: 23000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "45751435000106",
+    "razaoSocial": "MUNICIPIO DE PAULINIA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 16680.0,
+  "dataInclusao": "2025-08-07T08:00:31",
+  "dataAtualizacao": "2025-08-07T08:00:31",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 272,
+  "emendaParlamentar": null,
+  "numeroCompra": "22467",
+  "processo": "22467/2025",
+  "objetoCompra": "Consultoria técnica na elaboração do Plano Municipal pela Primeira Infância do Município de Paulínia",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-08-07T00:01:00",
+  "dataEncerramentoProposta": "2025-08-13T08:00:00",
+  "dataPublicacaoPncp": "2025-08-07T08:00:31",
+  "dataAtualizacaoGlobal": "2025-08-26T16:27:48",
+  "numeroControlePNCP": "45751435000106-1-000272/2025",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Paulínia",
+    "codigoUnidade": "1",
+    "nomeUnidade": "MUNICIPIO DE PAULINIA",
+    "codigoIbge": "3536505"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "valorTotalEstimado": 23000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "SMARAPD INFORMATICA LTDA"
+}

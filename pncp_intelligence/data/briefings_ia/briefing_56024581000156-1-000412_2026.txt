@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RIBEIRAO PRETO (Ribeirão Preto/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento de licenças anuais da ferramenta de Business Intelligence (BI), desenvolvido pela Microsoft, Power BI Premium por usuário (PPU), para a Secretaria Municipal da Saúde, conforme edital e seus anexos.
+VALOR ESTIMADO: R$ 267.327,50
+PRAZO PARA PROPOSTAS: 2026-10-09T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98696905002462026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/56024581000156/compras/2026/412/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como Servico - Saas Software como Servico - Saas | Qtd: 1.0 | R$ Unit: 267327.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "56024581000156",
+    "razaoSocial": "MUNICIPIO DE RIBEIRAO PRETO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-23T16:35:37",
+  "dataAtualizacao": "2026-09-23T16:35:37",
+  "anoCompra": 2026,
+  "sequencialCompra": 412,
+  "emendaParlamentar": null,
+  "numeroCompra": "246",
+  "processo": "066772/2026",
+  "objetoCompra": "Contratação de empresa especializada para o fornecimento de licenças anuais da ferramenta de Business Intelligence (BI), desenvolvido pela Microsoft, Power BI Premium por usuário (PPU), para a Secretaria Municipal da Saúde, conforme edital e seus anexos.",
+  "informacaoComplementar": "Em caso de discordância existente entre as especificações deste objeto descritas no Portal de Compras do Governo Federal e as especificações constantes no Edital, prevalecerão as últimas.",
+  "dataAberturaProposta": "2026-09-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-09T09:00:00",
+  "dataPublicacaoPncp": "2026-09-23T16:35:37",
+  "dataAtualizacaoGlobal": "2026-09-23T16:36:40",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Ribeirão Preto",
+    "codigoIbge": "3543402",
+    "codigoUnidade": "986969",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE RIBEIRAO PRETO - SP"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98696905002462026",
+  "linkProcessoEletronico": "https://processodigital.ribeiraopreto.sp.gov.br/atendimento/inicio",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "56024581000156-1-000412/2026",
+  "srp": false,
+  "valorTotalEstimado": 267327.5,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T16:35:38"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

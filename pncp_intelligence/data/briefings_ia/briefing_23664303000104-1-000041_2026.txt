@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: DME DISTRIBUICAO S.A. - DMED (Poços de Caldas/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: LICENÇAS PERPÉTUAS DO ORACLE DATABASE STANDARD EDITION 2 (19C), modalidade processor, com atualização e suporte oficial, para atendimento ao ambiente de produção do ERP corporativo, conforme especificações, quantidades e condições estabelecidas no ANEXO IV, e demais anexos do Edital.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-20T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92668105000092026
+BASE LOGÍSTICA COMPATÍVEL: Campinas (100 a 200 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | Poços de Caldas/MG (150km)]
+DISTÂNCIA ESTIMADA DA BASE: 150 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23664303000104/compras/2026/41/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de Garantia de Equipamentos de TIC Licenças Oracle Database Standard Edition 2 (19c) -   Descrição: Licença per | Qtd: 2.0 | R$ Unit: 0.0
+  - Item 2: Serviços de Garantia de Equipamentos de TIC Licença de atualização para Oracle Database -  Descrição: Licença de atualiz | Qtd: 2.0 | R$ Unit: 0.0
+  - Item 3: Serviços de Garantia de Equipamentos de TIC Suporte oficial para Oracle Database - Descrição: Suporte oficial do fabrica | Qtd: 2.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "23664303000104",
+    "razaoSocial": "DME DISTRIBUICAO S.A. - DMED",
+    "esferaId": "N",
+    "poderId": "N"
+  },
+  "dataInclusao": "2026-08-28T17:28:00",
+  "dataAtualizacao": "2026-09-22T15:14:36",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-08-28T17:28:00"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2026-09-23T09:00:00",
+  "dataEncerramentoProposta": "2026-10-20T09:00:00",
+  "dataPublicacaoPncp": "2026-08-28T17:28:00",
+  "dataAtualizacaoGlobal": "2026-09-22T15:14:36",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Poços de Caldas",
+    "codigoIbge": "3151800",
+    "codigoUnidade": "926681",
+    "nomeUnidade": "DME DISTRIBUIÇÃO S/A POÇOS DE CALDAS - MG"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 13.303/2016, Art. 32, IV",
+    "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+    "codigo": 113
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92668105000092026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 41,
+  "emendaParlamentar": null,
+  "numeroCompra": "9",
+  "processo": "0092026",
+  "objetoCompra": "LICENÇAS PERPÉTUAS DO ORACLE DATABASE STANDARD EDITION 2 (19C), modalidade processor, com atualização e suporte oficial, para atendimento ao ambiente de produção do ERP corporativo, conforme especificações, quantidades e condições estabelecidas no ANEXO IV, e demais anexos do Edital.",
+  "informacaoComplementar": "Descrição a ser considerada é a do Anexo IV - Especificações Técnicas do Edital e não a do COMPRASNET.",
+  "numeroControlePNCP": "23664303000104-1-000041/2026",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

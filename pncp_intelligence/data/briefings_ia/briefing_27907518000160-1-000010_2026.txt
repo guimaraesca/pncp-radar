@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE ADMINISTRACAO DO RIO DE JANEIRO (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de Preços visando à aquisição de computadores do tipo desktop, workstation, servidor de data center e notebook, bem como monitores de 24 e 34 polegadas, destinados ao CRA-RJ, na qualidade de Órgão Gerenciador, e aos Órgãos Participantes, conforme especificações, condições, quantidades e exigências estabelecidas no Edital e seus anexos.
+VALOR ESTIMADO: R$ 54.899.677,41
+PRAZO PARA PROPOSTAS: 2026-10-20T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38915105000042026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/27907518000160/compras/2026/10/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/27907518000160/compras/2026/10/arquivos/2
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "27907518000160",
+    "razaoSocial": "CONSELHO REGIONAL DE ADMINISTRACAO DO RIO DE JANEIRO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-25T15:37:25",
+  "dataAtualizacao": "2026-09-25T15:37:25",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoUnidade": "389151",
+    "nomeUnidade": "CONSELHO REGIONAL DE ADMINISTRACAO DO RJ",
+    "codigoIbge": "3304557"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38915105000042026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 10,
+  "emendaParlamentar": null,
+  "numeroCompra": "4",
+  "processo": "2026400108",
+  "objetoCompra": "Registro de Preços visando à aquisição de computadores do tipo desktop, workstation, servidor de data center e notebook, bem como monitores de 24 e 34 polegadas, destinados ao CRA-RJ, na qualidade de Órgão Gerenciador, e aos Órgãos Participantes, conforme especificações, condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+  "informacaoComplementar": "Outras informações podem ser obtidas por meio do e-mail licitacao@cra-rj.org.br",
+  "dataAberturaProposta": "2026-09-28T10:00:00",
+  "dataEncerramentoProposta": "2026-10-20T10:00:00",
+  "dataPublicacaoPncp": "2026-09-25T15:37:25",
+  "dataAtualizacaoGlobal": "2026-09-25T15:41:23",
+  "numeroControlePNCP": "27907518000160-1-000010/2026",
+  "valorTotalEstimado": 54899677.41,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-25T15:37:26"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

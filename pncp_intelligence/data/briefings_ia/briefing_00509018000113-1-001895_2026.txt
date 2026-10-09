@@ -1,0 +1,82 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL SUPERIOR ELEITORAL (João Pessoa/PB)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição e subscrição de softwares especializados para datacenter, com suporte do fabricante e acesso à atualizações de novas versões, durante a vigência dos contratos - SRP.
+VALOR ESTIMADO: R$ 662.658,26
+PRAZO PARA PROPOSTAS: 2026-10-14T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=07000905000442026
+BASE LOGÍSTICA COMPATÍVEL: Recife (100 a 200 km)
+SELO LOGÍSTICO: [BASE: RECIFE | João Pessoa/PB (120km)]
+DISTÂNCIA ESTIMADA DA BASE: 120 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00509018000113/compras/2026/1895/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00509018000113/compras/2026/1895/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00509018000113/compras/2026/1895/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licenciamento de Direitos Permanentes  de  Uso  de  Softwarepara Servidor Software Assurance do Windows Server Remote De | Qtd: 51.0 | R$ Unit: 590.34
+  - Item 2: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software Software Assurance: Windows Server Datac | Qtd: 176.0 | R$ Unit: 2877.01
+  - Item 3: Licenciamento de Direitos Permanentes  de  Uso  de  Softwarepara Servidor Licença Windows Server Standard 2025 para 16 c | Qtd: 10.0 | R$ Unit: 10965.48
+  - Item 4: Licenciamento de Direitos Permanentes  de  Uso  de  Softwarepara Servidor Licença Windows Server Remote Desktop Service  | Qtd: 12.0 | R$ Unit: 1378.53
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "00509018000113",
+    "razaoSocial": "TRIBUNAL SUPERIOR ELEITORAL",
+    "poderId": "J",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-08-26T04:00:11",
+  "dataAtualizacao": "2026-08-26T04:00:11",
+  "anoCompra": 2026,
+  "sequencialCompra": 1895,
+  "emendaParlamentar": null,
+  "numeroCompra": "44",
+  "processo": "0008190-11.2025.6.15.8000",
+  "objetoCompra": "Aquisição e subscrição de softwares especializados para datacenter, com suporte do fabricante e acesso à atualizações de novas versões, durante a vigência dos contratos - SRP.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-08-26T08:00:00",
+  "dataEncerramentoProposta": "2026-10-14T09:00:00",
+  "dataPublicacaoPncp": "2026-08-26T04:00:11",
+  "dataAtualizacaoGlobal": "2026-08-26T04:01:48",
+  "unidadeOrgao": {
+    "ufNome": "Paraíba",
+    "ufSigla": "PB",
+    "municipioNome": "João Pessoa",
+    "codigoIbge": "2507507",
+    "codigoUnidade": "070009",
+    "nomeUnidade": "TRE-TRIBUNAL REGIONAL ELEITORAL DA PARAIBA/PB"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=07000905000442026",
+  "linkProcessoEletronico": "https://www.tre-pb.jus.br/institucional/sei-usuarios-externos",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "00509018000113-1-001895/2026",
+  "srp": true,
+  "valorTotalEstimado": 662658.26,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-08-26T04:00:11"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

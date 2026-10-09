@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BIRIGUI (Birigui/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA IMPRESSÃO COLORIDA DE PROVAS PARA AVALIAÇÃO DIAGNÓSTICA DA SECRETARIA MUNICIPAL DE EDUCAÇÃO, conforme especificações dos anexos I e II.
+VALOR ESTIMADO: R$ 153.000,00
+PRAZO PARA PROPOSTAS: 2025-06-02T08:00:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]SYeKxwYeyYh/wT7njI9M8VXXb8p5S87VS4d6dioAoJVSjUQBzKwakrJVdV_6IHw4liW5zlOFBmfjDYc90v6_/lc4y1Dckr1QMEYQFmYg5to=
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46151718000180/compras/2025/271/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Prestação de serviço – Impressão colorida de provas para avaliação diagnóstica para Rede Municipal de Ensino. | Qtd: 180000.0 | R$ Unit: 0.85
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "46151718000180",
+    "razaoSocial": "MUNICIPIO DE BIRIGUI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 25200.0,
+  "dataInclusao": "2025-05-19T08:36:18",
+  "dataAtualizacao": "2025-06-06T07:57:43",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 271,
+  "emendaParlamentar": null,
+  "numeroCompra": "48",
+  "processo": "70/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA IMPRESSÃO COLORIDA DE PROVAS PARA AVALIAÇÃO DIAGNÓSTICA DA SECRETARIA MUNICIPAL DE EDUCAÇÃO, conforme especificações dos anexos I e II.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-05-16T12:00:00",
+  "dataEncerramentoProposta": "2025-06-02T08:00:00",
+  "dataPublicacaoPncp": "2025-05-19T08:36:18",
+  "dataAtualizacaoGlobal": "2025-06-06T07:57:47",
+  "numeroControlePNCP": "46151718000180-1-000271/2025",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Birigui",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE BIRIGUI - SP",
+    "codigoIbge": "3506508"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]SYeKxwYeyYh/wT7njI9M8VXXb8p5S87VS4d6dioAoJVSjUQBzKwakrJVdV_6IHw4liW5zlOFBmfjDYc90v6_/lc4y1Dckr1QMEYQFmYg5to=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 153000.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

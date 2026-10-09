@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE TIJUCAS (Tijucas/SC)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Geoprocessamento, abrangendo aerolevantamento, mapeamento móvel 360º, composição do Cadastro Multifinalitário, atualização de planta genérica de valores, fornecimento de sistema de informações geográficas para gestão do Cadastro Multifinalitário (SAAS), treinamento e suporte técnico para atender as demandas da Secretaria de Finanças, do município de Tijucas/SC
+VALOR ESTIMADO: R$ 2.721.100,00
+PRAZO PARA PROPOSTAS: 2025-05-05T13:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/82577636000165-1-000031/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82577636000165/compras/2025/31/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: COBERTURA AEROFOTOGRAMÉTRICA PARA OBTENÇÃO DE FOTOGRAFIAS AÉREAS VERTICAIS COLORIDAS DA ÁREA URBANA,NA ESCALA DE 1:5.000 | Qtd: 60.0 | R$ Unit: 2317.5
+  - Item 2: GERAÇÃO DE ORTOFOTOCARTAS DIGITAIS COLORIDAS DA ÁREA URBANA NA ESCALA 1:1.000 (GSD DE 10 CM). | Qtd: 60.0 | R$ Unit: 1562.5
+  - Item 3: PERFILAMENTO A LASER AEROTRANSPORTADO PARA GERAÇÃO DO MDS, MDT E CURVAS DE NÍVEL EQUIDISTANTES VERTICALMENTE DE 50 CM (C | Qtd: 60.0 | R$ Unit: 2336.25
+  - Item 4: RESTITUIÇÃO ESTEREOFOTOGRAMÉTRICA NA ESCALA 1:1.000 DA CAMADA HIDROGRAFIA | Qtd: 60.0 | R$ Unit: 500.0
+  - Item 5: ADEQUAÇÃO E CONVERSÃO DA BASE DE DADOS EXISTENTE. | Qtd: 50.0 | R$ Unit: 318.75
+  - Item 6: SISTEMA DE INFORMAÇÕES GEOGRÁFICAS (SIG) PARA GESTÃO TERRITORIAL E MONITORAMENTO DE ALTERAÇÕES URBANAS (SAAS), COM HOSPE | Qtd: 12.0 | R$ Unit: 19187.5
+  - Item 7: MAPEAMENTO DOS FLUXOS DE PROCESSOS PARA IMPLANTAÇÃO NO SISTEMA DIGITAL DE APROVAÇÃO DE PROJETOS. | Qtd: 100.0 | R$ Unit: 318.75
+  - Item 8: CUSTOMIZAÇÃO DO SISTEMA DE INFORMAÇÕES GEOGRÁFICAS (SIG) PARA INTEGRAÇÃO COM O SISTEMA TRIBUTÁRIO EXISTENTE NA PREFEITUR | Qtd: 50.0 | R$ Unit: 318.75
+  - Item 9: EXECUÇÃO DE MAPEAMENTO MÓVEL 360º, CAPTURANDO IMAGENS FRONTAIS DE TODOS OS IMÓVEIS E LOGRADOUROS DA ÁREA URBANA, BEM COM | Qtd: 300.0 | R$ Unit: 852.5
+  - Item 10: LEVANTAMENTO CADASTRAL IN LOCO, VETORIZAÇÃO E GEOCODIFICAÇÃO DE NOVAS UNIDADES IMOBILIÁRIAS EM ÁREAS DE EXPANSÃO URBANA | Qtd: 3000.0 | R$ Unit: 98.75
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 2640000.0,
+  "orgaoEntidade": {
+    "cnpj": "82577636000165",
+    "razaoSocial": "MUNICIPIO DE TIJUCAS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-04-07T16:37:17",
+  "dataAtualizacao": "2025-04-17T08:19:42",
+  "numeroControlePNCP": "82577636000165-1-000031/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 31,
+  "emendaParlamentar": null,
+  "numeroCompra": "PCE 11",
+  "processo": "26/2025",
+  "objetoCompra": "Geoprocessamento, abrangendo aerolevantamento, mapeamento móvel 360º, composição do Cadastro Multifinalitário, atualização de planta genérica de valores, fornecimento de sistema de informações geográficas para gestão do Cadastro Multifinalitário (SAAS), treinamento e suporte técnico para atender as demandas da Secretaria de Finanças, do município de Tijucas/SC",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-04-17T12:00:00",
+  "dataEncerramentoProposta": "2025-05-05T13:00:00",
+  "dataPublicacaoPncp": "2025-04-07T16:37:17",
+  "dataAtualizacaoGlobal": "2025-05-12T12:49:14",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Tijucas",
+    "codigoIbge": "4218004",
+    "codigoUnidade": "22001",
+    "nomeUnidade": "FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 2721100.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

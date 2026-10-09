@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA (Curitiba/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para futura e eventual aquisição de solução de Firewall, incluindo upgrade de software e contratação de subscrição e serviço de garantia, como substituição tecnológica e integração ao ecossistema de segurança preexistente.
+VALOR ESTIMADO: R$ 6.700.789,33
+PRAZO PARA PROPOSTAS: 2026-10-08T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15301905001022026
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Curitiba/PR (130km)]
+DISTÂNCIA ESTIMADA DA BASE: 130 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2026/455/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2026/455/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2026/455/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2026/455/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2026/455/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2026/455/arquivos/6
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "75101873000190",
+    "razaoSocial": "UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-09-28T04:00:08",
+  "dataAtualizacao": "2026-09-28T04:00:08",
+  "numeroControlePNCP": "75101873000190-1-000455/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 455,
+  "emendaParlamentar": null,
+  "numeroCompra": "102",
+  "processo": "23064.043357/2026-81",
+  "srp": true,
+  "objetoCompra": "Registro de preços para futura e eventual aquisição de solução de Firewall, incluindo upgrade de software e contratação de subscrição e serviço de garantia, como substituição tecnológica e integração ao ecossistema de segurança preexistente.",
+  "informacaoComplementar": "O presente lançamento no sistema Compras.gov.br destina-se à realização de novo certame licitatório para a contratação de  solução de Firewall  , em substituição ao Pregão anterior (Processo nº 23064.034281/2026-01 ), o qual foi regularmente anulado pela Administração devido a um erro material e estritamente operacional verificado na fase de parametrização sistêmica anterior.  ",
+  "dataAberturaProposta": "2026-09-28T08:00:00",
+  "dataEncerramentoProposta": "2026-10-08T09:00:00",
+  "dataPublicacaoPncp": "2026-09-28T04:00:08",
+  "dataAtualizacaoGlobal": "2026-09-28T04:01:21",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Curitiba",
+    "codigoIbge": "4106902",
+    "codigoUnidade": "153019",
+    "nomeUnidade": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15301905001022026",
+  "linkProcessoEletronico": "https://sei.utfpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?iI3OtHvPArITY997V09rhsSkbDKbaYSycOHqqF2xsM0IaDkkEyJpus7kCPb435VNEAb16AAxmJKUdrsNWVIqQziY7O8vhB2iM0qKYtvMyc7fEPwwYqiFZ4eZPkVWyTRO",
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 6700789.33,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-28T04:00:09"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

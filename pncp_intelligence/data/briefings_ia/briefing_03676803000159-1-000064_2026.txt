@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE EDUCACAO FISICA DA 4 REGIAO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de subscrição de 03 (três) licenças de solução Next Generation Firewall (NGFW) para os appliances WatchGuard M370 e T35/125, incluindo ativação, instalação, migração, suporte técnico especializado, atualizações, treinamento e manutenção evolutiva, pelo período de 12 (doze) meses, visando à proteção das comunicações institucionais do CREF4/SP, conforme as especificações estabelecidas no Anexo I do instrumento convocatório.
+VALOR ESTIMADO: R$ 216.297,76
+PRAZO PARA PROPOSTAS: 2026-10-06T09:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92608905000952026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03676803000159/compras/2026/64/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Firewall 02 (duas) licenças TOTAL para os appliances WatchGuard M370, incluindo atualização e garantia para o ambiente H | Qtd: 2.0 | R$ Unit: 91112.15
+  - Item 2: Firewall aplicação: segurança rede computadores, modelo: apliance ngfw Especificações conforme Termo de Referência | Qtd: 1.0 | R$ Unit: 17667.805
+  - Item 3: Serviços de Garantia de Equipamentos de TIC Suporte técnico mensal dos UTMs, em regime 7x24, incluindo atendimentos pres | Qtd: 12.0 | R$ Unit: 1367.1375
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "03676803000159",
+    "razaoSocial": "CONSELHO REGIONAL DE EDUCACAO FISICA DA 4 REGIAO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-09-18T11:19:23",
+  "dataAtualizacao": "2026-09-18T11:19:23",
+  "objetoCompra": "Contratação de subscrição de 03 (três) licenças de solução Next Generation Firewall (NGFW) para os appliances WatchGuard M370 e T35/125, incluindo ativação, instalação, migração, suporte técnico especializado, atualizações, treinamento e manutenção evolutiva, pelo período de 12 (doze) meses, visando à proteção das comunicações institucionais do CREF4/SP, conforme as especificações estabelecidas no Anexo I do instrumento convocatório.",
+  "dataAberturaProposta": "2026-09-21T08:00:00",
+  "dataEncerramentoProposta": "2026-10-06T09:30:00",
+  "dataPublicacaoPncp": "2026-09-18T11:19:23",
+  "dataAtualizacaoGlobal": "2026-09-18T11:20:25",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoIbge": "3550308",
+    "codigoUnidade": "926089",
+    "nomeUnidade": "CONSELHO REGIONAL DE EDUCACAO FISICA 4A - SP"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92608905000952026",
+  "linkProcessoEletronico": "https://www.crefsp.gov.br/portal-da-transparencia/licitacoes-e-contratos/pregao-eletronico-90010-2026",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "03676803000159-1-000064/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 64,
+  "emendaParlamentar": null,
+  "numeroCompra": "95",
+  "processo": "2422/2026",
+  "informacaoComplementar": "O edital contendo todas as informações também poderá ser acessado através do site do CREF4/SP no endereço www.crefsp.gov.br. Demais informações pelo telefone: 11 3292-1716 ou e-mail: licitacao@crefsp.gov.br.",
+  "valorTotalEstimado": 216297.76,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-18T11:19:24"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

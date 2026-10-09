@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTOS (Santos/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para prestação de serviços de manutenção preventiva e corretiva da infraestrutura do datacenter do município de Santos, composta pelos sistemas de climatização, detecção, alarme e combate à incêndio com gás fm200 (SDACI), controle de acesso, circuitos elétricos e gerenciamento (DCIM), incluindo material e suporte local e remoto por meio da disponibilização de central de monitoramento 24 horas com controle de chamados... (descrição completa no Edital).
+VALOR ESTIMADO: R$ 3,999,463.11
+PRAZO PARA PROPOSTAS: 2026-10-13T10:00:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]c61pEBNhwTAcm7QIcFXiIoAUtaFr4hcpEflgAxRFsAP2DDoky5tACKj3YIlFRTjYHj9/nLgbjx4XB5x4f3L0udHCbSLVfyWhC1zUCoQYFm8=
+SELO LOGÍSTICO: [BASE: SÃO PAULO | Santos/SP (75km)]
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (50 a 100 km)
+DISTÂNCIA ESTIMADA: 75 km

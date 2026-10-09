@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO FEDERAL DE MEDICINA (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de servidores de rede, com serviço de suporte técnico e garantia por 60 (sessenta)  meses, conforme condições, especificações e exigências estabelecidas no Edital e Termo de Referência.
+VALOR ESTIMADO: R$ 3,830,210.88
+PRAZO PARA PROPOSTAS: 2026-10-07T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92515805000742026
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

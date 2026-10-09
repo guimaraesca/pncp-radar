@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE IPAUMIRIM - CAMARA MUNICIPAL (Ipaumirim/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS A SEREM PRESTADOS NA ASSESSORIA E CONSULTORIA TÉCNICA LEGISLATIVA, AUXILIANDO NO ACOMPANHAMENTO, DESENVOLVIMENTO NA CORRETA TRAMITAÇÃO DOS PROCEDIMENTOS, NA ELABORAÇÃO DAS PROPOSITURAS LEGISLATIVA, COMO TAMBÉM NO APO
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]72/_0Q8B3xHJN_TDUf/00JYF/_/nscYgm/pyW_d5FUaxnGwVw/XLLVwGvPT3Q8bmEDh0bdT9KFSsaMHg_czR3CGWzSespywdPAWtZxS/OMY=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/41344763000137/compras/2025/17/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS A SEREM PRESTADOS NA ASSESSORIA E CONSULTORIA TÉCNICA LEGISLATIVA, AUXILIANDO NO  | Qtd: 12.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "41344763000137",
+    "razaoSocial": "MUNICIPIO DE IPAUMIRIM - CAMARA MUNICIPAL",
+    "esferaId": "M",
+    "poderId": "L"
+  },
+  "dataInclusao": "2025-07-04T10:49:48",
+  "dataAtualizacao": "2025-07-04T10:49:48",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-04T10:49:48",
+  "dataAtualizacaoGlobal": "2025-07-04T10:49:53",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Ipaumirim",
+    "codigoIbge": "2305704",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Câmara Municipal de Ipaumirim"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]72/_0Q8B3xHJN_TDUf/00JYF/_/nscYgm/pyW_d5FUaxnGwVw/XLLVwGvPT3Q8bmEDh0bdT9KFSsaMHg_czR3CGWzSespywdPAWtZxS/OMY=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 17,
+  "emendaParlamentar": null,
+  "numeroCompra": "2025.06.30.1",
+  "processo": "2025.06.30.01",
+  "objetoCompra": "CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS A SEREM PRESTADOS NA ASSESSORIA E CONSULTORIA TÉCNICA LEGISLATIVA, AUXILIANDO NO ACOMPANHAMENTO, DESENVOLVIMENTO NA CORRETA TRAMITAÇÃO DOS PROCEDIMENTOS, NA ELABORAÇÃO DAS PROPOSITURAS LEGISLATIVA, COMO TAMBÉM NO APO",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "41344763000137-1-000017/2025",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

@@ -1,0 +1,84 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES (Porto Alegre/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de solução
+em nuvem para controle
+de ponto eletrônico de
+servidores e
+estagiários da AGERGS,
+com licenciamento
+anual, suporte técnico,
+migração de dados,
+acesso via web e
+aplicativo móvel (iOS e
+Android) e
+compatibilidade com os
+relógios biométricos
+Henry Prisma SF
+Advanced R2.
+VALOR ESTIMADO: R$ 13.173,55
+PRAZO PARA PROPOSTAS: 2025-07-09T14:00:00
+LINK OFICIAL: https://www.compras.rs.gov.br/editais/9064_2025/337806
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/87958658000199/compras/2025/866/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de solução em nuvem para controle de ponto eletrônico de servidores e estagiários da AGERGS, com licenciamen | Qtd: 1.0 | R$ Unit: 13173.55
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "87958658000199",
+    "razaoSocial": "SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 11500.0,
+  "dataInclusao": "2025-07-04T11:50:39",
+  "dataAtualizacao": "2025-07-10T14:13:04",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Porto Alegre",
+    "codigoUnidade": "1",
+    "nomeUnidade": "CELIC - SUBSECRETARIA DA ADMINISTRAÇÃO CENTRAL DE LICITAÇÕES",
+    "codigoIbge": "4314902"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://www.compras.rs.gov.br/editais/9064_2025/337806",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 866,
+  "emendaParlamentar": null,
+  "numeroCompra": "9064",
+  "processo": "25/3900-0000030-3",
+  "objetoCompra": "Contratação de solução\r\nem nuvem para controle\r\nde ponto eletrônico de\r\nservidores e\r\nestagiários da AGERGS,\r\ncom licenciamento\r\nanual, suporte técnico,\r\nmigração de dados,\r\nacesso via web e\r\naplicativo móvel (iOS e\r\nAndroid) e\r\ncompatibilidade com os\r\nrelógios biométricos\r\nHenry Prisma SF\r\nAdvanced R2.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-04T11:30:00",
+  "dataEncerramentoProposta": "2025-07-09T14:00:00",
+  "dataPublicacaoPncp": "2025-07-04T11:50:39",
+  "dataAtualizacaoGlobal": "2025-07-10T14:13:20",
+  "numeroControlePNCP": "87958658000199-1-000866/2025",
+  "valorTotalEstimado": 13173.55,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PROCERGS - CENTRO DE TECNOLOGIA DA INFORMACAO E COMUNICACAO DO ESTADO DO RIO GRANDE DO SUL S.A."
+}

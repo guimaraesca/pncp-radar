@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: PIRACICABA CAMARA (Piracicaba/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Renovação de licenciamento para firewall Sophos e aquisição de módulos  transceptores de fibra óptica SFP+ (transceivers) para firewall Sophos
+VALOR ESTIMADO: R$ 233.451,43
+PRAZO PARA PROPOSTAS: 2025-07-21T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92924105900222025
+BASE LOGÍSTICA COMPATÍVEL: Campinas (50 a 100 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | Piracicaba/SP (70km)]
+DISTÂNCIA ESTIMADA DA BASE: 70 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/51327708000192/compras/2025/61/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 1.0 | R$ Unit: 232387.43
+  - Item 2: Transceiver | Qtd: 2.0 | R$ Unit: 532.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "51327708000192",
+    "razaoSocial": "PIRACICABA CAMARA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 135459.9,
+  "dataInclusao": "2025-07-03T07:20:12",
+  "dataAtualizacao": "2025-07-03T07:20:12",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Piracicaba",
+    "codigoUnidade": "929241",
+    "nomeUnidade": "CAMARA MUNICIPAL DE PIRACICABA - SP",
+    "codigoIbge": "3538709"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92924105900222025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 61,
+  "emendaParlamentar": null,
+  "numeroCompra": "90022",
+  "processo": "124.2025.1.26",
+  "objetoCompra": "Renovação de licenciamento para firewall Sophos e aquisição de módulos  transceptores de fibra óptica SFP+ (transceivers) para firewall Sophos",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=92924105900222025",
+  "dataAberturaProposta": "2025-07-03T08:00:00",
+  "dataEncerramentoProposta": "2025-07-21T09:00:00",
+  "dataPublicacaoPncp": "2025-07-03T07:20:12",
+  "dataAtualizacaoGlobal": "2025-07-28T08:52:27",
+  "numeroControlePNCP": "51327708000192-1-000061/2025",
+  "valorTotalEstimado": 233451.43,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

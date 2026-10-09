@@ -1,0 +1,87 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE COTRIGUACU (Cotriguaçu/MT)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: “CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA ÁREA DE TECNOLOGIA DA INFORMAÇÃO (TI) PARA O FORNECIMENTO DE LICENÇA DE USO E LOCAÇÃO DE SOFTWARE PARA GESTÃO PÚBLICA, COM HOSPEDAGEM EM AMBIENTE DE COMPUTAÇÃO EM NUVEM (CLOUD), INCLUINDO INSTALAÇÃO, PARAMETRIZAÇÃO, MIGRAÇÃO DE DADOS, SUPORTE TÉCNICO, MANUTENÇÃO EVOLUTIVA E CORRETIVA, TREINAMENTO DE USUÁRIOS E ATUALIZAÇÕES LEGAIS E TECNOLÓGICAS, COM OBSERVÂNCIA DOS REQUISITOS DE ADEQUAÇÃO AO DECRETO FEDERAL Nº 10.540/2020 (SIAFIC), VISANDO ATENDER ÀS NECESSIDADES OPERACIONAIS E GERENCIAIS DA PREFEITURA MUNICIPAL, DA CÂMARA DE VEREADORES E DO INSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE COTRIGUAÇU - MT, CONFORME ESPECIFICAÇÕES TÉCNICAS CONSTANTES NO TERMO DE REFERÊNCIA”
+VALOR ESTIMADO: R$ 555.319,75
+PRAZO PARA PROPOSTAS: 2025-08-20T08:45:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/37465309000167-1-000053/2025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37465309000167/compras/2025/53/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37465309000167/compras/2025/53/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37465309000167/compras/2025/53/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37465309000167/compras/2025/53/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37465309000167/compras/2025/53/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37465309000167/compras/2025/53/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37465309000167/compras/2025/53/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37465309000167/compras/2025/53/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37465309000167/compras/2025/53/arquivos/9
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1902274: LOCAÇÃO DE SOFTWARE DE PLANEJAMENTO E CONTABILIDADE WEB - HOSPEDADO EM NUVEM - PREFEITURA INCLUI MÓDULOS: TESOURARIA PRE | Qtd: 12.0 | R$ Unit: 3974.06
+  - Item 1902275: LOCAÇÃO DE SOFTWARE DE PORTAL DA TRANSPARÊNCIA WEB - HOSPEDADO EM NUVEM - PREFEITURA | Qtd: 12.0 | R$ Unit: 1603.33
+  - Item 1902276: LOCAÇÃO DE SOFTWARE DE ALMOXARIFADO WEB - HOSPEDADO EM NUVEM - PREFEITURA | Qtd: 12.0 | R$ Unit: 880.0
+  - Item 1902277: LOCAÇÃO DE SOFTWARE DE FROTAS WEB - HOSPEDADO EM NUVEM - PREFEITURA  | Qtd: 12.0 | R$ Unit: 878.48
+  - Item 1902278: LOCAÇÃO DE SOFTWARE DE COMPRAS E LICITAÇÕES WEB - HOSPEDADO EM NUVEM - PREFEITURA | Qtd: 12.0 | R$ Unit: 2774.54
+  - Item 1902279: LOCAÇÃO DE SOFTWARE DE PATRIMÔNIO WEB - HOSPEDADO EM NUVEM - PREFEITURA | Qtd: 12.0 | R$ Unit: 1730.87
+  - Item 1902280: LOCAÇÃO DE SOFTWARE DE GESTÃO DA ARRECADAÇÃO E FISCALIZAÇÃO - HOSPEDADO EM NUVEM - PREFEITURA INCLUI MÓDULOS: SIMPLES NA | Qtd: 12.0 | R$ Unit: 3055.5
+  - Item 1902281: LOCAÇÃO DE SOFTWARE DE NFS-E WEB - HOSPEDADO EM NUVEM - PREFEITURA | Qtd: 12.0 | R$ Unit: 2346.66
+  - Item 1902282: LOCAÇÃO DE SOFTWARE DE PORTAL DO CONTRIBUINTE WEB - HOSPEDADO EM NUVEM - PREFEITURA | Qtd: 12.0 | R$ Unit: 898.5
+  - Item 1902283: LOCAÇÃO DE SOFTWARE DE SANEAMENTO - HOSPEDADO EM NUVEM - PREFEITURA | Qtd: 12.0 | R$ Unit: 1230.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "37465309000167",
+    "razaoSocial": "MUNICIPIO DE COTRIGUACU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 518000.0,
+  "dataInclusao": "2025-08-04T17:44:33",
+  "dataAtualizacao": "2025-08-20T09:04:27",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 53,
+  "emendaParlamentar": null,
+  "numeroCompra": "014",
+  "processo": "108/2025",
+  "objetoCompra": "“CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA ÁREA DE TECNOLOGIA DA INFORMAÇÃO (TI) PARA O FORNECIMENTO DE LICENÇA DE USO E LOCAÇÃO DE SOFTWARE PARA GESTÃO PÚBLICA, COM HOSPEDAGEM EM AMBIENTE DE COMPUTAÇÃO EM NUVEM (CLOUD), INCLUINDO INSTALAÇÃO, PARAMETRIZAÇÃO, MIGRAÇÃO DE DADOS, SUPORTE TÉCNICO, MANUTENÇÃO EVOLUTIVA E CORRETIVA, TREINAMENTO DE USUÁRIOS E ATUALIZAÇÕES LEGAIS E TECNOLÓGICAS, COM OBSERVÂNCIA DOS REQUISITOS DE ADEQUAÇÃO AO DECRETO FEDERAL Nº 10.540/2020 (SIAFIC), VISANDO ATENDER ÀS NECESSIDADES OPERACIONAIS E GERENCIAIS DA PREFEITURA MUNICIPAL, DA CÂMARA DE VEREADORES E DO INSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE COTRIGUAÇU - MT, CONFORME ESPECIFICAÇÕES TÉCNICAS CONSTANTES NO TERMO DE REFERÊNCIA”",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-08-05T09:00:00",
+  "dataEncerramentoProposta": "2025-08-20T08:45:00",
+  "dataPublicacaoPncp": "2025-08-04T17:44:33",
+  "dataAtualizacaoGlobal": "2025-09-18T08:44:01",
+  "unidadeOrgao": {
+    "ufNome": "Mato Grosso",
+    "ufSigla": "MT",
+    "municipioNome": "Cotriguaçu",
+    "codigoUnidade": "220",
+    "nomeUnidade": "Prefeitura Municipal de Cotriguaçu- MT",
+    "codigoIbge": "5103379"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "37465309000167-1-000053/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 555319.75,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "AZ INFORMATICA LTDA"
+}

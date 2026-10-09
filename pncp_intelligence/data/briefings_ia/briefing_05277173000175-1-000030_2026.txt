@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PASTOS BONS (Pastos Bons/MA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de Preços para contratação de empresa especializada na implantação de solução educacional integrada para implantação do Projeto Educacional de Letramento Digital e Científico, contemplando materiais didático-pedagógicos físicos e digitais, infraestrutura para ambientes de experimentação, equipamentos pedagógicos e tecnológicos, kits para aulas práticas e automação educacional, formação continuada de professores, acesso à plataforma educacional e utilização de software livre de programação visual, alinhada à BNCC, BNCC Computação, Política Nacional de Educação Digital (Lei nº 14.533/2023), Resolução CNE/CEB nº 2/2025 e Plano Nacional de Educação, na rede municipal de ensino de Pastos Bons (MA).
+VALOR ESTIMADO: R$ 10.583.490,49
+PRAZO PARA PROPOSTAS: 2026-10-09T08:00:00
+LINK OFICIAL: http://www.compraspastosbonsma.com.br
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05277173000175/compras/2026/30/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PROJETO EDUCACIONAL DE LETRAMENTO DIGITAL E CIENTÍFICO: MATERIAL E EQUIPAMENTOS DIDÁTICOS E PEDAGÓGICOS | Qtd: 1.0 | R$ Unit: 5470340.53
+  - Item 2: PROJETO EDUCACIONAL DE LETRAMENTO DIGITAL E CIENTÍFICO: LABORATÓRIO DE LETRAMENTO DIGITAL | Qtd: 1.0 | R$ Unit: 1857180.0
+  - Item 3: PROJETO EDUCACIONAL DE LETRAMENTO DIGITAL E CIENTÍFICO: LABORATÓRIO COMPLETO DE CIÊNCIAS – ANOS INICIAIS (ENSINO FUNDAME | Qtd: 1.0 | R$ Unit: 864579.96
+  - Item 4: PROJETO EDUCACIONAL DE LETRAMENTO DIGITAL E CIENTÍFICO: LABORATÓRIO COMPLETO DE CIÊNCIAS – ANOS FINAIS (ENSINO FUNDAMENT | Qtd: 1.0 | R$ Unit: 982560.0
+  - Item 5: PROJETO EDUCACIONAL DE LETRAMENTO DIGITAL E CIENTÍFICO: LABORATÓRIO COMPLETO DE MATEMÁTICA – EDUCAÇÃO INFANTIL | Qtd: 1.0 | R$ Unit: 358894.02
+  - Item 6: PROJETO EDUCACIONAL DE LETRAMENTO DIGITAL E CIENTÍFICO: LABORATÓRIO COMPLETO DE MATEMÁTICA – ANOS INICIAIS (ENSINO FUNDA | Qtd: 1.0 | R$ Unit: 521857.98
+  - Item 7: PROJETO EDUCACIONAL DE LETRAMENTO DIGITAL E CIENTÍFICO: LABORATÓRIO COMPLETO DE MATEMÁTICA – ANOS FINAIS (ENSINO FUNDAME | Qtd: 1.0 | R$ Unit: 528078.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "05277173000175",
+    "razaoSocial": "MUNICIPIO DE PASTOS BONS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-24T09:41:20",
+  "dataAtualizacao": "2026-09-24T09:41:20",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "Pastos Bons",
+    "codigoUnidade": "33633",
+    "nomeUnidade": "Prefeitura Municipal de Pastos Bons",
+    "codigoIbge": "2108009"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "http://www.compraspastosbonsma.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 30,
+  "emendaParlamentar": null,
+  "numeroCompra": "004",
+  "processo": "2026008/2026",
+  "objetoCompra": "Registro de Preços para contratação de empresa especializada na implantação de solução educacional integrada para implantação do Projeto Educacional de Letramento Digital e Científico, contemplando materiais didático-pedagógicos físicos e digitais, infraestrutura para ambientes de experimentação, equipamentos pedagógicos e tecnológicos, kits para aulas práticas e automação educacional, formação continuada de professores, acesso à plataforma educacional e utilização de software livre de programação visual, alinhada à BNCC, BNCC Computação, Política Nacional de Educação Digital (Lei nº 14.533/2023), Resolução CNE/CEB nº 2/2025 e Plano Nacional de Educação, na rede municipal de ensino de Pastos Bons (MA).",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-24T10:00:00",
+  "dataEncerramentoProposta": "2026-10-09T08:00:00",
+  "dataPublicacaoPncp": "2026-09-24T09:41:20",
+  "dataAtualizacaoGlobal": "2026-09-24T09:41:21",
+  "numeroControlePNCP": "05277173000175-1-000030/2026",
+  "valorTotalEstimado": 10583490.49,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BR Conectado"
+}

@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO DE PREVIDENCIA DO ESTADO DO RIO GRANDE DO SUL (Porto Alegre/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: DISCO RÍGIDO HDD SAS 1,2TB 10.000 RPM PARA SERVIDOR DATA CENTER
+VALOR ESTIMADO: R$ 27.750,00
+PRAZO PARA PROPOSTAS: 2025-04-08T09:00:00
+LINK OFICIAL: https://www.compras.rs.gov.br/editais/0241_2025/332796
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/92829100000143/compras/2025/11/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/92829100000143/compras/2025/11/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: DISCO RIGIDO - HDD SAS 1,2TB 10.000 RPM | Qtd: 15.0 | R$ Unit: 1850.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "92829100000143",
+    "razaoSocial": "INSTITUTO DE PREVIDENCIA DO ESTADO DO RIO GRANDE DO SUL",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 24750.0,
+  "dataInclusao": "2025-03-25T08:50:32",
+  "dataAtualizacao": "2025-05-19T14:42:30",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Porto Alegre",
+    "codigoUnidade": "9640",
+    "nomeUnidade": "INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL",
+    "codigoIbge": "4314902"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://www.compras.rs.gov.br/editais/0241_2025/332796",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 11,
+  "emendaParlamentar": null,
+  "numeroCompra": "0241",
+  "processo": "25/1440-0000981-9",
+  "objetoCompra": "DISCO RÍGIDO HDD SAS 1,2TB 10.000 RPM PARA SERVIDOR DATA CENTER",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-03-25T15:00:00",
+  "dataEncerramentoProposta": "2025-04-08T09:00:00",
+  "dataPublicacaoPncp": "2025-03-25T08:50:32",
+  "dataAtualizacaoGlobal": "2025-05-19T14:51:45",
+  "numeroControlePNCP": "92829100000143-1-000011/2025",
+  "valorTotalEstimado": 27750.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PROCERGS - CENTRO DE TECNOLOGIA DA INFORMACAO E COMUNICACAO DO ESTADO DO RIO GRANDE DO SUL S.A."
+}

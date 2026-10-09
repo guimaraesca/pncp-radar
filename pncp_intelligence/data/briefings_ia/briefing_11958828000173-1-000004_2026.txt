@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: PMSP - SAO PAULO OBRAS (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para contratação de solução corporativa de backup em nuvem privada (saas), incluindo armazenamento, licenciamento, implantação, suporte, manutenção e garantia, conforme especificações constantes do Anexo I – Termo de Referência
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-13T09:25:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92635105000042026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11958828000173/compras/2026/4/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços Especializados  de Disponibilização de Cópias de Segurança de Dados (Backup como serviço) Serviços Especializad | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "11958828000173",
+    "razaoSocial": "PMSP - SAO PAULO OBRAS",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-23T17:44:35",
+  "dataAtualizacao": "2026-09-23T17:44:35",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 4,
+  "emendaParlamentar": null,
+  "numeroCompra": "4",
+  "processo": "926351",
+  "objetoCompra": "Contratação de empresa especializada para contratação de solução corporativa de backup em nuvem privada (saas), incluindo armazenamento, licenciamento, implantação, suporte, manutenção e garantia, conforme especificações constantes do Anexo I – Termo de Referência",
+  "informacaoComplementar": "PREGÃO ELETRÔNICO n.º 04/2026\nPROCESSO SEI n.º 7910.2026/0001380-0\nOBJETO: Contratação de empresa especializada para contratação de solução corporativa de backup em nuvem privada (saas), incluindo armazenamento, licenciamento, implantação, suporte, manutenção e garantia, conforme especificações constantes do Anexo I – Termo de Referência, deste Edital.\nTIPO: MENOR VALOR MENSAL\nMODO DE DISPUTA: ABERTA\nUASG: 926351\nLOCAL DA SESSÃO: Portal Compras Governamentais: http://comprasnet.gov.br\nDATA E HORA DA ABERTURA DA SESSÃO PÚBLICA: 13/10/2026 às 9:30hs\nPREFERÊNCIA ME/EPP/EQUIPARADAS: (NÃO)\nOs trabalhos serão conduzidos por Pregoeiro da SPObras, mediante a inserção e monitoramento de dados gerados ou transferidos para o aplicativo constante da página eletrônica https://www.gov.br/compras\nEncaminhamento das Propostas: deverão ser encaminhadas, exclusivamente, por meio eletrônico para o seguinte endereço: https://www.gov.br/compras\n\nDivulgação/Disponibilidade: A partir de 25/10/2026 o Edital e seus anexos estarão disponíveis no Processo SEI nº 7910.2026/0001380-0, Doc. Sei nº 165690729, LINK   https://sei.prefeitura.sp.gov.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=160922527&id_documento=166292688\n\nEncaminhamento das Propostas: deverão ser encaminhadas, exclusivamente, por meio eletrônico para o seguinte endereço: https://www.gov.br/compras\n",
+  "dataAberturaProposta": "2026-09-28T08:00:00",
+  "dataEncerramentoProposta": "2026-10-13T09:25:00",
+  "dataPublicacaoPncp": "2026-09-23T17:44:35",
+  "dataAtualizacaoGlobal": "2026-09-23T17:45:36",
+  "numeroControlePNCP": "11958828000173-1-000004/2026",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoUnidade": "926351",
+    "nomeUnidade": "PMSP - SAO PAULO OBRAS",
+    "codigoIbge": "3550308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92635105000042026",
+  "linkProcessoEletronico": "https://sei.prefeitura.sp.gov.br",
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T17:44:36"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GARIBALDI (Garibaldi/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: AQUISIÇÃO DE DISCO RÍGIDO PARA DATACENTER
+VALOR ESTIMADO: R$ 44.700,00
+PRAZO PARA PROPOSTAS: 2025-05-09T08:30:00
+LINK OFICIAL: https://pregaobanrisul.com.br/editais/0030_2025/333511
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88594999000195/compras/2025/643/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88594999000195/compras/2025/643/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88594999000195/compras/2025/643/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: DISCO RÍGIDO | Qtd: 15.0 | R$ Unit: 2980.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 36555.0,
+  "orgaoEntidade": {
+    "cnpj": "88594999000195",
+    "razaoSocial": "MUNICIPIO DE GARIBALDI",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-04-08T08:41:04",
+  "dataAtualizacao": "2025-06-03T13:30:45",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PROCERGS - CENTRO DE TECNOLOGIA DA INFORMACAO E COMUNICACAO DO ESTADO DO RIO GRANDE DO SUL S.A.",
+  "dataAberturaProposta": "2025-04-09T08:30:00",
+  "dataEncerramentoProposta": "2025-05-09T08:30:00",
+  "dataPublicacaoPncp": "2025-04-08T08:41:04",
+  "dataAtualizacaoGlobal": "2025-06-03T13:32:26",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Garibaldi",
+    "codigoIbge": "4308607",
+    "codigoUnidade": "172777",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE GARIBALDI"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://pregaobanrisul.com.br/editais/0030_2025/333511",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 643,
+  "emendaParlamentar": null,
+  "numeroCompra": "0030",
+  "processo": "030",
+  "objetoCompra": "AQUISIÇÃO DE DISCO RÍGIDO PARA DATACENTER",
+  "informacaoComplementar": "",
+  "numeroControlePNCP": "88594999000195-1-000643/2025",
+  "valorTotalEstimado": 44700.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

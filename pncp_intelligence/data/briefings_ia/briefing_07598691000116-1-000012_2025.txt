@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MASSAPE (Massapê/CE)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA, CONSULTORIA TÉCNICA, GERENCIAMENTO E ACOMPANHAMENTO DOS SISTEMA DE INFORMAÇÕES CONTÁBEIS E FISCAIS DO SETOR PÚBLICO BRASILEIRO EM ATENDIMENTO A LEI DE RESPONSABILIDADE FISCAL - LRF PARA PROMOVER A TRANSPARÊNCIA MUNICIPAL E CONTROLE SOCIAL, JUNTO A SECRETARIA DE SAÚDE, SECRETARIA DE EDUCAÇÃO, SECRETARIA DE GOVERNO E SECRETARIA DE FINANÇAS DO MUNICÍPIO DE MASSAPÊ/CE.
+VALOR ESTIMADO: R$ 207.840,00
+PRAZO PARA PROPOSTAS: 2025-04-15T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/07598691000116-1-000012/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07598691000116/compras/2025/12/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07598691000116/compras/2025/12/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07598691000116/compras/2025/12/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07598691000116/compras/2025/12/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07598691000116/compras/2025/12/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07598691000116/compras/2025/12/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: 01 - SERVIÇOS DE ASSESSORIA, CONSULTORIA TÉCNICA, GERENCIAMENTO E ACOMPANHAMENTO DOS SISTEMA DE INFORMAÇÕES CONTÁBEIS E  | Qtd: 12.0 | R$ Unit: 4330.0
+  - Item 2: 02 - SERVIÇOS DE ASSESSORIA, CONSULTORIA TÉCNICA, GERENCIAMENTO E ACOMPANHAMENTO DOS SISTEMA DE INFORMAÇÕES CONTÁBEIS E  | Qtd: 12.0 | R$ Unit: 4330.0
+  - Item 3: 03 - SERVIÇOS DE ASSESSORIA, CONSULTORIA TÉCNICA, GERENCIAMENTO E ACOMPANHAMENTO DOS SISTEMA DE INFORMAÇÕES CONTÁBEIS E  | Qtd: 12.0 | R$ Unit: 4330.0
+  - Item 4: 04 - SERVIÇOS DE ASSESSORIA, CONSULTORIA TÉCNICA, GERENCIAMENTO E ACOMPANHAMENTO DOS SISTEMA DE INFORMAÇÕES CONTÁBEIS E  | Qtd: 12.0 | R$ Unit: 4330.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 181200.0,
+  "orgaoEntidade": {
+    "cnpj": "07598691000116",
+    "razaoSocial": "MUNICIPIO DE MASSAPE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-03-26T16:51:16",
+  "dataInclusao": "2025-03-26T16:51:16",
+  "numeroControlePNCP": "07598691000116-1-000012/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 12,
+  "emendaParlamentar": null,
+  "numeroCompra": "2025.02.27.004",
+  "processo": "2025.02.27.004",
+  "dataEncerramentoProposta": "2025-04-15T08:00:00",
+  "objetoCompra": "CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA, CONSULTORIA TÉCNICA, GERENCIAMENTO E ACOMPANHAMENTO DOS SISTEMA DE INFORMAÇÕES CONTÁBEIS E FISCAIS DO SETOR PÚBLICO BRASILEIRO EM ATENDIMENTO A LEI DE RESPONSABILIDADE FISCAL - LRF PARA PROMOVER A TRANSPARÊNCIA MUNICIPAL E CONTROLE SOCIAL, JUNTO A SECRETARIA DE SAÚDE, SECRETARIA DE EDUCAÇÃO, SECRETARIA DE GOVERNO E SECRETARIA DE FINANÇAS DO MUNICÍPIO DE MASSAPÊ/CE.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-03-26T19:00:00",
+  "dataPublicacaoPncp": "2025-03-26T16:51:16",
+  "dataAtualizacaoGlobal": "2025-05-20T14:21:13",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Massapê",
+    "codigoUnidade": "2134",
+    "nomeUnidade": "Massapê",
+    "codigoIbge": "2308005"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações",
+  "valorTotalEstimado": 207840.0
+}

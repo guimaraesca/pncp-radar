@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE VEREADORES DE VARGEM BONITA (Vargem Bonita/SC)
+MODALIDADE: Credenciamento
+OBJETO DA CONTRATAÇÃO: Credenciamento de empresas especializadas no serviço de agenciamento de passagens aéreas compreendendo reservas, emissão de bilhetes, remarcação, reembolso e cancelamento de bilhetes em trechos diversos no âmbito nacional, para fins de transporte de servidores e agentes políticos de interesse do Poder Legislativo de Vargem Bonita
+VALOR ESTIMADO: R$ 150,000.00
+PRAZO PARA PROPOSTAS: 2026-11-03T17:00:00
+LINK OFICIAL: 
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

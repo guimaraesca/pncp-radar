@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANA (Curitiba/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços de segurança da informação, mediante o fornecimento de solução integrada contemplando a renovação de licenças, subscrições, suporte, garantia e atualizações do ambiente Fortinet existente no Crea-PR, o fornecimento, a implantação e o suporte de solução Zero Trust Network Access (ZTNA), serviços gerenciados de segurança, gestão contínua de vulnerabilidades, testes de invasão, treinamento e disponibilização de serviços técnicos especializados.
+VALOR ESTIMADO: R$ 3.020.645,13
+PRAZO PARA PROPOSTAS: 2026-10-15T08:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38908805002022026
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Curitiba/PR (130km)]
+DISTÂNCIA ESTIMADA DA BASE: 130 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76639384000159/compras/2026/229/arquivos/1
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "76639384000159",
+    "razaoSocial": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-25T15:53:12",
+  "dataAtualizacao": "2026-09-25T15:53:12",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Curitiba",
+    "codigoUnidade": "389088",
+    "nomeUnidade": "CONSELHO REG.DE ENGENHARIA E AGRONOMIA DO PR",
+    "codigoIbge": "4106902"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38908805002022026",
+  "linkProcessoEletronico": "https://creapr-sei.crea-pr.org.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_controlar&id_procedimento=2594565&infra_sistema=100000100&infra_unidade_atual=110000055&infra_hash=c74f083fc652e64219c4e8438325dce08a8fe516b4995074405da5e3f36c1396",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 229,
+  "emendaParlamentar": null,
+  "numeroCompra": "202",
+  "processo": "017.000751/2026-94",
+  "objetoCompra": "Prestação de serviços de segurança da informação, mediante o fornecimento de solução integrada contemplando a renovação de licenças, subscrições, suporte, garantia e atualizações do ambiente Fortinet existente no Crea-PR, o fornecimento, a implantação e o suporte de solução Zero Trust Network Access (ZTNA), serviços gerenciados de segurança, gestão contínua de vulnerabilidades, testes de invasão, treinamento e disponibilização de serviços técnicos especializados.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-28T08:00:00",
+  "dataEncerramentoProposta": "2026-10-15T08:00:00",
+  "dataPublicacaoPncp": "2026-09-25T15:53:12",
+  "dataAtualizacaoGlobal": "2026-09-25T15:54:12",
+  "numeroControlePNCP": "76639384000159-1-000229/2026",
+  "valorTotalEstimado": 3020645.13,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-25T15:53:12"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PALMAS (Palmas/TO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Aquisição de água mineral e gelo, visando atender as necessidades da Secretaria Municipal de Planejamento, Orçamento e Licitações e seus Subórgãos integrantes, quais sejam: Gabinete do Secretário e Secretários Executivos, Superintendência de Despesas Comuns de Gestão, Superintendência de Administração, Finanças e Planejamento, Superintendência de Orçamento e Planejamento Estratégico, Superintendência de Convênios, Superintendência de Licitações e Superintendência do Programa de Parcerias e Investimentos.
+VALOR ESTIMADO: R$ 21.415,61
+PRAZO PARA PROPOSTAS: 2025-03-26T08:59:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/TO/Prefeitura-Municipal-de-Palmas-89/DE-016-2025-2025-374653
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24851511000185/compras/2025/37/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24851511000185/compras/2025/37/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24851511000185/compras/2025/37/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Água Mineral sem gás – copo 200 ml, 48x1, copo de polipropileno, protetor na parte superior e lacre de segurança, sem av | Qtd: 429.0 | R$ Unit: 30.34
+  - Item 2: Água Mineral sem gás, 500 ml, 12x1, embalagem plástica, contendo identificação do produto, marca do fabricante, prazo de | Qtd: 217.0 | R$ Unit: 13.8
+  - Item 3: Água Mineral com gás, 500 ml, 12x1, embalagem plástica, contendo identificação do produto, marca do fabricante, prazo de | Qtd: 160.0 | R$ Unit: 24.89
+  - Item 4: Água Mineral sem gás, galão de 20 litros, prazo de validade mínima de 03 anos | Qtd: 97.0 | R$ Unit: 11.5
+  - Item 5: Gelo em cubo, embalagem com 5 kg. | Qtd: 25.0 | R$ Unit: 12.29
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "24851511000185",
+    "razaoSocial": "MUNICIPIO DE PALMAS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 20606.85,
+  "dataInclusao": "2025-03-21T15:18:53",
+  "dataAtualizacao": "2025-05-30T17:30:23",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 37,
+  "emendaParlamentar": null,
+  "numeroCompra": "016",
+  "processo": "011654",
+  "objetoCompra": "[Portal de Compras Públicas] - Aquisição de água mineral e gelo, visando atender as necessidades da Secretaria Municipal de Planejamento, Orçamento e Licitações e seus Subórgãos integrantes, quais sejam: Gabinete do Secretário e Secretários Executivos, Superintendência de Despesas Comuns de Gestão, Superintendência de Administração, Finanças e Planejamento, Superintendência de Orçamento e Planejamento Estratégico, Superintendência de Convênios, Superintendência de Licitações e Superintendência do Programa de Parcerias e Investimentos.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-03-21T18:00:00",
+  "dataEncerramentoProposta": "2025-03-26T08:59:00",
+  "dataPublicacaoPncp": "2025-03-21T15:18:53",
+  "dataAtualizacaoGlobal": "2025-05-30T17:30:51",
+  "unidadeOrgao": {
+    "ufNome": "Tocantins",
+    "ufSigla": "TO",
+    "municipioNome": "Palmas",
+    "codigoUnidade": "2500",
+    "nomeUnidade": "2500 - Secretaria Municipal de Planejamento e Gestão",
+    "codigoIbge": "1721000"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "24851511000185-1-000037/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/TO/Prefeitura-Municipal-de-Palmas-89/DE-016-2025-2025-374653",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 21415.61,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

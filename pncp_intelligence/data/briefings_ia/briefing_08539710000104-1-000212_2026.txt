@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO PUBLICO DO ESTADO DO RIO GRANDE DO NORTE (Natal/RN)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para eventual contratação de empresa para o fornecimento de subscrição de software de virtualização de servidores, redes e armazenamento da solução vmware cloud foundation - vcf, do fabricante broadcom/vmware, pelo período de 36 (trinta e seis) meses.
+VALOR ESTIMADO: R$ 2.049.533,04
+PRAZO PARA PROPOSTAS: 2026-10-09T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92560305000112026
+BASE LOGÍSTICA COMPATÍVEL: Natal (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: NATAL/RN]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08539710000104/compras/2026/212/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licenciamento de Direitos de Produção, Distribuição ou Comercialização de Programas de Computador Licenciamento VMware C | Qtd: 456.0 | R$ Unit: 4494.59
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "08539710000104",
+    "razaoSocial": "MINISTERIO PUBLICO DO ESTADO DO RIO GRANDE DO NORTE",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-23T11:40:22",
+  "dataAtualizacao": "2026-09-23T11:40:22",
+  "anoCompra": 2026,
+  "sequencialCompra": 212,
+  "emendaParlamentar": null,
+  "numeroCompra": "11",
+  "processo": "20.23.0464.0000224/2026-71",
+  "objetoCompra": "Registro de preços para eventual contratação de empresa para o fornecimento de subscrição de software de virtualização de servidores, redes e armazenamento da solução vmware cloud foundation - vcf, do fabricante broadcom/vmware, pelo período de 36 (trinta e seis) meses.",
+  "informacaoComplementar": "Em caso de discordância existente entre as especificações deste objeto descritas no COMPRASNET e as especificações constantes deste Edital, prevalecerão as últimas.",
+  "dataAberturaProposta": "2026-09-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-09T09:00:00",
+  "dataPublicacaoPncp": "2026-09-23T11:40:22",
+  "dataAtualizacaoGlobal": "2026-09-23T11:41:23",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Norte",
+    "ufSigla": "RN",
+    "municipioNome": "Natal",
+    "codigoIbge": "2408102",
+    "codigoUnidade": "925603",
+    "nomeUnidade": "PROCURADORA-GERAL DE JUSTIÇA AD.EST. DO RN"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92560305000112026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "08539710000104-1-000212/2026",
+  "srp": true,
+  "valorTotalEstimado": 2049533.04,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T11:40:22"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

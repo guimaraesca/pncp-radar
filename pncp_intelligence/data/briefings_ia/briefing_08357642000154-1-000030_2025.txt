@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE JOSE DA PENHA (José da Penha/RN)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para prestação de serviços para realizar serviços educacionais preparatórios por meio de professores com habilitação e experiência na área docente para ministrar aulas para alunos das turmas de 5° ano(s) do ensino fundamental voltado ao Sistema de Avaliação da Educação Básica (SAEB); e alunos das turmas de 9º ano(s) do ensino fundamental para o Exame de Seleção do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte – IFRN.
+VALOR ESTIMADO: R$ 55.318,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/08357642000154-1-000030/2025
+BASE LOGÍSTICA COMPATÍVEL: Natal (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: RN]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08357642000154/compras/2025/30/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08357642000154/compras/2025/30/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cursinho Preparatório para SAEB 5° ANOS = 510 (3 turmas: duas na Escola 04 de Outubro e uma na Ariamiro) PREPARATÓRIO IF | Qtd: 1020.0 | R$ Unit: 54.2333
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 50398.2,
+  "orgaoEntidade": {
+    "cnpj": "08357642000154",
+    "razaoSocial": "MUNICIPIO DE JOSE DA PENHA",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-04-04T08:52:34",
+  "dataAtualizacao": "2025-04-04T08:52:34",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Pública Tecnologia Ltda.",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-04-04T08:52:34",
+  "dataAtualizacaoGlobal": "2025-04-04T08:52:58",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Norte",
+    "ufSigla": "RN",
+    "municipioNome": "José da Penha",
+    "codigoIbge": "2406007",
+    "codigoUnidade": "2",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE JOSÉ DA PENHA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "A contratação de empresa especializada visa oferecer serviços educacionais preparatórios de qualidade, com professores qualificados e experientes, para atender alunos do 5º e 9º anos do ensino fundamental. O objetivo é prepará-los adequadamente para o Sistema de Avaliação da Educação Básica (SAEB) e o Exame de Seleção do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN), contribuindo para a melhoria do desempenho escolar e o ingresso em instituições de ensino superior.",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 30,
+  "emendaParlamentar": null,
+  "numeroCompra": "25030001/2025",
+  "processo": "25030001/2025",
+  "objetoCompra": "Contratação de empresa para prestação de serviços para realizar serviços educacionais preparatórios por meio de professores com habilitação e experiência na área docente para ministrar aulas para alunos das turmas de 5° ano(s) do ensino fundamental voltado ao Sistema de Avaliação da Educação Básica (SAEB); e alunos das turmas de 9º ano(s) do ensino fundamental para o Exame de Seleção do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte – IFRN.",
+  "informacaoComplementar": "A importância dessa contratação reside na promoção de uma educação de qualidade e na preparação eficaz dos alunos para avaliações importantes, como o SAEB e o Exame de Seleção do IFRN. Com professores habilitados e experientes, os alunos terão acesso a um ensino especializado, que não só visa melhorar o desempenho nas avaliações, mas também contribui para o desenvolvimento de competências essenciais para o futuro acadêmico e profissional. Além disso, essa iniciativa reforça o compromisso com a igualdade de oportunidades, oferecendo aos estudantes as ferramentas necessárias para o seu sucesso educacional e para a conquista de uma vaga em instituições de ensino superior.",
+  "numeroControlePNCP": "08357642000154-1-000030/2025",
+  "valorTotalEstimado": 55318.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

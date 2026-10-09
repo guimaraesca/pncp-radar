@@ -1,0 +1,81 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ITAICABA (Itaiçaba/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contração de serviços especializados de fornecimento mensal de solução integrada de software, locação e manutenção de equipamentos, hospedagem em nuvem, suporte técnico e capacitação de servidores e prestadores de serviços para todas as Unidades de Saúde que compõem o sistema municipal de saúde do Município de Itaiçaba, Ceará
+VALOR ESTIMADO: R$ 169.374,00
+PRAZO PARA PROPOSTAS: 2025-05-12T08:59:00
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/1ebf7cc68af64f55a9122e6896686775/contracao-de-servicos-especializados-de-fornecimen
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07403769000108/compras/2025/15/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07403769000108/compras/2025/15/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07403769000108/compras/2025/15/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07403769000108/compras/2025/15/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07403769000108/compras/2025/15/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07403769000108/compras/2025/15/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço Implantação de plataforma de gerenciamento dos serviços municipais de saúde, Painel de Monitoramento DASHBOARD,  | Qtd: 1.0 | R$ Unit: 5400.0
+  - Item 2: Serviço de DISPONIBILIZAÇÃO MENSAL DE SERVIDOR EM NUVEM | Qtd: 12.0 | R$ Unit: 3160.0
+  - Item 3: LICENCIAMENTO MENSAL DE SOFTWARE DE MONITORAMENTO DOS SERVIÇOS MUNICIPAIS DE SAÚDE, | Qtd: 12.0 | R$ Unit: 822.5
+  - Item 4: SERVIÇO DE ASSESSORIA TÉCNICA | Qtd: 12.0 | R$ Unit: 4399.0
+  - Item 5: Locação mensal de Estação de trabalho | Qtd: 12.0 | R$ Unit: 704.0
+  - Item 6: LICENCIAMENTO MENSAL DE SOFTWARE DE GESTÃO HOSPITALAR, desenvolvido com tecnologia web, em ambiente de computação em nuv | Qtd: 12.0 | R$ Unit: 3930.0
+  - Item 7: Aluguel de impressoras para o Hospital Municipal | Qtd: 12.0 | R$ Unit: 649.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07403769000108",
+    "razaoSocial": "MUNICIPIO DE ITAICABA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 169000.0,
+  "dataInclusao": "2025-04-22T08:34:53",
+  "dataAtualizacao": "2025-04-22T08:34:53",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Itaiçaba",
+    "codigoUnidade": "202503",
+    "nomeUnidade": "FUNDO MUNICIPAL DE SAUDE",
+    "codigoIbge": "2306207"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/1ebf7cc68af64f55a9122e6896686775/contracao-de-servicos-especializados-de-fornecimen",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 15,
+  "emendaParlamentar": null,
+  "numeroCompra": "011/2025-PE",
+  "processo": "0000520250210000206",
+  "objetoCompra": "Contração de serviços especializados de fornecimento mensal de solução integrada de software, locação e manutenção de equipamentos, hospedagem em nuvem, suporte técnico e capacitação de servidores e prestadores de serviços para todas as Unidades de Saúde que compõem o sistema municipal de saúde do Município de Itaiçaba, Ceará",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-23T00:00:00",
+  "dataEncerramentoProposta": "2025-05-12T08:59:00",
+  "dataPublicacaoPncp": "2025-04-22T08:34:53",
+  "dataAtualizacaoGlobal": "2025-11-05T08:24:13",
+  "numeroControlePNCP": "07403769000108-1-000015/2025",
+  "valorTotalEstimado": 169374.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

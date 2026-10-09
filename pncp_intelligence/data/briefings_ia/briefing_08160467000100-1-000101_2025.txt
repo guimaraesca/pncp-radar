@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO BENTO DO TRAIRI (São Bento do Trairí/RN)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada na Prestação de serviços de assessoria
+técnica especializada em infraestrutura educacional para suporte à Secretaria
+Municipal de Educação de São Bento do Trairi/RN na produção de documentação
+técnica para a repactuação de uma quadra inacabada pactuada junto ao FNDE,
+abarcada no Pacto Nacional pela Retomada de Obras e Serviços de Engenharia.
+VALOR ESTIMADO: R$ 23.100,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/08160467000100-1-000101/2025
+BASE LOGÍSTICA COMPATÍVEL: Natal (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: RN]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08160467000100/compras/2025/101/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Prestação de serviços de assessoria técnica especializada em
+infraestrutura educacional para suporte à Secretaria
+Muni | Qtd: 3.0 | R$ Unit: 7700.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "08160467000100",
+    "razaoSocial": "MUNICIPIO DE SAO BENTO DO TRAIRI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-05T08:50:24",
+  "dataAtualizacao": "2025-08-05T08:50:24",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Norte",
+    "ufSigla": "RN",
+    "municipioNome": "São Bento do Trairí",
+    "codigoUnidade": "08160467000100",
+    "nomeUnidade": "Prefeitura",
+    "codigoIbge": "2411700"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 101,
+  "emendaParlamentar": null,
+  "numeroCompra": "72",
+  "processo": "106",
+  "objetoCompra": "Contratação de empresa especializada na Prestação de serviços de assessoria\r\ntécnica especializada em infraestrutura educacional para suporte à Secretaria\r\nMunicipal de Educação de São Bento do Trairi/RN na produção de documentação\r\ntécnica para a repactuação de uma quadra inacabada pactuada junto ao FNDE,\r\nabarcada no Pacto Nacional pela Retomada de Obras e Serviços de Engenharia.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T08:50:24",
+  "dataAtualizacaoGlobal": "2025-08-05T08:50:31",
+  "numeroControlePNCP": "08160467000100-1-000101/2025",
+  "valorTotalEstimado": 23100.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "TOP DOWN CONSULTORIA LTDA"
+}

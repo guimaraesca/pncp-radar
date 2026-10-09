@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MONTE CARMELO (Monte Carmelo/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [LICITANET] - Aquisição de materiais elétricos, de rede e de infraestrutura de TI, para estruturação e manutenção de ambientes institucionais da Secretaria Municipal de Desenvolvimento Econômico, Governo, Inovação e Turismo e do Centro de Especialidades Médicas, conforme especificações descritas neste Termo de Referência
+VALOR ESTIMADO: R$ 31.395,21
+PRAZO PARA PROPOSTAS: 2025-07-08T08:30:00
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/WkplaWxwR28=
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18593103000178/compras/2025/708/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 6074211: Asses Point Tp link EAP 245 | Qtd: 1.0 | R$ Unit: 1200.83
+  - Item 6074212: Bandeija para rack simples fixação  | Qtd: 1.0 | R$ Unit: 79.53
+  - Item 6074213: Cabo CAT 06 caix com 305 metros  | Qtd: 5.0 | R$ Unit: 1485.5
+  - Item 6074214: Canaleta Recortada Aberta PVC Cinza 30 x 30 MM ventilada 2 metros  | Qtd: 30.0 | R$ Unit: 42.62
+  - Item 6074215: Conector Fêmea RJ 45 Cat 06 | Qtd: 10.0 | R$ Unit: 29.48
+  - Item 6074216: Módulo tomada Dupla  RJ 45 CAT6 Fios Sistema X 675047 | Qtd: 50.0 | R$ Unit: 60.0
+  - Item 6074217: Nobreak 1700 VA senoidal  | Qtd: 1.0 | R$ Unit: 2855.33
+  - Item 6074218: Nobreak 3000 VA Senoidal entrada de 115 V 127V/220 V e saidea de 115 V | Qtd: 1.0 | R$ Unit: 3888.48
+  - Item 6074219: Nobreak 700 VA entrada e saída 120 V/220 V | Qtd: 7.0 | R$ Unit: 383.14
+  - Item 6074220: Pach Cord 1,5 mm  | Qtd: 50.0 | R$ Unit: 36.21
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 15683.53,
+  "orgaoEntidade": {
+    "cnpj": "18593103000178",
+    "razaoSocial": "MUNICIPIO DE MONTE CARMELO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-07-03T11:06:01",
+  "dataInclusao": "2025-07-03T11:06:01",
+  "numeroControlePNCP": "18593103000178-1-000708/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 708,
+  "emendaParlamentar": null,
+  "numeroCompra": "648",
+  "processo": "75",
+  "dataEncerramentoProposta": "2025-07-08T08:30:00",
+  "objetoCompra": "[LICITANET] - Aquisição de materiais elétricos, de rede e de infraestrutura de TI, para estruturação e manutenção de ambientes institucionais da Secretaria Municipal de Desenvolvimento Econômico, Governo, Inovação e Turismo e do Centro de Especialidades Médicas, conforme especificações descritas neste Termo de Referência",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-03T11:05:55",
+  "dataPublicacaoPncp": "2025-07-03T11:06:01",
+  "dataAtualizacaoGlobal": "2025-07-09T13:56:46",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Monte Carmelo",
+    "codigoUnidade": "172",
+    "nomeUnidade": "MUNICIPIO DE MONTE CARMELO/MG",
+    "codigoIbge": "3143104"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/WkplaWxwR28=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA",
+  "valorTotalEstimado": 31395.21
+}

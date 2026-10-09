@@ -1,0 +1,91 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PIRANGUCU (Piranguçu/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada na prestação de serviços de aerolevantamento fotogramétrico, mapeamento móvel 360° LiDAR, atualização do cadastro imobiliário, planta de valores genéricos e implantação de plataforma de geoprocessamento na modalidade SaaS, incluindo serviços de suporte técnico, treinamento e hospedagem de dados georreferenciados para o Município de Piranguçu - MG.
+VALOR ESTIMADO: R$ 615.393,51
+PRAZO PARA PROPOSTAS: 2026-10-15T08:59:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]jdZig2mBNlEgjctbgPNKqk0UyyW7bTqXgZA5amt3YPVRTbwHoDv2ZcCi7//eT6JZ_XOgigtEBv7KEeGSQ_vHu1tW5vIMdrX34FHxhoIdhvM=
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025981000197/compras/2026/102/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025981000197/compras/2026/102/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025981000197/compras/2026/102/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025981000197/compras/2026/102/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025981000197/compras/2026/102/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18025981000197/compras/2026/102/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Mobilização (apoio logístico e planejamento do voo) | Qtd: 1.0 | R$ Unit: 10920.9333
+  - Item 2: Apoio suplementar (coleta de pontos de apoio em campo) | Qtd: 6.7 | R$ Unit: 1420.1666
+  - Item 3: Aerolevantamento fotogramétrico RGB (5,0 cm/pixel) | Qtd: 6.7 | R$ Unit: 2191.5666
+  - Item 4: Ortofotos (5,0 cm/pixel); modelo de superfície; modelo de terreno e curvas de nível - 1 metro | Qtd: 6.7 | R$ Unit: 5348.6666
+  - Item 5: Fotos 360º (6 fotos x 5MP) e nuvem de pontos LiDAR | Qtd: 6.7 | R$ Unit: 10484.0333
+  - Item 6: Elaboração de relatório preliminar da base de dados | Qtd: 1.0 | R$ Unit: 2526.2666
+  - Item 7: Digitalização de planta quadra | Qtd: 1.0 | R$ Unit: 5553.2333
+  - Item 8: Retificação de planta quadra | Qtd: 1.0 | R$ Unit: 7533.4
+  - Item 9: Geoprocessamento de quadra | Qtd: 1.0 | R$ Unit: 9821.0
+  - Item 10: Geoprocessamento de logradouro | Qtd: 1.0 | R$ Unit: 8937.1666
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "18025981000197",
+    "razaoSocial": "MUNICIPIO DE PIRANGUCU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-24T09:05:03",
+  "dataAtualizacao": "2026-09-24T09:05:03",
+  "anoCompra": 2026,
+  "sequencialCompra": 102,
+  "emendaParlamentar": null,
+  "numeroCompra": "000025",
+  "processo": "000084/2026",
+  "objetoCompra": "Contratação de empresa especializada na prestação de serviços de aerolevantamento fotogramétrico, mapeamento móvel 360° LiDAR, atualização do cadastro imobiliário, planta de valores genéricos e implantação de plataforma de geoprocessamento na modalidade SaaS, incluindo serviços de suporte técnico, treinamento e hospedagem de dados georreferenciados para o Município de Piranguçu - MG.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-24T09:10:00",
+  "dataEncerramentoProposta": "2026-10-15T08:59:00",
+  "dataPublicacaoPncp": "2026-09-24T09:05:03",
+  "dataAtualizacaoGlobal": "2026-09-29T10:13:33",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Piranguçu",
+    "codigoIbge": "3150901",
+    "codigoUnidade": "020201",
+    "nomeUnidade": "Departamento de Administração"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]jdZig2mBNlEgjctbgPNKqk0UyyW7bTqXgZA5amt3YPVRTbwHoDv2ZcCi7//eT6JZ_XOgigtEBv7KEeGSQ_vHu1tW5vIMdrX34FHxhoIdhvM=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "18025981000197-1-000102/2026",
+  "srp": false,
+  "valorTotalEstimado": 615393.51,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-24T09:05:04"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CAMPO DO TENENTE (Campo do Tenente/PR)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: CONTRATACAO DE EMPRESA PARA PRESTACAO DE SERVICOS DE LICENCIAMENTO DE SOFTWARE DE GESTAO PUBLICA E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS PARA INSTALACAO ASSESSORIA TECNICA PARA IMPLANTACAO MIGRACAO DE DADOS ADAPTACAO AJUSTES DA SOLUCAO TREINAMENTO DE USUARIOS E CORPO TECNICO DE INFORMATICA MANUTENCAO LEGAL E SUPORTE TECNICO CONFORME CONDICOES E EXIGENCIAS ESTABELECIDAS NO PRESENTE DOCUMENTO.
+VALOR ESTIMADO: R$ 1.560.430,40
+PRAZO PARA PROPOSTAS: 2025-09-03T08:45:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/76002658000102-1-000065/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76002658000102/compras/2025/65/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Executivo Municipal Modulo de Admissao | Qtd: 12.0 | R$ Unit: 710.67
+  - Item 2: Executivo Municipal Modulo de Almoxarifado | Qtd: 12.0 | R$ Unit: 502.87
+  - Item 3: Executivo Municipal Modulo de Alvara de Construcao e Habitese | Qtd: 12.0 | R$ Unit: 503.59
+  - Item 4: Executivo Municipal Modulo de Avaliacao funcional | Qtd: 12.0 | R$ Unit: 503.63
+  - Item 5: Executivo Municipal Modulo de B.I.  Business Intelligence | Qtd: 12.0 | R$ Unit: 2238.33
+  - Item 6: Executivo Municipal Modulo de Cadastro de Loteamento | Qtd: 12.0 | R$ Unit: 391.71
+  - Item 7: Executivo Municipal Modulo de Carta de Servicos e Atendimento ao | Qtd: 12.0 | R$ Unit: 661.9
+  - Item 8: Executivo Municipal Modulo de Contabilidade Publica Execucao | Qtd: 12.0 | R$ Unit: 1351.25
+  - Item 9: Executivo Municipal  Modulo de Controle de Frotas | Qtd: 12.0 | R$ Unit: 625.28
+  - Item 10: Executivo Municipal Modulo de Controle de Isencao de IPTU | Qtd: 12.0 | R$ Unit: 570.24
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "76002658000102",
+    "razaoSocial": "MUNICIPIO DE CAMPO DO TENENTE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-07-15T09:17:47",
+  "dataAtualizacao": "2025-07-15T09:17:47",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 65,
+  "emendaParlamentar": null,
+  "numeroCompra": "6",
+  "processo": "309",
+  "objetoCompra": "CONTRATACAO DE EMPRESA PARA PRESTACAO DE SERVICOS DE LICENCIAMENTO DE SOFTWARE DE GESTAO PUBLICA E PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS PARA INSTALACAO ASSESSORIA TECNICA PARA IMPLANTACAO MIGRACAO DE DADOS ADAPTACAO AJUSTES DA SOLUCAO TREINAMENTO DE USUARIOS E CORPO TECNICO DE INFORMATICA MANUTENCAO LEGAL E SUPORTE TECNICO CONFORME CONDICOES E EXIGENCIAS ESTABELECIDAS NO PRESENTE DOCUMENTO.",
+  "informacaoComplementar": "Inexistente",
+  "dataAberturaProposta": "2025-07-16T14:00:00",
+  "dataEncerramentoProposta": "2025-09-03T08:45:00",
+  "dataPublicacaoPncp": "2025-07-15T09:17:47",
+  "dataAtualizacaoGlobal": "2025-07-15T09:17:53",
+  "numeroControlePNCP": "76002658000102-1-000065/2025",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Campo do Tenente",
+    "codigoUnidade": "301",
+    "nomeUnidade": "Manutencao do Departamento de Administracao",
+    "codigoIbge": "4104105"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 1560430.4,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Equiplano Sistemas LTDA / Equiplano Sistemas "
+}

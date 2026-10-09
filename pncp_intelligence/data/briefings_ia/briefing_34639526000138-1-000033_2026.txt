@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: DEFENSORIA PUBLICA DO ESTADO DO PARA (Belém/PA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de Preços para eventual contratação de plataforma híbrida de atendimento através do canal de comunicação WhatsApp e Web, na modalidade SaaS (Software Como Serviço, compreendendo serviços de instalação, configuração, testes, serviços de manutenção corretiva, envolvendo integração via API ou WebService de envio de mensagens com os sistemas legados, serviço de automação de fluxos por agentes virtuais, serviço de atendimento via chatbots com Inteligência Artificial (IA) Generativa, acompanhados de automação de atendimentos, integração e suporte a ferramenta de service desk GLPI (Gestionnaire Libre de Parc Informatique – Gestão Livre de Parque de Informática) já implantada nesta Defensoria Pública e serviço sob demanda para customização da solução, destinados a Central de Atendimento aos cidadãos que buscam a Defensoria Pública do Estado do Pará - DPE.
+VALOR ESTIMADO: R$ 12,397,966.50
+PRAZO PARA PROPOSTAS: 2026-10-14T10:00:00
+LINK OFICIAL: 
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

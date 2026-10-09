@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO CEARA (Fortaleza/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: MATERIAL DE EXPEDIENTE - CANETAS
+VALOR ESTIMADO: R$ 4.999,80
+PRAZO PARA PROPOSTAS: 2025-08-19T13:30:56
+LINK OFICIAL: https://pncp.gov.br/app/editais/07954480000179-1-012295/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2025/12295/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CANETA ESFEROGRAFICA, ESCRITA FINA, CORPO MATERIAL PLASTICO TRANSPARENTE 140MM, CARGA EM TUBO PLASTICO 130 MM, VARIACAO  | Qtd: 8333.0 | R$ Unit: 0.6
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 4583.15,
+  "orgaoEntidade": {
+    "cnpj": "07954480000179",
+    "razaoSocial": "ESTADO DO CEARA",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-08-06T14:25:45",
+  "dataAtualizacao": "2025-11-27T12:56:54",
+  "numeroControlePNCP": "07954480000179-1-012295/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 12295,
+  "emendaParlamentar": null,
+  "numeroCompra": "202519561",
+  "processo": "22001110953202574",
+  "srp": false,
+  "objetoCompra": "MATERIAL DE EXPEDIENTE - CANETAS",
+  "informacaoComplementar": "considerando a realização do Exame Nacional do Ensino Médio (ENEM) 2025 e a necessidade de garantir condições adequadas de participação aos estudantes da rede pública estadual jurisdicionados à Superintendência das Escolas Estaduais de Fortaleza – SEFOR 3, faz-se necessária a aquisição de canetas esferográficas para serem distribuídas aos alunos nas tendas que serão previamente montadas na Universidade Estadual do Ceará, sendo um dos principais locais de aplicação das provas.\nA distribuição do referido material visa assegurar que os estudantes tenham o item essencial exigido para a realização da prova, contribuindo para a equidade no processo e evitando prejuízos decorrentes da ausência do material no momento da avaliação. A ação também faz parte de uma política de apoio logístico e pedagógico voltada ao fortalecimento da participação estudantil no ENEM, em consonância com as diretrizes da Secretaria da Educação do Estado.. ",
+  "dataAberturaProposta": "2025-08-06T15:00:00",
+  "dataEncerramentoProposta": "2025-08-19T13:30:56",
+  "dataPublicacaoPncp": "2025-08-06T14:25:45",
+  "dataAtualizacaoGlobal": "2025-11-27T12:56:54",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Fortaleza",
+    "codigoIbge": "2304400",
+    "codigoUnidade": "221003",
+    "nomeUnidade": "SUPERINTENDENCIA DAS ESCOLAS ESTADUAIS DE FORTALEZA - SEFOR3"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 4999.8,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria do Planejamento e Gestão do Ceará"
+}

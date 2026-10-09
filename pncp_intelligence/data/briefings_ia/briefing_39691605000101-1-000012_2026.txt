@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: OSTRASPREV - RIO DAS OSTRAS PREVIDENCIA (Rio das Ostras/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de pessoa jurídica especializada para a realização de estudos técnicos especializados, para a prestação de serviços técnicos de implantação, administração, gestão, operacionalização, atendimento e acompanhamento contínuo da carteira de crédito consignado, compreendendo o fornecimento de solução tecnológica integrada sob o modelo Software as a Service (SaaS) de suporte ao OSTRASPREV - Rio das Ostras Previdência
+VALOR ESTIMADO: R$ 0,21
+PRAZO PARA PROPOSTAS: 2026-10-09T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92803405000572026
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/39691605000101/compras/2026/12/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Consignações Taxa de administração de crédito consignado sendo o critério de julgamento será pela menor Taxa de Administ | Qtd: 1.0 | R$ Unit: 0.21
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "39691605000101",
+    "razaoSocial": "OSTRASPREV - RIO DAS OSTRAS PREVIDENCIA",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-22T15:17:13",
+  "dataAtualizacao": "2026-09-22T15:17:13",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio das Ostras",
+    "codigoUnidade": "928034",
+    "nomeUnidade": "OSTRASPREV - RIO DAS OSTRAS PREVIDÊNCIA - RJ",
+    "codigoIbge": "3304524"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92803405000572026",
+  "linkProcessoEletronico": "https://newsali.riodasostras.rj.gov.br",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 12,
+  "emendaParlamentar": null,
+  "numeroCompra": "57",
+  "processo": "66/2026IS",
+  "objetoCompra": "Contratação de serviços de pessoa jurídica especializada para a realização de estudos técnicos especializados, para a prestação de serviços técnicos de implantação, administração, gestão, operacionalização, atendimento e acompanhamento contínuo da carteira de crédito consignado, compreendendo o fornecimento de solução tecnológica integrada sob o modelo Software as a Service (SaaS) de suporte ao OSTRASPREV - Rio das Ostras Previdência",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-23T09:00:00",
+  "dataEncerramentoProposta": "2026-10-09T09:00:00",
+  "dataPublicacaoPncp": "2026-09-22T15:17:13",
+  "dataAtualizacaoGlobal": "2026-09-22T15:21:15",
+  "numeroControlePNCP": "39691605000101-1-000012/2026",
+  "valorTotalEstimado": 0.21,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-22T15:17:14"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

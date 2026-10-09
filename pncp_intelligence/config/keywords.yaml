@@ -1,0 +1,247 @@
+# Configuração de temas e palavras-chave para filtragem no PNCP
+# Estruturado para o Radar de Oportunidades / EduMonitor (Gestão por Evidências)
+# e Soluções Tecnológicas / SaaS de Alto Valor.
+
+categories:
+  # -------------------------------------------------------------
+  # VERTICAL EDUMONITOR: EDUCAÇÃO PÚBLICA & GESTÃO POR EVIDÊNCIAS
+  # -------------------------------------------------------------
+  edumonitor_gestao_evidencias:
+    name: "EduMonitor: Copiloto IDEB & Gestão por Evidências"
+    subtemas:
+      copiloto_ideb:
+        name: "Copiloto IDEB & Indicadores Educacionais"
+        terms:
+          - "ideb"
+          - "saeb"
+          - "simulador ideb"
+          - "meta ideb"
+          - "copiloto educacional"
+          - "radar educacional"
+          - "gestao baseada em evidencias"
+          - "indicadores educacionais"
+          - "painel educacional"
+          - "dashboard educacional"
+          - "sala de situacao educacao"
+          - "sala de situacao educacional"
+          - "gestao orientada por dados na educacao"
+
+      avaliacao_diagnostica:
+        name: "Avaliação & Diagnóstico de Rede"
+        terms:
+          - "avaliacao diagnostica"
+          - "avaliacao somativa"
+          - "avaliacao formativa"
+          - "sistema municipal de avaliacao"
+          - "diagnostico educacional"
+          - "diagnostico de rede"
+          - "diagnostico escolar"
+          - "recomposicao de aprendizagem"
+          - "recuperacao de aprendizagem"
+          - "plataforma de avaliacao educacional"
+
+      fluxo_evasao_permanencia:
+        name: "Fluxo, Evasão & Busca Ativa Escolar"
+        terms:
+          - "distorcao idade serie"
+          - "abandono escolar"
+          - "evasao escolar"
+          - "busca ativa escolar"
+          - "correcao de fluxo"
+          - "permanencia escolar"
+          - "alerta de evasao"
+
+      janela_enem:
+        name: "Janela ENEM & Preparatórios"
+        terms:
+          - "enem"
+          - "simulado enem"
+          - "plataforma enem"
+          - "preparatorio enem"
+          - "banco de questoes enem"
+
+      plataformas_saas_educacional:
+        name: "Plataformas & Soluções Educacionais Digitais (SaaS)"
+        terms:
+          - "plataforma educacional digital"
+          - "solucao educacional digital"
+          - "licenca de uso de plataforma educacional"
+          - "ambiente virtual de aprendizagem"
+          - "ava"
+          - "plataforma de gestao da aprendizagem"
+          - "lms educacional"
+
+      bncc_computacao_robotica:
+        name: "BNCC Computação, Robótica & Cultura Digital"
+        terms:
+          - "bncc computacao"
+          - "pensamento computacional"
+          - "cultura digital"
+          - "letramento digital"
+          - "robotica educacional"
+          - "kit de robotica"
+          - "steam"
+          - "educacao maker"
+
+  # -------------------------------------------------------------
+  # VERTICAL TECNOLOGIA DA INFORMAÇÃO & SERVIÇOS DIGITAIS
+  # -------------------------------------------------------------
+  tecnologia_informacao:
+    name: "Tecnologia da Informação & Serviços Digitais"
+    subtemas:
+      desenvolvimento_software:
+        name: "Desenvolvimento & Fábrica de Software"
+        terms:
+          - "desenvolvimento de software"
+          - "fabrica de software"
+          - "sustentacao de software"
+          - "sustentacao de sistemas"
+          - "desenvolvimento de sistemas"
+          - "aplicativo movel"
+          - "desenvolvimento web"
+          - "portal corporativo"
+          - "microsservicos"
+          - "api gateway"
+          - "devops"
+
+      nuvem_infraestrutura:
+        name: "Cloud & Infraestrutura de TI"
+        terms:
+          - "computacao em nuvem"
+          - "cloud computing"
+          - "servicos em nuvem"
+          - "datacenter"
+          - "data center"
+          - "infraestrutura de ti"
+          - "virtualizacao"
+          - "armazenamento de dados"
+          - "storage san"
+          - "storage nas"
+          - "servidor blade"
+          - "servidores blade"
+          - "servidor rack"
+          - "servidor de banco de dados"
+          - "backup corporativo"
+          - "disaster recovery"
+          - "aws"
+          - "azure"
+          - "google cloud"
+
+      ciberseguranca:
+        name: "Cibersegurança & Governança de Dados"
+        terms:
+          - "ciberseguranca"
+          - "seguranca da informacao"
+          - "seguranca cibernetica"
+          - "firewall"
+          - "soc"
+          - "siem"
+          - "teste de intrusao"
+          - "pentest"
+          - "lgpd"
+          - "gestao de vulnerabilidades"
+
+      dados_ia_analytics:
+        name: "Dados, IA & Business Intelligence"
+        terms:
+          - "inteligencia artificial"
+          - "machine learning"
+          - "ciencia de dados"
+          - "engenharia de dados"
+          - "big data"
+          - "business intelligence"
+          - "painel de bi"
+          - "data warehouse"
+          - "data lake"
+          - "analytics"
+
+      licenciamento_saas:
+        name: "Licenciamento de Software & SaaS"
+        terms:
+          - "licenciamento de software"
+          - "subscricao de software"
+          - "software como servico"
+          - "saas"
+          - "microsoft 365"
+          - "office 365"
+          - "erp corporativo"
+          - "crm corporativo"
+
+  # -------------------------------------------------------------
+  # VERTICAL CONSULTORIA & SERVIÇOS TÉCNICOS ESPECIALIZADOS
+  # -------------------------------------------------------------
+  consultoria_treinamento:
+    name: "Consultoria, Treinamento & Governança"
+    subtemas:
+      consultoria_gestao:
+        name: "Consultoria & Assessoria Técnica"
+        terms:
+          - "consultoria tecnica"
+          - "consultoria em gestao"
+          - "assessoria tecnica especializada"
+          - "planejamento estrategico"
+          - "reestruturacao de processos"
+          - "governanca publica"
+          - "diagnostico organizacional"
+
+      treinamento_capacitacao:
+        name: "Capacitação & Educação Corporativa"
+        terms:
+          - "treinamento e capacitacao"
+          - "capacitacao de servidores"
+          - "curso de capacitacao"
+          - "treinamento corporativo"
+          - "plataforma ead"
+          - "formacao continuada"
+
+# -------------------------------------------------------------
+# FILTROS DE EXCLUSÃO CIRÚRGICA (ANTI-RUÍDO EM COMPRAS PÚBLICAS)
+# -------------------------------------------------------------
+exclusions:
+  # Ruídos educacionais (materiais físicos, livros impressos, insumos comuns)
+  - "livros paradidaticos"
+  - "livro paradidatico"
+  - "material didatico impresso"
+  - "apostilas impressas"
+  - "brinquedos pedagogicos"
+  - "brinquedo pedagogico"
+  - "brinquedos"
+  - "parque infantil"
+  - "playground"
+  - "kit escolar"
+  - "kits escolares"
+  - "mochilas escolares"
+  - "mochila escolar"
+  - "uniforme escolar"
+  - "uniformes escolares"
+  - "fardamento escolar"
+  - "merenda escolar"
+  - "generos alimenticios"
+  - "alimentacao escolar"
+  - "refeicoes"
+  - "mobiliario escolar"
+  - "carteiras escolares"
+  - "quadro branco"
+
+  # Ruídos corporativos / serviços gerais comuns
+  - "servidores publicos"
+  - "servidores municipais"
+  - "servidores estaduais"
+  - "servidores da educacao"
+  - "servidores da saude"
+  - "assistencia a saude aos servidores"
+  - "alimentacao hospitalar"
+  - "nutricao hospitalar"
+  - "plano de saude"
+  - "fardamento"
+  - "combustiveis"
+  - "combustivel"
+  - "pecas mecanicas"
+  - "software embarcado para tratores"
+  - "manutencao de ar condicionado"
+  - "assistencia social comum"
+  - "cestas basicas"
+  - "cesta basica"
+  - "locacao de veiculos"
+  - "limpeza e conservacao"
+  - "vigilancia armada"

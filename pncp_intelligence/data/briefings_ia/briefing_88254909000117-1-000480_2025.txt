@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE IVOTI (Ivoti/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CURSO
+VALOR ESTIMADO: R$ 846,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/88254909000117-1-000480/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88254909000117/compras/2025/480/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88254909000117/compras/2025/480/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88254909000117/compras/2025/480/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CURSO / FORMAÇÃO | Qtd: 2.0 | R$ Unit: 423.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 846.0,
+  "orgaoEntidade": {
+    "cnpj": "88254909000117",
+    "razaoSocial": "MUNICIPIO DE IVOTI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-24T10:30:07",
+  "dataAtualizacao": "2025-03-24T10:34:35",
+  "numeroControlePNCP": "88254909000117-1-000480/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 480,
+  "emendaParlamentar": null,
+  "numeroCompra": "381",
+  "processo": "771/2025",
+  "objetoCompra": "CURSO",
+  "informacaoComplementar": "Curso de capacitação para uso na plataforma Transferegov, para captação e recursos, para as servidoras Denise Rodrigues da Silva e Aline Pessy Ristov",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-24T10:30:07",
+  "dataAtualizacaoGlobal": "2025-03-24T10:34:35",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Ivoti",
+    "codigoIbge": "4310801",
+    "codigoUnidade": "93",
+    "nomeUnidade": "MUNICIPIO DE IVOTI"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 846.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Tecnosweb - Tecnologia de Gestão"
+}

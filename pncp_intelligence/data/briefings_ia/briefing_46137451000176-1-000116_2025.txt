@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PIRATININGA (Piratininga/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: SERVIÇOS DE TELECOMUNICAÇÕES - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE INFRAESTRUTURA DE REDE SEM FIO PADRÃO WI-FI 6 COM FIREWALL DE BORDA E GERENCIAMENTO CENTRALIZADO PARA ATENDER A EMEI NEUSA FRANZOLIN, INCLUINDO FORNECIMENTO DE EQUIPAMENTOS, SERVIÇOS CONFIGURAÇÃO, SUPORTE TÉCNICO, MONITORAMENTO E ATUALIZAÇÃO
+VALOR ESTIMADO: R$ 9.867,84
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/46137451000176-1-000116/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46137451000176/compras/2025/116/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LOCAÇÃO DE 9 ACCESS POINT WI-FI 6 DE ALTO DESEMPENHO COM ALCANCE DE SINAL AMPLIADO. | Qtd: 12.0 | R$ Unit: 450.0
+  - Item 2: LOCAÇÃO DE 1 SWITCH GERENCIÁVEL GIGABIT DE 24 PORTAS POE | Qtd: 12.0 | R$ Unit: 322.32
+  - Item 3: LOCAÇÃO DE 1 ROTEADOR ROUTERBOARD GIGABIT GERENCIÁVEL | Qtd: 12.0 | R$ Unit: 49.0
+  - Item 4: 4.	SERVIÇO DE MONITORAMENTO DAS ANTENAS, MANUTENÇÃO, ATUALIZAÇÃO DE SOFTWARE, E FIREWALL DE BORDA. | Qtd: 12.0 | R$ Unit: 1.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 9867.84,
+  "orgaoEntidade": {
+    "cnpj": "46137451000176",
+    "razaoSocial": "MUNICIPIO DE PIRATININGA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-08-08T09:18:41",
+  "dataInclusao": "2025-08-08T09:18:41",
+  "numeroControlePNCP": "46137451000176-1-000116/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 116,
+  "emendaParlamentar": null,
+  "numeroCompra": "271",
+  "processo": "271",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "SERVIÇOS DE TELECOMUNICAÇÕES - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE INFRAESTRUTURA DE REDE SEM FIO PADRÃO WI-FI 6 COM FIREWALL DE BORDA E GERENCIAMENTO CENTRALIZADO PARA ATENDER A EMEI NEUSA FRANZOLIN, INCLUINDO FORNECIMENTO DE EQUIPAMENTOS, SERVIÇOS CONFIGURAÇÃO, SUPORTE TÉCNICO, MONITORAMENTO E ATUALIZAÇÃO",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-08-08T09:18:41",
+  "dataAtualizacaoGlobal": "2025-08-08T09:21:11",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Piratininga",
+    "codigoUnidade": "2",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE PIRATININGA",
+    "codigoIbge": "3539400"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software",
+  "valorTotalEstimado": 9867.84
+}

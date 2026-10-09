@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO JORGE DO IVAI (São Jorge do Ivaí/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Serviços de instalação, configuração, treinamento, manutenção, atualização, integração e licenciamento de Software de Automação Financeira
+VALOR ESTIMADO: R$ 63.600,00
+PRAZO PARA PROPOSTAS: 2025-04-02T08:50:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/76282649000104-1-000029/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76282649000104/compras/2025/29/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Fornecimento de licenças de uso de ferramenta de tecnologia da informação, que possibilite aos usuários o acesso a autom | Qtd: 12.0 | R$ Unit: 5300.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "76282649000104",
+    "razaoSocial": "MUNICIPIO DE SAO JORGE DO IVAI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-05-05T13:33:21",
+  "dataAtualizacao": "2025-05-05T13:33:21",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "São Jorge do Ivaí",
+    "codigoUnidade": "987879",
+    "nomeUnidade": "MUNICIPIO DE SAO JORGE DO IVAI",
+    "codigoIbge": "4125308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "A contratação do software se justifica por proporcionar benefícios significativos para a administração pública, especialmente no alívio das demandas operacionais diárias. Com a automação de tarefas repetitivas e críticas, como conciliação bancária, lançamentos financeiros e geração de relatórios, o setor poderá alcançar maior eficiência operacional, minimização de erros humanos, aproveitamento imediato da equipe e resultado imediato de eficiência. Os serviços que serão realizados pela automação financeira, são rotinas diárias, que impactarão diretamente na eficiência e agilidade, sendo elas as baixas de extratos bancários, lançamentos de receitas, aplicações e resgates e conciliação bancária, memória de cálculo e documentos que dão suporte, considerando a interdependência com outras contratações, de modo a possibilitar economia de escala",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 29,
+  "emendaParlamentar": null,
+  "numeroCompra": "PE 11",
+  "processo": "34/2025",
+  "objetoCompra": "Serviços de instalação, configuração, treinamento, manutenção, atualização, integração e licenciamento de Software de Automação Financeira",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-02T08:00:00",
+  "dataEncerramentoProposta": "2025-04-02T08:50:00",
+  "dataPublicacaoPncp": "2025-05-05T13:33:21",
+  "dataAtualizacaoGlobal": "2025-05-05T13:33:23",
+  "numeroControlePNCP": "76282649000104-1-000029/2025",
+  "valorTotalEstimado": 63600.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas"
+}

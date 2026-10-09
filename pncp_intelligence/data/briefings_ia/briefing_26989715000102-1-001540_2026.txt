@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO PUBLICO DA UNIAO (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de pessoa jurídica para fornecimento de 2 servidores corporativos em rack, novos, idênticos, destinados à modernização da infraestrutura de processamento e virtualização do Ministério Público Militar, incluindo entrega, instalação física assistida, atualização inicial de firmware, configuração do gerenciamento remoto, testes de funcionamento, garantia on-site e suporte técnico pelo período mínimo de 60 meses, visando atender a DTI da PGJM.
+VALOR ESTIMADO: R$ 2,853,302.00
+PRAZO PARA PROPOSTAS: 2026-10-14T14:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=20000805000862026
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

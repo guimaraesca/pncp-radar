@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTA ROSA DE VITERBO (Santa Rosa de Viterbo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em serviço de licenciamento de software gerencial de processos administrativos e de gestão documental eletrônica, de comunicação interna e externa, com armazenamento em nuvem, integrado a módulos específicos de gestão e trâmite documental, conforme condições, quantidades e exigências estabelecidas neste Edital, Termo de Referência e demais anexos, pelo período de 12 meses.   
+VALOR ESTIMADO: R$ 142.403,96
+PRAZO PARA PROPOSTAS: 2025-06-05T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98705305900242025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45368545000193/compras/2025/48/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 1.0 | R$ Unit: 11300.0
+  - Item 2: Licenciamento de Direitos  Permanentes de Uso de Outros Softwares / Programas de Computador | Qtd: 12.0 | R$ Unit: 10925.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 141074.8,
+  "orgaoEntidade": {
+    "cnpj": "45368545000193",
+    "razaoSocial": "MUNICIPIO DE SANTA ROSA DE VITERBO",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-05-19T07:55:46",
+  "dataAtualizacao": "2025-05-19T07:55:46",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2025-05-19T08:00:00",
+  "dataEncerramentoProposta": "2025-06-05T09:00:00",
+  "dataPublicacaoPncp": "2025-05-19T07:55:46",
+  "dataAtualizacaoGlobal": "2025-09-16T21:18:50",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Santa Rosa de Viterbo",
+    "codigoIbge": "3547601",
+    "codigoUnidade": "987053",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SANTA ROSA DE VITERBO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98705305900242025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 48,
+  "emendaParlamentar": null,
+  "numeroCompra": "90024",
+  "processo": "44/2025",
+  "objetoCompra": "Contratação de empresa especializada em serviço de licenciamento de software gerencial de processos administrativos e de gestão documental eletrônica, de comunicação interna e externa, com armazenamento em nuvem, integrado a módulos específicos de gestão e trâmite documental, conforme condições, quantidades e exigências estabelecidas neste Edital, Termo de Referência e demais anexos, pelo período de 12 meses.   ",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=98705305900242025",
+  "numeroControlePNCP": "45368545000193-1-000048/2025",
+  "valorTotalEstimado": 142403.96,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

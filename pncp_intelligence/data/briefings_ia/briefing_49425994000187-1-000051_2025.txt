@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE CAMPINAS (Campinas/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de clipping digital jornalístico, na modalidade software as a service (SaaS), de matérias de interesse da Câmara Municipal de Campinas, publicadas em mídia impressa, nacional e local – jornais e revistas – e em mídia on-line – jornais, revistas e sites – TV e rádio, incluindo curadoria, implantação e modelagem, treinamento e suporte técnico pelo período de 24 (vinte e quatro) meses, conforme especificações, condições e exigências.
+VALOR ESTIMADO: R$ 496.080,00
+PRAZO PARA PROPOSTAS: 2025-08-25T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92667705900122025
+BASE LOGÍSTICA COMPATÍVEL: Campinas (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: CAMPINAS/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/49425994000187/compras/2025/51/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Resenha de Notícia / Agenciamento de Informação / Sinopse / Recorte Notícia | Qtd: 1.0 | R$ Unit: 496080.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "49425994000187",
+    "razaoSocial": "CAMARA MUNICIPAL DE CAMPINAS",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 99960.0,
+  "dataInclusao": "2025-07-18T07:29:54",
+  "dataAtualizacao": "2025-08-08T14:38:09",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 51,
+  "emendaParlamentar": null,
+  "numeroCompra": "90012",
+  "processo": "2025/00133",
+  "objetoCompra": "Contratação de serviços de clipping digital jornalístico, na modalidade software as a service (SaaS), de matérias de interesse da Câmara Municipal de Campinas, publicadas em mídia impressa, nacional e local – jornais e revistas – e em mídia on-line – jornais, revistas e sites – TV e rádio, incluindo curadoria, implantação e modelagem, treinamento e suporte técnico pelo período de 24 (vinte e quatro) meses, conforme especificações, condições e exigências.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=92667705900122025",
+  "dataAberturaProposta": "2025-08-07T08:00:00",
+  "dataEncerramentoProposta": "2025-08-25T10:00:00",
+  "dataPublicacaoPncp": "2025-07-18T07:29:54",
+  "dataAtualizacaoGlobal": "2025-09-10T11:38:18",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Campinas",
+    "codigoUnidade": "926677",
+    "nomeUnidade": "CAMARA MUNICIPAL DE CAMPINAS - SP",
+    "codigoIbge": "3509502"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "49425994000187-1-000051/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92667705900122025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 496080.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

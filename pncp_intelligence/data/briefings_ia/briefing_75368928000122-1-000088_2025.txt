@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MAMBORE (Mamborê/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS PARA INFORMATIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, ATRAVÉS DE LICENCIAMENTO MENSAL DE SISTEMAS ESPECÍFICOS PARA GESTÃO PÚBLICA MUNICIPAL SEM LIMITE QUANTO AO NÚMERO DE USUÁRIOS E SUPORTE TÉCNICO, JÁ INCLUSAS ALTERAÇÕES LEGAIS E MANUTENÇÕES CORRETIVAS SE HOUVEREM, INCLUINDO A ESTRUTURA DE HOSPEDAGEM EM DATACENTER, MIGRAÇÃO DE DADOS DOS SISTEMAS PRA EM USO, DE ACORDO COM AS NECESSIDADES APRESENTADAS PELO MUNICIPIO DE MAMBORÊ, SUAS DIVERSAS SECRETARIAS E CÂMARA DE VEREDORES
+VALOR ESTIMADO: R$ 855.312,05
+PRAZO PARA PROPOSTAS: 2025-04-28T08:55:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/75368928000122-1-000088/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75368928000122/compras/2025/88/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS ADICIONAIS | Qtd: 1.0 | R$ Unit: 56343.77
+  - Item 2: MÓDULOS PARA USO DO PROGRAMA DE GESTÃO DE VIGILÂNCIAS DE MAMBORÊ | Qtd: 12.0 | R$ Unit: 2549.51
+  - Item 3: MÓDULOS PARA USO DA SECRETARIA DE ASSISTÊNCIA SOCIAL DE MAMBORÊ | Qtd: 12.0 | R$ Unit: 1906.79
+  - Item 4: MÓDULOS PARA USO DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DE MAMBORÊ | Qtd: 12.0 | R$ Unit: 5959.73
+  - Item 5: MÓDULOS PARA USO DA SECRETARIA MUNICIPAL DE SAÚDE DE MAMBORÊ | Qtd: 12.0 | R$ Unit: 13250.59
+  - Item 6: MÓDULOS PARA USO DA CÂMARA MUNICIPAL DE MAMBORÊ | Qtd: 12.0 | R$ Unit: 4271.51
+  - Item 7: MÓDULOS PARA USO DO MUNICÍPIO DE MAMBORÊ. | Qtd: 12.0 | R$ Unit: 38642.56
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "75368928000122",
+    "razaoSocial": "MUNICIPIO DE MAMBORE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 808271.1,
+  "dataInclusao": "2025-04-07T11:06:11",
+  "dataAtualizacao": "2025-04-07T11:06:11",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 88,
+  "emendaParlamentar": null,
+  "numeroCompra": "PCE 24",
+  "processo": "67/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS PARA INFORMATIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL, ATRAVÉS DE LICENCIAMENTO MENSAL DE SISTEMAS ESPECÍFICOS PARA GESTÃO PÚBLICA MUNICIPAL SEM LIMITE QUANTO AO NÚMERO DE USUÁRIOS E SUPORTE TÉCNICO, JÁ INCLUSAS ALTERAÇÕES LEGAIS E MANUTENÇÕES CORRETIVAS SE HOUVEREM, INCLUINDO A ESTRUTURA DE HOSPEDAGEM EM DATACENTER, MIGRAÇÃO DE DADOS DOS SISTEMAS PRA EM USO, DE ACORDO COM AS NECESSIDADES APRESENTADAS PELO MUNICIPIO DE MAMBORÊ, SUAS DIVERSAS SECRETARIAS E CÂMARA DE VEREDORES",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-04-07T17:00:00",
+  "dataEncerramentoProposta": "2025-04-28T08:55:00",
+  "dataPublicacaoPncp": "2025-04-07T11:06:11",
+  "dataAtualizacaoGlobal": "2025-05-15T09:59:03",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Mamborê",
+    "codigoUnidade": "03005",
+    "nomeUnidade": "Depto.de Administração Geral",
+    "codigoIbge": "4114005"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "75368928000122-1-000088/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 855312.05,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

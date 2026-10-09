@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: (UO) ESP-PRODESP-CIA.PROC DE DADOS EST. SP (Taboão da Serra/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Operacionalização do Acordo Google - PRO.00.8364 para fornecimento de produtos e serviços de tecnologia GCP - Google Cloud Platform (Família I), GWS - Google Workspace (Família II) e GMP - Google Maps Platform (Família III).
+VALOR ESTIMADO: R$ 433.500.000,00
+PRAZO PARA PROPOSTAS: 2025-08-06T14:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=53320105900272025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (Até 50 km)
+SELO LOGÍSTICO: [BASE: SÃO PAULO | Taboão da Serra/SP (18km)]
+DISTÂNCIA ESTIMADA DA BASE: 18 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/62577929000135/compras/2025/15/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Prestação de Serviços de Apoio Administrativo | Qtd: 1.0 | R$ Unit: 433500000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "62577929000135",
+    "razaoSocial": "(UO) ESP-PRODESP-CIA.PROC DE DADOS EST. SP",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 395048550.0,
+  "dataInclusao": "2025-04-04T07:49:04",
+  "dataAtualizacao": "2025-07-23T09:35:54",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Taboão da Serra",
+    "codigoUnidade": "533201",
+    "nomeUnidade": "ESP-CIA. PROCESSAMENTO DE DADOS ESTADO SP",
+    "codigoIbge": "3552809"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=53320105900272025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 15,
+  "emendaParlamentar": null,
+  "numeroCompra": "90027",
+  "processo": "359.1636/2025-76",
+  "objetoCompra": "Operacionalização do Acordo Google - PRO.00.8364 para fornecimento de produtos e serviços de tecnologia GCP - Google Cloud Platform (Família I), GWS - Google Workspace (Família II) e GMP - Google Maps Platform (Família III).",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=53320105900272025",
+  "dataAberturaProposta": "2025-07-23T08:00:00",
+  "dataEncerramentoProposta": "2025-08-06T14:00:00",
+  "dataPublicacaoPncp": "2025-04-04T07:49:04",
+  "dataAtualizacaoGlobal": "2025-08-26T14:12:16",
+  "numeroControlePNCP": "62577929000135-1-000015/2025",
+  "valorTotalEstimado": 433500000.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

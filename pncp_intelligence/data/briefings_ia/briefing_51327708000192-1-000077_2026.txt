@@ -1,0 +1,83 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: PIRACICABA CAMARA (Piracicaba/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para fornecimento de subscrições de licenças Office 365 E3, na modalidade Software as a Service (SaaS), incluindo implantação, migração do correio eletrônico, integração ao ambiente tecnológico da Câmara Municipal de Piracicaba 
+VALOR ESTIMADO: R$ 2.883.677,21
+PRAZO PARA PROPOSTAS: 2026-10-20T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92924105000712026
+BASE LOGÍSTICA COMPATÍVEL: Campinas (50 a 100 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | Piracicaba/SP (70km)]
+DISTÂNCIA ESTIMADA DA BASE: 70 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/51327708000192/compras/2026/77/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como servico - saas Software como servico - saas | Qtd: 1.0 | R$ Unit: 2443795.2
+  - Item 2: Software como servico - saas Software como servico - saas | Qtd: 1.0 | R$ Unit: 18554.4
+  - Item 3: Outros serviços de  gerenciamento de infraestrutura de tecnologia da informação e comunicação (tic) Outros serviços de   | Qtd: 36.0 | R$ Unit: 5784.48
+  - Item 4: Outros serviços de  gerenciamento de infraestrutura de tecnologia da informação e comunicação (tic) Outros serviços de   | Qtd: 1.0 | R$ Unit: 125434.31
+  - Item 5: Treinamento na área de eletrônica Treinamento na área de eletrônica | Qtd: 1.0 | R$ Unit: 15269.5
+  - Item 6: Treinamento na área de eletrônica Treinamento na área de eletrônica | Qtd: 2.0 | R$ Unit: 15269.5
+  - Item 7: Outros Serviços de  Gerenciamento de Infraestrutura De Tecnologia da Informação e Comunicação (TIC) Outros Serviços de   | Qtd: 288.0 | R$ Unit: 145.29
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "51327708000192",
+    "razaoSocial": "PIRACICABA CAMARA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-17T15:48:42",
+  "dataAtualizacao": "2026-09-17T15:48:42",
+  "objetoCompra": "Contratação de empresa especializada para fornecimento de subscrições de licenças Office 365 E3, na modalidade Software as a Service (SaaS), incluindo implantação, migração do correio eletrônico, integração ao ambiente tecnológico da Câmara Municipal de Piracicaba ",
+  "dataAberturaProposta": "2026-09-18T09:00:00",
+  "dataEncerramentoProposta": "2026-10-20T09:00:00",
+  "dataPublicacaoPncp": "2026-09-17T15:48:42",
+  "dataAtualizacaoGlobal": "2026-09-17T15:53:25",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Piracicaba",
+    "codigoIbge": "3538709",
+    "codigoUnidade": "929241",
+    "nomeUnidade": "CAMARA MUNICIPAL DE PIRACICABA - SP"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92924105000712026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "51327708000192-1-000077/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 77,
+  "emendaParlamentar": null,
+  "numeroCompra": "71",
+  "processo": "205.2026.1.14",
+  "informacaoComplementar": null,
+  "valorTotalEstimado": 2883677.21,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-17T15:48:43"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

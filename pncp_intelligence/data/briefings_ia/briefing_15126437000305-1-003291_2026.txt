@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH (Curitiba/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de solução para garantir a continuidade operacional da infraestrutura de rede SAN do CHC-UFPR/HU Brasil, substituição tecnológica dos equipamentos existentes, a fim de atender a necessidade da infraestrutura de TI do CHC-UFPR/HU Brasil.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-09T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15590205000222026
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Curitiba/PR (130km)]
+DISTÂNCIA ESTIMADA DA BASE: 130 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000305/compras/2026/3291/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000305/compras/2026/3291/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Switch Switch, Quantidade Portas:24 UN, Tipo Portas:Ethernet, Velocidade Porta:10 Gbps, Suporte Vlan:Mínimo 4 MB, Alimen | Qtd: 2.0 | R$ Unit: 0.0
+  - Item 2: Serviços de Gerenciamento  de Redes de Tecnologia da Informação e Comunicação (TIC) Serviços de Gerenciamento  de Redes  | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "15126437000305",
+    "razaoSocial": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+    "esferaId": "N",
+    "poderId": "N"
+  },
+  "dataInclusao": "2026-08-20T04:00:12",
+  "dataAtualizacao": "2026-09-17T04:04:12",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-08-20T04:00:13"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2026-09-17T08:00:00",
+  "dataEncerramentoProposta": "2026-10-09T09:00:00",
+  "dataPublicacaoPncp": "2026-08-20T04:00:12",
+  "dataAtualizacaoGlobal": "2026-09-17T04:04:12",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Curitiba",
+    "codigoIbge": "4106902",
+    "codigoUnidade": "155902",
+    "nomeUnidade": "COMPLEXO HOSPITALAR UNIVERSITÁRIO DA UFPR"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15590205000222026",
+  "linkProcessoEletronico": "https://sei.ebserh.gov.br/sei/modulos/ebserh/tlc/md_ebserh_tlc_processo_exibir.php?hash=OTY3ZDY1OWZkMmRlMzU0MThiZjBjNTMwYTg3YzI1MWRjYTc2ZjAzM2MzSnpQWHg4ZVUxeVRubE5Za2g0T0dNOWZId3pNemN6T0h4OA==",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 3291,
+  "emendaParlamentar": null,
+  "numeroCompra": "22",
+  "processo": "23759.005228/2026-76",
+  "objetoCompra": "Contratação de solução para garantir a continuidade operacional da infraestrutura de rede SAN do CHC-UFPR/HU Brasil, substituição tecnológica dos equipamentos existentes, a fim de atender a necessidade da infraestrutura de TI do CHC-UFPR/HU Brasil.",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "15126437000305-1-003291/2026",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

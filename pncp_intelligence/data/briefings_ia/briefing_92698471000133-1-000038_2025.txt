@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REG DE CONTABILIDADE DO RIO GRANDE DO SUL (Porto Alegre/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de licenças dos sofwares Microsoft 365 Business Basic, Microsoft 365 Business Standard e Power BI Pro, com suporte técnico incluído, fornecidos por parceiro autorizado da Microsoft no modelo CSP (Cloud Solution Provider).
+VALOR ESTIMADO: R$ 58.008,60
+PRAZO PARA PROPOSTAS: 2025-08-07T07:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/92698471000133-1-000038/2025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/92698471000133/compras/2025/38/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 1.0 | R$ Unit: 58008.6
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 57457.9,
+  "orgaoEntidade": {
+    "cnpj": "92698471000133",
+    "razaoSocial": "CONSELHO REG DE CONTABILIDADE DO RIO GRANDE DO SUL",
+    "esferaId": "F",
+    "poderId": "E"
+  },
+  "dataInclusao": "2025-08-04T11:50:00",
+  "dataAtualizacao": "2025-08-04T11:50:00",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2025-08-04T11:49:58",
+  "dataEncerramentoProposta": "2025-08-07T07:59:59",
+  "dataPublicacaoPncp": "2025-08-04T11:50:00",
+  "dataAtualizacaoGlobal": "2025-08-12T11:38:34",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Porto Alegre",
+    "codigoIbge": "4314902",
+    "codigoUnidade": "927413",
+    "nomeUnidade": "CONSELHO REGIONAL DE CONTABILIDADE - RS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 38,
+  "emendaParlamentar": null,
+  "numeroCompra": "90013",
+  "processo": "000041/2025-60",
+  "objetoCompra": "Aquisição de licenças dos sofwares Microsoft 365 Business Basic, Microsoft 365 Business Standard e Power BI Pro, com suporte técnico incluído, fornecidos por parceiro autorizado da Microsoft no modelo CSP (Cloud Solution Provider).",
+  "informacaoComplementar": "Art. 75º, Inciso II da Lei nº 14.133 de 1º/04/2021.",
+  "numeroControlePNCP": "92698471000133-1-000038/2025",
+  "valorTotalEstimado": 58008.6,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta"
+}

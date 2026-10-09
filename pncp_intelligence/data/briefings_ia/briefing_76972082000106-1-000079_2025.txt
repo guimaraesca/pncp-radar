@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE DIAMANTE DO NORTE (Diamante do Norte/PR)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de instituição brasileira que tenha por finalidade estatutária apoiar, captar e executar atividades de ensino sem fins lucrativos.
+VALOR ESTIMADO: R$ 69.990,00
+PRAZO PARA PROPOSTAS: 2025-07-30T17:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/76972082000106-1-000079/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76972082000106/compras/2025/79/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de Instituição para prestação de serviços técnicos especializados que visem o planejamento, coordenação, org | Qtd: 1.0 | R$ Unit: 69990.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "76972082000106",
+    "razaoSocial": "MUNICIPIO DE DIAMANTE DO NORTE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-04T13:57:09",
+  "dataAtualizacao": "2025-08-04T13:57:09",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Diamante do Norte",
+    "codigoUnidade": "76972082000106",
+    "nomeUnidade": "Unidade administrativa",
+    "codigoIbge": "4107108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 1º, § 2º",
+    "descricao": "As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos nesta Lei, na forma de regulamentação específica a ser editada por ministro de Estado.",
+    "codigo": 80
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 79,
+  "emendaParlamentar": null,
+  "numeroCompra": "6",
+  "processo": "1285/2025",
+  "objetoCompra": "Contratação de instituição brasileira que tenha por finalidade estatutária apoiar, captar e executar atividades de ensino sem fins lucrativos.",
+  "informacaoComplementar": "O Município de Diamante do Norte, Estado do Paraná, por meio do Poder Executivo, presenta a presente justificativa com o objetivo de formalizar a contratação de instituição especializada para a prestação de serviços técnicos voltados ao planejamento, organização, coordenação, operacionalização e execução de Concurso Público destinado ao provimento de cargos públicos efetivos, conforme as necessidades da Administração Municipal. A realização de concurso público é uma exigência constitucional (art. 37, inciso II, da Constituição Federal), devendo ser pautada pelos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência, assegurando o ingresso nos cargos públicos por critérios objetivos e transparentes. A contratação de instituição especializada justifica-se pela necessidade de garantir a segurança, confiabilidade, lisura, isonomia e eficiência de todas as etapas do certame, contemplando, de forma abrangente: Planejamento de todas as fases do concurso; Coordenação geral do processo seletivo; Organização e operacionalização de inscrições, aplicação de provas, correção, análise de títulos e demais etapas; Execução técnica e logística das atividades, inclusive a confecção, impressão e distribuição de provas; Fornecimento completo de recursos materiais e humanos, garantindo infraestrutura adequada, pessoal capacitado, ferramentas de tecnologia da informação, segurança da informação, entre outros; Atendimento a dispositivos legais e normativos vigentes, com foco na transparência e prestação de contas. Considerando a complexidade técnica, o rigor logístico e a necessidade de imparcialidade no processo seletivo, bem como a ausência de estrutura interna no Município capaz de atender plenamente a essas demandas com segurança e eficiência, torna-se indispensável a contratação de entidade com notória especialização e comprovada experiência na realização de concursos públicos. Ademais, a adoção desse procedimento visa garantir maior confiabilidade e tranquilidade aos candidatos, à sociedade e à Administração Pública, permitindo que o certame seja conduzido com elevados padrões técnicos e éticos. Diante do exposto, entende-se como plenamente justificada e necessária a contratação de instituição especializada, por meio de procedimento licitatório  dispensa,  observando os preceitos da Lei nº 14.133/2021 (Nova Lei de Licitações e Contratos Administrativos), para a execução dos serviços técnicos especializados descritos, assegurando a eficiência e legalidade da realização do Concurso Público no âmbito do Poder Executivo Municipal de Diamante do Norte/PR.",
+  "dataAberturaProposta": "2025-07-22T10:00:00",
+  "dataEncerramentoProposta": "2025-07-30T17:00:00",
+  "dataPublicacaoPncp": "2025-08-04T13:57:09",
+  "dataAtualizacaoGlobal": "2025-08-04T13:57:15",
+  "numeroControlePNCP": "76972082000106-1-000079/2025",
+  "valorTotalEstimado": 69990.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Elotech Gestão Pública Ltda"
+}

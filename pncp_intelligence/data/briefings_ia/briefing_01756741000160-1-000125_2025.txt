@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BRAZABRANTES (Brazabrantes/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CURSO PREPARATÓRIO PARA AVALIAÇÃO DA PROVA BRASIL IDEB 2025
+VALOR ESTIMADO: R$ 59.200,00
+PRAZO PARA PROPOSTAS: 2025-07-09T08:30:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/01756741000160-1-000125/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01756741000160/compras/2025/125/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01756741000160/compras/2025/125/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01756741000160/compras/2025/125/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE SERVIÇO DE EMPRESA ESPECIALIZADA EM MINISTRAR CURSO PREPARATÓRIO PARA AS AVALIAÇÕES DA PROVA BRASIL IDEB/ | Qtd: 1.0 | R$ Unit: 59200.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "01756741000160",
+    "razaoSocial": "MUNICIPIO DE BRAZABRANTES",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-07-03T13:16:43",
+  "dataAtualizacao": "2025-09-05T15:36:42",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CENTI",
+  "dataAberturaProposta": "2025-07-03T00:00:00",
+  "dataEncerramentoProposta": "2025-07-09T08:30:00",
+  "dataPublicacaoPncp": "2025-07-03T13:16:43",
+  "dataAtualizacaoGlobal": "2025-09-05T15:37:04",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Brazabrantes",
+    "codigoIbge": "5203609",
+    "codigoUnidade": "10",
+    "nomeUnidade": "FME - FUNDO MUNICIPAL DE EDUCAÇÃO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 125,
+  "emendaParlamentar": null,
+  "numeroCompra": "121",
+  "processo": "121",
+  "objetoCompra": "CURSO PREPARATÓRIO PARA AVALIAÇÃO DA PROVA BRASIL IDEB 2025",
+  "informacaoComplementar": "Contratação de serviço de empresa especializada em ministrar curso preparatório para as avaliações da PROVA BRASIL IDEB/2025",
+  "numeroControlePNCP": "01756741000160-1-000125/2025",
+  "valorTotalEstimado": 59200.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta"
+}

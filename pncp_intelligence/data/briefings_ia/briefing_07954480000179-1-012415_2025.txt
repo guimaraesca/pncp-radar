@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO CEARA (Juazeiro do Norte/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: AQUISIÇÃO DE SERVIÇO DE CONSULTORIA TÉCNICA EM CONTABILIDADE EM FAVOR EEMTI DOM ANTÔNIO CAMPELO ARAGÃO E A UNIDADE EXECUTORA DA ESCOLA.
+VALOR ESTIMADO: R$ 540,00
+PRAZO PARA PROPOSTAS: 2025-08-14T13:31:30
+LINK OFICIAL: https://pncp.gov.br/app/editais/07954480000179-1-012415/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2025/12415/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVICO DE CONSULTORIA - ASSESSORIA CONTABIL | Qtd: 1.0 | R$ Unit: 540.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07954480000179",
+    "razaoSocial": "ESTADO DO CEARA",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 250.0,
+  "dataInclusao": "2025-08-07T12:02:01",
+  "dataAtualizacao": "2025-11-27T13:50:02",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 12415,
+  "emendaParlamentar": null,
+  "numeroCompra": "202516019",
+  "processo": "22001099431202512",
+  "objetoCompra": "AQUISIÇÃO DE SERVIÇO DE CONSULTORIA TÉCNICA EM CONTABILIDADE EM FAVOR EEMTI DOM ANTÔNIO CAMPELO ARAGÃO E A UNIDADE EXECUTORA DA ESCOLA.",
+  "informacaoComplementar": "SERVIÇOS NECESSÁRIOS PARA ASSESSORAR/ATENDER A EEMTI DOM ANTÔNIO CAMPELO DE ARAGÃO E UNIDADE EXECUTORA DA ESCOLA, COM RELAÇÃO AO CUMPRIMENTO DAS OBRIGAÇÕES FISCAIS, TRIBUTÁRIAS E PREVIDENCIÁRIAS.",
+  "dataAberturaProposta": "2025-08-07T12:05:00",
+  "dataEncerramentoProposta": "2025-08-14T13:31:30",
+  "dataPublicacaoPncp": "2025-08-07T12:02:01",
+  "dataAtualizacaoGlobal": "2025-11-27T13:50:02",
+  "numeroControlePNCP": "07954480000179-1-012415/2025",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Juazeiro do Norte",
+    "codigoUnidade": "228617",
+    "nomeUnidade": "CAIC DOM ANTONIO CAMPELO DE ARAGÃO",
+    "codigoIbge": "2307304"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "valorTotalEstimado": 540.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria do Planejamento e Gestão do Ceará"
+}

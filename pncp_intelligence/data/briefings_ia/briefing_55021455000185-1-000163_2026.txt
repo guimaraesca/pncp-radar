@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE POA (Poá/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de instituição financeira, banco múltiplo, com carteira comercial, para prestação de serviços de processamento, gerenciamento e pagamento de créditos provenientes de folha de pessoal dos servidores ativos, inativos e pensionistas vinculados a Prefeitura da Estância Hidromineral de Poá, em caráter de exclusividade, bem como dos créditos decorrentes de ordens judiciais, conforme solicitação da Secretaria Municipal de Administração.
+VALOR ESTIMADO: R$ 4,574,593.48
+PRAZO PARA PROPOSTAS: 2026-10-13T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45333005000262026
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

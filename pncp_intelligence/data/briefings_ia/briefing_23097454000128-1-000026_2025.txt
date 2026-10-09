@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE LAGOA GRANDE (Lagoa Grande/MG)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em assessoria técnica especializada dedicada ao suporte clínico, multiprofissional e gerencial de equipes da Atenção Primária à Saúde (APS), com foco na qualificação da assistência, organização do cuidado e fortalecimento da gestão dos serviços de saúde local, atendendo as necessidades da Secretária Municipal de Saúde.
+VALOR ESTIMADO: R$ 229.166,65
+PRAZO PARA PROPOSTAS: 2025-08-05T08:30:00
+LINK OFICIAL: app2.ammlicita.org.br/pesquisa/70836
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23097454000128/compras/2025/26/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço especializado em assessoria técnica presencial e remota realizada semanalmente nas Unidades Básicas de Saúde (UB | Qtd: 5.0 | R$ Unit: 45833.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "23097454000128",
+    "razaoSocial": "MUNICIPIO DE LAGOA GRANDE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-21T14:42:28",
+  "dataAtualizacao": "2025-07-21T14:42:28",
+  "numeroControlePNCP": "23097454000128-1-000026/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 26,
+  "emendaParlamentar": null,
+  "numeroCompra": "003",
+  "processo": "058/2025",
+  "objetoCompra": "Contratação de empresa especializada em assessoria técnica especializada dedicada ao suporte clínico, multiprofissional e gerencial de equipes da Atenção Primária à Saúde (APS), com foco na qualificação da assistência, organização do cuidado e fortalecimento da gestão dos serviços de saúde local, atendendo as necessidades da Secretária Municipal de Saúde.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-21T14:42:28",
+  "dataEncerramentoProposta": "2025-08-05T08:30:00",
+  "dataPublicacaoPncp": "2025-07-21T14:42:28",
+  "dataAtualizacaoGlobal": "2025-07-21T14:42:34",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Lagoa Grande",
+    "codigoIbge": "3137536",
+    "codigoUnidade": "153",
+    "nomeUnidade": "Unidade Única"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "app2.ammlicita.org.br/pesquisa/70836",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 229166.65,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+}

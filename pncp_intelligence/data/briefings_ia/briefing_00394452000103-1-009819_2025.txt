@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: COMANDO DO EXERCITO (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de solução de Tecnologia da Informação e Comunicação (TIC) referente a serviços de manutenção preditiva, preventiva e corretiva, com fornecimento integral de peças, materiais, componentes, acessórios, periféricos, insumos e treinamento para o Data Center 2 (DC2-EB), composto de Sala Segura e seus sistemas periféricos, localizado no 7º Centro de Telemática de Área (7º CTA)
+VALOR ESTIMADO: R$ 1.775.345,40
+PRAZO PARA PROPOSTAS: 2025-05-19T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=16074905900022025
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00394452000103/compras/2025/9819/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de Garantia de Equipamentos de TIC | Qtd: 60.0 | R$ Unit: 29589.09
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 765805.8,
+  "orgaoEntidade": {
+    "cnpj": "00394452000103",
+    "razaoSocial": "COMANDO DO EXERCITO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2025-05-05T07:29:49",
+  "dataAtualizacao": "2025-05-05T07:29:49",
+  "numeroControlePNCP": "00394452000103-1-009819/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 9819,
+  "emendaParlamentar": null,
+  "numeroCompra": "90002",
+  "processo": "64195000968202545",
+  "srp": false,
+  "objetoCompra": "Contratação de solução de Tecnologia da Informação e Comunicação (TIC) referente a serviços de manutenção preditiva, preventiva e corretiva, com fornecimento integral de peças, materiais, componentes, acessórios, periféricos, insumos e treinamento para o Data Center 2 (DC2-EB), composto de Sala Segura e seus sistemas periféricos, localizado no 7º Centro de Telemática de Área (7º CTA)",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=16074905900022025",
+  "dataAberturaProposta": "2025-05-05T09:00:00",
+  "dataEncerramentoProposta": "2025-05-19T09:00:00",
+  "dataPublicacaoPncp": "2025-05-05T07:29:49",
+  "dataAtualizacaoGlobal": "2025-05-27T13:15:28",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoIbge": "5300108",
+    "codigoUnidade": "160749",
+    "nomeUnidade": "7º CENTRO TELEMÁTICA ÁREA- CONTROLE DE CUSTOS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=16074905900022025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 1775345.4,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CAPIVARI (Capivari/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Abertura de Pregão visando a contratação de empresa especializada para prestação de serviços de manutenção preventiva e corretiva de elevadores, incluindo fornecimento de mão de obra, materiais e demais serviços necessários para o adequado funcionamento do equipamento.
+VALOR ESTIMADO: R$ 8,100.00
+PRAZO PARA PROPOSTAS: 2026-10-08T08:00:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO MARANHAO - PROCURADORIA GERAL DA JUSTICA (São Luís/MA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para a aquisição de renovação de licenças Kaspersky Endpoint Security ADVANCED Brazilian Edition com upgrade para KASPERSKY NEXT EDR OPTIMUM, para fins de proteção da rede lógica, equipamentos de TI e informações, por um período de atualização, suporte e assistência técnica de 36 (trinta e seis) meses, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.
+VALOR ESTIMADO: R$ 1,228,750.00
+PRAZO PARA PROPOSTAS: 2026-10-14T09:59:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92512905000112026
+SELO LOGÍSTICO: [FORA DAS BASES]
+BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

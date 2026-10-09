@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO CENTRO NOROESTE DO PARANA (Cianorte/PR)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: DISPENSA 01-2025: Contratação de empresa especializada para licenciamento de sistema B.I (Business Intelligence), conversão, implantação e treinamento do sistema.
+VALOR ESTIMADO: R$ 36.477,72
+PRAZO PARA PROPOSTAS: 2025-02-25T17:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/01178931000147-1-000006/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01178931000147/compras/2025/6/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERV TECNICOS PROFISSIONAIS | Qtd: 12.0 | R$ Unit: 1992.66
+  - Item 2: PROCESSAMENTO DE DADOS | Qtd: 1.0 | R$ Unit: 12565.8
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 30400.0,
+  "orgaoEntidade": {
+    "cnpj": "01178931000147",
+    "razaoSocial": "CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO CENTRO NOROESTE DO PARANA",
+    "esferaId": "N",
+    "poderId": "E"
+  },
+  "dataInclusao": "2025-07-03T16:17:15",
+  "dataAtualizacao": "2025-07-03T16:17:15",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Elotech Gestão Pública Ltda",
+  "dataAberturaProposta": "2025-02-21T08:00:00",
+  "dataEncerramentoProposta": "2025-02-25T17:00:00",
+  "dataPublicacaoPncp": "2025-07-03T16:17:15",
+  "dataAtualizacaoGlobal": "2025-07-03T16:17:56",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Cianorte",
+    "codigoIbge": "4105508",
+    "codigoUnidade": "01178931000147",
+    "nomeUnidade": "Consórcio Público Intermunicipal do Centro Noroeste do Paraná - CICENOP"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 76, II, a",
+    "descricao": "Dispensa de Licitação: doação, permitida exclusivamente para fins e uso de interesse social, após avaliação de oportunidade e conveniência socioeconômica em relação à escolha de outra forma de alienação",
+    "codigo": 71
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 6,
+  "emendaParlamentar": null,
+  "numeroCompra": "1",
+  "processo": "1",
+  "objetoCompra": "DISPENSA 01-2025: Contratação de empresa especializada para licenciamento de sistema B.I (Business Intelligence), conversão, implantação e treinamento do sistema.",
+  "informacaoComplementar": "",
+  "numeroControlePNCP": "01178931000147-1-000006/2025",
+  "valorTotalEstimado": 36477.72,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta"
+}

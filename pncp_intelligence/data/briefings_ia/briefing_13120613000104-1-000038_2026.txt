@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE LARANJEIRAS (Laranjeiras/SE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de pessoa jurídica especializada em prestação de serviços técnicos, implantação e operacionalização de Sistema de informática na gestão do ISSQN, com licença de uso de Software, através da disponibilização da Nota Fiscal de Serviço Eletrônica, Controle dos Serviços Tomados, Declaração Eletrônica de Serviços Financeiros e fornecimento de Data Center, conforme este Termo de Referência.
+VALOR ESTIMADO: R$ 230,997.50
+PRAZO PARA PROPOSTAS: 2026-10-15T09:00:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [FORA DAS BASES]
+BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

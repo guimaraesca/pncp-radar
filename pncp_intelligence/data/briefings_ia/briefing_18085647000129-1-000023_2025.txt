@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE COROACI (Coroaci/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para futuras e eventuais contratação de empresa especializada em elaboração, execução e
+realização do programa de gestão eficiente de frotas, tendo como foco a capacitação
+de servidores, implementação de ações de saúde, segurança do trabalho, cumprimento de normas de trânsito e boa guarda do patrimônio público, bem como a formatação e disponibilização de ferramenta para a avaliação permanente da qualidade dos serviços públicos ofertados.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-08-12T14:00:00
+LINK OFICIAL: app2.licitardigital.com.br/pesquisa/72261
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18085647000129/compras/2025/23/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ELABORAÇÃO, EXECUÇÃO E REALIZAÇÃO DO PROGRAMA DE GESTÃO EFICIENTE DE FROTAS, TENDO COMO FOCO A CAPACITAÇÃO DE SERVIDORES | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "18085647000129",
+    "razaoSocial": "MUNICIPIO DE COROACI",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-08-04T10:00:07",
+  "dataAtualizacao": "2025-08-04T10:00:07",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online",
+  "dataAberturaProposta": "2025-08-04T10:00:07",
+  "dataEncerramentoProposta": "2025-08-12T14:00:00",
+  "dataPublicacaoPncp": "2025-08-04T10:00:07",
+  "dataAtualizacaoGlobal": "2025-08-04T10:00:12",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Coroaci",
+    "codigoIbge": "3119203",
+    "codigoUnidade": "182",
+    "nomeUnidade": "Unidade Única"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "app2.licitardigital.com.br/pesquisa/72261",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 23,
+  "emendaParlamentar": null,
+  "numeroCompra": "021",
+  "processo": "037/2025",
+  "objetoCompra": "Registro de preços para futuras e eventuais contratação de empresa especializada em elaboração, execução e\nrealização do programa de gestão eficiente de frotas, tendo como foco a capacitação\nde servidores, implementação de ações de saúde, segurança do trabalho, cumprimento de normas de trânsito e boa guarda do patrimônio público, bem como a formatação e disponibilização de ferramenta para a avaliação permanente da qualidade dos serviços públicos ofertados.",
+  "informacaoComplementar": "",
+  "numeroControlePNCP": "18085647000129-1-000023/2025",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

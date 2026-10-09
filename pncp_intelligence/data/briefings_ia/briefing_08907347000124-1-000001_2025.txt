@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: IPOJUCA CAMARA MUNICIPAL (Ipojuca/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de Pessoa Física ou Jurídica, para prestação de serviços de consultoria e assessoria técnica  especializada em engenharia ou arquitetura, objetivando subsidiar a Câmara Municipal do Ipojuca na contratação e fiscalização dos serviços de reforma predial na atual sede desta edilidade,  conforme condições e exigências estabelecidas em Termo de Referência anexo ao Edital.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-03-31T08:00:00
+LINK OFICIAL: https://bnccompras.com/Process/ProcessView?param1=[gkz]vdOuWh2_2JONl_uhtPqt/a2VtMxTgPR6ZTTh4SBKdNfOl6p5wAyvgMvmLG/qliWgfb_YkJPVgmxleqfTfsKbKzUlfPCh71R/XpxdRdypV5c=
+BASE LOGÍSTICA COMPATÍVEL: Recife (Até 50 km)
+SELO LOGÍSTICO: [BASE: RECIFE | Ipojuca/PE (50km)]
+DISTÂNCIA ESTIMADA DA BASE: 50 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08907347000124/compras/2025/1/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de Pessoa Física ou Jurídica, para prestação de serviços de consultoria e assessoria técnica  especializada  | Qtd: 6.0 | R$ Unit: 6349.24
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "08907347000124",
+    "razaoSocial": "IPOJUCA CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-03-24T17:40:07",
+  "dataAtualizacao": "2025-08-25T09:22:11",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 1,
+  "emendaParlamentar": null,
+  "numeroCompra": "001",
+  "processo": "001/2025",
+  "objetoCompra": "Contratação de Pessoa Física ou Jurídica, para prestação de serviços de consultoria e assessoria técnica  especializada em engenharia ou arquitetura, objetivando subsidiar a Câmara Municipal do Ipojuca na contratação e fiscalização dos serviços de reforma predial na atual sede desta edilidade,  conforme condições e exigências estabelecidas em Termo de Referência anexo ao Edital.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-03-25T08:00:00",
+  "dataEncerramentoProposta": "2025-03-31T08:00:00",
+  "dataPublicacaoPncp": "2025-03-24T17:40:07",
+  "dataAtualizacaoGlobal": "2025-08-25T09:22:11",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Ipojuca",
+    "codigoUnidade": "928142",
+    "nomeUnidade": "CAMARA MUNICIPAL DE IPOJUCA - PE",
+    "codigoIbge": "2607208"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "08907347000124-1-000001/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]vdOuWh2_2JONl_uhtPqt/a2VtMxTgPR6ZTTh4SBKdNfOl6p5wAyvgMvmLG/qliWgfb_YkJPVgmxleqfTfsKbKzUlfPCh71R/XpxdRdypV5c=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 2,
+  "situacaoCompraNome": "Revogada",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC"
+}

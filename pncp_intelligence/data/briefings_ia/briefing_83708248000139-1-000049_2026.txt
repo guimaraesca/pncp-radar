@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE SAO JOSE (São José/SC)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: contratação de plano de assistência à saúde destinado aos servidores públicos ativos e inativos, pensionistas, vereadores e respectivos dependentes vinculados à Câmara Municipal de São José/SC, compreendendo cobertura ambulatorial e hospitalar com obstetrícia, consultas médicas, serviços auxiliares de diagnóstico e terapia, internações hospitalares clínicas, cirúrgicas e psiquiátricas, por meio de rede própria, credenciada, contratada ou referenciada pela operadora
+VALOR ESTIMADO: R$ 0.00
+PRAZO PARA PROPOSTAS: 2026-10-16T14:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92801105000042026
+SELO LOGÍSTICO: [BASE: JOINVILLE | São José/SC (175km)]
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+DISTÂNCIA ESTIMADA: 175 km

@@ -1,0 +1,84 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO INTERMUNICIPAL DE SAUDE E DE POLITICAS DE DESENVOLVIMENTO DA REGIAO DO CALCARIO - CISREC (Matozinhos/MG)
+MODALIDADE: Credenciamento
+OBJETO DA CONTRATAÇÃO: CREDENCIAMENTO DE EMPRESAS ESPECIALIZADAS PARA EXECUÇÃO SOB DEMANDA DE SERVIÇOS DE TREINAMENTO E CAPACITAÇÃO, POR MEIO DA REALIZAÇÃO DE AÇÕES VOLTADAS AO DESENVOLVIMENTO DE COMPETÊNCIAS INTERPESSOAIS, APRIMORAMENTO DA GESTÃO DE PROCESSOS E MELHORIA DO AMBIENTE ORGANIZACIONAL, COM O OBJETIVO DE ATENDER AOS MUNICÍPIOS CONSORCIADOS AO CISREC.
+VALOR ESTIMADO: R$ 6.573.474,60
+PRAZO PARA PROPOSTAS: 2025-06-16T23:59:59
+LINK OFICIAL: app2.licitardigital.com.br/pesquisa/61622
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01272081000141/compras/2025/10/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01272081000141/compras/2025/10/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01272081000141/compras/2025/10/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01272081000141/compras/2025/10/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01272081000141/compras/2025/10/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01272081000141/compras/2025/10/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01272081000141/compras/2025/10/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01272081000141/compras/2025/10/arquivos/8
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Diagnostico de pesquisa qualitativo do ambiente, sendo dois diagnósticos início e final da prestação de serviço.  | Qtd: 2160.0 | R$ Unit: 607.53
+  - Item 2: Workshops para líderes, (mínimo três horas)  | Qtd: 540.0 | R$ Unit: 607.53
+  - Item 3: Palestra para servidores   | Qtd: 1440.0 | R$ Unit: 607.53
+  - Item 4: Workshops para servidores, (mínimo três horas)  | Qtd: 1080.0 | R$ Unit: 607.53
+  - Item 5: Mentoria individual, tempo por sessão (mínimo 2 horas).  | Qtd: 1800.0 | R$ Unit: 607.53
+  - Item 6: Preparação de material de apoio, apostilas, questionários, elaboração de palestras e workshops (personalizados).  | Qtd: 1200.0 | R$ Unit: 607.53
+  - Item 7: Preparação e analise de resultados mensais e apresentação para gestores  | Qtd: 800.0 | R$ Unit: 607.53
+  - Item 8: Aplicação de questionários, testes e formulários sob orientação e acompanhamento pessoal de líderes e servidores  | Qtd: 1800.0 | R$ Unit: 607.53
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01272081000141",
+    "razaoSocial": "CONSORCIO INTERMUNICIPAL DE SAUDE E DE POLITICAS DE DESENVOLVIMENTO DA REGIAO DO CALCARIO - CISREC",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-04-29T14:10:32",
+  "dataAtualizacao": "2025-05-15T15:03:54",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 10,
+  "emendaParlamentar": null,
+  "numeroCompra": "01",
+  "processo": "18/2025",
+  "objetoCompra": "CREDENCIAMENTO DE EMPRESAS ESPECIALIZADAS PARA EXECUÇÃO SOB DEMANDA DE SERVIÇOS DE TREINAMENTO E CAPACITAÇÃO, POR MEIO DA REALIZAÇÃO DE AÇÕES VOLTADAS AO DESENVOLVIMENTO DE COMPETÊNCIAS INTERPESSOAIS, APRIMORAMENTO DA GESTÃO DE PROCESSOS E MELHORIA DO AMBIENTE ORGANIZACIONAL, COM O OBJETIVO DE ATENDER AOS MUNICÍPIOS CONSORCIADOS AO CISREC.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-30T00:00:00",
+  "dataEncerramentoProposta": "2025-06-16T23:59:59",
+  "dataPublicacaoPncp": "2025-04-29T14:10:32",
+  "dataAtualizacaoGlobal": "2025-09-16T12:10:08",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Matozinhos",
+    "codigoUnidade": "38",
+    "nomeUnidade": "Unidade Única",
+    "codigoIbge": "3141108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "01272081000141-1-000010/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 79, I",
+    "descricao": "Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+    "codigo": 140
+  },
+  "linkSistemaOrigem": "app2.licitardigital.com.br/pesquisa/61622",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 6573474.6,
+  "modalidadeId": 12,
+  "modalidadeNome": "Credenciamento",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 4,
+  "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+}

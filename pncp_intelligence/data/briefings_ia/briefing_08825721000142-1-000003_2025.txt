@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRACUNHAEM CAMARA DOS VEREADORES (Tracunhaém/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: contratação de empresa especializada para execução dos serviços de assessoria/consultoria técnica especializada em controle interno para normatizações, procedimentos e rotinas para atender às demandas da controladoria interna da Câmara Municipal de Tracun
+VALOR ESTIMADO: R$ 58.300,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]TxP0QLFpN0fQzvhbxr5Lct9bZKHMXYPXtz_mzIqNMlt2d0BQI8ISjFE6M6jjqGaG/4i53RF_Nsfj/hmZMshnXAepM0V2ud8ernipxcbBML8=
+BASE LOGÍSTICA COMPATÍVEL: Recife (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PE]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08825721000142/compras/2025/3/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa especializada para execução dos serviços de assessoria/consultoria técnica especializada em contr | Qtd: 11.0 | R$ Unit: 5300.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 58300.0,
+  "orgaoEntidade": {
+    "cnpj": "08825721000142",
+    "razaoSocial": "TRACUNHAEM CAMARA DOS VEREADORES",
+    "esferaId": "M",
+    "poderId": "L"
+  },
+  "dataInclusao": "2025-03-21T20:26:32",
+  "dataAtualizacao": "2025-03-21T20:26:32",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-21T20:26:32",
+  "dataAtualizacaoGlobal": "2025-03-21T20:26:37",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Tracunhaém",
+    "codigoIbge": "2615508",
+    "codigoUnidade": "931767",
+    "nomeUnidade": "MPE-CÂMARA MUNICIPAL DE TRACUNHAEM"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]TxP0QLFpN0fQzvhbxr5Lct9bZKHMXYPXtz_mzIqNMlt2d0BQI8ISjFE6M6jjqGaG/4i53RF_Nsfj/hmZMshnXAepM0V2ud8ernipxcbBML8=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 3,
+  "emendaParlamentar": null,
+  "numeroCompra": "001",
+  "processo": "003/2025",
+  "objetoCompra": "contratação de empresa especializada para execução dos serviços de assessoria/consultoria técnica especializada em controle interno para normatizações, procedimentos e rotinas para atender às demandas da controladoria interna da Câmara Municipal de Tracun",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "08825721000142-1-000003/2025",
+  "valorTotalEstimado": 58300.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

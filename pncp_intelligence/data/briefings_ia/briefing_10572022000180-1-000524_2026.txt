@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DE ADMINISTRACAO (Recife/PE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa operadora de planos privados de assistência à saúde, devidamente registrada e autorizada pela Agência Nacional de Saúde Suplementar – ANS, para prestação de serviços de assistência à saúde aos servidores do DETRAN/PE e seus dependentes, conforme as condições, especificações, quantidades e exigências estabelecidas no Estudo Técnico Preliminar e neste Termo de Referência.
+VALOR ESTIMADO: R$ 212,517,460.80
+PRAZO PARA PROPOSTAS: 2026-10-19T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92615005000212026
+SELO LOGÍSTICO: [BASE DIRETA: RECIFE/PE]
+BASE LOGÍSTICA COMPATÍVEL: Recife (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE HORIZONTE (Horizonte/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE ASSESSORIA, AUDITORIA E CONSULTORIA EM GESTÃO TRIBUTARIA DE INTERESSE DA SECRETARIA DE FINANÇAS DO MUNICÍPIO DE HORIZONTE/CE
+VALOR ESTIMADO: R$ 150.000,00
+PRAZO PARA PROPOSTAS: 2026-10-09T08:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98125305003692026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/23555196000186/compras/2026/215/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Assessoria Prestação de serviços especializados de assessoria, auditoria e consultoria em gestão tributária junto a Secr | Qtd: 12.0 | R$ Unit: 12500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "23555196000186",
+    "razaoSocial": "MUNICIPIO DE HORIZONTE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-23T09:10:16",
+  "dataAtualizacao": "2026-09-23T09:10:16",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 215,
+  "emendaParlamentar": null,
+  "numeroCompra": "369",
+  "processo": "2026.09.14.1-PE",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE ASSESSORIA, AUDITORIA E CONSULTORIA EM GESTÃO TRIBUTARIA DE INTERESSE DA SECRETARIA DE FINANÇAS DO MUNICÍPIO DE HORIZONTE/CE",
+  "informacaoComplementar": "Havendo discrepância entre os textos constantes do edital e seus ANEXOS, inclusive quanto a especificação dos produtos, unidades e demais detalhamentos ante aqueles constantes da plataforma COMPRAS.GOV.BR prevalecerão as informações constantes do edital e seus ANEXOS.",
+  "dataAberturaProposta": "2026-09-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-09T08:30:00",
+  "dataPublicacaoPncp": "2026-09-23T09:10:16",
+  "dataAtualizacaoGlobal": "2026-09-23T09:11:18",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Horizonte",
+    "codigoUnidade": "981253",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE HORIZONTE - CE",
+    "codigoIbge": "2305233"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "23555196000186-1-000215/2026",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98125305003692026",
+  "linkProcessoEletronico": "https://municipios-licitacoes.tce.ce.gov.br/",
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 150000.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T09:10:16"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CEDRO (Cedro/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de pessoa jurídica especializada para prestação de serviços de consultoria educacional, prestação de serviços de consultoria técnica educacional, incluindo tratamento estatístico e análise de dados, desenvolvimento de sistema informatizado para coleta e monitoramento de avaliações escolares, criação de painel digital interativo (dashboard) com indicadores de desempenho educacional e elaboração de relatórios técnicos analíticos das avaliações municipais e externas realia coleta e monitoramento de avaliações escolares, criação de painel digital interativo (dashboard) com indicadores de desempenho educacional e elaboração de relatórios técnicos analíticos das avaliações municipais e externas realizadas pela Secretaria Municipal de Educação de Cedro/CE
+VALOR ESTIMADO: R$ 199.066,68
+PRAZO PARA PROPOSTAS: 2026-10-06T12:00:00
+LINK OFICIAL: http://www.licitacedroce.com.br
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07812241000184/compras/2026/56/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07812241000184/compras/2026/56/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LOTE 1 | Qtd: 1.0 | R$ Unit: 199066.68
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "07812241000184",
+    "razaoSocial": "MUNICIPIO DE CEDRO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-22T09:23:24",
+  "dataAtualizacao": "2026-09-22T09:23:24",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 56,
+  "emendaParlamentar": null,
+  "numeroCompra": "1809.02/2026-01",
+  "processo": "1809.02/2026-01",
+  "objetoCompra": "Contratação de pessoa jurídica especializada para prestação de serviços de consultoria educacional, prestação de serviços de consultoria técnica educacional, incluindo tratamento estatístico e análise de dados, desenvolvimento de sistema informatizado para coleta e monitoramento de avaliações escolares, criação de painel digital interativo (dashboard) com indicadores de desempenho educacional e elaboração de relatórios técnicos analíticos das avaliações municipais e externas realia coleta e monitoramento de avaliações escolares, criação de painel digital interativo (dashboard) com indicadores de desempenho educacional e elaboração de relatórios técnicos analíticos das avaliações municipais e externas realizadas pela Secretaria Municipal de Educação de Cedro/CE",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-22T10:00:00",
+  "dataEncerramentoProposta": "2026-10-06T12:00:00",
+  "dataPublicacaoPncp": "2026-09-22T09:23:24",
+  "dataAtualizacaoGlobal": "2026-09-22T09:23:37",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Cedro",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE CEDRO - CE",
+    "codigoIbge": "2303808"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "http://www.licitacedroce.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "07812241000184-1-000056/2026",
+  "valorTotalEstimado": 199066.68,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BR Conectado"
+}

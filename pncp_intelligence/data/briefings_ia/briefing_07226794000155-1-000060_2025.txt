@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: COMPANHIA AGUAS DE JOINVILLE (Joinville/SC)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços com assinatura de licenças do software OFFICE 365, Microsoft Project, Microsoft Power BI, Enterprise Mobility + Security E3, Armazenamento extra para microsoft Sharepoint e caixas de e-mail extra para o microsoft Exchange
+VALOR ESTIMADO: R$ 1.330.895,31
+PRAZO PARA PROPOSTAS: 2025-05-19T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92637705900642025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: JOINVILLE/SC]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07226794000155/compras/2025/60/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 1.0 | R$ Unit: 1330895.31
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07226794000155",
+    "razaoSocial": "COMPANHIA AGUAS DE JOINVILLE",
+    "poderId": "N",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": 1136096.59,
+  "dataInclusao": "2025-05-06T07:44:50",
+  "dataAtualizacao": "2025-05-06T07:44:50",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 60,
+  "emendaParlamentar": null,
+  "numeroCompra": "90064",
+  "processo": "25.1.003938-0",
+  "objetoCompra": "Prestação de serviços com assinatura de licenças do software OFFICE 365, Microsoft Project, Microsoft Power BI, Enterprise Mobility + Security E3, Armazenamento extra para microsoft Sharepoint e caixas de e-mail extra para o microsoft Exchange",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=92637705900642025",
+  "dataAberturaProposta": "2025-05-06T08:00:00",
+  "dataEncerramentoProposta": "2025-05-19T09:00:00",
+  "dataPublicacaoPncp": "2025-05-06T07:44:50",
+  "dataAtualizacaoGlobal": "2025-09-16T22:05:59",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Joinville",
+    "codigoUnidade": "926377",
+    "nomeUnidade": "COMPANHIA AGUAS DE JOINVILE - SC",
+    "codigoIbge": "4209102"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "07226794000155-1-000060/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92637705900642025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 1330895.31,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

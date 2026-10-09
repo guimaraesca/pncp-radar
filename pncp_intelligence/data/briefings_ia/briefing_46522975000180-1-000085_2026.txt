@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RIO GRANDE DA SERRA (Rio Grande da Serra/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para aquisição de solução integrada para gerenciamento de frequencia e assiduidade dos servidores da Prefeitura de Rio Grande da Serra, incluindo fornecimento e manutenção de equipamentos de registro eletrônico de ponto, implantação, configuração, treinamento e suporte técnico, bem como licenciamento de software especializado para gestão das informações de jornada, com atualizações, manutenção e suporte necessários ao pleno funcionamento da solução.  Processo Administrativo 948/2026.
+VALOR ESTIMADO: R$ 172.533,48
+PRAZO PARA PROPOSTAS: 2026-10-09T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/46522975000180-1-000085/2026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46522975000180/compras/2026/85/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: EQUIPAMENTOS ELETRÔNICOS DE REGISTRO ELETRÔNICO DE PONTO (REP-C)  INCLUINDO: INSTALAÇÃO, IMPLANTAÇÃO, CONFIGURAÇÃO, TREI | Qtd: 44.0 | R$ Unit: 2634.15
+  - Item 2: LICENCIAMENTO DE SOFTWARE PARA GERENCIAMENTO DE FREQUÊNCIA E ASSIDUIDADE.  INCLUINDO: DISPONIBILIZAÇÃO, SUPORTE TÉCNICO, | Qtd: 1.0 | R$ Unit: 56630.88
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "46522975000180",
+    "razaoSocial": "MUNICIPIO DE RIO GRANDE DA SERRA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-24T17:08:06",
+  "dataAtualizacao": "2026-09-24T17:08:06",
+  "objetoCompra": "Contratação de empresa especializada para aquisição de solução integrada para gerenciamento de frequencia e assiduidade dos servidores da Prefeitura de Rio Grande da Serra, incluindo fornecimento e manutenção de equipamentos de registro eletrônico de ponto, implantação, configuração, treinamento e suporte técnico, bem como licenciamento de software especializado para gestão das informações de jornada, com atualizações, manutenção e suporte necessários ao pleno funcionamento da solução.  Processo Administrativo 948/2026.",
+  "dataAberturaProposta": "2026-09-24T18:00:00",
+  "dataEncerramentoProposta": "2026-10-09T09:00:00",
+  "dataPublicacaoPncp": "2026-09-24T17:08:06",
+  "dataAtualizacaoGlobal": "2026-09-24T17:08:06",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Rio Grande da Serra",
+    "codigoIbge": "3544103",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Municipio De Rio Grande Da Serra"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "A presente demanda justificativa-se pela necessidade de aprimoramento do controle de frequencia e assiduidade dos servidores da Prefeitura Municipal de Rio Grande da Serra, em razão das limitações apresentadas pelo modelo atualmente utilizado para registro e gerenciamento da jornada de trabalho.",
+  "numeroControlePNCP": "46522975000180-1-000085/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 85,
+  "emendaParlamentar": null,
+  "numeroCompra": "51",
+  "processo": "136320/2026",
+  "informacaoComplementar": "A presente demanda justificativa-se pela necessidade de aprimoramento do controle de frequencia e assiduidade dos servidores da Prefeitura Municipal de Rio Grande da Serra, em razão das limitações apresentadas pelo modelo atualmente utilizado para registro e gerenciamento da jornada de trabalho.",
+  "valorTotalEstimado": 172533.48,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PRESCON INFORMATICA ASSESSORIA LTDA."
+}

@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO. (Duque de Caxias/RJ)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Serviço de comunicação de dados, na forma de instalação, manutenção e operação de circuitos
+digitais ópticos permanentes de dados e de vazão assegurada, interligando o Data center da Superintendência do Rio
+Grande do Sul do Inmetro, em Porto Alegre, às suas regionais localizadas em Caxias do Sul, Santa Maria,
+Passo Fundo (2 circuitos), Pelotas, Santo Ângelo e o Posto de Fiscalização em Canoas, usando tecnologia SDWAN, incluindo todos os equipamentos e implementos necessários à entrega da solução
+VALOR ESTIMADO: R$ 533.963,52
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/00662270000168-1-000103/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00662270000168/compras/2025/103/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00662270000168/compras/2025/103/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00662270000168/compras/2025/103/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00662270000168/compras/2025/103/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço de Link Via Cabo Serviço de Link Via Cabo - Circuito de dados para unidade SURRS (Superintendência) | Qtd: 24.0 | R$ Unit: 3098.65
+  - Item 2: Serviço de Link Via Cabo Serviço de Link Via Cabo - Circuito de dados para unidade PASSO FUNDO (Regional) interligando c | Qtd: 24.0 | R$ Unit: 2735.69
+  - Item 3: Serviço de Link Via Cabo Serviço de Link Via Cabo - Circuito de dados para unidade PASSO FUNDO (Posto de Fiscalização) i | Qtd: 24.0 | R$ Unit: 2735.69
+  - Item 4: Serviço de Link Via Cabo Serviço de Link Via Cabo - Circuito de dados para unidade SANTA MARIA (Regional) interligando c | Qtd: 24.0 | R$ Unit: 2735.69
+  - Item 5: Serviço de Link Via Cabo Serviço de Link Via Cabo - Circuito de dados para unidade CAXIAS DO SUL (Regional) interligando | Qtd: 24.0 | R$ Unit: 2735.69
+  - Item 6: Serviço de Link Via Cabo Serviço de Link Via Cabo - Circuito de dados para unidade PELOTAS (Regional) interligando com a | Qtd: 24.0 | R$ Unit: 2735.69
+  - Item 7: Serviço de Link Via Cabo Serviço de Link Via Cabo - Circuito de dados para unidade SANTO ÂNGELO (Regional) interligando  | Qtd: 24.0 | R$ Unit: 2735.69
+  - Item 8: Serviço de Link Via Cabo Serviço de Link Via Cabo - Circuito de dados para unidade CANOAS (Posto de Fiscalização) interl | Qtd: 24.0 | R$ Unit: 2735.69
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00662270000168",
+    "razaoSocial": "INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO.",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 533963.52,
+  "dataInclusao": "2025-08-06T15:33:46",
+  "dataAtualizacao": "2025-08-06T15:33:46",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 103,
+  "emendaParlamentar": null,
+  "numeroCompra": "195",
+  "processo": "0052600.004199/2023-84",
+  "objetoCompra": "Serviço de comunicação de dados, na forma de instalação, manutenção e operação de circuitos\ndigitais ópticos permanentes de dados e de vazão assegurada, interligando o Data center da Superintendência do Rio\nGrande do Sul do Inmetro, em Porto Alegre, às suas regionais localizadas em Caxias do Sul, Santa Maria,\nPasso Fundo (2 circuitos), Pelotas, Santo Ângelo e o Posto de Fiscalização em Canoas, usando tecnologia SDWAN, incluindo todos os equipamentos e implementos necessários à entrega da solução",
+  "informacaoComplementar": "A contratação de serviço de  comunicação de dados, na forma de instalação, manutenção e operação de circuitos digitais óticos permanentes de dados e de vazão assegurada, interligando o Data center da Superintendência do Rio Grande do Sul (SURRS) do Inmetro, em Porto Alegre, às suas regionais localizadas em Caxias do Sul, Santa Maria, Passo Fundo (2 circuitos), Pelotas, Canoas e Santo Ângelo visa:   \na) Garantir a continuidade do negócio;\nb) Garantir a segurança, a confidencialidade, a integridade, a disponibilidade e o acesso rápido aos\ndados, informações e sistemas do Inmetro pelas regionais da SURRS;\nc) Garantir o baixo risco de descontinuidade dos serviços de comunicação utilizados pelas regionais\nda SURRS;\nd) Manter infraestrutura adequada às necessidades das regionais da SURRS e aos novos padrões e tecnologias modernos, garantindo a qualidade dos serviços prestados à sociedade;\nOs endereços de instalação e respectivas larguras de bandas mínimas para os links desta\ncontratação serão os seguintes:\n1) SURRS (Superintendência) - Av. Berlim, 627, São Geraldo, Porto Alegre/RS, CEP 90.240-581\n(70 Mbps)\n2) Passo Fundo (Regional) - Rua Antônio Araújo, 1151, Centro, Passo Fundo/RS, CEP 99.010-220\n(10 Mbps)\n3) Passo Fundo (Posto de Fiscalização) - Rua Álvares Cabral, 1000, Vila Petrópolis, Passo Fundo\n/RS, CEP 99.050-070 (10 Mbps)\n4) Santa Maria (Regional) - Rua Cel. Ernesto Becker, 1806, Passo D'areia, Santa Maria/RS,\nCEP 97.010-140 (10 Mbps)\n5) Caxias do Sul (Regional) - Rua Vereador Mário Pezzi, 880, sala 06, Exposição, Caxias do Sul\n/RS, CEP 95.084-180 (10 Mbps)\n6) Pelotas (Regional) - Rua General Osório, 1221, Centro, Pelotas/RS, CEP 96.020-000 (10 Mbps)\n7) Santo Ângelo (Regional) - Travessa João Meller, 44, Geis, Santo Ângelo/RS, CEP 98.802-610\n(10 Mbps)\n8) Canoas (Posto de Fiscalização) - REFAP PETROBRAS - Refinaria Alberto Pasqualini - Av.\nGetúlio Vargas, 11001, Brigadeira, Canoas - RS, CEP 92.420-221 (10 Mbps)",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-06T15:33:46",
+  "dataAtualizacaoGlobal": "2025-08-06T15:38:30",
+  "numeroControlePNCP": "00662270000168-1-000103/2025",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Duque de Caxias",
+    "codigoUnidade": "183023",
+    "nomeUnidade": "INST.NAC.DE METROLOGIA QUALIDADE E TECNOLOGIA",
+    "codigoIbge": "3301702"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, IX",
+    "descricao": "Dispensa de Licitação: para a aquisição, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade que integrem a Administração Pública e que tenham sido criados para esse fim específico, desde que o preço contratado seja compatível com o praticado no mercado",
+    "codigo": 39
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "valorTotalEstimado": 533963.52,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

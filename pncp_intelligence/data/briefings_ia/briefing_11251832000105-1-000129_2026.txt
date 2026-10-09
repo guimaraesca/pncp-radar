@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO LOURENCO DA MATA (São Lourenço da Mata/PE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de solução informatizada (SaaS) de gestão de compras e contratações públicas, em conformidade com a Lel nº 14.133/2021, contemplando planejamento (PCA, DFD, ETP, TR), pesquisa de preços, gestão de editais, contratos, ordens de fornecimento/serviço, processos administrativos, portal do fornecedor e integrações com PNCP e TCE-PE, incluindo implantação, treinamento e suporte técnico.
+VALOR ESTIMADO: R$ 218.112,36
+PRAZO PARA PROPOSTAS: 2026-10-14T09:00:00
+LINK OFICIAL: https://bnccompras.com/Process/ProcessView?param1=[gkz]Bp6qsyf5ZoUxYyNHVaqo01JmoEVKohzitM9M/vqMrmWr/FDsvZ4VyqYhD4ly2c_rBFGWSDt5SleAmrSrC/qFfyJr6GJBhVXmvr7iojO8GTU=
+BASE LOGÍSTICA COMPATÍVEL: Recife (Até 50 km)
+SELO LOGÍSTICO: [BASE: RECIFE | São Lourenço da Mata/PE (25km)]
+DISTÂNCIA ESTIMADA DA BASE: 25 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11251832000105/compras/2026/129/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporaria de Direitos Sobre Programas de Computador Locação de Software CATMAT/CATSER: 27502 | Natureza: Service | Qtd: 12.0 | R$ Unit: 15431.03
+  - Item 2: Treinamento Informatica - Sistema / Software CATMAT/CATSER: 3840 | Natureza: Service | Duração: 0 | Obs.: Treinamento de | Qtd: 120.0 | R$ Unit: 274.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "11251832000105",
+    "razaoSocial": "MUNICIPIO DE SAO LOURENCO DA MATA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-25T12:06:51",
+  "dataAtualizacao": "2026-10-01T11:56:23",
+  "numeroControlePNCP": "11251832000105-1-000129/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 129,
+  "emendaParlamentar": null,
+  "numeroCompra": "038",
+  "processo": "148/2026",
+  "srp": false,
+  "objetoCompra": "Contratação de solução informatizada (SaaS) de gestão de compras e contratações públicas, em conformidade com a Lel nº 14.133/2021, contemplando planejamento (PCA, DFD, ETP, TR), pesquisa de preços, gestão de editais, contratos, ordens de fornecimento/serviço, processos administrativos, portal do fornecedor e integrações com PNCP e TCE-PE, incluindo implantação, treinamento e suporte técnico.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-28T09:00:00",
+  "dataEncerramentoProposta": "2026-10-14T09:00:00",
+  "dataPublicacaoPncp": "2026-09-25T12:06:51",
+  "dataAtualizacaoGlobal": "2026-10-01T11:56:24",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "São Lourenço da Mata",
+    "codigoIbge": "2613701",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SÃO LOURENÇO DA MATA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]Bp6qsyf5ZoUxYyNHVaqo01JmoEVKohzitM9M/vqMrmWr/FDsvZ4VyqYhD4ly2c_rBFGWSDt5SleAmrSrC/qFfyJr6GJBhVXmvr7iojO8GTU=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 218112.36,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 4,
+  "situacaoCompraNome": "Suspensa",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC"
+}

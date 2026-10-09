@@ -1,0 +1,83 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SERVICO AUTONOMO MUNICIPAL DE AGUA E ESGOTO (Jaraguá do Sul/SC)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE CONSULTORIA TÉCNICA ESPECIALIZADA PARA ANÁLISE E PROPOSIÇÃO DE MODELOS PARA A REGIONALIZAÇÃO DOS SERVIÇOS DE SANEAMENTO BÁSICO SOB A GESTÃO DO SAMAE DE JARAGUÁ DO SUL
+VALOR ESTIMADO: R$ 62.400,00
+PRAZO PARA PROPOSTAS: 2025-09-03T08:45:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/84438381000185-1-000177/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Até 50 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Jaraguá do Sul/SC (35km)]
+DISTÂNCIA ESTIMADA DA BASE: 35 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/84438381000185/compras/2025/177/arquivos/14
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de consultoria técnica especializada para análise e proposição de modelos para a regionalização dos serviços | Qtd: 1.0 | R$ Unit: 62400.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "84438381000185",
+    "razaoSocial": "SERVICO AUTONOMO MUNICIPAL DE AGUA E ESGOTO",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-07-14T11:54:09",
+  "dataAtualizacao": "2025-09-19T09:29:14",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Jaraguá do Sul",
+    "codigoUnidade": "CIN347",
+    "nomeUnidade": "SERVIÇO AUTÔNOMO MUNICIPAL DE ÁGUA E ESGOTO DE JARAGUÁ DO SUL",
+    "codigoIbge": "4208906"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "A finalidade da presente contratação é realizar estudo técnico minucioso que identifique, avalie e proponha os melhores arranjos institucionais para a expansão regional do Samae, compreendendo a prestação dos serviços de saneamento básico para os municípios que compõem a região do Vale do Itapocu e adjacências, considerando a Manutenção da Natureza de Autarquia Municipal ou a Transformação em Empresa Pública,  a fim de que indique qual a solução mais vantajosa e que permita maior flexibilidade operacional e alcance regional, bem como indique como ocorrerá a expansão das atividades, se mediante convênios de cooperação (nos termos do art. 241 da CF/88) e/ou constituição de consórcios públicos intermunicipais, conforme Lei nº 11.107/2005, ou instrumentos congêneres que possibilitem a prestação dos serviços de saneamento a outros entes públicos.",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 177,
+  "emendaParlamentar": null,
+  "numeroCompra": "CE 76",
+  "processo": "76/2025",
+  "objetoCompra": "CONTRATAÇÃO DE CONSULTORIA TÉCNICA ESPECIALIZADA PARA ANÁLISE E PROPOSIÇÃO DE MODELOS PARA A REGIONALIZAÇÃO DOS SERVIÇOS DE SANEAMENTO BÁSICO SOB A GESTÃO DO SAMAE DE JARAGUÁ DO SUL",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-15T08:00:00",
+  "dataEncerramentoProposta": "2025-09-03T08:45:00",
+  "dataPublicacaoPncp": "2025-07-14T11:54:09",
+  "dataAtualizacaoGlobal": "2025-09-19T09:29:14",
+  "numeroControlePNCP": "84438381000185-1-000177/2025",
+  "valorTotalEstimado": 62400.0,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 2,
+  "situacaoCompraNome": "Revogada",
+  "usuarioNome": "Betha Sistemas"
+}

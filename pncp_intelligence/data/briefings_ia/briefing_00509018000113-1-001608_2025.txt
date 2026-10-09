@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL SUPERIOR ELEITORAL (Manaus/AM)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de 20 (vinte) licenças de uso do software Microsoft Power BI Pro, no modelo de Software as a Service (SaaS), com prazo contratual de 36 meses, incluindo garantia, suporte técnico e atualizações, destinadas a atender as demandas de análise de dados, geração de relatórios executivos e criação de painéis interativos
+VALOR ESTIMADO: R$ 32.126,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/00509018000113-1-001608/2025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00509018000113/compras/2025/1608/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00509018000113/compras/2025/1608/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00509018000113/compras/2025/1608/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00509018000113/compras/2025/1608/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00509018000113/compras/2025/1608/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software Cessão Temporária de Direitos Sobre Prog | Qtd: 20.0 | R$ Unit: 1606.3
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 32126.0,
+  "orgaoEntidade": {
+    "cnpj": "00509018000113",
+    "razaoSocial": "TRIBUNAL SUPERIOR ELEITORAL",
+    "poderId": "J",
+    "esferaId": "F"
+  },
+  "dataAtualizacao": "2025-07-03T15:43:34",
+  "dataInclusao": "2025-07-03T15:43:34",
+  "numeroControlePNCP": "00509018000113-1-001608/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 1608,
+  "emendaParlamentar": null,
+  "numeroCompra": "124",
+  "processo": "0003039-14.2025.6.04.0000",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "Aquisição de 20 (vinte) licenças de uso do software Microsoft Power BI Pro, no modelo de Software as a Service (SaaS), com prazo contratual de 36 meses, incluindo garantia, suporte técnico e atualizações, destinadas a atender as demandas de análise de dados, geração de relatórios executivos e criação de painéis interativos",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-07-03T15:43:34",
+  "dataAtualizacaoGlobal": "2025-07-03T15:46:40",
+  "unidadeOrgao": {
+    "ufNome": "Amazonas",
+    "ufSigla": "AM",
+    "municipioNome": "Manaus",
+    "codigoUnidade": "070003",
+    "nomeUnidade": "TRIBUNAL REGIONAL ELEITORAL DO AMAZONAS",
+    "codigoIbge": "1302603"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "valorTotalEstimado": 32126.0
+}

@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: POLICIA MILITAR DO ESTADO DE MINAS GERAIS (Belo Horizonte/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Suprimentos de rede: 1)CONECTOR RJ 45 MACHO CAT 5e; 2)PATCH CORD 1,5M AZUL CAT 5e; 3)CABO UTP CAT 5e; 4)FITA DUPLA FACE; 5)FITA ISOLANTE, a fim de atender demanda da PMMG/DTS/CTS.
+
+VALOR ESTIMADO: R$ 3.160,00
+PRAZO PARA PROPOSTAS: 2025-08-12T08:01:50
+LINK OFICIAL: https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2025/63/1250071
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/16695025000197/compras/2025/619/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/16695025000197/compras/2025/619/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: FITA DUPLA FACE - FINALIDADE: FIXACAO DE COMPONENTES; MATERIA-PRIMA: ESPUMA ACRILICA; MEDIDA: 1,0MM ESPESSURA X 19MM LAR | Qtd: 20.0 | R$ Unit: 94.0
+  - Item 2: FITA ISOLANTE - DESCRICAO: FITA PLASTICA ISOLANTE P/CONDUTORES BAIXA TENSAO; DIMENSOES: 19MM X 20M X 0,18MM - ISOLACAO 7 | Qtd: 40.0 | R$ Unit: 32.0
+  - Item 3: CABO DE REDE - TIPO: PATCH CORD/MULTI-LAN/U/UTP; NUMERO DE PARES: 4 PARES; DIAMETRO EXTERNO: 0,20MM; CONDUTOR: COBRE ELE | Qtd: 80.0 | R$ Unit: 0.0
+  - Item 4: CABO DE REDE - TIPO: UTP; NUMERO DE PARES: 04 PARES; DIAMETRO EXTERNO: 5,0 MM; CONDUTOR: 100% COBRE; COR: AZUL; CATEGORI | Qtd: 64.0 | R$ Unit: 0.0
+  - Item 5: CONECTOR PARA USO EM INFORMATICA - TIPO: RJ-45 (MACHO) CAT.5E; | Qtd: 3000.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "16695025000197",
+    "razaoSocial": "POLICIA MILITAR DO ESTADO DE MINAS GERAIS",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 3150.0,
+  "dataInclusao": "2025-08-06T09:43:25",
+  "dataAtualizacao": "2025-08-06T09:43:25",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 619,
+  "emendaParlamentar": null,
+  "numeroCompra": "63",
+  "processo": "1250071 000063/2025",
+  "objetoCompra": "Suprimentos de rede: 1)CONECTOR RJ 45 MACHO CAT 5e; 2)PATCH CORD 1,5M AZUL CAT 5e; 3)CABO UTP CAT 5e; 4)FITA DUPLA FACE; 5)FITA ISOLANTE, a fim de atender demanda da PMMG/DTS/CTS.\r\n",
+  "informacaoComplementar": "Solicitação de Compra: 57/2025\r\nPedido de Compra: 61/2025 e 62/2025\r\nProcesso de Compra: 53/2025\r\nDestino(s): PMMG/DTS/CTS\r\nObjeto: Aquisição de suprimentos de rede para atendimento da demanda da PMMG/DTS/CTS\r\nUnid. Executora: 1250071\r\nDotação Orçamentária LOTE 01: 1251 06 181 137 4365 0001 3390 3016 10.1.0\r\nDotação Orçamentária LOTE 02: 1251 06 181 137 4365 0001 3390 3020 10.1.0\r\nModalidade de aquisição: COTEP\r\nMemorando n°: Memorando n° 16 - PMMG/DTS1 - TI\r\nPA n°.: 202507104797791-2507 - DTS-4\r\nSEI: 1250.01.0010110/2025-20\r\nOrigem do Recurso: Fonte 10\r\nPreposto: Adjunto da Seção de Fábrica de Software do CTS",
+  "dataAberturaProposta": "2025-08-06T09:43:25",
+  "dataEncerramentoProposta": "2025-08-12T08:01:50",
+  "dataPublicacaoPncp": "2025-08-06T09:43:25",
+  "dataAtualizacaoGlobal": "2025-08-18T13:37:24",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belo Horizonte",
+    "codigoUnidade": "1250071",
+    "nomeUnidade": "CSA-TIC/DTS",
+    "codigoIbge": "3106200"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "16695025000197-1-000619/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2025/63/1250071",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 3160.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Portal de Compras do Estado de Minas Gerais"
+}

@@ -1,0 +1,87 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO DA JUSTICA E SEGURANCA PUBLICA (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de solução integrada de infraestrutura de processamento, armazenamento, conectividade e serviços especializados para modernização do ambiente de nuvem privada do Ministério da Justiça e Segurança Pública, composta por ambiente Microsoft Azure Local implantado no Data Center Principal, infraestrutura computacional para as unidades remotas do Sistema Penitenciário Federal, equipamentos de rede, serviços de instalação, configuração, operação assistida, suporte técnico, garantia e serviços profissionais especializados, conforme condições e exigências estabelecidas no Edital e seus anexos.
+VALOR ESTIMADO: R$ 19.707.041,45
+PRAZO PARA PROPOSTAS: 2026-10-15T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=20000505000792026
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00394494000136/compras/2026/989/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00394494000136/compras/2026/989/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Servidor tipo: rack, processadores físicos: 2, núcleos por processador: superior a 20, memória ram: 2, interface rede la | Qtd: 8.0 | R$ Unit: 1721290.53
+  - Item 2: Servidor tipo: rack, processadores físicos: 2, núcleos por processador: superior a 20, memória ram: 2, interface rede la | Qtd: 10.0 | R$ Unit: 298000.0
+  - Item 3: Servidor tipo: rack, processadores físicos: 2, núcleos por processador: superior a 20, memória ram: 2, interface rede la | Qtd: 2.0 | R$ Unit: 212286.76
+  - Item 4: Serviços de Instalação de Equipamentos de TI (Computadores e seus Periféricos) Serviço de Instalação e Configuração para | Qtd: 20.0 | R$ Unit: 20114.3
+  - Item 5: Outros Serviços para a Infraestrutura de Tecnologia da Informação e Comunicação (TIC) Serviço de Operação Assistida para | Qtd: 960.0 | R$ Unit: 283.03
+  - Item 6: Switch características adicionais: especificação de referência- central médio porte Item 6.Switch ToR 32 portas 100 Gbps | Qtd: 2.0 | R$ Unit: 192265.0
+  - Item 7: Switch características adicionais: especificação de referência- central médio porte Item 7.Switch ToR 24 portas 10/25 Gb | Qtd: 10.0 | R$ Unit: 103159.2
+  - Item 8: Switch características adicionais: especificação de referência- central médio porte Item 8.Switch de gerenciamento 24 po | Qtd: 1.0 | R$ Unit: 27268.29
+  - Item 9: Switch Serviço de instalação e configuração para os switches itens 6, 7 e 8. | Qtd: 13.0 | R$ Unit: 7025.0
+  - Item 10: Serviços de Instalação de Equipamentos de TI (Computadores e seus Periféricos)  Serviços Profissionais Especializados | Qtd: 960.0 | R$ Unit: 336.91
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "00394494000136",
+    "razaoSocial": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-09-03T04:00:02",
+  "dataAtualizacao": "2026-09-30T04:04:04",
+  "anoCompra": 2026,
+  "sequencialCompra": 989,
+  "emendaParlamentar": null,
+  "numeroCompra": "79",
+  "processo": "08006.000081/2026-47",
+  "objetoCompra": "Aquisição de solução integrada de infraestrutura de processamento, armazenamento, conectividade e serviços especializados para modernização do ambiente de nuvem privada do Ministério da Justiça e Segurança Pública, composta por ambiente Microsoft Azure Local implantado no Data Center Principal, infraestrutura computacional para as unidades remotas do Sistema Penitenciário Federal, equipamentos de rede, serviços de instalação, configuração, operação assistida, suporte técnico, garantia e serviços profissionais especializados, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+  "informacaoComplementar": "Contato: (61) 2025-7632. O Edital poderá ser retirado gratuitamente pelos sites https://www.gov.br/compras/pt-br e https://www.gov.br/mj/pt-br ou solicitado por meio do endereço eletrônico licitacao@mj.gov.br\n",
+  "dataAberturaProposta": "2026-09-30T08:00:00",
+  "dataEncerramentoProposta": "2026-10-15T10:00:00",
+  "dataPublicacaoPncp": "2026-09-03T04:00:02",
+  "dataAtualizacaoGlobal": "2026-09-30T04:04:04",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoIbge": "5300108",
+    "codigoUnidade": "200005",
+    "nomeUnidade": "MJ-CGS-COORDENACAO GERAL DE LOGISTICA/DF"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=20000505000792026",
+  "linkProcessoEletronico": "https://www.gov.br/mj/pt-br/acesso-a-informacao/licitacoes-e-contratosv1/se/licitacoes/uasg-200005/pregoes/pregoes-2026",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "00394494000136-1-000989/2026",
+  "srp": false,
+  "valorTotalEstimado": 19707041.45,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-03T04:00:04"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

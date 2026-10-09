@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO RIO DE JANEIRO (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para a prestação de serviço de fornecimento de subscrição de licença de uso do Microsoft Office 365 E3, Microsoft Office E5, Microsoft Intune Suite, Azure Active Directory Premium P1, Azure Prepayment, Microsoft 365 Copilot e Copilot Studio que constituem solução de comunicação, colaboração, produtividade, inteligência artificial, garantia de atualização das versões, créditos a serem utilizados na nuvem de serviços Microsoft, a prestação de serviço de subscrição (Software Assurance) para produtos Microsoft, com atualização de versão e a prestação de serviço de suporte e consultoria em soluções em nuvem Microsoft, com vigência de contratos pelo período de 36 (trinta e seis) meses, para atender às necessidades da Agência de Fomento do Estado do Rio de Janeiro S.A. - AgeRio.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-13T14:00:00
+LINK OFICIAL: https://www.compras.rj.gov.br/EditaisLicitacoes/detalhar.action?idLic=37424
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3934/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: DESCRICAO: CONTRATACAO DE EMPRESA ESPECIALIZADA PARA PRESTACAO DE SERVICOS DE SUPORTE/SUBSCRICAO PARA PRODUTOS MICROSOFT | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "42498600000171",
+    "razaoSocial": "ESTADO DO RIO DE JANEIRO",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-16T10:59:25",
+  "dataAtualizacao": "2026-09-16T10:59:25",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 3934,
+  "emendaParlamentar": null,
+  "numeroCompra": "PE 006/26",
+  "processo": "SEI-220002/000694/2026",
+  "objetoCompra": "Contratação de empresa especializada para a prestação de serviço de fornecimento de subscrição de licença de uso do Microsoft Office 365 E3, Microsoft Office E5, Microsoft Intune Suite, Azure Active Directory Premium P1, Azure Prepayment, Microsoft 365 Copilot e Copilot Studio que constituem solução de comunicação, colaboração, produtividade, inteligência artificial, garantia de atualização das versões, créditos a serem utilizados na nuvem de serviços Microsoft, a prestação de serviço de subscrição (Software Assurance) para produtos Microsoft, com atualização de versão e a prestação de serviço de suporte e consultoria em soluções em nuvem Microsoft, com vigência de contratos pelo período de 36 (trinta e seis) meses, para atender às necessidades da Agência de Fomento do Estado do Rio de Janeiro S.A. - AgeRio.",
+  "informacaoComplementar": "Esta Unidade é uma Entidade Estatal e está sujeita à Lei nº 13.303/2016",
+  "dataAberturaProposta": "2026-09-18T11:00:00",
+  "dataEncerramentoProposta": "2026-10-13T14:00:00",
+  "dataPublicacaoPncp": "2026-09-16T10:59:25",
+  "dataAtualizacaoGlobal": "2026-09-16T10:59:25",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoUnidade": "227200",
+    "nomeUnidade": "Agência de Fomento do ERJ SA",
+    "codigoIbge": "3304557"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "42498600000171-1-003934/2026",
+  "amparoLegal": {
+    "nome": "Lei 13.303/2016, Art. 32, IV",
+    "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+    "codigo": 113
+  },
+  "linkSistemaOrigem": "https://www.compras.rj.gov.br/EditaisLicitacoes/detalhar.action?idLic=37424",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Portal de Compras Públicas do Estado do Rio de Janeiro"
+}

@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MOSSORO (Mossoró/RN)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - O objeto da presente licitação é a Formação de Ata de Registro de Preços para futura e eventual Aquisição de 08 (oito) servidores físicos, sendo 04 (quatro) destinados à virtualização e 04 (quatro) destinados a backup, armazenamento e contingência, para ampliação e modernização do Data Center local e da infraestrutura de tecnologia da informação utilizada pela Secretaria Municipal de Saúde, pela Secretaria Municipal de Educação, Secretaria Municipal de Meio Ambiente e Urbanismo e pela Câmara Municipal de Vereadores de Mossoró.
+VALOR ESTIMADO: R$ 1.513.165,32
+PRAZO PARA PROPOSTAS: 2026-10-06T08:59:00
+LINK OFICIAL: https://www.portaldecompraspublicas.com.br/processos/RN/Prefeitura-Municipal-de-Mossoro-1230/RPE-13-2026-2026-500649
+BASE LOGÍSTICA COMPATÍVEL: Natal (Polo Regional)
+SELO LOGÍSTICO: [BASE: NATAL | Mossoró/RN (280km)]
+DISTÂNCIA ESTIMADA DA BASE: 280 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08348971000139/compras/2026/108/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08348971000139/compras/2026/108/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08348971000139/compras/2026/108/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08348971000139/compras/2026/108/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08348971000139/compras/2026/108/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LOTE ÚNICO - SERVIDOR DE VIRTUALIZAÇÃO | Qtd: 4.0 | R$ Unit: 254223.0
+  - Item 2: LOTE ÚNICO - SERVIDOR DE BACKUP | Qtd: 4.0 | R$ Unit: 124068.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "08348971000139",
+    "razaoSocial": "MUNICIPIO DE MOSSORO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-15T08:58:15",
+  "dataAtualizacao": "2026-10-02T10:36:18",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Norte",
+    "ufSigla": "RN",
+    "municipioNome": "Mossoró",
+    "codigoUnidade": "1907",
+    "nomeUnidade": "FUNDO MUNICIPAL DE SAÚDE - FMS",
+    "codigoIbge": "2408003"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/RN/Prefeitura-Municipal-de-Mossoro-1230/RPE-13-2026-2026-500649",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 108,
+  "emendaParlamentar": null,
+  "numeroCompra": "13",
+  "processo": "21.004767/2026-61",
+  "objetoCompra": "[Portal de Compras Públicas] - O objeto da presente licitação é a Formação de Ata de Registro de Preços para futura e eventual Aquisição de 08 (oito) servidores físicos, sendo 04 (quatro) destinados à virtualização e 04 (quatro) destinados a backup, armazenamento e contingência, para ampliação e modernização do Data Center local e da infraestrutura de tecnologia da informação utilizada pela Secretaria Municipal de Saúde, pela Secretaria Municipal de Educação, Secretaria Municipal de Meio Ambiente e Urbanismo e pela Câmara Municipal de Vereadores de Mossoró.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-15T09:00:00",
+  "dataEncerramentoProposta": "2026-10-06T08:59:00",
+  "dataPublicacaoPncp": "2026-09-15T08:58:15",
+  "dataAtualizacaoGlobal": "2026-10-02T10:41:13",
+  "numeroControlePNCP": "08348971000139-1-000108/2026",
+  "valorTotalEstimado": 1513165.32,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

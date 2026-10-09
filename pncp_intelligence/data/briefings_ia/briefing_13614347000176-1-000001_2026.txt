@@ -1,0 +1,82 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE QUIMICA DA 21 REGIAO - CRQ XXI (Vitória/ES)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO:  contratação de empresa especializada para a prestação de serviços de disponibilização, implantação, parametrização, migração de dados legados, treinamento, suporte técnico especializado, sustentação e manutenção continuada de Solução Integrada de Gestão Finalística e Administrativa em Solução Integrada de Gestão Finalística e Corporativa 100% web (Software as a Service – SaaS / Computação em Nuvem)
+VALOR ESTIMADO: R$ 177.900,00
+PRAZO PARA PROPOSTAS: 2026-10-13T11:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92855205000012026
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13614347000176/compras/2026/1/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13614347000176/compras/2026/1/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como servico - saas Software como servico - saas | Qtd: 1.0 | R$ Unit: 97000.0
+  - Item 2: Cessão temporária de direitos sobre programas de computador locação de software Cessão temporária de direitos sobre prog | Qtd: 1.0 | R$ Unit: 20500.0
+  - Item 3: Manutenção evolutiva de  software (acréscimo de novas funcionalidades) - outras linguagens Manutenção evolutiva de  soft | Qtd: 1.0 | R$ Unit: 27500.0
+  - Item 4: Treinamento qualificação profissional Treinamento qualificação profissional | Qtd: 1.0 | R$ Unit: 14400.0
+  - Item 5: Serviços de instalação, transição e configuração / parametrização de software Serviços de instalação, transição e config | Qtd: 1.0 | R$ Unit: 18500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "13614347000176",
+    "razaoSocial": "CONSELHO REGIONAL DE QUIMICA DA 21 REGIAO - CRQ XXI",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-09-18T17:26:14",
+  "dataAtualizacao": "2026-09-23T16:38:02",
+  "numeroControlePNCP": "13614347000176-1-000001/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 1,
+  "emendaParlamentar": null,
+  "numeroCompra": "1",
+  "processo": "2800.21.00001.2026",
+  "srp": false,
+  "objetoCompra": " contratação de empresa especializada para a prestação de serviços de disponibilização, implantação, parametrização, migração de dados legados, treinamento, suporte técnico especializado, sustentação e manutenção continuada de Solução Integrada de Gestão Finalística e Administrativa em Solução Integrada de Gestão Finalística e Corporativa 100% web (Software as a Service – SaaS / Computação em Nuvem)",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-23T18:00:00",
+  "dataEncerramentoProposta": "2026-10-13T11:00:00",
+  "dataPublicacaoPncp": "2026-09-18T17:26:14",
+  "dataAtualizacaoGlobal": "2026-09-23T16:38:02",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Vitória",
+    "codigoIbge": "3205309",
+    "codigoUnidade": "928552",
+    "nomeUnidade": "CONSELHO REGIONAL DE QUIMICA 21A - ES"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92855205000012026",
+  "linkProcessoEletronico": "https://sei.cfq.org.br/sei/controlador_externo.php?acao=usuario_externo_logar&id_orgao_acesso_externo=0",
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 177900.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-18T17:26:15"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

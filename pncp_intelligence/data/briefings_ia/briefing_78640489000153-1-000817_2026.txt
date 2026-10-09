@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: UNIVERSIDADE ESTADUAL DE LONDRINA (Londrina/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: AQUISIÇÃO DE DESKTOPS, KIT DE DESENVOLVIMENTO PARA INTELIGÊNCIA ARTIFICIAL, KIT MÓDULO DIDÁTICO DE TELECOMUNICAÇÃO E IMPRESSORAS - 3D PROFISSIONAL E MULTIFUNCIONAL TANQUE DE TINTA.
+VALOR ESTIMADO: R$ 178.663,23
+PRAZO PARA PROPOSTAS: 2026-10-15T09:00:00
+LINK OFICIAL: www.transparencia.pr.gov.br/pte/compras/licitacoes/pesquisar-param?numprocesso=1255&ano=2026&codmodalidade=68
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/78640489000153/compras/2026/817/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: (L1) 7003.58659-Microcomputador Completo, TIPO: Desktop, CARACTERÍSTICAS ADICIONAIS: Demais informações de acordo com Te | Qtd: 7.0 | R$ Unit: 9644.0
+  - Item 2: (L2) 7003.58659-Microcomputador Completo, TIPO: Desktop, CARACTERÍSTICAS ADICIONAIS: Demais informações de acordo com Te | Qtd: 2.0 | R$ Unit: 9644.0
+  - Item 3: (L3) 7003.67109-Impressora 3D, CARACTERÍSTICAS ADICIONAIS: Demais informações de acordo com Termo de Referência e/ou Des | Qtd: 3.0 | R$ Unit: 7197.86
+  - Item 4: (L4) 7003.62391-Impressora, TIPO: Colorida, CARACTERÍSTICAS ADICIONAIS: Demais informações de acordo com Termo de Referê | Qtd: 1.0 | R$ Unit: 1599.0
+  - Item 5: (L5) 7003.58659-Microcomputador Completo, TIPO: Desktop, CARACTERÍSTICAS ADICIONAIS: Demais informações de acordo com Te | Qtd: 6.0 | R$ Unit: 4776.67
+  - Item 6: (L6) 6603.115782-Kit, TIPO: Módulo didático de telecomunicação, USO: Estudos de sistemas de comunicação digital e analóg | Qtd: 1.0 | R$ Unit: 40014.63
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "78640489000153",
+    "razaoSocial": "UNIVERSIDADE ESTADUAL DE LONDRINA",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-25T12:00:12",
+  "dataAtualizacao": "2026-09-25T12:00:12",
+  "numeroControlePNCP": "78640489000153-1-000817/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 817,
+  "emendaParlamentar": null,
+  "numeroCompra": "1255",
+  "processo": "1255/2026",
+  "srp": false,
+  "objetoCompra": "AQUISIÇÃO DE DESKTOPS, KIT DE DESENVOLVIMENTO PARA INTELIGÊNCIA ARTIFICIAL, KIT MÓDULO DIDÁTICO DE TELECOMUNICAÇÃO E IMPRESSORAS - 3D PROFISSIONAL E MULTIFUNCIONAL TANQUE DE TINTA.",
+  "informacaoComplementar": "(L1):PRINCIPAL,(L2):RESERVADO,(L3):EXCLUSIVA ME,(L4):EXCLUSIVA ME,(L5):EXCLUSIVA ME,(L6):EXCLUSIVA ME",
+  "dataAberturaProposta": "2026-09-25T10:10:00",
+  "dataEncerramentoProposta": "2026-10-15T09:00:00",
+  "dataPublicacaoPncp": "2026-09-25T12:00:12",
+  "dataAtualizacaoGlobal": "2026-09-25T12:00:13",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Londrina",
+    "codigoIbge": "4113700",
+    "codigoUnidade": "28",
+    "nomeUnidade": "UEL - Universidade Estadual de Londrina"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "www.transparencia.pr.gov.br/pte/compras/licitacoes/pesquisar-param?numprocesso=1255&ano=2026&codmodalidade=68",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 178663.23,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria de Estado da Administração e da Previdência do Estado do Paraná - SEAP-PR"
+}

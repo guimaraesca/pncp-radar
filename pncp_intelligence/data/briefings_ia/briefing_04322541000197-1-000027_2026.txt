@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO ESTADO DO AMAZONAS (Manaus/AM)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada na prestação de serviços contínuos de agenciamento de viagens, compreendendo a pesquisa, cotação, reserva, emissão, marcação, remarcação, cancelamento e reembolso de bilhetes de passagens aéreas nacionais e internacionais, passagens rodoviárias intermunicipais e interestaduais e passagens fluviais intermunicipais e interestaduais, destinadas ao deslocamento de conselheiros, servidores, empregados e colaboradores do CREA-AM.
+VALOR ESTIMADO: R$ 1,299,385.66
+PRAZO PARA PROPOSTAS: 2026-10-09T11:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38942805000282026
+SELO LOGÍSTICO: [FORA DAS BASES]
+BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

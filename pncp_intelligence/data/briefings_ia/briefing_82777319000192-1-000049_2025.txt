@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CAMPO BELO DO SUL (Campo Belo do Sul/SC)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONFECÇÃO DE MATERIAL GRÁFICO PARA REALIZAÇÃO DE AVALIAÇÕES QUE FAZEM PARTE DOS PROGRAMAS “COMPROMISSO NACIONAL CRIANÇA ALFABETIZADA” – CNCA E “ESCOLA DAS ADOLESCÊNCIAS” E SIMULADOS DO SAEB.
+VALOR ESTIMADO: R$ 6.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/82777319000192-1-000049/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82777319000192/compras/2025/49/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82777319000192/compras/2025/49/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: IMPRESSÕES A4 COLORIDAS COM GRAMPO E MONTAGEM | Qtd: 20000.0 | R$ Unit: 0.3
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "82777319000192",
+    "razaoSocial": "MUNICIPIO DE CAMPO BELO DO SUL",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 5600.0,
+  "dataInclusao": "2025-07-03T16:43:52",
+  "dataAtualizacao": "2025-07-03T16:43:52",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 49,
+  "emendaParlamentar": null,
+  "numeroCompra": "DL 42",
+  "processo": "53/2025",
+  "objetoCompra": "CONFECÇÃO DE MATERIAL GRÁFICO PARA REALIZAÇÃO DE AVALIAÇÕES QUE FAZEM PARTE DOS PROGRAMAS “COMPROMISSO NACIONAL CRIANÇA ALFABETIZADA” – CNCA E “ESCOLA DAS ADOLESCÊNCIAS” E SIMULADOS DO SAEB.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-03T16:43:52",
+  "dataAtualizacaoGlobal": "2025-12-22T10:34:19",
+  "numeroControlePNCP": "82777319000192-1-000049/2025",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Campo Belo do Sul",
+    "codigoUnidade": "CIN470",
+    "nomeUnidade": "MUNICÍPIO DE CAMPO BELO DO SUL",
+    "codigoIbge": "4203402"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "valorTotalEstimado": 6000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas"
+}

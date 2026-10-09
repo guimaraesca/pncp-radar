@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BALSA NOVA (Balsa Nova/PR)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada e habilitada para a prestação dos serviços de treinamento e capacitação com o curso de Atendimento Pré-Hospitalar (APH), destinados aos servidores da Secretaria Municipal de Saúde que possuem atendimento direto em situações de suporte de vida.
+VALOR ESTIMADO: R$ 34.000,00
+PRAZO PARA PROPOSTAS: 2025-07-10T08:30:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/76105527000142-1-000072/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76105527000142/compras/2025/72/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76105527000142/compras/2025/72/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76105527000142/compras/2025/72/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76105527000142/compras/2025/72/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76105527000142/compras/2025/72/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Capacitação em Atendimento Pré-hospitalar (APH) | Qtd: 2.0 | R$ Unit: 17000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 30995.76,
+  "orgaoEntidade": {
+    "cnpj": "76105527000142",
+    "razaoSocial": "MUNICIPIO DE BALSA NOVA",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-07-03T08:47:36",
+  "dataAtualizacao": "2025-07-03T08:47:36",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Elotech Gestão Pública Ltda",
+  "dataAberturaProposta": "2025-07-04T08:00:00",
+  "dataEncerramentoProposta": "2025-07-10T08:30:00",
+  "dataPublicacaoPncp": "2025-07-03T08:47:36",
+  "dataAtualizacaoGlobal": "2025-10-09T09:24:00",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Balsa Nova",
+    "codigoIbge": "4102307",
+    "codigoUnidade": "76105527000142",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE BALSA NOVA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 72,
+  "emendaParlamentar": null,
+  "numeroCompra": "8",
+  "processo": "77",
+  "objetoCompra": "Contratação de empresa especializada e habilitada para a prestação dos serviços de treinamento e capacitação com o curso de Atendimento Pré-Hospitalar (APH), destinados aos servidores da Secretaria Municipal de Saúde que possuem atendimento direto em situações de suporte de vida.",
+  "informacaoComplementar": "",
+  "numeroControlePNCP": "76105527000142-1-000072/2025",
+  "valorTotalEstimado": 34000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta"
+}

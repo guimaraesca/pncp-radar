@@ -1,0 +1,81 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ASSEMBLEIA LEGISLATIVA DO ESTADO DE RONDONIA (Porto Velho/RO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE TECNOLÓGICA INTEGRADA, DISPONIBILIZADA EM MODELO SAAS (SOFTWARE AS A SERVICE), DESTINADA À GESTÃO COMPLETA DO CICLO DE VIDA DE DIÁRIAS E PASSAGENS AÉREAS, CONTEMPLANDO DESDE A SOLICITAÇÃO ATÉ A PRESTAÇÃO DE CONTAS E O RESPECTIVO CONTROLE ADMINISTRATIVO E FINANCEIRO
+VALOR ESTIMADO: R$ 764.898,10
+PRAZO PARA PROPOSTAS: 2026-10-09T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92691905000912026
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04794681000168/compras/2026/101/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04794681000168/compras/2026/101/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04794681000168/compras/2026/101/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software como servico - saas Locação de sistema web (SaaS) com módulo para diárias, com vigência e suporte técnico e man | Qtd: 12.0 | R$ Unit: 49317.42
+  - Item 2: Serviços de instalação, transição e configuração / parametrização de software Implantação | Qtd: 1.0 | R$ Unit: 129477.13
+  - Item 3: Treinamento informática - sistema / software Treinamento | Qtd: 1.0 | R$ Unit: 43611.93
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "04794681000168",
+    "razaoSocial": "ASSEMBLEIA LEGISLATIVA DO ESTADO DE RONDONIA",
+    "poderId": "L",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-22T13:11:25",
+  "dataAtualizacao": "2026-09-22T13:11:25",
+  "anoCompra": 2026,
+  "sequencialCompra": 101,
+  "emendaParlamentar": null,
+  "numeroCompra": "91",
+  "processo": "100.2821.000017/2025-21",
+  "objetoCompra": "CONTRATAÇÃO DE TECNOLÓGICA INTEGRADA, DISPONIBILIZADA EM MODELO SAAS (SOFTWARE AS A SERVICE), DESTINADA À GESTÃO COMPLETA DO CICLO DE VIDA DE DIÁRIAS E PASSAGENS AÉREAS, CONTEMPLANDO DESDE A SOLICITAÇÃO ATÉ A PRESTAÇÃO DE CONTAS E O RESPECTIVO CONTROLE ADMINISTRATIVO E FINANCEIRO",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-23T08:00:00",
+  "dataEncerramentoProposta": "2026-10-09T10:00:00",
+  "dataPublicacaoPncp": "2026-09-22T13:11:25",
+  "dataAtualizacaoGlobal": "2026-09-22T13:12:27",
+  "unidadeOrgao": {
+    "ufNome": "Rondônia",
+    "ufSigla": "RO",
+    "municipioNome": "Porto Velho",
+    "codigoIbge": "1100205",
+    "codigoUnidade": "926919",
+    "nomeUnidade": "ASSEMBLEIA LEGISLATIVA DO ESTADO DE RONDÔNIA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92691905000912026",
+  "linkProcessoEletronico": "https://transparencia.al.ro.leg.br/LicitacoesContratos/Licitacoes/",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "04794681000168-1-000101/2026",
+  "srp": false,
+  "valorTotalEstimado": 764898.1,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-22T13:11:25"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

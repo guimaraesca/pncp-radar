@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ILHABELA (Ilhabela/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para contratação de empresa especializada em soluções educacionais inovadoras com uso de inteligência artificial visando a aquisição de materiais paradidáticos contendo execução e acompanhamento contínuo do projeto “Cuidar, Sentir e Aprender”, voltado ao desenvolvimento integral dos estudantes da rede municipal de ensino de Ilhabela.
+VALOR ESTIMADO: R$ 2.558.120,09
+PRAZO PARA PROPOSTAS: 2026-10-06T09:00:00
+LINK OFICIAL: http://www.licitailhabela.com.br
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46482865000132/compras/2026/294/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46482865000132/compras/2026/294/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46482865000132/compras/2026/294/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46482865000132/compras/2026/294/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LOTE GLOBAL | Qtd: 1.0 | R$ Unit: 2558120.09
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "46482865000132",
+    "razaoSocial": "MUNICIPIO DE ILHABELA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-22T11:33:16",
+  "dataAtualizacao": "2026-09-22T11:33:16",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 294,
+  "emendaParlamentar": null,
+  "numeroCompra": "PE074",
+  "processo": "3520400.427.00006696/2025-02",
+  "objetoCompra": "Registro de preços para contratação de empresa especializada em soluções educacionais inovadoras com uso de inteligência artificial visando a aquisição de materiais paradidáticos contendo execução e acompanhamento contínuo do projeto “Cuidar, Sentir e Aprender”, voltado ao desenvolvimento integral dos estudantes da rede municipal de ensino de Ilhabela.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-22T12:00:00",
+  "dataEncerramentoProposta": "2026-10-06T09:00:00",
+  "dataPublicacaoPncp": "2026-09-22T11:33:16",
+  "dataAtualizacaoGlobal": "2026-10-05T17:40:37",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Ilhabela",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Unidade Compradora Prefeitura de Ilhabela",
+    "codigoIbge": "3520400"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "http://www.licitailhabela.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "46482865000132-1-000294/2026",
+  "valorTotalEstimado": 2558120.09,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BR Conectado"
+}

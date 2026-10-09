@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA FARROUPILHA (Santa Maria/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE ASSESSORIA TÉCNICA ESPECIALIZADA NA ÁREA DE GEOLOGIA PARA ELABORAÇÃO DE PROJETO DE PERFURAÇÃO DE POÇO TUBULAR PROFUNDO
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/10662072000158-1-000045/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10662072000158/compras/2025/45/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço engenharia Serviço engenharia | Qtd: 1.0 | R$ Unit: 12664.91
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 12599.0,
+  "orgaoEntidade": {
+    "cnpj": "10662072000158",
+    "razaoSocial": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA FARROUPILHA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2025-08-11T13:48:25",
+  "dataAtualizacao": "2025-08-11T16:52:15",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 45,
+  "emendaParlamentar": null,
+  "numeroCompra": "139",
+  "processo": "23238.002567/2025-07",
+  "objetoCompra": "CONTRATAÇÃO DE ASSESSORIA TÉCNICA ESPECIALIZADA NA ÁREA DE GEOLOGIA PARA ELABORAÇÃO DE PROJETO DE PERFURAÇÃO DE POÇO TUBULAR PROFUNDO",
+  "informacaoComplementar": "CONTRATAÇÃO DE ASSESSORIA TÉCNICA ESPECIALIZADA NA ÁREA DE GEOLOGIA PARA ELABORAÇÃO DE PROJETO DE PERFURAÇÃO DE POÇO TUBULAR PROFUNDO",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-11T13:48:25",
+  "dataAtualizacaoGlobal": "2025-08-11T16:52:15",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Santa Maria",
+    "codigoUnidade": "158127",
+    "nomeUnidade": "INST.FEDERAL DE EDUC.,CIENC.E TEC.FARROUPILHA",
+    "codigoIbge": "4316907"
+  },
+  "orgaoSubRogado": {
+    "cnpj": "10662072000158",
+    "razaoSocial": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA FARROUPILHA",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "unidadeSubRogada": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "São Vicente do Sul",
+    "codigoUnidade": "158268",
+    "nomeUnidade": "INST.FED.FARROUPILHA/CAMPUS SÃO VICENTE",
+    "codigoIbge": "4319802"
+  },
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, I",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores",
+    "codigo": 18
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "10662072000158-1-000045/2025",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 3,
+  "situacaoCompraNome": "Anulada",
+  "usuarioNome": "Compras.gov.br"
+}

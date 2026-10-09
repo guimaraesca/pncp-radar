@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: UNIVERSIDADE DE SAO PAULO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Licenças anuais para Solução de Segurança Cibernética (Kaspersky Next EDR Foundations)
+VALOR ESTIMADO: R$ 35.449,70
+PRAZO PARA PROPOSTAS: 2025-05-20T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=10210305900202025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/63025530000104/compras/2025/1423/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 370.0 | R$ Unit: 95.81
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 29226.3,
+  "orgaoEntidade": {
+    "cnpj": "63025530000104",
+    "razaoSocial": "UNIVERSIDADE DE SAO PAULO",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-05-05T07:27:20",
+  "dataAtualizacao": "2025-05-05T07:27:20",
+  "numeroControlePNCP": "63025530000104-1-001423/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 1423,
+  "emendaParlamentar": null,
+  "numeroCompra": "90020",
+  "processo": "15400003669202584",
+  "srp": false,
+  "objetoCompra": "Licenças anuais para Solução de Segurança Cibernética (Kaspersky Next EDR Foundations)",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=10210305900202025",
+  "dataAberturaProposta": "2025-05-05T08:00:00",
+  "dataEncerramentoProposta": "2025-05-20T09:00:00",
+  "dataPublicacaoPncp": "2025-05-05T07:27:20",
+  "dataAtualizacaoGlobal": "2025-09-16T19:13:55",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoIbge": "3550308",
+    "codigoUnidade": "102103",
+    "nomeUnidade": "ESP-ESCOLA POLITÉCNICA - USP"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=10210305900202025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 35449.7,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

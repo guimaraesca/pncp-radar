@@ -1,0 +1,100 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DE GOIAS (Goiânia/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de solução para processamento de inteligência artificial, incluindo serviços de orientação técnica especializada.
+VALOR ESTIMADO: R$ 1.455.633,60
+PRAZO PARA PROPOSTAS: 2025-04-25T10:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/01409580000138-1-000705/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: GOIÂNIA/GO]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/12
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/14
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/15
+doc_16.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/16
+doc_17.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/17
+doc_18.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/18
+doc_19.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/19
+doc_20.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/20
+doc_21.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/21
+doc_22.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/22
+doc_24.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/24
+doc_25.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/25
+doc_26.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/26
+doc_27.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/27
+doc_28.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/28
+doc_29.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/29
+doc_30.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/30
+doc_31.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/31
+doc_32.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/705/arquivos/32
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licença para Uso de Software, conforme Termo de Referência. | Qtd: 636000.0 | R$ Unit: 1.21
+  - Item 2: Serviços Técnicos Especializados, consultoria técnica. | Qtd: 1920.0 | R$ Unit: 357.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01409580000138",
+    "razaoSocial": "ESTADO DE GOIAS",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-04-04T15:11:05",
+  "dataAtualizacao": "2025-04-04T15:11:05",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Goiânia",
+    "codigoUnidade": "926027",
+    "nomeUnidade": "SECRETARIA DA FAZENDA DO ESTADO DE GOIÁS",
+    "codigoIbge": "5208707"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 705,
+  "emendaParlamentar": null,
+  "numeroCompra": "110374",
+  "processo": "202400005043096",
+  "objetoCompra": "Contratação de solução para processamento de inteligência artificial, incluindo serviços de orientação técnica especializada.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-04-07T08:00:00",
+  "dataEncerramentoProposta": "2025-04-25T10:00:00",
+  "dataPublicacaoPncp": "2025-04-04T15:11:05",
+  "dataAtualizacaoGlobal": "2025-05-09T09:35:35",
+  "numeroControlePNCP": "01409580000138-1-000705/2025",
+  "valorTotalEstimado": 1455633.6,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "SISLOG - Sistema de Logística de Goiás"
+}

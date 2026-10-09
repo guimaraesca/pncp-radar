@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GUARAMIRANGA (Guaramiranga/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS DE DIGITALIZAÇÃO, INDEXAÇÃO DE DOCUMENTOS E ARMAZENAMENTO DE DADOS, JUNTO A SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, DIREITOS HUMANOS, MULHERES E SEGURANÇA ALIMENTAR E NUTRICIONAL DE GUARAMIRANGA/CE.
+VALOR ESTIMADO: R$ 41.199,96
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]SmbfVDz2zDcpW_KjXVeAdehaSu8RTKFScCAb9IP4s6PkajfU66KANr1LoiZ1WyAlSK_vCuY8Sy6x_G319neZ2AxwKZnuizaaEqoFoG06W40=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07606478000109/compras/2025/50/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07606478000109/compras/2025/50/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS DE DIGITALIZAÇÃO, INDEXAÇÃO DE DOCUMENTOS E ARMAZENAMENTO DE DADOS, JUNTO A SECRETA | Qtd: 12.0 | R$ Unit: 3433.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 41199.96,
+  "orgaoEntidade": {
+    "cnpj": "07606478000109",
+    "razaoSocial": "MUNICIPIO DE GUARAMIRANGA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-11T14:30:42",
+  "dataAtualizacao": "2025-08-11T14:30:42",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 50,
+  "emendaParlamentar": null,
+  "numeroCompra": "2025040104",
+  "processo": "2025.04.01.04",
+  "objetoCompra": "CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS DE DIGITALIZAÇÃO, INDEXAÇÃO DE DOCUMENTOS E ARMAZENAMENTO DE DADOS, JUNTO A SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, DIREITOS HUMANOS, MULHERES E SEGURANÇA ALIMENTAR E NUTRICIONAL DE GUARAMIRANGA/CE.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-11T14:30:42",
+  "dataAtualizacaoGlobal": "2025-08-11T14:30:58",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Guaramiranga",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE GUARAMIRANGA - CE",
+    "codigoIbge": "2305100"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, I",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores",
+    "codigo": 18
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]SmbfVDz2zDcpW_KjXVeAdehaSu8RTKFScCAb9IP4s6PkajfU66KANr1LoiZ1WyAlSK_vCuY8Sy6x_G319neZ2AxwKZnuizaaEqoFoG06W40=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "07606478000109-1-000050/2025",
+  "valorTotalEstimado": 41199.96,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

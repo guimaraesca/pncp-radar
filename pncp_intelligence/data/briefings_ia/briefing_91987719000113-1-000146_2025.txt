@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTA TEREZA (Santa Tereza/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: SERVIÇO DE ASSESSORIA E CONSULTORIA TÉCNICA
+VALOR ESTIMADO: R$ 25.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/91987719000113-1-000146/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/91987719000113/compras/2025/146/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/91987719000113/compras/2025/146/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: EMPRESA ESPECIALIZADA PARA ATUALIZAÇÃO E CONSOLIDAÇÃO DO CÓDIGO TRIBUTÁRIO MUNICIPAL | Qtd: 1.0 | R$ Unit: 25000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "91987719000113",
+    "razaoSocial": "MUNICIPIO DE SANTA TEREZA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 25000.0,
+  "dataInclusao": "2025-08-11T08:26:15",
+  "dataAtualizacao": "2025-08-11T08:28:14",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 146,
+  "emendaParlamentar": null,
+  "numeroCompra": "121",
+  "processo": "157/2025",
+  "objetoCompra": "SERVIÇO DE ASSESSORIA E CONSULTORIA TÉCNICA",
+  "informacaoComplementar": "Contratação de empresa para prestar serviços de assessoria e consultoria técnica para atualização e consolidação do código tributário municipal.",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-11T08:26:15",
+  "dataAtualizacaoGlobal": "2025-08-11T08:28:15",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Santa Tereza",
+    "codigoUnidade": "183",
+    "nomeUnidade": "Municipio De Santa Tereza",
+    "codigoIbge": "4317251"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "91987719000113-1-000146/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 25000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Tecnosweb - Tecnologia de Gestão"
+}

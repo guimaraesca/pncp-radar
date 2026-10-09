@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: BB TECNOLOGIA E SERVICOS S.A. (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de ferramental para o Centro de Sustentação de Infraestrutura de Data Center - Cesid/BBTS
+VALOR ESTIMADO: R$ 937.077,07
+PRAZO PARA PROPOSTAS: 2025-08-15T10:00:00
+LINK OFICIAL: https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1076004
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42318949001318/compras/2025/79/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 10001: Lote 1 - Qualificador de Cabeamento de Rede - UTP | Qtd: 3.0 | R$ Unit: 0.0
+  - Item 20001: Lote 2 - Qualificador de Cabeamento de Rede - UTP | Qtd: 1.0 | R$ Unit: 20968.03
+  - Item 30001: Lote 3 - Qualificador de Fibra Óptica | Qtd: 6.0 | R$ Unit: 55282.41
+  - Item 40001: Lote 4 - Qualificador de Fibra Óptica | Qtd: 2.0 | R$ Unit: 0.0
+  - Item 50001: Lote 5 - Certificador de Redes de Fibra Óptica | Qtd: 2.0 | R$ Unit: 89046.51
+  - Item 60001: Lote 6 - Qualificador MPO de Fibra Óptica | Qtd: 3.0 | R$ Unit: 130693.64
+  - Item 70001: Lote 7 - Qualificador MPO de Fibra Óptica | Qtd: 1.0 | R$ Unit: 0.0
+  - Item 80001: Lote 8 - Identificador de Fibra Ativa  | Qtd: 8.0 | R$ Unit: 1780.08
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "42318949001318",
+    "razaoSocial": "BB TECNOLOGIA E SERVICOS S.A.",
+    "poderId": "N",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": 801519.95,
+  "dataInclusao": "2025-08-04T18:33:19",
+  "dataAtualizacao": "2025-12-26T23:02:05",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 79,
+  "emendaParlamentar": null,
+  "numeroCompra": "2025-19",
+  "processo": "2025-19",
+  "objetoCompra": "Aquisição de ferramental para o Centro de Sustentação de Infraestrutura de Data Center - Cesid/BBTS",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-08-04T11:30:00",
+  "dataEncerramentoProposta": "2025-08-15T10:00:00",
+  "dataPublicacaoPncp": "2025-08-04T18:33:19",
+  "dataAtualizacaoGlobal": "2025-12-26T23:02:07",
+  "numeroControlePNCP": "42318949001318-1-000079/2025",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoUnidade": "000000001",
+    "nomeUnidade": " BB TECNOLOGIA E SERVICOS S.A.",
+    "codigoIbge": "5300108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 13.303/2016, Art. 32, IV",
+    "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+    "codigo": 113
+  },
+  "linkSistemaOrigem": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1076004",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 937077.07,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitações-E BB"
+}

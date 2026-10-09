@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL DE JUSTICA DO ESTADO DE MINAS GERAIS (Belo Horizonte/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para a prestação de serviços contínuos de Controle Integrado de Pragas, compreendendo Consultoria Técnica e Controle Químico, com o emprego de mão de obra.
+VALOR ESTIMADO: R$ 1.450.819,72
+PRAZO PARA PROPOSTAS: 2026-10-14T14:00:13
+LINK OFICIAL: https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2026/514/1031018
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/21154554000113/compras/2026/394/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/21154554000113/compras/2026/394/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/21154554000113/compras/2026/394/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/21154554000113/compras/2026/394/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/21154554000113/compras/2026/394/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVICOS ESPECIALIZADOS DE DESINSETIZACAO,DESRATIZACAO E DESCUPINIZACAO | Qtd: 1.0 | R$ Unit: 1450819.72
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "21154554000113",
+    "razaoSocial": "TRIBUNAL DE JUSTICA DO ESTADO DE MINAS GERAIS",
+    "poderId": "J",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-03T12:03:06",
+  "dataAtualizacao": "2026-09-29T13:09:43",
+  "numeroControlePNCP": "21154554000113-1-000394/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 394,
+  "emendaParlamentar": null,
+  "numeroCompra": "514",
+  "processo": "1031018 000514/2026",
+  "srp": false,
+  "objetoCompra": "Contratação de empresa especializada para a prestação de serviços contínuos de Controle Integrado de Pragas, compreendendo Consultoria Técnica e Controle Químico, com o emprego de mão de obra.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-29T13:09:12",
+  "dataEncerramentoProposta": "2026-10-14T14:00:13",
+  "dataPublicacaoPncp": "2026-09-03T12:03:06",
+  "dataAtualizacaoGlobal": "2026-09-29T13:09:43",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belo Horizonte",
+    "codigoIbge": "3106200",
+    "codigoUnidade": "1031018",
+    "nomeUnidade": "GECOMP"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2026/514/1031018",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 1450819.72,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Portal de Compras do Estado de Minas Gerais"
+}

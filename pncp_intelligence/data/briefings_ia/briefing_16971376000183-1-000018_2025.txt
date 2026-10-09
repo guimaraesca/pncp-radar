@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ATALEIA (Ataléia/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de assessoria e consultoria técnica especializada em licitações e contratos, com foco na implementação e adequação às diretrizes da Lei nº 14.133/2021.
+VALOR ESTIMADO: R$ 60.500,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: www.ataleia.mg.gov.br
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/16971376000183/compras/2025/18/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de serviços de assessoria e consultoria técnica especializada em licitações e contratos, com foco na impleme | Qtd: 1.0 | R$ Unit: 60500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 60500.0,
+  "orgaoEntidade": {
+    "cnpj": "16971376000183",
+    "razaoSocial": "MUNICIPIO DE ATALEIA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-20T17:33:31",
+  "dataAtualizacao": "2025-03-20T17:33:31",
+  "numeroControlePNCP": "16971376000183-1-000018/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 18,
+  "emendaParlamentar": null,
+  "numeroCompra": "6",
+  "processo": "10",
+  "objetoCompra": "Contratação de serviços de assessoria e consultoria técnica especializada em licitações e contratos, com foco na implementação e adequação às diretrizes da Lei nº 14.133/2021.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-20T17:33:31",
+  "dataAtualizacaoGlobal": "2025-03-20T17:35:43",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Ataléia",
+    "codigoIbge": "3104700",
+    "codigoUnidade": "020105",
+    "nomeUnidade": "DIVISÃO DE FAZENDA E PLANEJAMENTO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "www.ataleia.mg.gov.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 60500.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Memory Projetos e Desenvolvimento de Sistemas LTDA"
+}

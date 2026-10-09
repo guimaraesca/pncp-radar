@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL REGIONAL FEDERAL 3 REGIAO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Renovação da garantia e suporte da solução de virtualização de aplicações Go-Global, abrangendo suporte, manutenção e atualização
+VALOR ESTIMADO: R$ 238.750,00
+PRAZO PARA PROPOSTAS: 2025-06-03T13:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=09002905900212024
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/59949362000176/compras/2024/166/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de Gerenciamento de Infraestrutura de Tecnologia daInformação e Comunicação (TIC) | Qtd: 2.0 | R$ Unit: 119375.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 237000.0,
+  "orgaoEntidade": {
+    "cnpj": "59949362000176",
+    "razaoSocial": "TRIBUNAL REGIONAL FEDERAL 3 REGIAO",
+    "poderId": "J",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2025-05-19T07:19:48",
+  "dataAtualizacao": "2025-05-19T07:19:48",
+  "anoCompra": 2024,
+  "srp": false,
+  "sequencialCompra": 166,
+  "emendaParlamentar": null,
+  "numeroCompra": "90021",
+  "processo": "0008951-77.2024.4",
+  "objetoCompra": "Renovação da garantia e suporte da solução de virtualização de aplicações Go-Global, abrangendo suporte, manutenção e atualização",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=09002905900212024",
+  "dataAberturaProposta": "2025-05-19T08:00:00",
+  "dataEncerramentoProposta": "2025-06-03T13:00:00",
+  "dataPublicacaoPncp": "2025-05-19T07:19:48",
+  "dataAtualizacaoGlobal": "2025-06-10T18:08:25",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoUnidade": "090029",
+    "nomeUnidade": "TRIBUNAL REGIONAL FEDERAL DA 3A.REGIAO",
+    "codigoIbge": "3550308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=09002905900212024",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "59949362000176-1-000166/2024",
+  "valorTotalEstimado": 238750.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

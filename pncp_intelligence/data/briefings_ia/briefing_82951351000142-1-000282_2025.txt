@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DE ESTADO DA ADMINISTRACAO (Florianópolis/SC)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa de consultoria técnica para elaboração do Plano de Recursos Hídricos da Bacia Hidrográfica do Rio do Peixe, para a Secretaria do Meio Ambiente e da Economia Verde – SEMAE.
+VALOR ESTIMADO: R$ 2.714.208,56
+PRAZO PARA PROPOSTAS: 2025-05-15T13:15:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/82951351000142-1-000282/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Florianópolis/SC (180km)]
+DISTÂNCIA ESTIMADA DA BASE: 180 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82951351000142/compras/2025/282/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82951351000142/compras/2025/282/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82951351000142/compras/2025/282/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82951351000142/compras/2025/282/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82951351000142/compras/2025/282/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço de Consultoria Serviço de Consultoria - Serviço de consultoria elaboração do PLANO DE RECURSOS HÍDRICOS DA BACIA | Qtd: 1.0 | R$ Unit: 2714208.56
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "82951351000142",
+    "razaoSocial": "SECRETARIA DE ESTADO DA ADMINISTRACAO",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 1870089.7,
+  "dataInclusao": "2025-03-20T17:40:33",
+  "dataAtualizacao": "2025-03-20T17:40:33",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 282,
+  "emendaParlamentar": null,
+  "numeroCompra": "286",
+  "processo": "18825",
+  "objetoCompra": "Contratação de empresa de consultoria técnica para elaboração do Plano de Recursos Hídricos da Bacia Hidrográfica do Rio do Peixe, para a Secretaria do Meio Ambiente e da Economia Verde – SEMAE.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-03-21T14:00:00",
+  "dataEncerramentoProposta": "2025-05-15T13:15:00",
+  "dataPublicacaoPncp": "2025-03-20T17:40:33",
+  "dataAtualizacaoGlobal": "2025-08-21T13:11:01",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Florianópolis",
+    "codigoUnidade": "78",
+    "nomeUnidade": "Diretoria de Gestão de Licitações e Contratos",
+    "codigoIbge": "4205407"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "82951351000142-1-000282/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 2714208.56,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria de Estado da Administração de Santa Catarina"
+}

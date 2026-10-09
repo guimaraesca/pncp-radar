@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDO DE PREVIDENCIA DO MUNICIPIO DE AGUAS LINDAS DE GOIAS (FUNPREVAL) (Águas Lindas de Goiás/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO, NA MODALIDADE SOFTWARE COMO SERVIÇO (SAAS), DE SOLUÇÃO INTEGRADA DE GESTÃO ELETRÔNICA DE DOCUMENTOS E PROCESSOS (ECM/BPM) PARA REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL – RPPS, INCLUINDO CESSÃO DE DIREITO DE USO, IMPLANTAÇÃO, PARAMETRIZAÇÃO, CUSTOMIZAÇÃO, HOSPEDAGEM EM NUVEM, SUPORTE TÉCNICO, TREINAMENTO DE USUÁRIOS, MANUTENÇÃO CORRETIVA E EVOLUTIVA, E DIGITALIZAÇÃO DE DOCUMENTOS FÍSICOS ESTRATÉGICOS, EM CONFORMIDADE COM A LEI GERAL DE PROTEÇÃO DE DADOS (LGPD) E DEMAIS NORMAS APLICÁVEIS
+VALOR ESTIMADO: R$ 59.175,96
+PRAZO PARA PROPOSTAS: 2025-08-15T10:00:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/GO/Fundo-de-Previdencia-do-Municipio-de-Aguas-Lindas-de-Goias-FUNPREVAL-4197/DE-11-2025-2025-412280
+BASE LOGÍSTICA COMPATÍVEL: Brasília (Até 50 km)
+SELO LOGÍSTICO: [BASE: BRASÍLIA | Águas Lindas de Goiás/GO (50km)]
+DISTÂNCIA ESTIMADA DA BASE: 50 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05568854000192/compras/2025/42/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05568854000192/compras/2025/42/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: fornecimento, na modalidade Software como Serviço (SaaS), de solução integrada de gestão eletrônica de documentos e proc | Qtd: 12.0 | R$ Unit: 4931.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 30000.0,
+  "orgaoEntidade": {
+    "cnpj": "05568854000192",
+    "razaoSocial": "FUNDO DE PREVIDENCIA DO MUNICIPIO DE AGUAS LINDAS DE GOIAS (FUNPREVAL)",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-11T11:56:42",
+  "dataAtualizacao": "2025-08-11T11:56:42",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 42,
+  "emendaParlamentar": null,
+  "numeroCompra": "11",
+  "processo": "2025008111",
+  "objetoCompra": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO, NA MODALIDADE SOFTWARE COMO SERVIÇO (SAAS), DE SOLUÇÃO INTEGRADA DE GESTÃO ELETRÔNICA DE DOCUMENTOS E PROCESSOS (ECM/BPM) PARA REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL – RPPS, INCLUINDO CESSÃO DE DIREITO DE USO, IMPLANTAÇÃO, PARAMETRIZAÇÃO, CUSTOMIZAÇÃO, HOSPEDAGEM EM NUVEM, SUPORTE TÉCNICO, TREINAMENTO DE USUÁRIOS, MANUTENÇÃO CORRETIVA E EVOLUTIVA, E DIGITALIZAÇÃO DE DOCUMENTOS FÍSICOS ESTRATÉGICOS, EM CONFORMIDADE COM A LEI GERAL DE PROTEÇÃO DE DADOS (LGPD) E DEMAIS NORMAS APLICÁVEIS",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-08-12T10:00:00",
+  "dataEncerramentoProposta": "2025-08-15T10:00:00",
+  "dataPublicacaoPncp": "2025-08-11T11:56:42",
+  "dataAtualizacaoGlobal": "2025-08-19T14:15:59",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Águas Lindas de Goiás",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Fundo de Previdência do Município de Águas Lindas de Goiás - FUNPREVAL",
+    "codigoIbge": "5200258"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/GO/Fundo-de-Previdencia-do-Municipio-de-Aguas-Lindas-de-Goias-FUNPREVAL-4197/DE-11-2025-2025-412280",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "05568854000192-1-000042/2025",
+  "valorTotalEstimado": 59175.96,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GUAIRA (Guaíra/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Sistema de Registro de Preços (SRP), para futuro e eventual fornecimento de FIREWALL, solução que contempla serviços de controle, proteção e segurança integrada da infraestrutura da rede de dados do Município de Guaíra/PR. Conforme o Memorando n° 2.452/2020.
+VALOR ESTIMADO: R$ 592.826,00
+PRAZO PARA PROPOSTAS: 2025-05-22T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/77857183000190-1-000141/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/77857183000190/compras/2025/141/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço locação de solução UTM Firewall e suas respectivas licenças. | Qtd: 60.0 | R$ Unit: 5266.0
+  - Item 2: Serviço de Treinamento. | Qtd: 16.0 | R$ Unit: 216.0
+  - Item 3: Serviços de desenvolvimento e customização. | Qtd: 60.0 | R$ Unit: 388.0
+  - Item 4: Implantação e configuração inicial. | Qtd: 5.0 | R$ Unit: 2776.0
+  - Item 5: Serviço de Teste de Invasão - Pentest | Qtd: 5.0 | R$ Unit: 47250.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "77857183000190",
+    "razaoSocial": "MUNICIPIO DE GUAIRA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-05-06T13:33:06",
+  "dataAtualizacao": "2025-05-06T13:33:06",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Guaíra",
+    "codigoUnidade": "04001",
+    "nomeUnidade": "Diretoria de Sistema de Informação",
+    "codigoIbge": "4108809"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 141,
+  "emendaParlamentar": null,
+  "numeroCompra": "PCE 70",
+  "processo": "127/2025",
+  "objetoCompra": "Sistema de Registro de Preços (SRP), para futuro e eventual fornecimento de FIREWALL, solução que contempla serviços de controle, proteção e segurança integrada da infraestrutura da rede de dados do Município de Guaíra/PR. Conforme o Memorando n° 2.452/2020.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-05-07T08:00:00",
+  "dataEncerramentoProposta": "2025-05-22T09:00:00",
+  "dataPublicacaoPncp": "2025-05-06T13:33:06",
+  "dataAtualizacaoGlobal": "2025-05-09T10:41:52",
+  "numeroControlePNCP": "77857183000190-1-000141/2025",
+  "valorTotalEstimado": 592826.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

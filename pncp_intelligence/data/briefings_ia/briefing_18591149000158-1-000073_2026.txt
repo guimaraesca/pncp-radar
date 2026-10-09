@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE COROMANDEL (Coromandel/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Publicenter] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE LICENCIAMENTO DE DIREITO DE USO DE SOFTWARE INTEGRADO PARA GESTÃO DE SAÚDE PÚBLICA, PARA ATENDER AS DEMANDAS E NECESSIDADE DA SECRETÁRIA MUNICIPAL DE SAÚDE DO MUNICÍPIO DE COROMANDEL, INCLUINDO SERVIÇOS DE IMPLANTAÇÃO, CONVERSÃO, MIGRAÇÃO DE DADOS, SUPORTE TÉCNICO (HELP DESK) IN LOCO E REMOTO, TREINAMENTO DE USUÁRIOS, MANUTENÇÃO EVOLUTIVA, LEGAL, CORRETIVA E SOB DEMANDA E A DISPONIBILIZAÇÃO DE DATACENTER.                           
+VALOR ESTIMADO: R$ 194.100,00
+PRAZO PARA PROPOSTAS: 2026-10-07T08:00:00
+LINK OFICIAL:                                                                                                     
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18591149000158/compras/2026/73/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18591149000158/compras/2026/73/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18591149000158/compras/2026/73/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18591149000158/compras/2026/73/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18591149000158/compras/2026/73/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18591149000158/compras/2026/73/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18591149000158/compras/2026/73/arquivos/7
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "18591149000158",
+    "razaoSocial": "MUNICIPIO DE COROMANDEL",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-07-08T10:52:24",
+  "dataAtualizacao": "2026-09-17T15:56:48",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Coromandel",
+    "codigoUnidade": "20602",
+    "nomeUnidade": "MEDIA E ALTA COMPLEXIDADE",
+    "codigoIbge": "3119302"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "                                                                                                    ",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 73,
+  "emendaParlamentar": null,
+  "numeroCompra": "28",
+  "processo": "75",
+  "objetoCompra": "[Publicenter] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE LICENCIAMENTO DE DIREITO DE USO DE SOFTWARE INTEGRADO PARA GESTÃO DE SAÚDE PÚBLICA, PARA ATENDER AS DEMANDAS E NECESSIDADE DA SECRETÁRIA MUNICIPAL DE SAÚDE DO MUNICÍPIO DE COROMANDEL, INCLUINDO SERVIÇOS DE IMPLANTAÇÃO, CONVERSÃO, MIGRAÇÃO DE DADOS, SUPORTE TÉCNICO (HELP DESK) IN LOCO E REMOTO, TREINAMENTO DE USUÁRIOS, MANUTENÇÃO EVOLUTIVA, LEGAL, CORRETIVA E SOB DEMANDA E A DISPONIBILIZAÇÃO DE DATACENTER.                           ",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-10-07T07:59:00",
+  "dataEncerramentoProposta": "2026-10-07T08:00:00",
+  "dataPublicacaoPncp": "2026-07-08T10:52:24",
+  "dataAtualizacaoGlobal": "2026-09-21T09:32:21",
+  "numeroControlePNCP": "18591149000158-1-000073/2026",
+  "valorTotalEstimado": 194100.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-07-08T10:52:24"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PUBLICENTER INFORMATICA COMERCIO E LOCACAO LTDA"
+}

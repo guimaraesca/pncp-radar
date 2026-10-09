@@ -1,0 +1,82 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SAO PAULO SECRETARIA DA SEGURANCA PUBLICA (Sorocaba/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de HD e SSD para armazenamento de dados Deinter 7 - Sorocaba.
+VALOR ESTIMADO: R$ 129.485,08
+PRAZO PARA PROPOSTAS: 2026-10-06T08:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=18010605000412026
+BASE LOGÍSTICA COMPATÍVEL: Campinas (50 a 100 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | Sorocaba/SP (85km)]
+DISTÂNCIA ESTIMADA DA BASE: 85 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46377800000127/compras/2026/3895/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46377800000127/compras/2026/3895/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46377800000127/compras/2026/3895/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46377800000127/compras/2026/3895/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Servidor armazenamento sas: sem discos sas, armazenamento sata: com discos sata, armazenamento ssd: sem discos ssd, font | Qtd: 2.0 | R$ Unit: 15765.54
+  - Item 2: Disco Magnético aplicação: microcomputador, interface: sata iii, memória: 16, modelo: nas, tamanho: 3.5, tipo: rígido, v | Qtd: 10.0 | R$ Unit: 6199.0
+  - Item 3: Disco Rígido Removível capacidade memória: 2, características adicionais: externo, interface: usb 3.0 SSD Externo Portát | Qtd: 36.0 | R$ Unit: 999.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "46377800000127",
+    "razaoSocial": "SAO PAULO SECRETARIA DA SEGURANCA PUBLICA",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2026-09-14T15:21:27",
+  "dataAtualizacao": "2026-09-14T15:21:27",
+  "anoCompra": 2026,
+  "sequencialCompra": 3895,
+  "emendaParlamentar": null,
+  "numeroCompra": "41",
+  "processo": "058.00097181/2026-24",
+  "objetoCompra": "Aquisição de HD e SSD para armazenamento de dados Deinter 7 - Sorocaba.",
+  "informacaoComplementar": "Aquisição de bens storage, hd e ssd para Deic / Deinter 7 Sorocaba ",
+  "dataAberturaProposta": "2026-09-15T12:00:00",
+  "dataEncerramentoProposta": "2026-10-06T08:00:00",
+  "dataPublicacaoPncp": "2026-09-14T15:21:27",
+  "dataAtualizacaoGlobal": "2026-09-14T15:29:30",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Sorocaba",
+    "codigoIbge": "3552205",
+    "codigoUnidade": "180106",
+    "nomeUnidade": "ESP-DEP.POL.JUD.SP.INT.\"DR.LUIZ M.S.BLAZCK\"SO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=18010605000412026",
+  "linkProcessoEletronico": "https://sei.sp.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_controlar&id_procedimento=137511559&infra_sistema=100000100&infra_unidade_atual=110021853&infra_hash=ba944d652b41f4f08a612ad12ecd5df367ec799e90a930ef6d0dd43dfb57c148",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "46377800000127-1-003895/2026",
+  "srp": false,
+  "valorTotalEstimado": 129485.08,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-14T15:21:27"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

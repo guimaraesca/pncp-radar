@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE VENANCIO AIRES (Venâncio Aires/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento de solução informatizada, disponibilizada em modelo SaaS (Software as a Service), mediante licenciamento temporário do direito de uso, destinada à gestão do Serviço de Inspeção Municipal – SIM.
+VALOR ESTIMADO: R$ 18,461.52
+PRAZO PARA PROPOSTAS: 2026-10-15T08:59:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

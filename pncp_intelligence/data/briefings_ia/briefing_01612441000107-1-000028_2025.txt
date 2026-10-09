@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BELA VISTA DO CAROBA (Bela Vista da Caroba/PR)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [LICITANET] - CONTRATAÇÃO EMERGENCIAL DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE REINSTALAÇÃO DO SISTEMA OPERACIONAL, RECONFIGURAÇÃO DOS SERVIÇOS DNS, PROXY, FIREWALL, DHCP ENTRE OUTROS E RESTAURAÇÃO DE BACKUP DE DADOS DOS USUÁRIOS DO SERVIDOR DE BORDA.
+VALOR ESTIMADO: R$ 9.700,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/WkpXbmxaT2o=
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612441000107/compras/2025/28/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 5475502: Serviço de reinstalação do sistema operacional, reconfiguração dos serviços DNS, Proxy, Firewall, DHCP entre outros e re | Qtd: 1.0 | R$ Unit: 9700.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01612441000107",
+    "razaoSocial": "MUNICIPIO DE BELA VISTA DO CAROBA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 9700.0,
+  "dataInclusao": "2025-03-21T09:36:16",
+  "dataAtualizacao": "2025-03-21T09:36:16",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Bela Vista da Caroba",
+    "codigoUnidade": "1524",
+    "nomeUnidade": "MUNICÍPIO DE BELA VISTA DA CAROBA/PR",
+    "codigoIbge": "4102752"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, VIII",
+    "descricao": "Dispensa de Licitação: nos casos de emergência ou de calamidade pública, quando caracterizada urgência de atendimento de situação que possa ocasionar prejuízo ou comprometer a continuidade dos serviços públicos ou a segurança de pessoas, obras, serviços, equipamentos e outros bens, públicos ou particulares, e somente para aquisição dos bens necessários ao atendimento da situação emergencial ou calamitosa e para as parcelas de obras e serviços que possam ser concluídas no prazo máximo de 1 (um) ano, contado da data de ocorrência da emergência ou da calamidade, vedadas a prorrogação dos respectivos contratos e a recontratação de empresa já contratada com base no disposto neste inciso",
+    "codigo": 38
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/WkpXbmxaT2o=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 28,
+  "emendaParlamentar": null,
+  "numeroCompra": "001",
+  "processo": "36/2025",
+  "objetoCompra": "[LICITANET] - CONTRATAÇÃO EMERGENCIAL DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE REINSTALAÇÃO DO SISTEMA OPERACIONAL, RECONFIGURAÇÃO DOS SERVIÇOS DNS, PROXY, FIREWALL, DHCP ENTRE OUTROS E RESTAURAÇÃO DE BACKUP DE DADOS DOS USUÁRIOS DO SERVIDOR DE BORDA.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-21T09:36:16",
+  "dataAtualizacaoGlobal": "2025-03-21T09:37:12",
+  "numeroControlePNCP": "01612441000107-1-000028/2025",
+  "valorTotalEstimado": 9700.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA"
+}

@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: AMAZONAS TRIBUNAL DE JUSTICA (Manaus/AM)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para contratação de empresa integradora para o fornecimento de Computação em nuvem nos modelos Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS) para o Tribunal de Justiça do Estado do Amazonas (TJAM), conforme condições e exigências estabelecidas no edital e seus anexos.
+VALOR ESTIMADO: R$ 997.795,00
+PRAZO PARA PROPOSTAS: 2025-04-24T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92586605900072025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04812509000190/compras/2025/13/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Infraestrutura como servico - iaas | Qtd: 84950.0 | R$ Unit: 8.5
+  - Item 2: Infraestrutura como Servico - Iaas | Qtd: 264.0 | R$ Unit: 490.0
+  - Item 3: Infraestrutura como Servico - Iaas | Qtd: 264.0 | R$ Unit: 490.0
+  - Item 4: Infraestrutura como servico - iaas | Qtd: 2000.0 | R$ Unit: 8.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 566604.0,
+  "orgaoEntidade": {
+    "cnpj": "04812509000190",
+    "razaoSocial": "AMAZONAS TRIBUNAL DE JUSTICA",
+    "poderId": "J",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-04-07T07:01:37",
+  "dataAtualizacao": "2025-04-07T07:01:37",
+  "numeroControlePNCP": "04812509000190-1-000013/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 13,
+  "emendaParlamentar": null,
+  "numeroCompra": "90007",
+  "processo": "2024/000035640-00",
+  "srp": true,
+  "objetoCompra": "Registro de preços para contratação de empresa integradora para o fornecimento de Computação em nuvem nos modelos Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS) para o Tribunal de Justiça do Estado do Amazonas (TJAM), conforme condições e exigências estabelecidas no edital e seus anexos.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=92586605900072025",
+  "dataAberturaProposta": "2025-04-07T09:00:00",
+  "dataEncerramentoProposta": "2025-04-24T10:00:00",
+  "dataPublicacaoPncp": "2025-04-07T07:01:37",
+  "dataAtualizacaoGlobal": "2025-04-29T11:43:45",
+  "unidadeOrgao": {
+    "ufNome": "Amazonas",
+    "ufSigla": "AM",
+    "municipioNome": "Manaus",
+    "codigoIbge": "1302603",
+    "codigoUnidade": "925866",
+    "nomeUnidade": "TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92586605900072025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 997795.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

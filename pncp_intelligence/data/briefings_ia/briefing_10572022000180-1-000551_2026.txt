@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DE ADMINISTRACAO (Recife/PE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Formação de Registro de Preços para o fornecimento eventual de Dispositivos Médicos do tipo Equipamentos Médico Hospitalares, visando atender as necessidades do Hospital dos Servidores do Estado de Pernambuco (HSE-PE)
+VALOR ESTIMADO: R$ 501,657.27
+PRAZO PARA PROPOSTAS: 2026-10-14T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92615005001392026
+SELO LOGÍSTICO: [BASE DIRETA: RECIFE/PE]
+BASE LOGÍSTICA COMPATÍVEL: Recife (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

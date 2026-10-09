@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ITAIPAVA DO GRAJAU (Itaipava do Grajaú/MA)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para os serviços técnicos em assessoria e consultoria em gestão pública para o Município de Itaipava do Grajaú/MA.
+VALOR ESTIMADO: R$ 262.710,00
+PRAZO PARA PROPOSTAS: 2025-08-05T08:00:00
+LINK OFICIAL: http://www.compraspmig.com.br
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612546000166/compras/2025/27/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa para os serviços técnicos em assessoria e consultoria em gestão pública para o Município de Itaip | Qtd: 12.0 | R$ Unit: 21892.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "01612546000166",
+    "razaoSocial": "MUNICIPIO DE ITAIPAVA DO GRAJAU",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-07-18T14:42:21",
+  "dataAtualizacao": "2025-07-18T14:42:21",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BR Conectado",
+  "dataAberturaProposta": "2025-07-18T18:00:00",
+  "dataEncerramentoProposta": "2025-08-05T08:00:00",
+  "dataPublicacaoPncp": "2025-07-18T14:42:21",
+  "dataAtualizacaoGlobal": "2025-07-18T14:42:26",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "Itaipava do Grajaú",
+    "codigoIbge": "2105351",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Prefeitura Municipal de Itaipava do Grajaú"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "http://www.compraspmig.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 27,
+  "emendaParlamentar": null,
+  "numeroCompra": "010/2025",
+  "processo": "2025056/2025",
+  "objetoCompra": "Contratação de empresa para os serviços técnicos em assessoria e consultoria em gestão pública para o Município de Itaipava do Grajaú/MA.",
+  "informacaoComplementar": "",
+  "numeroControlePNCP": "01612546000166-1-000027/2025",
+  "valorTotalEstimado": 262710.0,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

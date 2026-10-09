@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMACAO (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de Serviços técnicos especializados de sustentação de infraestrutura de Tecnologia da Informação e Comunicação (TIC), com remuneração mensal fixa, condicionada ao cumprimento dos Níveis Mínimos de Serviço (NMS) estabelecidos, conforme quantidades e perfis profissionais mínimos previstos em ordens de serviço, no âmbito do Instituto Nacional de Tecnologia da Informação (ITI),
+VALOR ESTIMADO: R$ 15,558,938.16
+PRAZO PARA PROPOSTAS: 2026-10-08T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=24300105001432026
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MORADA NOVA (Morada Nova/CE)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Seleção de empresa visando o registro de preços para futura e eventual  contratação de Solução Inovadora para o ensino de Matemática, incluindo materiais manipulativos, formação presencial e contínua, monitoramento dos dados educacionais, suporte técnico e especializado, assessoria pedagógica especializada para direcionamento da execução do programa, visando a melhoria da proficiência dos estudantes no letramento matemático e elevação dos indicadores educacionais do IDEB, medidos pelo SAEB, para atender as necessidades da Secretaria de Educação, Ciência e Tecnologia de Morada Nova/CE.
+VALOR ESTIMADO: R$ 10.140.000,00
+PRAZO PARA PROPOSTAS: 2025-09-02T08:29:00
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/a0c7874359d447fa8f16ea2c5cf20763/selecao-de-empresa-visando-o-registro-de-precos-pa
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07782840000100/compras/2025/132/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07782840000100/compras/2025/132/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07782840000100/compras/2025/132/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07782840000100/compras/2025/132/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07782840000100/compras/2025/132/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07782840000100/compras/2025/132/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07782840000100/compras/2025/132/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07782840000100/compras/2025/132/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07782840000100/compras/2025/132/arquivos/9
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Solução Matemática - Anos Fundamentais - 1° ao 5° ano - Livro manipulativo Ábaco Aberto de Pinos para Inteiros e Decimai | Qtd: 29.0 | R$ Unit: 195000.0
+  - Item 2: Solução Matemática - Anos Fundamentais - 6° ao 9° ano - Especificação: Livro manipulativo Área do Círculo – Área do Círc | Qtd: 23.0 | R$ Unit: 195000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07782840000100",
+    "razaoSocial": "MUNICIPIO DE MORADA NOVA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 9776000.0,
+  "dataInclusao": "2025-07-25T08:32:52",
+  "dataAtualizacao": "2025-07-25T08:32:52",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 132,
+  "emendaParlamentar": null,
+  "numeroCompra": "16.07.01/2025-SRP",
+  "processo": "0000820250626000346",
+  "objetoCompra": "Seleção de empresa visando o registro de preços para futura e eventual  contratação de Solução Inovadora para o ensino de Matemática, incluindo materiais manipulativos, formação presencial e contínua, monitoramento dos dados educacionais, suporte técnico e especializado, assessoria pedagógica especializada para direcionamento da execução do programa, visando a melhoria da proficiência dos estudantes no letramento matemático e elevação dos indicadores educacionais do IDEB, medidos pelo SAEB, para atender as necessidades da Secretaria de Educação, Ciência e Tecnologia de Morada Nova/CE.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-25T00:00:00",
+  "dataEncerramentoProposta": "2025-09-02T08:29:00",
+  "dataPublicacaoPncp": "2025-07-25T08:32:52",
+  "dataAtualizacaoGlobal": "2025-10-24T09:15:17",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Morada Nova",
+    "codigoUnidade": "202523",
+    "nomeUnidade": "SECRETARIA DA EDUCACAO BASICA - SEDUC",
+    "codigoIbge": "2308708"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "07782840000100-1-000132/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/a0c7874359d447fa8f16ea2c5cf20763/selecao-de-empresa-visando-o-registro-de-precos-pa",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 10140000.0,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

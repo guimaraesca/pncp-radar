@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ALTA FLORESTA D'OESTE (Alta Floresta D'Oeste/RO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [LICITANET] - Contratação de empresa especializada para prestação de serviços em Tecnologia da Informação e Comunicação (TIC), abrangendo implantação, configuração e suporte de solução Next Generation Firewall (NGFW), segurança eletrônica, privacidade e proteção de dados, segurança da informação e cibernética pelo período de 06 (seis) meses, através de Pregão Eletrônico, aos moldes da Lei 14.133/21.
+VALOR ESTIMADO: R$ 168.010,02
+PRAZO PARA PROPOSTAS: 2025-08-18T10:00:00
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/WkplbW01YWs=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/15834732000154/compras/2025/66/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 6252220: Contratação de empresa especializada para prestação de serviços em Tecnologia da Informação e Comunicação (TIC), abrange | Qtd: 6.0 | R$ Unit: 28001.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "15834732000154",
+    "razaoSocial": "MUNICIPIO DE ALTA FLORESTA D'OESTE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-04T13:39:09",
+  "dataAtualizacao": "2025-08-21T12:25:01",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 66,
+  "emendaParlamentar": null,
+  "numeroCompra": "41",
+  "processo": "521/2025",
+  "objetoCompra": "[LICITANET] - Contratação de empresa especializada para prestação de serviços em Tecnologia da Informação e Comunicação (TIC), abrangendo implantação, configuração e suporte de solução Next Generation Firewall (NGFW), segurança eletrônica, privacidade e proteção de dados, segurança da informação e cibernética pelo período de 06 (seis) meses, através de Pregão Eletrônico, aos moldes da Lei 14.133/21.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-08-04T13:39:00",
+  "dataEncerramentoProposta": "2025-08-18T10:00:00",
+  "dataPublicacaoPncp": "2025-08-04T13:39:09",
+  "dataAtualizacaoGlobal": "2025-08-21T12:25:01",
+  "unidadeOrgao": {
+    "ufNome": "Rondônia",
+    "ufSigla": "RO",
+    "municipioNome": "Alta Floresta D'Oeste",
+    "codigoUnidade": "21",
+    "nomeUnidade": "MUNICÍPIO DE ALTA FLORESTA DO OESTE/RO",
+    "codigoIbge": "1100015"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/WkplbW01YWs=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "15834732000154-1-000066/2025",
+  "valorTotalEstimado": 168010.02,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 2,
+  "situacaoCompraNome": "Revogada",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA"
+}

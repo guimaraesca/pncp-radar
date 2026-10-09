@@ -1,0 +1,104 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ITUMBIARA (Itumbiara/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM TECNOLOGIA DA INFORMAÇÃO PARA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE LICENÇA DE USO DE SISTEMA INFORMATIZADO DE GESTÃO PÚBLICA MUNICIPAL, DESENVOLVIDO DE FORMA INTEGRADA, SISTÊMICA E MODULAR, EM AMBIENTE 100% WEB, COM HOSPEDAGEM EM INTERNET DATA CENTER (IDC), INCLUINDO IMPLANTAÇÃO, MIGRAÇÃO E CONVERSÃO DE DADOS, SUPORTE TÉCNICO, MANUTENÇÃO CORRETIVA, EVOLUTIVA E LEGAL, ATUALIZAÇÕES AUTOMÁTICAS, TREINAMENTO DE USUÁRIOS E SERVIÇOS CORRELATOS.
+VALOR ESTIMADO: R$ 1.028.980,29
+PRAZO PARA PROPOSTAS: 2026-10-13T07:30:00
+LINK OFICIAL: https://go.centi.com.br/itumbiara/portalfornecedor
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (100 a 200 km)
+SELO LOGÍSTICO: [BASE: GOIÂNIA | Itumbiara/GO (205km)]
+DISTÂNCIA ESTIMADA DA BASE: 205 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/14
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/15
+doc_16.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/16
+doc_17.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/17
+doc_18.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/18
+doc_19.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/19
+doc_20.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/20
+doc_21.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/21
+doc_22.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/22
+doc_23.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/23
+doc_24.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/24
+doc_25.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/25
+doc_26.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/26
+doc_27.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/27
+doc_28.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/28
+doc_29.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/29
+doc_30.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/30
+doc_31.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/31
+doc_32.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/32
+doc_33.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/33
+doc_34.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/34
+doc_35.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02204196000161/compras/2026/329/arquivos/35
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS DE LOCAÇÃO – LICENÇA DE USO DE SOFTWARE DE GESTÃO PÚBLICA, DESENVOLVIDO POR ÚNICO DESENVOLVEDOR, DE FORMA INTEG | Qtd: 12.0 | R$ Unit: 85748.3575
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "02204196000161",
+    "razaoSocial": "MUNICIPIO DE ITUMBIARA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-07-15T11:05:40",
+  "dataAtualizacao": "2026-09-24T12:37:46",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Itumbiara",
+    "codigoUnidade": "2",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE ITUMBIARA",
+    "codigoIbge": "5211503"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://go.centi.com.br/itumbiara/portalfornecedor",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 329,
+  "emendaParlamentar": null,
+  "numeroCompra": "21",
+  "processo": "21",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM TECNOLOGIA DA INFORMAÇÃO PARA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE LICENÇA DE USO DE SISTEMA INFORMATIZADO DE GESTÃO PÚBLICA MUNICIPAL, DESENVOLVIDO DE FORMA INTEGRADA, SISTÊMICA E MODULAR, EM AMBIENTE 100% WEB, COM HOSPEDAGEM EM INTERNET DATA CENTER (IDC), INCLUINDO IMPLANTAÇÃO, MIGRAÇÃO E CONVERSÃO DE DADOS, SUPORTE TÉCNICO, MANUTENÇÃO CORRETIVA, EVOLUTIVA E LEGAL, ATUALIZAÇÕES AUTOMÁTICAS, TREINAMENTO DE USUÁRIOS E SERVIÇOS CORRELATOS.",
+  "informacaoComplementar": "contratação de empresa especializada em tecnologia da informação para prestação de serviços de locação de licença de uso de sistema informatizado de gestão pública municipal, desenvolvido de forma integrada, sistêmica e modular, em ambiente 100% web, com hospedagem em Internet Data Center (IDC), incluindo implantação, migração e conversão de dados, suporte técnico, manutenção corretiva, evolutiva e legal, atualizações automáticas, treinamento de usuários e serviços correlatos.",
+  "dataAberturaProposta": "2026-07-15T10:54:21",
+  "dataEncerramentoProposta": "2026-10-13T07:30:00",
+  "dataPublicacaoPncp": "2026-07-15T11:05:40",
+  "dataAtualizacaoGlobal": "2026-09-24T12:39:38",
+  "numeroControlePNCP": "02204196000161-1-000329/2026",
+  "valorTotalEstimado": 1028980.29,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CENTI"
+}

@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CANINDE (Canindé/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA PARA SUPORTE AO GERENCIAMENTO, ORGANIZAÇÃO E EXECUÇÃO DAS POLÍTICAS PÚBLICAS DO SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL – SUAS. ATRAVÉS DA OTIMIZAÇÃO E QUALIFICAÇÃO DOS MEIOS DE PRESTAÇÃO DOS SERVIÇOS OFERTADOS PELOS PROFISSIONAIS QUE ATUAM JUNTO AOS SETORES, PROGRAMAS E PROJETOS DE RESPONSABILIDADE DA SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL DE CANINDÉ-CE.
+VALOR ESTIMADO: R$ 58.350,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/2bb60ca4e745452bafbc5f6692cca599/contratacao-de-servicos-de-assessoria-e-consultori
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07963259000187/compras/2025/88/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07963259000187/compras/2025/88/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07963259000187/compras/2025/88/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07963259000187/compras/2025/88/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07963259000187/compras/2025/88/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07963259000187/compras/2025/88/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA PARA SUPORTE AO GERENCIAMENTO, ORGANIZAÇÃO E EXECUÇÃO DAS POLÍ | Qtd: 6.0 | R$ Unit: 9725.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 40230.0,
+  "orgaoEntidade": {
+    "cnpj": "07963259000187",
+    "razaoSocial": "MUNICIPIO DE CANINDE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-06T16:32:23",
+  "dataAtualizacao": "2025-08-06T16:32:23",
+  "numeroControlePNCP": "07963259000187-1-000088/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 88,
+  "emendaParlamentar": null,
+  "numeroCompra": "11.002/2025-DL",
+  "processo": "11.002/2025-DL",
+  "srp": false,
+  "objetoCompra": "CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA PARA SUPORTE AO GERENCIAMENTO, ORGANIZAÇÃO E EXECUÇÃO DAS POLÍTICAS PÚBLICAS DO SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL – SUAS. ATRAVÉS DA OTIMIZAÇÃO E QUALIFICAÇÃO DOS MEIOS DE PRESTAÇÃO DOS SERVIÇOS OFERTADOS PELOS PROFISSIONAIS QUE ATUAM JUNTO AOS SETORES, PROGRAMAS E PROJETOS DE RESPONSABILIDADE DA SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL DE CANINDÉ-CE.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-06T16:32:23",
+  "dataAtualizacaoGlobal": "2025-08-06T16:33:45",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Canindé",
+    "codigoIbge": "2302800",
+    "codigoUnidade": "202537",
+    "nomeUnidade": "SECRETARIA MUNICIPAL DE ASSISTENCIA SOCIAL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/2bb60ca4e745452bafbc5f6692cca599/contratacao-de-servicos-de-assessoria-e-consultori",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 58350.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CRATO - CAMARA MUNICIPAL (Crato/CE)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para consultoria em governança institucional na Câmara Municipal de Crato, com diagnóstico organizacional, planejamento estratégico, capacitação de pessoal e demais serviços técnicos especializados, conforme Termo de Referência constante do Anexo I do Edital
+VALOR ESTIMADO: R$ 129.966,60
+PRAZO PARA PROPOSTAS: 2025-08-15T23:59:00
+LINK OFICIAL: https://licitamaisbrasil.com.br/detalhes-do-edital/JpKK6NxiaXnQjm9f
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05619754000148/compras/2025/18/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05619754000148/compras/2025/18/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa especializada para prestação de serviços de consultoria com implantação de mecanismos legais de g | Qtd: 12.0 | R$ Unit: 10830.55
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "05619754000148",
+    "razaoSocial": "MUNICIPIO DE CRATO - CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-01T18:22:58",
+  "dataAtualizacao": "2025-08-01T18:22:58",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 18,
+  "emendaParlamentar": null,
+  "numeroCompra": "2507.01/2025",
+  "processo": "2507.01/2025",
+  "objetoCompra": "Contratação de empresa especializada para consultoria em governança institucional na Câmara Municipal de Crato, com diagnóstico organizacional, planejamento estratégico, capacitação de pessoal e demais serviços técnicos especializados, conforme Termo de Referência constante do Anexo I do Edital",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-08-01T18:30:00",
+  "dataEncerramentoProposta": "2025-08-15T23:59:00",
+  "dataPublicacaoPncp": "2025-08-01T18:22:58",
+  "dataAtualizacaoGlobal": "2025-08-26T15:33:27",
+  "numeroControlePNCP": "05619754000148-1-000018/2025",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Crato",
+    "codigoUnidade": "1",
+    "nomeUnidade": "MUNICIPIO DE CRATO - CAMARA MUNICIPAL",
+    "codigoIbge": "2304202"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://licitamaisbrasil.com.br/detalhes-do-edital/JpKK6NxiaXnQjm9f",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 129966.6,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licita + Brasil"
+}

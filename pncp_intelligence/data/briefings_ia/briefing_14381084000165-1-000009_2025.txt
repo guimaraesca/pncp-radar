@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES DE BOTUCATU - BOTUPREV (Botucatu/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Locação de software UTM/FIREWALL por um período de 12 (doze) meses, com treinamento incluso e suporte técnico durante a vigência, conforme termos, condições e quantidades exigidos no termo de referência.
+VALOR ESTIMADO: R$ 7.706,25
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/14381084000165-1-000009/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14381084000165/compras/2025/9/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14381084000165/compras/2025/9/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Proposta para todos os itens | Qtd: 1.0 | R$ Unit: 7706.25
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "14381084000165",
+    "razaoSocial": "INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES DE BOTUCATU - BOTUPREV",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 7625.0,
+  "dataInclusao": "2025-03-20T16:27:00",
+  "dataAtualizacao": "2025-03-20T16:27:00",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 9,
+  "emendaParlamentar": null,
+  "numeroCompra": "6",
+  "processo": "6",
+  "objetoCompra": "Locação de software UTM/FIREWALL por um período de 12 (doze) meses, com treinamento incluso e suporte técnico durante a vigência, conforme termos, condições e quantidades exigidos no termo de referência.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-20T16:27:00",
+  "dataAtualizacaoGlobal": "2025-03-26T15:50:54",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Botucatu",
+    "codigoUnidade": "4",
+    "nomeUnidade": "INSTIT DE PREVID SOCIAL DOS SERVIDORES DE BOTUCATU - BOTUPREV",
+    "codigoIbge": "3507506"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "14381084000165-1-000009/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 7706.25,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software"
+}

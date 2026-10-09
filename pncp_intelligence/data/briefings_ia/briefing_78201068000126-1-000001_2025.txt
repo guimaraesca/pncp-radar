@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: PAICANDU CAMARA MUNICIPAL (Paiçandu/PR)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para a prestação de serviços de assessoria e consultoria técnica, jurídica e legislativa, visando à revisão, atualização e adequação da Lei Orgânica do Município de Paiçandu e do Regimento Interno da Câmara Municipal, de forma a garantir conformidade com as normas constitucionais, legais e regimentais vigentes, bem como atender às boas práticas de gestão pública e às necessidades institucionais da Câmara Municipal de Paiçandu
+VALOR ESTIMADO: R$ 51.650,00
+PRAZO PARA PROPOSTAS: 2025-09-19T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=93150403900012025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/78201068000126/compras/2025/1/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Consultoria e Assessoria - Jurídica | Qtd: 1.0 | R$ Unit: 51650.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "78201068000126",
+    "razaoSocial": "PAICANDU CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 40500.0,
+  "dataInclusao": "2025-07-23T07:54:01",
+  "dataAtualizacao": "2025-07-25T12:59:42",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 1,
+  "emendaParlamentar": null,
+  "numeroCompra": "90001",
+  "processo": "32/2025",
+  "objetoCompra": "Contratação de empresa especializada para a prestação de serviços de assessoria e consultoria técnica, jurídica e legislativa, visando à revisão, atualização e adequação da Lei Orgânica do Município de Paiçandu e do Regimento Interno da Câmara Municipal, de forma a garantir conformidade com as normas constitucionais, legais e regimentais vigentes, bem como atender às boas práticas de gestão pública e às necessidades institucionais da Câmara Municipal de Paiçandu",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=93150403900012025",
+  "dataAberturaProposta": "2025-07-25T08:00:00",
+  "dataEncerramentoProposta": "2025-09-19T09:00:00",
+  "dataPublicacaoPncp": "2025-07-23T07:54:01",
+  "dataAtualizacaoGlobal": "2025-10-08T12:22:28",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Paiçandu",
+    "codigoUnidade": "931504",
+    "nomeUnidade": "MPR-CÂMARA MUNICIPAL DE PAIÇANDU",
+    "codigoIbge": "4117503"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "78201068000126-1-000001/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=93150403900012025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 51650.0,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CARUARU (Caruaru/PE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de Preços visando à eventual e futura contratação de empresa(s) especializada(s) no fornecimento de equipamentos e insumos de infraestrutura de tecnologia da informação (TI), compreendendo o fornecimento de servidores de alta performace para processamento geográfico (SIG/WEB GIS) e de  rede coprporativa, ativos e passivos da rede, sistema de proteção de energia ( nobreaks) e rack de servidor, destinados à modernização e ampliação da infraestrutura tecnológica da Autarquia de Urbanização
+VALOR ESTIMADO: R$ 2,192,310.66
+PRAZO PARA PROPOSTAS: 2026-10-08T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98238105001782026
+SELO LOGÍSTICO: [BASE: RECIFE | Caruaru/PE (135km)]
+BASE LOGÍSTICA COMPATÍVEL: Recife (100 a 200 km)
+DISTÂNCIA ESTIMADA: 135 km

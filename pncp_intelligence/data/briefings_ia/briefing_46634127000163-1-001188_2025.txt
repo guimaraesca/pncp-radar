@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ITATINGA (Itatinga/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de avaliações para criação de um programa de mensuração e acompanhamento da aprendizagem que proporcione o desenvolvimento das habilidades e competências avaliadas no SAEB e plataforma digital que ofereça mecanismos de gestão e acompanhamento dos resultados avaliativos em ambiente online, complementados por suporte pedagógico, para o ano letivo de 2025.
+VALOR ESTIMADO: R$ 141.120,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/46634127000163-1-001188/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46634127000163/compras/2025/1188/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: AVALIAÇÕES IMPR. LING PORT. E MAT. 2º ENS. FUND AVALIAÇÕES IMPR. LING PORT. E MAT. 2º ENS. FUND - Avaliações impressas d | Qtd: 250.0 | R$ Unit: 123.1667
+  - Item 2: AVALIAÇÕES IMPR. LING PORT. E MAT. 5º ENS. FUND AVALIAÇÕES IMPR. LING PORT. E MAT. 5º ENS. FUND - Avaliações impressas d | Qtd: 254.0 | R$ Unit: 123.1667
+  - Item 3: AVALIAÇÕES IMPR. LING PORT. E MAT. 8º ENS. FUND AVALIAÇÕES IMPR. LING PORT. E MAT. 8º ENS. FUND - Avaliações impressas d | Qtd: 126.0 | R$ Unit: 123.1667
+  - Item 4: PLATAFORMA DIGITAL DE AVALIAÇÃO E GESTÃO RESULT. PLATAFORMA DIGITAL DE AVALIAÇÃO E GESTÃO RESULTADOS - Plataforma digita | Qtd: 630.0 | R$ Unit: 100.8333
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 59850.0,
+  "orgaoEntidade": {
+    "cnpj": "46634127000163",
+    "razaoSocial": "MUNICIPIO DE ITATINGA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-07T18:16:49",
+  "dataAtualizacao": "2025-08-07T18:16:49",
+  "numeroControlePNCP": "46634127000163-1-001188/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 1188,
+  "emendaParlamentar": null,
+  "numeroCompra": "54000",
+  "processo": "1176/2025",
+  "objetoCompra": "Aquisição de avaliações para criação de um programa de mensuração e acompanhamento da aprendizagem que proporcione o desenvolvimento das habilidades e competências avaliadas no SAEB e plataforma digital que ofereça mecanismos de gestão e acompanhamento dos resultados avaliativos em ambiente online, complementados por suporte pedagógico, para o ano letivo de 2025.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T18:16:49",
+  "dataAtualizacaoGlobal": "2025-08-07T18:17:36",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Itatinga",
+    "codigoIbge": "3523503",
+    "codigoUnidade": "1",
+    "nomeUnidade": "ITATINGA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Determinado pela diretoria, fundamentada na Lei 14.133/2021 e Decreto Municipal 3.385/2023.",
+  "valorTotalEstimado": 141120.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CECAM - Consultoria Econômica, Contábil e Administrativa Municipal"
+}

@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO PUBLICO DE SAUDE INTERFEDERATIVO DO VALE DO CURU - CISVALE (Caucaia/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para fornecimento contínuo de licença de uso de plataforma online para organização e controle do sistema de regulação das unidades de saúde, com foco na gestão e organização das filas de procedimentos eletivos, desenvolvida com tecnologia web e hospedada em ambiente de computação em nuvem, incluindo a instalação física e lógica, abrangendo configuração, implementação de backups, importação de dados legados, suporte técnico e treinamento dos profissionais designados para sua utilização, a fim de atender às necessidades das unidades de saúde (Policlínica Regional de Caucaia Dr. José Correa, Centro de Especialidades Odontológica de Caucaia Danilo Dalmo da Rocha Correa e Centro de Especialidades Odontológica de São Gonçalo do Amarante Dr. Raimundo Fialho) administradas pelo Consórcio Público de Saúde Intefederativo do Vale do Curu - CISVALE.
+VALOR ESTIMADO: R$ 55.777,32
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/90d31a83f8134ee596014af878aa2ef8/contratacao-de-empresa-especializada-para-fornecim
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12768835000175/compras/2025/13/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licença de uso (locação) de Sistema informatizado de Regulação das unidades (Software WEB) - Policlínica | Qtd: 12.0 | R$ Unit: 1549.37
+  - Item 2: Licença de uso (locação) de Sistema informatizado de Regulação das unidades (Software WEB) - CEO Caucaia | Qtd: 12.0 | R$ Unit: 1549.37
+  - Item 3: Licença de uso (locação) de Sistema informatizado de Regulação das unidades (Software WEB) - CEO São Gonçalo do Amarante | Qtd: 12.0 | R$ Unit: 1549.37
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 55777.32,
+  "orgaoEntidade": {
+    "cnpj": "12768835000175",
+    "razaoSocial": "CONSORCIO PUBLICO DE SAUDE INTERFEDERATIVO DO VALE DO CURU - CISVALE",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "dataInclusao": "2025-08-07T11:10:19",
+  "dataAtualizacao": "2025-08-07T11:10:19",
+  "numeroControlePNCP": "12768835000175-1-000013/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 13,
+  "emendaParlamentar": null,
+  "numeroCompra": "120250519000146",
+  "processo": "0000120250519000146",
+  "objetoCompra": "Contratação de empresa especializada para fornecimento contínuo de licença de uso de plataforma online para organização e controle do sistema de regulação das unidades de saúde, com foco na gestão e organização das filas de procedimentos eletivos, desenvolvida com tecnologia web e hospedada em ambiente de computação em nuvem, incluindo a instalação física e lógica, abrangendo configuração, implementação de backups, importação de dados legados, suporte técnico e treinamento dos profissionais designados para sua utilização, a fim de atender às necessidades das unidades de saúde (Policlínica Regional de Caucaia Dr. José Correa, Centro de Especialidades Odontológica de Caucaia Danilo Dalmo da Rocha Correa e Centro de Especialidades Odontológica de São Gonçalo do Amarante Dr. Raimundo Fialho) administradas pelo Consórcio Público de Saúde Intefederativo do Vale do Curu - CISVALE.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T11:10:19",
+  "dataAtualizacaoGlobal": "2025-08-07T11:10:55",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Caucaia",
+    "codigoIbge": "2303709",
+    "codigoUnidade": "202501",
+    "nomeUnidade": "CONSÓRCIO PUB. INTER FEDERATIVO DO VALE DO CURU"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/90d31a83f8134ee596014af878aa2ef8/contratacao-de-empresa-especializada-para-fornecim",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 55777.32,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

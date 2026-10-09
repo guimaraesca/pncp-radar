@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PARISI (Parisi/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE COFFE BREACK PARA FORMAÇÃO CONTINUADA DOS PROFISSIONAIS DA EDUCAÇÃO DO MUNICÍPIO DE PARISI/SP.
+VALOR ESTIMADO: R$ 19.795,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://177.39.83.130:8079/comprasedital/
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/59858134000190/compras/2025/14/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE COFFE BREACK PARA FORMAÇÃO CONTINUADA DOS PROFISSIONAIS DA EDUCA | Qtd: 1.0 | R$ Unit: 19795.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "59858134000190",
+    "razaoSocial": "MUNICIPIO DE PARISI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-04-22T08:56:48",
+  "dataAtualizacao": "2025-04-22T08:56:48",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Parisi",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE PARISI",
+    "codigoIbge": "3536257"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://177.39.83.130:8079/comprasedital/",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 14,
+  "emendaParlamentar": null,
+  "numeroCompra": "29",
+  "processo": "29",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE COFFE BREACK PARA FORMAÇÃO CONTINUADA DOS PROFISSIONAIS DA EDUCAÇÃO DO MUNICÍPIO DE PARISI/SP.",
+  "informacaoComplementar": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO DE COFFE BREACK PARA FORMAÇÃO CONTINUADA DOS PROFISSIONAIS DA EDUCAÇÃO DO MUNICÍPIO DE PARISI/SP.",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-04-22T08:56:48",
+  "dataAtualizacaoGlobal": "2025-04-22T08:56:51",
+  "numeroControlePNCP": "59858134000190-1-000014/2025",
+  "valorTotalEstimado": 19795.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software"
+}

@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SAO PEDRO DA ALDEIA CAMARA MUNICIPAL (São Pedro da Aldeia/RJ)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: A contratação de empresa especializada em curso de capacitação para servidores que ocupam o cargo de Polícia Legislativa, que inclua conteúdo programático e habilitação ao uso dos instrumentos não letais (taser choque, laser, spray de pimenta e cassetete), visando cumprir o disposto nos §1º e 2º do artigo 4º da Lei Complementar nº: 222 de 03 de outubro de 2024, com objetivo de capacitar os Servidores da Câmara Municipal de São Pedro da Aldeia.
+VALOR ESTIMADO: R$ 2.462,72
+PRAZO PARA PROPOSTAS: 2025-08-12T07:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/27759380000107-1-000022/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/27759380000107/compras/2025/22/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Curso Formação / Aperfeiçoamento - Vigilante | Qtd: 2.0 | R$ Unit: 1231.36
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "27759380000107",
+    "razaoSocial": "SAO PEDRO DA ALDEIA CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-06T17:04:15",
+  "dataAtualizacao": "2025-08-06T17:04:15",
+  "numeroControlePNCP": "27759380000107-1-000022/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 22,
+  "emendaParlamentar": null,
+  "numeroCompra": "90021",
+  "processo": "279/2024",
+  "srp": false,
+  "objetoCompra": "A contratação de empresa especializada em curso de capacitação para servidores que ocupam o cargo de Polícia Legislativa, que inclua conteúdo programático e habilitação ao uso dos instrumentos não letais (taser choque, laser, spray de pimenta e cassetete), visando cumprir o disposto nos §1º e 2º do artigo 4º da Lei Complementar nº: 222 de 03 de outubro de 2024, com objetivo de capacitar os Servidores da Câmara Municipal de São Pedro da Aldeia.",
+  "informacaoComplementar": "Capacitação dos servidores quem compõem a segurança legislativa.   ",
+  "dataAberturaProposta": "2025-08-06T17:04:12",
+  "dataEncerramentoProposta": "2025-08-12T07:59:59",
+  "dataPublicacaoPncp": "2025-08-06T17:04:15",
+  "dataAtualizacaoGlobal": "2025-08-12T08:00:02",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "São Pedro da Aldeia",
+    "codigoIbge": "3305208",
+    "codigoUnidade": "930899",
+    "nomeUnidade": "CAMARA MUNICIPAL DE SÃO PEDRO DA ALDEIA - RJ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 2462.72,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

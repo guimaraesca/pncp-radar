@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE AMPARO (Amparo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para fornecimento de software de inteligência e gestão de dados e informações, na modalidade de licenciamento de Software como Serviço (SaaS – Software as a Service), para comunicação e envio de mensagens por múltiplos canais, atendimento via chatbot, domicílio eletrônico (com fins tributários e não), contemplando ainda o saneamento e enriquecimento de dados e informações de cadastros de contribuintes, imobiliários (entendido para todos os fins urbanos e rurais) e mobiliários, conforme Edital, Anexos e Minuta de Contrato
+VALOR ESTIMADO: R$ 204.501,69
+PRAZO PARA PROPOSTAS: 2025-05-19T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/43465459000173-1-000604/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/43465459000173/compras/2025/604/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de Software de inteligência e gestão de dados
+Conforme Term de Referência | Qtd: 1.0 | R$ Unit: 204501.69
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "43465459000173",
+    "razaoSocial": "MUNICIPIO DE AMPARO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 189717.0,
+  "dataInclusao": "2025-05-05T13:13:18",
+  "dataAtualizacao": "2025-05-05T13:13:18",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 604,
+  "emendaParlamentar": null,
+  "numeroCompra": "PL-303",
+  "processo": "PL-303/2025 - 05 - 40",
+  "objetoCompra": "Contratação de empresa para fornecimento de software de inteligência e gestão de dados e informações, na modalidade de licenciamento de Software como Serviço (SaaS – Software as a Service), para comunicação e envio de mensagens por múltiplos canais, atendimento via chatbot, domicílio eletrônico (com fins tributários e não), contemplando ainda o saneamento e enriquecimento de dados e informações de cadastros de contribuintes, imobiliários (entendido para todos os fins urbanos e rurais) e mobiliários, conforme Edital, Anexos e Minuta de Contrato",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-05-05T09:00:00",
+  "dataEncerramentoProposta": "2025-05-19T09:00:00",
+  "dataPublicacaoPncp": "2025-05-05T13:13:18",
+  "dataAtualizacaoGlobal": "2025-06-25T15:29:46",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Amparo",
+    "codigoUnidade": "0205",
+    "nomeUnidade": "SECRETARIA DA FAZENDA E ORÇAMENTO",
+    "codigoIbge": "3501905"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "43465459000173-1-000604/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 204501.69,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "J BRASIL SISTEMAS LTDA"
+}

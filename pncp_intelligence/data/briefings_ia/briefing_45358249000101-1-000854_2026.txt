@@ -1,0 +1,82 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO CARLOS (São Carlos/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para eventual e futura aquisição de equipamentos de informática, especificamente microcomputadores (Kits Montado) e monitores de vídeo, visando atender às necessidades de modernização tecnológica, reposição de maquinário obsoleto e expansão das atividades das diversas Secretarias da Prefeitura Municipal de São Carlos - SP.
+VALOR ESTIMADO: R$ 7.202.124,95
+PRAZO PARA PROPOSTAS: 2026-10-08T09:30:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/45358249000101-1-000854/2026
+BASE LOGÍSTICA COMPATÍVEL: Campinas (100 a 200 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | São Carlos/SP (140km)]
+DISTÂNCIA ESTIMADA DA BASE: 140 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45358249000101/compras/2026/854/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45358249000101/compras/2026/854/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45358249000101/compras/2026/854/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45358249000101/compras/2026/854/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: KIT COMPUTADOR MONTADO - 1 | Qtd: 34.0 | R$ Unit: 20380.0
+  - Item 2: KIT COMPUTADOR MONTADO - 2  | Qtd: 79.0 | R$ Unit: 9216.67
+  - Item 3:  KIT COMPUTADOR MONTADO - 3  | Qtd: 473.0 | R$ Unit: 7414.33
+  - Item 4: MONITOR 21,5" | Qtd: 338.0 | R$ Unit: 864.6
+  - Item 5: MONITOR 23,8" | Qtd: 98.0 | R$ Unit: 1235.39
+  - Item 6: Monitor 29" | Qtd: 45.0 | R$ Unit: 1609.6
+  - Item 7: KIT COMPUTADOR MONTADO - 1 | Qtd: 11.0 | R$ Unit: 20380.0
+  - Item 8: KIT COMPUTADOR MONTADO - 2  | Qtd: 26.0 | R$ Unit: 9216.67
+  - Item 9:  KIT COMPUTADOR MONTADO - 3  | Qtd: 157.0 | R$ Unit: 7414.33
+  - Item 10: MONITOR 21,5" | Qtd: 112.0 | R$ Unit: 864.6
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "45358249000101",
+    "razaoSocial": "MUNICIPIO DE SAO CARLOS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-08-13T10:56:55",
+  "dataAtualizacao": "2026-09-24T11:29:48",
+  "numeroControlePNCP": "45358249000101-1-000854/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 854,
+  "emendaParlamentar": null,
+  "numeroCompra": "55",
+  "processo": "699/2026",
+  "srp": true,
+  "objetoCompra": "Registro de preços para eventual e futura aquisição de equipamentos de informática, especificamente microcomputadores (Kits Montado) e monitores de vídeo, visando atender às necessidades de modernização tecnológica, reposição de maquinário obsoleto e expansão das atividades das diversas Secretarias da Prefeitura Municipal de São Carlos - SP.",
+  "informacaoComplementar": "O atual parque tecnológico da Prefeitura de São Carlos possui uma parcela significativa de equipamentos obsoletos, com vários anos de uso. Esse envelhecimento natural do hardware resulta em lentidão na execução das rotinas administrativas, incompatibilidade com sistemas modernos de gestão pública (como processos eletrônicos e ERPs em nuvem), além de gerar altos e constantes custos com manutenção corretiva. A falta de equipamentos adequados também impõe riscos de segurança da informação, devido à incompatibilidade com as versões mais recentes de sistemas operacionais e protocolos de criptografia. Como solução, faz-se necessária a aquisição de novos computadores e monitores de vídeo, com configurações atualizadas e padronizadas, por meio do Sistema de Registro de Preços (SRP). Este modelo permitirá à Administração Pública modernizar as estações de trabalho dos servidores de forma gradual e planejada. O benefício direto dessa contratação será o aumento expressivo na produtividade dos servidores, garantindo um atendimento mais ágil e eficiente à população de São Carlos. Além disso, a padronização e a atualização do parque computacional reduzirão drasticamente as falhas técnicas, o tempo de inatividade (downtime) e os custos operacionais da TI, entregando melhor valor e economicidade aos cofres públicos. Foram levantadas as demandas necessárias junto às secretarias municipais que estabeleceram com base em suas necessidades o quantitativo necessário para a reposição e substituição de  equipamentos, conforme documentos, bem como, visando a previsibilidade com quebras, necessidades eventuais de reposições de equipamento com a criação de novos postos de trabalho, inaugurações de equipamentos públicos e novas contratações de servidores, houve a inclusão de 15 a 20% sobre a demandas estabelecidas.",
+  "dataAberturaProposta": "2026-09-24T17:00:00",
+  "dataEncerramentoProposta": "2026-10-08T09:30:00",
+  "dataPublicacaoPncp": "2026-08-13T10:56:55",
+  "dataAtualizacaoGlobal": "2026-09-24T11:32:22",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Carlos",
+    "codigoIbge": "3548906",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SÃO CARLOS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "O atual parque tecnológico da Prefeitura de São Carlos possui uma parcela significativa de equipamentos obsoletos, com vários anos de uso. Esse envelhecimento natural do hardware resulta em lentidão na execução das rotinas administrativas, incompatibilidade com sistemas modernos de gestão pública (como processos eletrônicos e ERPs em nuvem), além de gerar altos e constantes custos com manutenção corretiva. A falta de equipamentos adequados também impõe riscos de segurança da informação, devido à incompatibilidade com as versões mais recentes de sistemas operacionais e protocolos de criptografia. Como solução, faz-se necessária a aquisição de novos computadores e monitores de vídeo, com configurações atualizadas e padronizadas, por meio do Sistema de Registro de Preços (SRP). Este modelo permitirá à Administração Pública modernizar as estações de trabalho dos servidores de forma gradual e planejada. O benefício direto dessa contratação será o aumento expressivo na produtividade dos servidores, garantindo um atendimento mais ágil e eficiente à população de São Carlos. Além disso, a padronização e a atualização do parque computacional reduzirão drasticamente as falhas técnicas, o tempo de inatividade (downtime) e os custos operacionais da TI, entregando melhor valor e economicidade aos cofres públicos. Foram levantadas as demandas necessárias junto às secretarias municipais que estabeleceram com base em suas necessidades o quantitativo necessário para a reposição e substituição de  equipamentos, conforme documentos, bem como, visando a previsibilidade com quebras, necessidades eventuais de reposições de equipamento com a criação de novos postos de trabalho, inaugurações de equipamentos públicos e novas contratações de servidores, houve a inclusão de 15 a 20% sobre a demandas estabelecidas.",
+  "valorTotalEstimado": 7202124.95,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Sisvetor Informática Ltda"
+}

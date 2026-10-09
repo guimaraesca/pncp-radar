@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO CEARA (Fortaleza/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de Empresa Especializada em Tecnologia da Informação (ETICE), por um período de 12 (doze) meses, para prestação de serviços de computação em nuvem, no modelo de PaaS (Plataforma como Serviço), incluindo os serviços de armazenamento, processamento, banco de dados gerenciado e comunicação de dados para utilização no contingenciamento e transbordo de aplicações no atendimento às demandas da Casa Civil do Ceará, conforme especificações constantes no Termo de Referência.
+VALOR ESTIMADO: R$ 867.417,74
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/07954480000179-1-024553/2024
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2024/24553/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2024/24553/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVICO ESPECIALIZADO EM PROCESSAMENTO DE DADOS - SERVICOS DE COMPUTACAO EM NUVEM NAS MODALIDADES DE IAAS, PAAS E SAAS,  | Qtd: 3337190.0 | R$ Unit: 0.1083
+  - Item 2: SERVICO TECNICO ESPECIALIZADO - SERVICO  DE SUPORTE TECNICO REMOTO COMPUTACAO EM NUVEM PUBLICA | Qtd: 2000.0 | R$ Unit: 253.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 777066.33,
+  "orgaoEntidade": {
+    "cnpj": "07954480000179",
+    "razaoSocial": "ESTADO DO CEARA",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-03-24T11:29:00",
+  "dataAtualizacao": "2025-03-24T11:56:11",
+  "numeroControlePNCP": "07954480000179-1-024553/2024",
+  "anoCompra": 2024,
+  "sequencialCompra": 24553,
+  "emendaParlamentar": null,
+  "numeroCompra": "202425752",
+  "processo": "30001009259202452",
+  "srp": false,
+  "objetoCompra": "Contratação de Empresa Especializada em Tecnologia da Informação (ETICE), por um período de 12 (doze) meses, para prestação de serviços de computação em nuvem, no modelo de PaaS (Plataforma como Serviço), incluindo os serviços de armazenamento, processamento, banco de dados gerenciado e comunicação de dados para utilização no contingenciamento e transbordo de aplicações no atendimento às demandas da Casa Civil do Ceará, conforme especificações constantes no Termo de Referência.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-24T11:29:00",
+  "dataAtualizacaoGlobal": "2025-03-24T11:56:11",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Fortaleza",
+    "codigoIbge": "2304400",
+    "codigoUnidade": "300001",
+    "nomeUnidade": "CASA CIVIL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, IX",
+    "descricao": "Dispensa de Licitação: para a aquisição, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade que integrem a Administração Pública e que tenham sido criados para esse fim específico, desde que o preço contratado seja compatível com o praticado no mercado",
+    "codigo": 39
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 867417.74,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria do Planejamento e Gestão do Ceará"
+}

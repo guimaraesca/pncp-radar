@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ALVINOPOLIS (Alvinópolis/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratacao de empresa especializada para a prestacao de servicos de consultoria tecnica para o desenvolvimento e execucao da politica Municipal de Protecao do Patrimonio Cultural  visando a habilitacao do Municipio de Alvinopolis no ICMS Patrimonio Cultural  em atendimento as necessidades da Secretaria Municipal de Cultura  Turismo  Esporte e Lazer de Alvinopolis.
+VALOR ESTIMADO: R$ 18.510,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL:  
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/16725392000196/compras/2025/82/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Consultoria tecnica para o desenvolvimento e execucao da politica Municipal de Protecao do Patrimonio Cultural. | Qtd: 6.0 | R$ Unit: 3085.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 15600.0,
+  "orgaoEntidade": {
+    "cnpj": "16725392000196",
+    "razaoSocial": "MUNICIPIO DE ALVINOPOLIS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-03T17:30:09",
+  "dataAtualizacao": "2025-07-21T15:50:28",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 82,
+  "emendaParlamentar": null,
+  "numeroCompra": "35 | Processo 84",
+  "processo": "35",
+  "objetoCompra": "Contratacao de empresa especializada para a prestacao de servicos de consultoria tecnica para o desenvolvimento e execucao da politica Municipal de Protecao do Patrimonio Cultural  visando a habilitacao do Municipio de Alvinopolis no ICMS Patrimonio Cultural  em atendimento as necessidades da Secretaria Municipal de Cultura  Turismo  Esporte e Lazer de Alvinopolis.",
+  "informacaoComplementar": " ",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-03T17:30:09",
+  "dataAtualizacaoGlobal": "2025-07-21T15:53:47",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Alvinópolis",
+    "codigoUnidade": "0000",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE ALVINOPOLIS",
+    "codigoIbge": "3102308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": " ",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": " ",
+  "numeroControlePNCP": "16725392000196-1-000082/2025",
+  "valorTotalEstimado": 18510.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Governançabrasil Tecnologia e Gestão em Serviços"
+}

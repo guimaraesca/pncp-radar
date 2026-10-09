@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESP-CONTROLADORIA GERAL DO ESTADO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em tecnologia da informação para fornecimento de solução de proteção de redes com característica de “Next Generation Firewall – NGFW”, com as service de instalação, configuração, treinamento e garantia on-site de 50 meses
+VALOR ESTIMADO: R$ 1.832.956,20
+PRAZO PARA PROPOSTAS: 2025-06-09T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=54010605900042025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/47999864000122/compras/2025/18/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Outros Serviços para a Infraestrutura de Tecnologia da Informação e Comunicação (TIC) | Qtd: 1.0 | R$ Unit: 1832956.2
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 9500.0,
+  "orgaoEntidade": {
+    "cnpj": "47999864000122",
+    "razaoSocial": "ESP-CONTROLADORIA GERAL DO ESTADO",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-05-19T08:09:43",
+  "dataAtualizacao": "2025-05-22T09:19:05",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 18,
+  "emendaParlamentar": null,
+  "numeroCompra": "90004",
+  "processo": "00900002706202448",
+  "objetoCompra": "Contratação de empresa especializada em tecnologia da informação para fornecimento de solução de proteção de redes com característica de “Next Generation Firewall – NGFW”, com as service de instalação, configuração, treinamento e garantia on-site de 50 meses",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=54010605900042025",
+  "dataAberturaProposta": "2025-05-22T08:00:00",
+  "dataEncerramentoProposta": "2025-06-09T09:00:00",
+  "dataPublicacaoPncp": "2025-05-19T08:09:43",
+  "dataAtualizacaoGlobal": "2025-07-02T21:19:00",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São Paulo",
+    "codigoUnidade": "540106",
+    "nomeUnidade": "ESP-SUBSECRETARIA DE GESTÃO CORPORATIVA",
+    "codigoIbge": "3550308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=54010605900042025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "47999864000122-1-000018/2025",
+  "valorTotalEstimado": 1832956.2,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

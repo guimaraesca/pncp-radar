@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: IBIRITE - CAMARA MUNICIPAL (Ibirité/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para fornecimento de licença de uso de software integrado voltado à tramitação eletrônica de processos legislativos e administrativos da Câmara Municipal de Ibirité/MG, contemplando as seguintes funcionalidades mínimas: organização e transmissão ao vivo das sessões legislativas; assinaturas eletrônicas/digitais com certificação compatível com ICP-Brasil; protocolo digital com acesso externo; controle de acesso de visitantes; disponibilização de aplicativo móvel para acompanhamento das atividades legislativas; além da prestação dos serviços de manutenção correlatos de implantação e customização do sistema, manutenção corretiva, evolutiva e adaptativa, migração de dados, capacitação dos usuários e suporte técnico contínuo.
+VALOR ESTIMADO: R$ 76.295,03
+PRAZO PARA PROPOSTAS: 2025-08-19T09:00:00
+LINK OFICIAL: app2.licitardigital.com.br/pesquisa/72211
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/21037718000122/compras/2025/26/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de implantação do software, com treinamento presencial e/ou remoto para a equipe da Câmara Municipal de Ibirité | Qtd: 1.0 | R$ Unit: 10654.67
+  - Item 2: Licença de uso dos seguintes módulos integrados de software:
+Tramitação eletrônica de processos legislativos e administr | Qtd: 12.0 | R$ Unit: 5470.03
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 75000.0,
+  "orgaoEntidade": {
+    "cnpj": "21037718000122",
+    "razaoSocial": "IBIRITE - CAMARA MUNICIPAL",
+    "esferaId": "M",
+    "poderId": "L"
+  },
+  "dataInclusao": "2025-08-04T10:04:20",
+  "dataAtualizacao": "2025-08-04T10:04:20",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online",
+  "dataAberturaProposta": "2025-08-04T10:04:19",
+  "dataEncerramentoProposta": "2025-08-19T09:00:00",
+  "dataPublicacaoPncp": "2025-08-04T10:04:20",
+  "dataAtualizacaoGlobal": "2025-08-19T11:17:58",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Ibirité",
+    "codigoIbge": "3129806",
+    "codigoUnidade": "977",
+    "nomeUnidade": "Unidade Única"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "app2.licitardigital.com.br/pesquisa/72211",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 26,
+  "emendaParlamentar": null,
+  "numeroCompra": "01",
+  "processo": "06/2025",
+  "objetoCompra": "Contratação de empresa especializada para fornecimento de licença de uso de software integrado voltado à tramitação eletrônica de processos legislativos e administrativos da Câmara Municipal de Ibirité/MG, contemplando as seguintes funcionalidades mínimas: organização e transmissão ao vivo das sessões legislativas; assinaturas eletrônicas/digitais com certificação compatível com ICP-Brasil; protocolo digital com acesso externo; controle de acesso de visitantes; disponibilização de aplicativo móvel para acompanhamento das atividades legislativas; além da prestação dos serviços de manutenção correlatos de implantação e customização do sistema, manutenção corretiva, evolutiva e adaptativa, migração de dados, capacitação dos usuários e suporte técnico contínuo.",
+  "informacaoComplementar": "",
+  "numeroControlePNCP": "21037718000122-1-000026/2025",
+  "valorTotalEstimado": 76295.03,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

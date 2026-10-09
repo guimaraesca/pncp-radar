@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE FRANCO DA ROCHA (Franco da Rocha/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE SERVIÇOS DE CONSERVAÇÃO E LIMPEZA DE PRÓPRIOS MUNICIPAIS, LIMPEZA DE CAIXA D’ÁGUA E DEDETIZAÇÃO PARA TODAS AS SECRETARIAS MUNICIPAIS DA PREFEITURA MUNICIPAL DE FRANCO DA ROCHA, COM DISPONIBILIZAÇÃO DE MÃO DE OBRA QUALIFICADA, PRODUTOS SANEANTES DOMISSANITÁRIOS, MATERIAIS, MÁQUINAS COM APOIO TECNOLÓGICO (SOFTWARE E HARDWARE) PARA FISCALIZAÇÃO E CONTROLE DE QUALIDADE DOS SERVIÇOS EXECUTADOS, GERANDO RELATÓRIOS DE BI (BUSINESS INTELLIGENCE), SOB RESPONSABILIDADE DA CONTRATADA
+VALOR ESTIMADO: R$ 36.820.528,92
+PRAZO PARA PROPOSTAS: 2026-10-06T10:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/46523080000160-1-000158/2026
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523080000160/compras/2026/158/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523080000160/compras/2026/158/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE SERVIÇOS DE CONSERVAÇÃO E LIMPEZA DE PRÓPRIOS MUNICIPAIS E LIMPEZA  | Qtd: 12.0 | R$ Unit: 3056381.66
+  - Item 2: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE SERVIÇOS DE DEDETIZAÇÃO, DESRATIZAÇÃO E DESINSETIZAÇÃO. | Qtd: 260.0 | R$ Unit: 553.65
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "46523080000160",
+    "razaoSocial": "MUNICIPIO DE FRANCO DA ROCHA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-22T16:58:27",
+  "dataAtualizacao": "2026-09-22T16:58:27",
+  "numeroControlePNCP": "46523080000160-1-000158/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 158,
+  "emendaParlamentar": null,
+  "numeroCompra": "042/2026R",
+  "processo": "11841/2025",
+  "srp": false,
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE SERVIÇOS DE CONSERVAÇÃO E LIMPEZA DE PRÓPRIOS MUNICIPAIS, LIMPEZA DE CAIXA D’ÁGUA E DEDETIZAÇÃO PARA TODAS AS SECRETARIAS MUNICIPAIS DA PREFEITURA MUNICIPAL DE FRANCO DA ROCHA, COM DISPONIBILIZAÇÃO DE MÃO DE OBRA QUALIFICADA, PRODUTOS SANEANTES DOMISSANITÁRIOS, MATERIAIS, MÁQUINAS COM APOIO TECNOLÓGICO (SOFTWARE E HARDWARE) PARA FISCALIZAÇÃO E CONTROLE DE QUALIDADE DOS SERVIÇOS EXECUTADOS, GERANDO RELATÓRIOS DE BI (BUSINESS INTELLIGENCE), SOB RESPONSABILIDADE DA CONTRATADA",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-22T17:30:00",
+  "dataEncerramentoProposta": "2026-10-06T10:00:00",
+  "dataPublicacaoPncp": "2026-09-22T16:58:27",
+  "dataAtualizacaoGlobal": "2026-10-05T17:10:06",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Franco da Rocha",
+    "codigoIbge": "3516408",
+    "codigoUnidade": "968",
+    "nomeUnidade": "Prefeitura Municipal de Franco da Rocha"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 36820528.92,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações"
+}

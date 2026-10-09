@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE OEIRAS (Oeiras/PI)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE PESSOA JURÍDICA PARA EXECUÇÃO DOS SERVIÇOS ESPECIALIZADOS DE CONSULTORIA TÉCNICA EM MOBILIDADE URBANA.
+VALOR ESTIMADO: R$ 91.347,00
+PRAZO PARA PROPOSTAS: 2025-08-13T08:00:00
+LINK OFICIAL: http://www.licitaoeiras.com.br
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06553937000170/compras/2025/165/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE PESSOA JURÍDICA PARA EXECUÇÃO DOS SERVIÇOS ESPECIALIZADOS DE CONSULTORIA TÉCNICA EM MOBILIDADE URBANA  | Qtd: 1.0 | R$ Unit: 91347.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 82800.0,
+  "orgaoEntidade": {
+    "cnpj": "06553937000170",
+    "razaoSocial": "MUNICIPIO DE OEIRAS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-08T23:05:30",
+  "dataAtualizacao": "2025-08-08T23:05:30",
+  "numeroControlePNCP": "06553937000170-1-000165/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 165,
+  "emendaParlamentar": null,
+  "numeroCompra": "032",
+  "processo": "146/2025",
+  "srp": false,
+  "objetoCompra": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA EXECUÇÃO DOS SERVIÇOS ESPECIALIZADOS DE CONSULTORIA TÉCNICA EM MOBILIDADE URBANA.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-08-08T08:00:00",
+  "dataEncerramentoProposta": "2025-08-13T08:00:00",
+  "dataPublicacaoPncp": "2025-08-08T23:05:30",
+  "dataAtualizacaoGlobal": "2025-08-19T12:43:53",
+  "unidadeOrgao": {
+    "ufNome": "Piauí",
+    "ufSigla": "PI",
+    "municipioNome": "Oeiras",
+    "codigoIbge": "2207009",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Prefeitura Municipal de Oeiras"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://www.licitaoeiras.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 91347.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BR Conectado"
+}

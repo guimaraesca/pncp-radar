@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO JOSE DO BONFIM (São José do Bonfim/PB)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para Assessoria e Consultoria Técnica na atenção Básica, Média e Alta Complexidade, serviços e sistemas administrativos, acompanhamento dos recursos da saúde, monitoramento dos sistemas, FNS, SAIPS, EGESTOR, DIGISUS, INVESTSUS, SISMOB, SCPA, prestação de serviço de forma virtual e presencial, emissão de relatórios mensais, e acompanhamento de todos os serviços diariamente no município de São José do Bonfim/PB
+VALOR ESTIMADO: R$ 595.200,00
+PRAZO PARA PROPOSTAS: 2025-03-25T18:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/08882862000105-1-000010/2025
+BASE LOGÍSTICA COMPATÍVEL: Recife/Natal (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PB]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08882862000105/compras/2025/10/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: 
+Contratação de empresa especializada para Assessoria e Consultoria Técnica na atenção Básica, Média e Alta Complexidad | Qtd: 12.0 | R$ Unit: 49600.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "08882862000105",
+    "razaoSocial": "MUNICIPIO DE SAO JOSE DO BONFIM",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-03-20T15:49:10",
+  "dataAtualizacao": "2025-03-20T15:49:10",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Elmar Tecnologia",
+  "dataAberturaProposta": "2025-03-20T08:00:00",
+  "dataEncerramentoProposta": "2025-03-25T18:00:00",
+  "dataPublicacaoPncp": "2025-03-20T15:49:10",
+  "dataAtualizacaoGlobal": "2025-03-20T15:49:12",
+  "unidadeOrgao": {
+    "ufNome": "Paraíba",
+    "ufSigla": "PB",
+    "municipioNome": "São José do Bonfim",
+    "codigoIbge": "2514602",
+    "codigoUnidade": "2514602",
+    "nomeUnidade": "São José do Bonfim"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 10,
+  "emendaParlamentar": null,
+  "numeroCompra": "4",
+  "processo": "250313DV00004",
+  "objetoCompra": "Contratação de empresa especializada para Assessoria e Consultoria Técnica na atenção Básica, Média e Alta Complexidade, serviços e sistemas administrativos, acompanhamento dos recursos da saúde, monitoramento dos sistemas, FNS, SAIPS, EGESTOR, DIGISUS, INVESTSUS, SISMOB, SCPA, prestação de serviço de forma virtual e presencial, emissão de relatórios mensais, e acompanhamento de todos os serviços diariamente no município de São José do Bonfim/PB",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "08882862000105-1-000010/2025",
+  "valorTotalEstimado": 595200.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta"
+}

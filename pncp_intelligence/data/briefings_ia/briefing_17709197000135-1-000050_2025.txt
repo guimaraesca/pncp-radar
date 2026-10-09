@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ALEM PARAIBA (Além Paraíba/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de especializada na prestação de serviços de licenciamento de software por prazo determinado (locação) destinado a soluções de software integrada, cujo objetivo direto é promover o gerenciamento da Gestão Tributária Municipal, Gestão do ISSQN (Imposto sobre Serviços de Qualquer Natureza) e Protocolo Eletrônico/Workflow, acompanhado de garantias técnicas que irão apoiar a operacionalização da referida Solução de Software e dos serviços de implantação/Migração de dados, capacitação téc
+VALOR ESTIMADO: R$ 128.170,20
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/17709197000135-1-000050/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/17709197000135/compras/2025/50/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LOCAÇÃO DE SOFTWARES - LICENCIAMENTO GESTÃO TRIBUTÁRIA MUNICIPAL, ISSQN E PROTOCOLO ELETRÔNICO. | Qtd: 6.0 | R$ Unit: 21361.7
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "17709197000135",
+    "razaoSocial": "MUNICIPIO DE ALEM PARAIBA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-21T08:15:16",
+  "dataAtualizacao": "2025-03-21T08:15:16",
+  "numeroControlePNCP": "17709197000135-1-000050/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 50,
+  "emendaParlamentar": null,
+  "numeroCompra": "21",
+  "processo": "21/2025",
+  "objetoCompra": "Contratação de especializada na prestação de serviços de licenciamento de software por prazo determinado (locação) destinado a soluções de software integrada, cujo objetivo direto é promover o gerenciamento da Gestão Tributária Municipal, Gestão do ISSQN (Imposto sobre Serviços de Qualquer Natureza) e Protocolo Eletrônico/Workflow, acompanhado de garantias técnicas que irão apoiar a operacionalização da referida Solução de Software e dos serviços de implantação/Migração de dados, capacitação téc",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-21T08:15:16",
+  "dataAtualizacaoGlobal": "2025-03-21T08:15:18",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Além Paraíba",
+    "codigoIbge": "3101508",
+    "codigoUnidade": "328",
+    "nomeUnidade": "MUNICÍPIO DE ALÉM PARAÍBA/MG"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, VIII",
+    "descricao": "Dispensa de Licitação: nos casos de emergência ou de calamidade pública, quando caracterizada urgência de atendimento de situação que possa ocasionar prejuízo ou comprometer a continuidade dos serviços públicos ou a segurança de pessoas, obras, serviços, equipamentos e outros bens, públicos ou particulares, e somente para aquisição dos bens necessários ao atendimento da situação emergencial ou calamitosa e para as parcelas de obras e serviços que possam ser concluídas no prazo máximo de 1 (um) ano, contado da data de ocorrência da emergência ou da calamidade, vedadas a prorrogação dos respectivos contratos e a recontratação de empresa já contratada com base no disposto neste inciso",
+    "codigo": 38
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "Não se aplica",
+  "valorTotalEstimado": 128170.2,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Planejar Consultores Associados Ltda"
+}

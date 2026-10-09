@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO DA GESTAO E DA INOVACAO EM SERVICOS PUBLICOS (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de solução de tecnologia da informação e comunicação de Segurança Cibernética composta de serviços e fornecimento de soluções de ANTIMALWARE COM XDR (Extended Detection and Response) - para desktops, servidores e containers - e ANTISPAM, com serviços básicos e avançados; e transferência de conhecimento, em atendimento às necessidades do Ministério da Gestão e da Inovação e demais órgãos solicitantes
+VALOR ESTIMADO: R$ 11.007.112,83
+PRAZO PARA PROPOSTAS: 2025-07-17T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=17060705900122025
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00489828000155/compras/2025/329/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão temporária de direitos sobre programas de computador locação de software | Qtd: 15508.0 | R$ Unit: 150.56
+  - Item 2: Cessão temporária de direitos sobre programas de computador locação de software | Qtd: 1799.0 | R$ Unit: 1408.88
+  - Item 3: Cessão temporária de direitos sobre programas de computador locação de software | Qtd: 411.0 | R$ Unit: 5745.5
+  - Item 4: Serviços de Gerenciamento de Infraestrutura de Tecnologia daInformação e Comunicação (TIC) | Qtd: 12.0 | R$ Unit: 142353.33
+  - Item 5: Cessão temporária de direitos sobre programas de computador locação de software | Qtd: 20321.0 | R$ Unit: 77.61
+  - Item 6: Serviços de Gerenciamento de Infraestrutura de Tecnologia daInformação e Comunicação (TIC) | Qtd: 12.0 | R$ Unit: 40908.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00489828000155",
+    "razaoSocial": "MINISTERIO DA GESTAO E DA INOVACAO EM SERVICOS PUBLICOS",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 8092010.12,
+  "dataInclusao": "2025-07-03T07:42:59",
+  "dataAtualizacao": "2025-07-03T07:42:59",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoUnidade": "170607",
+    "nomeUnidade": "CENTRO DE SERVIÇOS COMPARTILHADOS",
+    "codigoIbge": "5300108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=17060705900122025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 329,
+  "emendaParlamentar": null,
+  "numeroCompra": "90012",
+  "processo": "12804000936202440",
+  "objetoCompra": "Contratação de solução de tecnologia da informação e comunicação de Segurança Cibernética composta de serviços e fornecimento de soluções de ANTIMALWARE COM XDR (Extended Detection and Response) - para desktops, servidores e containers - e ANTISPAM, com serviços básicos e avançados; e transferência de conhecimento, em atendimento às necessidades do Ministério da Gestão e da Inovação e demais órgãos solicitantes",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=17060705900122025",
+  "dataAberturaProposta": "2025-07-03T08:00:00",
+  "dataEncerramentoProposta": "2025-07-17T10:00:00",
+  "dataPublicacaoPncp": "2025-07-03T07:42:59",
+  "dataAtualizacaoGlobal": "2025-10-06T16:59:21",
+  "numeroControlePNCP": "00489828000155-1-000329/2025",
+  "valorTotalEstimado": 11007112.83,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

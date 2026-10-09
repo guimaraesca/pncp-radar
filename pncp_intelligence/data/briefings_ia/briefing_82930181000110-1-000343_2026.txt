@@ -1,0 +1,86 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE URUSSANGA (Urussanga/SC)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: O presente procedimento licitatório tem por objetivo a Contratação de empresa especializada na prestação de serviços de acesso à Internet para o sistema de câmeras de monitoramento da Polícia Militar e demais unidades externas, com um link principal para o data center, englobando a instalação e configuração de equipamentos de enlaces de comunicação e gerenciamento proativas. Além de link redundante e acesso a um gerenciador unificado para o monitoramento de uso da banda de cada interligação, em atendimento ao município de Urussanga/SC, bem como provimento de acesso à Internet a Polícia Militar, de acordo com as exigências estabelecidas neste Edital e demais anexos.
+VALOR ESTIMADO: R$ 248.940,00
+PRAZO PARA PROPOSTAS: 2026-10-08T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/82930181000110-1-000343/2026
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82930181000110/compras/2026/343/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82930181000110/compras/2026/343/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82930181000110/compras/2026/343/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82930181000110/compras/2026/343/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: A	QUARTEL DA POLICIA MILITAR DE URUSSANGA – SC	R. Deputado Osmar Cunha,
+Centro	-28.523566389659077,
+-49.31792802651887. | Qtd: 12.0 | R$ Unit: 576.25
+  - Item 2: B01	FRENTE ESCOLA CAETANO	RUA VITORIO GIACONE, 
+Estação	-28.531725, 
+-49.321318. | Qtd: 12.0 | R$ Unit: 576.25
+  - Item 3: B02	BIFURCAÇÃO ANTIGA CEUSA	RUA SILVIO FERRARO, Estação 	-28.534936,  -49.319684. | Qtd: 12.0 | R$ Unit: 576.25
+  - Item 4: B03	SAIDA RODOVIA SC 108	RUA RAUL ZEFERINO MAFRA,  Bela Vista	-28.542956,  -49.318637 | Qtd: 12.0 | R$ Unit: 576.25
+  - Item 5: B04	SAIDA PARA ITANEMA	RUADORVALINO VENCESLAU, Santana 	-28.459325,  -49.361202 | Qtd: 12.0 | R$ Unit: 576.25
+  - Item 6: B05	CHEGADA SANTANA	ESTRADA DA SERRINHA, Santana	-28.468962,  -49.361560 | Qtd: 12.0 | R$ Unit: 576.25
+  - Item 7: B06	SAIDA PARA ROD / ENTRADA PARA MAESTRO DO BRASIL	SAIDA PARA RODOVIA 108, PALMEIRA DO MEIO	-28.409618,  -49.294490 | Qtd: 12.0 | R$ Unit: 576.25
+  - Item 8: B07	ESTRAFA PARA CAETÉ DO ARMAZEM	ROD. MUN. PREF. RONY ZANIBONI, Barro Preto	-28.434903,  -49.292956 | Qtd: 12.0 | R$ Unit: 576.25
+  - Item 9: B08	PROXIMO A PONTE PARA ESTAÇÃO COCAL	ROD. GENÉSIO MAZOM,  Aguas Mornas	-28.593595,  -49.249677 | Qtd: 12.0 | R$ Unit: 576.25
+  - Item 10: B09	ESTRADA FUNDOS BAIRRO BOM JESUS	R.DURVAL PERITO/R. SÃO PEDRO, De Villa	-28.530548,  -49.294536 | Qtd: 12.0 | R$ Unit: 576.25
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "82930181000110",
+    "razaoSocial": "MUNICIPIO DE URUSSANGA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-23T10:03:33",
+  "dataAtualizacao": "2026-09-23T10:03:33",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 343,
+  "emendaParlamentar": null,
+  "numeroCompra": "PE 35",
+  "processo": "260/2026",
+  "objetoCompra": "O presente procedimento licitatório tem por objetivo a Contratação de empresa especializada na prestação de serviços de acesso à Internet para o sistema de câmeras de monitoramento da Polícia Militar e demais unidades externas, com um link principal para o data center, englobando a instalação e configuração de equipamentos de enlaces de comunicação e gerenciamento proativas. Além de link redundante e acesso a um gerenciador unificado para o monitoramento de uso da banda de cada interligação, em atendimento ao município de Urussanga/SC, bem como provimento de acesso à Internet a Polícia Militar, de acordo com as exigências estabelecidas neste Edital e demais anexos.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-08T08:00:00",
+  "dataPublicacaoPncp": "2026-09-23T10:03:33",
+  "dataAtualizacaoGlobal": "2026-09-23T10:03:42",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Urussanga",
+    "codigoUnidade": "988373",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE URUSSANGA - SC",
+    "codigoIbge": "4219002"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "A contratação conectividade proporcionará ao Município de Urussanga e a Polícia Militar a geração de informações, imagem fidedignas, de forma ágil e atualizada, e por conseguinte, obter-se-á informações necessárias para possibilitar o envio aos demais órgão de segurança das informações obtidas e elucidação dos crimes com maior rapidez, dando assim resposta rápida a sociedade.",
+  "numeroControlePNCP": "82930181000110-1-000343/2026",
+  "valorTotalEstimado": 248940.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas"
+}

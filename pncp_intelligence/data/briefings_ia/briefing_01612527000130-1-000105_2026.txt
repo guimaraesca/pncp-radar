@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BARRA BONITA (Barra Bonita/SC)
+MODALIDADE: Credenciamento
+OBJETO DA CONTRATAÇÃO: Credenciamento de empresas especializadas, agências de viagens, empresas de transporte e demais fornecedores legalmente habilitados para prestação de serviços de agenciamento, fornecimento, reserva, emissão, entrega, remarcação, cancelamento e reembolso de passagens aéreas e rodoviárias, em trechos nacionais e internacionais destinadas ao atendimento das necessidades de deslocamento oficial de servidores, agentes públicos e representantes do Município de Barra Bonita/SC e do Poder Legislativo Municipal.
+VALOR ESTIMADO: R$ 260,000.00
+PRAZO PARA PROPOSTAS: 2026-10-16T17:00:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

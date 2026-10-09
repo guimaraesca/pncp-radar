@@ -1,0 +1,82 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE AFRANIO (Afrânio/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Realização de Dispensa de Licitação Eletrônica conforme o Artigo 75, inciso II da Lei 14.133/2021, para contratar empresa especializada para preparar os estudantes concluintes do Ensino Médio de escolas públicas que sejam beneficiários do Programa Bolsa Família e/ou estejam inseridos no Cadastro Único, ênfase em Redação e complemento de disciplinas da prova Enem 2025 e simulados, em projeto da Secretaria de Desenvolvimento Social e Politicas Publica para as Mulheres da Prefeitura Municipal de Afrânio – PE, conforme descrito no Termo de Referência, anexo deste edital.
+VALOR ESTIMADO: R$ 49.770,97
+PRAZO PARA PROPOSTAS: 2025-07-10T09:00:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/PE/Prefeitura-Municipal-de-Afranio-1328/DE-PA-074-2025-2025-402065
+BASE LOGÍSTICA COMPATÍVEL: Recife (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PE]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10358174000184/compras/2025/71/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10358174000184/compras/2025/71/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10358174000184/compras/2025/71/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10358174000184/compras/2025/71/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10358174000184/compras/2025/71/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lote 1 - AULÕES PRESENCIAIS DE REDAÇÃO E MATEMÁTICA (16H/A), COM DOIS PROFESSORES P/150 ALUNOS. | Qtd: 5.0 | R$ Unit: 4022.25
+  - Item 2: Lote 1 - SIMULADOS DE REDAÇÃO PARA APLICAÇÃO NAS ESCOLAS NAS AULAS DE PORTUGUÊS. COM 150 UNIDADES DE SIMULADO POR APLICA | Qtd: 2.0 | R$ Unit: 1414.22
+  - Item 3: Lote 1 - OFICINAS DE REDAÇÃO COM ATENDIMENTO INDIVIDUAL COM MONITORES, APÓS CORREÇÃO DA REDAÇÃO COM 150 ALUNOS C/ ATENDI | Qtd: 2.0 | R$ Unit: 2581.94
+  - Item 4: Lote 1 - REDAÇÃO CORRIGIDA COM COMETÁRIO 150 P/ ALUNOS COM REDAÇÃO | Qtd: 1.0 | R$ Unit: 828.92
+  - Item 5: Lote 1 - SIMULADO DE REDAÇÃO EM PLATAFORMA DIGITAL COM 150 ALUNOS POR SIMULADO E POR APLICAÇÃO | Qtd: 2.0 | R$ Unit: 1625.74
+  - Item 6: Lote 1 - SIMULADO ENEM EM PLATAFORMA DIGITAL COM CORRREÇÃO POR TRI, PARA 150 ALUNOS CADASTRADOS NA PLATAFORMA DIGITAL. | Qtd: 1.0 | R$ Unit: 3214.83
+  - Item 7: Lote 1 - SIMULADO ENEM IMPRESSO COM ACOMPANHAMENTO DO RESULTADO EM PLATAFORMA DIGITAL COM CORRREÇÃO POR TRI, PARA 150 AL | Qtd: 1.0 | R$ Unit: 4731.67
+  - Item 8: Lote 1 - DISPONIBILIZAR 150 MODULOS DE REDAÇÃO E MATEMÁTICA, ENCADERNADOS EM MÉDIA 70 (SETENTA) PÁGINAS CADA. | Qtd: 150.0 | R$ Unit: 26.04
+  - Item 9: Lote 1 - AULAS DE PLANEJAMENTO DAS AÇÕES DO CURSO COM O COORDENADOR/PROFESSOR | Qtd: 150.0 | R$ Unit: 38.23
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 43000.0,
+  "orgaoEntidade": {
+    "cnpj": "10358174000184",
+    "razaoSocial": "MUNICIPIO DE AFRANIO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-03T08:34:54",
+  "dataAtualizacao": "2025-07-03T08:34:54",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 71,
+  "emendaParlamentar": null,
+  "numeroCompra": "PA 074",
+  "processo": "DE 024/2025",
+  "objetoCompra": "[Portal de Compras Públicas] - Realização de Dispensa de Licitação Eletrônica conforme o Artigo 75, inciso II da Lei 14.133/2021, para contratar empresa especializada para preparar os estudantes concluintes do Ensino Médio de escolas públicas que sejam beneficiários do Programa Bolsa Família e/ou estejam inseridos no Cadastro Único, ênfase em Redação e complemento de disciplinas da prova Enem 2025 e simulados, em projeto da Secretaria de Desenvolvimento Social e Politicas Publica para as Mulheres da Prefeitura Municipal de Afrânio – PE, conforme descrito no Termo de Referência, anexo deste edital.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-07T09:00:00",
+  "dataEncerramentoProposta": "2025-07-10T09:00:00",
+  "dataPublicacaoPncp": "2025-07-03T08:34:54",
+  "dataAtualizacaoGlobal": "2025-08-25T11:29:28",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Afrânio",
+    "codigoUnidade": "000160",
+    "nomeUnidade": "fundo municipal de assistencia social",
+    "codigoIbge": "2600203"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/PE/Prefeitura-Municipal-de-Afranio-1328/DE-PA-074-2025-2025-402065",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "10358174000184-1-000071/2025",
+  "valorTotalEstimado": 49770.97,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

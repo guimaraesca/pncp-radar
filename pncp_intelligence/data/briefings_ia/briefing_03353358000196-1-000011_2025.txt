@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO DO DESENVOLVIMENTO REGIONAL (Brasília/DF)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Consultoria técnica especializada para realização de estudo de​ avaliação estratégica integrada, avaliação socioeconômica e planejamento de intervenções sustentáveis, estruturais e não-estruturais, com vistas a prevenir e mitigar os efeitos de cheias na Região Hidrográfica do Lago Guaíba e da Lagoa dos Patos, no Estado do Rio Grande do Sul.
+VALOR ESTIMADO: R$ 15.948.554,45
+PRAZO PARA PROPOSTAS: 2025-08-07T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=53001303900022025
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03353358000196/compras/2025/11/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço Engenharia | Qtd: 1.0 | R$ Unit: 15948554.45
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "03353358000196",
+    "razaoSocial": "MINISTERIO DO DESENVOLVIMENTO REGIONAL",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 11961415.94,
+  "dataInclusao": "2025-04-09T07:14:37",
+  "dataAtualizacao": "2025-06-16T09:33:25",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 11,
+  "emendaParlamentar": null,
+  "numeroCompra": "90002",
+  "processo": "59000017408202449",
+  "objetoCompra": "Consultoria técnica especializada para realização de estudo de​ avaliação estratégica integrada, avaliação socioeconômica e planejamento de intervenções sustentáveis, estruturais e não-estruturais, com vistas a prevenir e mitigar os efeitos de cheias na Região Hidrográfica do Lago Guaíba e da Lagoa dos Patos, no Estado do Rio Grande do Sul.",
+  "informacaoComplementar": "O Edital e seus anexos estão disponíveis, na íntegra, no Portal Nacional de Contratações Públicas (PNCP) e endereço eletrônico <http://sisel.mdr.gov.br/consulta_edital.php>, podendo ainda ser retirado no SGAN Quadra 906, Módulo F, Bloco A - Ed. Celso Furtado, Brasília – DF, no horário de 8:00 às 12:00 e das 14:00 às 17:30 hs. Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=53001303900022025",
+  "dataAberturaProposta": "2025-06-16T08:00:00",
+  "dataEncerramentoProposta": "2025-08-07T10:00:00",
+  "dataPublicacaoPncp": "2025-04-09T07:14:37",
+  "dataAtualizacaoGlobal": "2025-10-10T10:39:22",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoUnidade": "530013",
+    "nomeUnidade": "SECRETARIA DE INFRA-ESTRUTURA HIDRICA - SIH",
+    "codigoIbge": "5300108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "03353358000196-1-000011/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=53001303900022025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 15948554.45,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

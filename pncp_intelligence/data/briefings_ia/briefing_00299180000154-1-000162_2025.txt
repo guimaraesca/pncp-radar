@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PARAISO DO TOCANTINS (Paraíso do Tocantins/TO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Locação de scanner portátil de mesa com conectividade Wi-Fi, dotado de funcionalidades avançadas, como digitalização contínua, alinhamento automático do alimentador, eliminação de páginas em branco, digitalização frente e verso, e integração com serviços em nuvem, destinado a atender às necessidades da Secretaria Geral do Gabinete do Prefeito de Paraíso do Tocantins e órgãos vinculados.
+VALOR ESTIMADO: R$ 52.500,00
+PRAZO PARA PROPOSTAS: 2025-08-08T12:00:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/TO/Prefeitura-Municipal-de-Paraiso-do-Tocantins-2465/DE-039557-2025-2025-410886
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00299180000154/compras/2025/162/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço de locação de scanner, conforme especificações técnicas constantes no Termo de Referência e demais documentos an | Qtd: 10.0 | R$ Unit: 5250.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "00299180000154",
+    "razaoSocial": "MUNICIPIO DE PARAISO DO TOCANTINS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-05T11:49:54",
+  "dataAtualizacao": "2025-08-05T11:49:54",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 162,
+  "emendaParlamentar": null,
+  "numeroCompra": "039557",
+  "processo": "039557",
+  "objetoCompra": "[Portal de Compras Públicas] - Locação de scanner portátil de mesa com conectividade Wi-Fi, dotado de funcionalidades avançadas, como digitalização contínua, alinhamento automático do alimentador, eliminação de páginas em branco, digitalização frente e verso, e integração com serviços em nuvem, destinado a atender às necessidades da Secretaria Geral do Gabinete do Prefeito de Paraíso do Tocantins e órgãos vinculados.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-08-05T12:00:00",
+  "dataEncerramentoProposta": "2025-08-08T12:00:00",
+  "dataPublicacaoPncp": "2025-08-05T11:49:54",
+  "dataAtualizacaoGlobal": "2025-08-05T11:50:00",
+  "unidadeOrgao": {
+    "ufNome": "Tocantins",
+    "ufSigla": "TO",
+    "municipioNome": "Paraíso do Tocantins",
+    "codigoUnidade": "0002",
+    "nomeUnidade": "Gabinete do Prefeito",
+    "codigoIbge": "1716109"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/TO/Prefeitura-Municipal-de-Paraiso-do-Tocantins-2465/DE-039557-2025-2025-410886",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "00299180000154-1-000162/2025",
+  "valorTotalEstimado": 52500.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

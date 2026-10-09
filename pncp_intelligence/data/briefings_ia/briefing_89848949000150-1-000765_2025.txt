@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE FARROUPILHA (Farroupilha/RS)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO:  Inscrição em curso de capacitação - Inclusão com Propósito - Como Construir o PEI e Lidar com as Diversidades na Sala de Aula, que será realizado nos dias 25 e 26 de agosto de 2025, para os servidores Gustavo Bresolin Fernandes e Sirlei Basso da Secretaria Municipal de Educação.
+VALOR ESTIMADO: R$ 1.172,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/89848949000150-1-000765/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/89848949000150/compras/2025/765/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CURSO DE CAPACITAÇÃO | Qtd: 2.0 | R$ Unit: 586.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "89848949000150",
+    "razaoSocial": "MUNICIPIO DE FARROUPILHA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 1172.0,
+  "dataInclusao": "2025-08-07T12:32:30",
+  "dataAtualizacao": "2025-08-07T12:32:30",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 765,
+  "emendaParlamentar": null,
+  "numeroCompra": "PRD 588",
+  "processo": "886/2025",
+  "objetoCompra": " Inscrição em curso de capacitação - Inclusão com Propósito - Como Construir o PEI e Lidar com as Diversidades na Sala de Aula, que será realizado nos dias 25 e 26 de agosto de 2025, para os servidores Gustavo Bresolin Fernandes e Sirlei Basso da Secretaria Municipal de Educação.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T12:32:30",
+  "dataAtualizacaoGlobal": "2025-08-23T16:03:57",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Farroupilha",
+    "codigoUnidade": "06001",
+    "nomeUnidade": "Departamento de Educação",
+    "codigoIbge": "4307906"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "89848949000150-1-000765/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 1172.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

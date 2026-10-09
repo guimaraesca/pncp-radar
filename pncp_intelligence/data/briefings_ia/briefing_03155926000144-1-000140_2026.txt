@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE DOURADOS (Dourados/MS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de Licenciamento de Software Antivírus corporativo de proteção integrada de endpoints, com recursos de Endpoint Protection Platform – EPP e Endpoint Detection and Response – EDR, contemplando licenciamento, gerenciamento centralizado, atualizações, suporte técnico e garantia pelo período de 36 (trinta e seis) meses.
+VALOR ESTIMADO: R$ 473.536,40
+PRAZO PARA PROPOSTAS: 2026-10-14T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/03155926000144-1-000140/2026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03155926000144/compras/2026/140/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03155926000144/compras/2026/140/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03155926000144/compras/2026/140/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03155926000144/compras/2026/140/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03155926000144/compras/2026/140/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03155926000144/compras/2026/140/arquivos/6
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "03155926000144",
+    "razaoSocial": "MUNICIPIO DE DOURADOS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-28T07:52:07",
+  "dataAtualizacao": "2026-09-28T07:52:07",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 140,
+  "emendaParlamentar": null,
+  "numeroCompra": "PE 59",
+  "processo": "126/2026",
+  "objetoCompra": "Contratação de Licenciamento de Software Antivírus corporativo de proteção integrada de endpoints, com recursos de Endpoint Protection Platform – EPP e Endpoint Detection and Response – EDR, contemplando licenciamento, gerenciamento centralizado, atualizações, suporte técnico e garantia pelo período de 36 (trinta e seis) meses.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-29T09:00:00",
+  "dataEncerramentoProposta": "2026-10-14T09:00:00",
+  "dataPublicacaoPncp": "2026-09-28T07:52:07",
+  "dataAtualizacaoGlobal": "2026-09-28T07:52:10",
+  "numeroControlePNCP": "03155926000144-1-000140/2026",
+  "unidadeOrgao": {
+    "ufNome": "Mato Grosso do Sul",
+    "ufSigla": "MS",
+    "municipioNome": "Dourados",
+    "codigoUnidade": "1",
+    "nomeUnidade": "MUNICIPIO DE DOURADOS",
+    "codigoIbge": "5003702"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 473536.4,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Betha Sistemas"
+}

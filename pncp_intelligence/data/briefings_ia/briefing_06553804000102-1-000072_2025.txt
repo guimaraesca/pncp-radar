@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PICOS (Picos/PI)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: REGISTRO DE PREÇOS PARA EVENTUAL E FUTURA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO DE LICENÇA DE USO DE SOLUÇÃO TECNOLÓGICA INTEGRADA BASEADA EM INTELIGÊNCIA ARTIFICIAL VOLTADA AO APOIO EDUCACIONAL DE ALUNOS E PROFESSORES DO ENSINO FUNDAMENTAL, EM ATENDIMENTO ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DE PICOS/PI
+VALOR ESTIMADO: R$ 2.843.680,00
+PRAZO PARA PROPOSTAS: 2025-08-17T11:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/06553804000102-1-000072/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06553804000102/compras/2025/72/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LICENÇA DE USO DE SOLUÇÃO TECNOLÓGICA INTEGRADA BASEADA EM INTELIGÊNCIA ARTIFICIAL PARA SECRETARIA MUNICIPAL DE EDUCAÇÃO | Qtd: 1.0 | R$ Unit: 2843680.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "06553804000102",
+    "razaoSocial": "MUNICIPIO DE PICOS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-04T20:19:11",
+  "dataAtualizacao": "2025-08-04T20:19:11",
+  "numeroControlePNCP": "06553804000102-1-000072/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 72,
+  "emendaParlamentar": null,
+  "numeroCompra": "066/2025.1",
+  "processo": "9834/2025",
+  "srp": true,
+  "objetoCompra": "REGISTRO DE PREÇOS PARA EVENTUAL E FUTURA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO DE LICENÇA DE USO DE SOLUÇÃO TECNOLÓGICA INTEGRADA BASEADA EM INTELIGÊNCIA ARTIFICIAL VOLTADA AO APOIO EDUCACIONAL DE ALUNOS E PROFESSORES DO ENSINO FUNDAMENTAL, EM ATENDIMENTO ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DE PICOS/PI",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-08-04T20:30:00",
+  "dataEncerramentoProposta": "2025-08-17T11:00:00",
+  "dataPublicacaoPncp": "2025-08-04T20:19:11",
+  "dataAtualizacaoGlobal": "2025-08-04T20:19:17",
+  "unidadeOrgao": {
+    "ufNome": "Piauí",
+    "ufSigla": "PI",
+    "municipioNome": "Picos",
+    "codigoIbge": "2208007",
+    "codigoUnidade": "2220",
+    "nomeUnidade": "Picos"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 2843680.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações"
+}

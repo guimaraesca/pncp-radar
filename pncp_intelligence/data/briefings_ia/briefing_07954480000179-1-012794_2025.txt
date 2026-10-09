@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO CEARA (Fortaleza/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de monitores, nobreak para rack, extensor de microfones para videoconferência e switch gerenciável,
+VALOR ESTIMADO: R$ 56.270,00
+PRAZO PARA PROPOSTAS: 2025-09-15T09:03:10
+LINK OFICIAL: https://pncp.gov.br/app/editais/07954480000179-1-012794/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2025/12794/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: MONITOR DE VIDEO, TELA 21,5’’, WIDESCREEN, LED, HDMI, DISPLAYPORT 1.2, HDMIC1.4, VGA, USB 3.2, BASE AJUSTAVEL, CAIXA 1.0 | Qtd: 70.0 | R$ Unit: 560.0
+  - Item 2: NOBREAK, PARA RACK 19’’, ENTRADA 220V OU BIVOLT, 20A, POTENCIA MINIMO 2700 WATTS, CAIXA 1.0 UNIDADE | Qtd: 1.0 | R$ Unit: 4200.0
+  - Item 3: MICROFONE, EXTENSOR PARA O SISTEMA DE VIDEOCONFERENCIA, FREQUENCIA MAXIMA MINIMA 100 HZ - 11 KHZ, CONEXAO COM FIO SEM FI | Qtd: 1.0 | R$ Unit: 1170.0
+  - Item 4: SWITCH, GERENCIAVEL COM 24 PORTAS GIGABIT E 2 SFP SWITCH DE ACESSO COM 24 PORTAS, GIGABIT, 2 SFP, GERENCIAVEL, CAIXA 1.0 | Qtd: 5.0 | R$ Unit: 2340.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 7150.0,
+  "orgaoEntidade": {
+    "cnpj": "07954480000179",
+    "razaoSocial": "ESTADO DO CEARA",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "dataAtualizacao": "2025-11-27T18:33:58",
+  "dataInclusao": "2025-08-11T16:15:06",
+  "numeroControlePNCP": "07954480000179-1-012794/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 12794,
+  "emendaParlamentar": null,
+  "numeroCompra": "202520381",
+  "processo": "56032001466202576",
+  "dataEncerramentoProposta": "2025-09-15T09:03:10",
+  "objetoCompra": "Aquisição de monitores, nobreak para rack, extensor de microfones para videoconferência e switch gerenciável,",
+  "informacaoComplementar": "A aquisição tem como objetivo a modernização tecnológica da instituição, promovendo ganhos em produtividade,segurança,ergonomia e eficiência energética.Alem de estar compativel com o planejamento estratégico da JUCEC.",
+  "dataAberturaProposta": "2025-08-11T17:00:00",
+  "dataPublicacaoPncp": "2025-08-11T16:15:06",
+  "dataAtualizacaoGlobal": "2025-11-27T18:33:58",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Fortaleza",
+    "codigoUnidade": "190401",
+    "nomeUnidade": "JUNTA COMERCIAL DO ESTADO DO CEARA",
+    "codigoIbge": "2304400"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria do Planejamento e Gestão do Ceará",
+  "valorTotalEstimado": 56270.0
+}

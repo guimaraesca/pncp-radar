@@ -1,0 +1,83 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SUP. EST. DE LICITACAO (Porto Velho/RO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para contratação futura e eventual de empresa especializada no fornecimento de repositório de armazenamento de Dados de Backup e Proteção de Dados para armazenamento de cópias dos dados do ambiente de máquinas virtuais de produção e dados de aplicações e usuários, incluindo todos os Estágios de Implementação, abrangendo Assistência Técnica, Repasse de Conhecimento além dos serviços de garantia, manutenção e suporte técnico da solução proposta, para atender a Gerência de Tecnologia da Informação e Comunicação da Secretaria de Estado de Finanças de Rondônia - SEFIN/RO, conforme especificações e condições constantes deste Termo de Referência, pelo período de 12 meses.
+VALOR ESTIMADO: R$ 12.549.203,70
+PRAZO PARA PROPOSTAS: 2026-10-09T09:59:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92537305001302026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/130/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/130/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/130/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/130/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/130/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/130/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/130/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços Especializados  de Disponibilização de Cópias de Segurança de Dados (Backup como serviço) Serviços Especializad | Qtd: 2.0 | R$ Unit: 5027712.2
+  - Item 2: Serviços de Garantia de Equipamentos de TIC Serviços de Garantia de Equipamentos de TIC Conforme Termo de Referência. | Qtd: 2.0 | R$ Unit: 1168364.65
+  - Item 3: Serviços Especializados  de Disponibilização de Cópias de Segurança de Dados (Backup como serviço) Serviços Especializad | Qtd: 2.0 | R$ Unit: 72150.0
+  - Item 4: Treinamento Informática - Sistema / Software Treinamento Informática - Sistema / Software Conforme Termo de Referência. | Qtd: 1.0 | R$ Unit: 12750.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "04696490000163",
+    "razaoSocial": "SUP. EST. DE LICITACAO",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "dataInclusao": "2026-09-24T10:19:30",
+  "dataAtualizacao": "2026-09-24T10:19:30",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-24T10:19:31"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2026-09-24T10:30:00",
+  "dataEncerramentoProposta": "2026-10-09T09:59:00",
+  "dataPublicacaoPncp": "2026-09-24T10:19:30",
+  "dataAtualizacaoGlobal": "2026-09-24T10:20:49",
+  "unidadeOrgao": {
+    "ufNome": "Rondônia",
+    "ufSigla": "RO",
+    "municipioNome": "Porto Velho",
+    "codigoIbge": "1100205",
+    "codigoUnidade": "925373",
+    "nomeUnidade": "SUPERINTEND.ESTAD.DE COMPRAS E LICITAÇÕES-RO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92537305001302026",
+  "linkProcessoEletronico": "https://sei.ro.gov.br/",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 130,
+  "emendaParlamentar": null,
+  "numeroCompra": "130",
+  "processo": "0030.000941/2024-71",
+  "objetoCompra": "Registro de preços para contratação futura e eventual de empresa especializada no fornecimento de repositório de armazenamento de Dados de Backup e Proteção de Dados para armazenamento de cópias dos dados do ambiente de máquinas virtuais de produção e dados de aplicações e usuários, incluindo todos os Estágios de Implementação, abrangendo Assistência Técnica, Repasse de Conhecimento além dos serviços de garantia, manutenção e suporte técnico da solução proposta, para atender a Gerência de Tecnologia da Informação e Comunicação da Secretaria de Estado de Finanças de Rondônia - SEFIN/RO, conforme especificações e condições constantes deste Termo de Referência, pelo período de 12 meses.",
+  "informacaoComplementar": "Maiores informações e esclarecimentos sobre o certame serão prestados nas dependências da Superintendência Estadual de Licitações, sito a Av. Farquar, 2986, bairro: Pedrinhas, Complexo Rio Madeira, Ed. Pacaás Novos, 2º andar, em Porto Velho/RO - CEP: 76.801-470.",
+  "numeroControlePNCP": "04696490000163-1-000130/2026",
+  "valorTotalEstimado": 12549203.7,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE LAPAO (Lapão/BA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para locação de sistema web de contabilidade, Sistema Transparência LC 131/09, Sistema de Folha de Pagamento Web, Sistema de Contracheque online (Portal do Servidor), patrimônio, assim como também, executar os serviços de implantação do sistema, migração e conversão da base de dados e treinamento e capacitação do pessoal, para atender as necessidades da Secretaria Municipal de Finanças do Município de Lapão/BA.
+VALOR ESTIMADO: R$ 407.846,16
+PRAZO PARA PROPOSTAS: 2026-10-06T08:00:00
+LINK OFICIAL: https://bnccompras.com/Process/ProcessView?param1=[gkz]tBRGXW7iHQcNNeB9WB9m7R3YT_j4tll7xQhVZz4XNzkrWXei98UoxeuNU5gymy0sD4lREEEEpu1oBFTqtifRNLyBPrzeqqnchcPwJzbIpu0=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13891528000140/compras/2026/112/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13891528000140/compras/2026/112/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: MIGRAÇÃO E CONVERSÃO DA BASE DE DADOS, IMPLANTAÇÃO DOS SISTEMAS, TREINAMENTO DE PESSOAL. | Qtd: 1.0 | R$ Unit: 22050.0
+  - Item 2: SISTEMA DE PORTAL DO SERVIDOR COM APLICATIVO MOBILE. | Qtd: 24.0 | R$ Unit: 1116.67
+  - Item 3: SISTEMA DE TRANSPARÊNCIA PÚBLICA (EM  ATENDIMENTO A LC 131/09 E AO DECRETO N. 10.540/20 (SIAFIC). | Qtd: 24.0 | R$ Unit: 1600.0
+  - Item 4: SISTEMA WEB DE PATRIMÔNIO PÚBLICO. | Qtd: 24.0 | R$ Unit: 1972.0
+  - Item 5: SISTEMA WEB DE RECURSOS HUMANOS E  FOLHA DE PAGAMENTO (EM ATENDIMENTO AO E- SOCIAL). | Qtd: 24.0 | R$ Unit: 4236.17
+  - Item 6: SISTEMA WEB INTEGRADO DE CONTABILIDADE PÚBLICA EM ATENDIMENTO AO DECRETO N. 10.540/20 (SIAFIC). | Qtd: 24.0 | R$ Unit: 7150.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "13891528000140",
+    "razaoSocial": "MUNICIPIO DE LAPAO",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2026-08-28T15:09:27",
+  "dataAtualizacao": "2026-09-18T11:17:44",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC",
+  "dataAberturaProposta": "2026-08-28T16:00:00",
+  "dataEncerramentoProposta": "2026-10-06T08:00:00",
+  "dataPublicacaoPncp": "2026-08-28T15:09:27",
+  "dataAtualizacaoGlobal": "2026-09-18T11:18:08",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Lapão",
+    "codigoIbge": "2919157",
+    "codigoUnidade": "000000001",
+    "nomeUnidade": "MUNICIPIO DE LAPAO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]tBRGXW7iHQcNNeB9WB9m7R3YT_j4tll7xQhVZz4XNzkrWXei98UoxeuNU5gymy0sD4lREEEEpu1oBFTqtifRNLyBPrzeqqnchcPwJzbIpu0=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 112,
+  "emendaParlamentar": null,
+  "numeroCompra": "025",
+  "processo": "370/2026",
+  "objetoCompra": "Contratação de empresa especializada para locação de sistema web de contabilidade, Sistema Transparência LC 131/09, Sistema de Folha de Pagamento Web, Sistema de Contracheque online (Portal do Servidor), patrimônio, assim como também, executar os serviços de implantação do sistema, migração e conversão da base de dados e treinamento e capacitação do pessoal, para atender as necessidades da Secretaria Municipal de Finanças do Município de Lapão/BA.",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "13891528000140-1-000112/2026",
+  "valorTotalEstimado": 407846.16,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

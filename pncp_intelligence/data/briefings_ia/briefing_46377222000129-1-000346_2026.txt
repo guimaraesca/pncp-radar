@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SECRETARIA DA FAZENDA E PLANEJAMENTO (São Paulo/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO:  Contratação de licenças de software em caráter de subscrição que proveem solução de gerenciamento e operacionalização de ambientes virtualizados VMWare VVF, bem como direitos de atualização para as licenças supramencionadas, utilizadas em nossa infraestrutura de máquinas virtuais e clusters de servidores virtuais da Secretaria da Fazenda e Planejamento de São Paulo
+VALOR ESTIMADO: R$ 15,782,046.17
+PRAZO PARA PROPOSTAS: 2026-10-19T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93301105003992026
+SELO LOGÍSTICO: [BASE DIRETA: SÃO PAULO/SP]
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

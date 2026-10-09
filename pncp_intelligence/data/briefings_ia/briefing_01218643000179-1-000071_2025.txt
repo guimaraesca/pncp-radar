@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE VARJAO (Varjão/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS PARA LOCAÇÃO - LICENÇA DE USO DE SOFTWARE DE GESTÃO PÚBLICA, SISTEMATIZADO EM AMBIENTE 100% WEB. COM HOSPEDAGEM DE DADOS EM INTERNET DATA CENTER - IDC, DE ACORDO C
+VALOR ESTIMADO: R$ 56.800,00
+PRAZO PARA PROPOSTAS: 2025-01-09T16:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/01218643000179-1-000071/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01218643000179/compras/2025/71/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01218643000179/compras/2025/71/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS PARA LOCAÇÃO - LICENÇA DE USO DE SOFTWARE DE GESTÃO PÚBLICA, SISTEMATIZADO EM AMBIE | Qtd: 8.0 | R$ Unit: 7100.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 56800.0,
+  "orgaoEntidade": {
+    "cnpj": "01218643000179",
+    "razaoSocial": "MUNICIPIO DE VARJAO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-03-20T13:24:54",
+  "dataInclusao": "2025-03-20T13:24:54",
+  "numeroControlePNCP": "01218643000179-1-000071/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 71,
+  "emendaParlamentar": null,
+  "numeroCompra": "4",
+  "processo": "4",
+  "dataEncerramentoProposta": "2025-01-09T16:00:00",
+  "objetoCompra": "CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS PARA LOCAÇÃO - LICENÇA DE USO DE SOFTWARE DE GESTÃO PÚBLICA, SISTEMATIZADO EM AMBIENTE 100% WEB. COM HOSPEDAGEM DE DADOS EM INTERNET DATA CENTER - IDC, DE ACORDO C",
+  "informacaoComplementar": "CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS PARA LOCAÇÃO - LICENÇA DE USO DE SOFTWARE DE GESTÃO PÚBLICA, SISTEMATIZADO EM AMBIENTE 100% WEB. COM HOSPEDAGEM DE DADOS EM INTERNET DATA CENTER - IDC, DE ACORDO COM OS CRITÉRIOS ESTABELECIDOS NESTE TERMO DE REFERÊNCIA DA PREFEITURA MUNICIPAL DE VARJÃO - GO E DEMAIS ÓRGÃO DO MUNICÍPIO, CONFORME AS CONDIÇÕES, ESPECIFICAÇÕES E EXIGÊNCIAS TECNICAS CONSTANTES NESTE TERMO DE REFERÊNCIA E SEU ANEXO",
+  "dataAberturaProposta": "2025-01-09T08:00:00",
+  "dataPublicacaoPncp": "2025-03-20T13:24:54",
+  "dataAtualizacaoGlobal": "2025-03-20T13:24:59",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Varjão",
+    "codigoUnidade": "3",
+    "nomeUnidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
+    "codigoIbge": "5221908"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CENTI",
+  "valorTotalEstimado": 56800.0
+}

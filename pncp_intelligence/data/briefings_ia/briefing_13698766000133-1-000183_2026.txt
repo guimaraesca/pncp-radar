@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MONTE SANTO (Monte Santo/BA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para fornecimento de materiais didáticos bilíngues de Língua Inglesa, destinados aos estudantes e professores dos anos iniciais do Ensino Fundamental da Rede Municipal, compreendendo livros didáticos para os estudantes, materiais de apoio e aperfeiçoamento pedagógico para os professores, bem como a disponibilização de plataforma digital e aplicativo móvel de suporte ao processo de ensino e aprendizagem.
+VALOR ESTIMADO: R$ 1.176.002,25
+PRAZO PARA PROPOSTAS: 2026-10-07T08:00:00
+LINK OFICIAL: https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101116
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13698766000133/compras/2026/183/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 10001: LIVRO DIDÁTICO - ALUNOS (1º ANO AO 5º ) - Os lances ofertados que resultarem na redução do valor total do lote deverão i | Qtd: 1.0 | R$ Unit: 1054978.65
+  - Item 20001: Plataforma Digital e Aplicativo Móvel - Recursos destinados aos estudantes - Recursos destinados aos professores - Os la | Qtd: 1.0 | R$ Unit: 60000.0
+  - Item 30001: Livros de Língua Inglesa destinado ao Aperfeiçoamento dos Professores  - Os lances ofertados que resultarem na redução d | Qtd: 1.0 | R$ Unit: 61023.6
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "13698766000133",
+    "razaoSocial": "MUNICIPIO DE MONTE SANTO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-21T18:31:32",
+  "dataAtualizacao": "2026-09-21T18:31:32",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 183,
+  "emendaParlamentar": null,
+  "numeroCompra": "042",
+  "processo": "188",
+  "objetoCompra": "Contratação de empresa especializada para fornecimento de materiais didáticos bilíngues de Língua Inglesa, destinados aos estudantes e professores dos anos iniciais do Ensino Fundamental da Rede Municipal, compreendendo livros didáticos para os estudantes, materiais de apoio e aperfeiçoamento pedagógico para os professores, bem como a disponibilização de plataforma digital e aplicativo móvel de suporte ao processo de ensino e aprendizagem.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-21T08:00:00",
+  "dataEncerramentoProposta": "2026-10-07T08:00:00",
+  "dataPublicacaoPncp": "2026-09-21T18:31:32",
+  "dataAtualizacaoGlobal": "2026-09-21T18:31:32",
+  "numeroControlePNCP": "13698766000133-1-000183/2026",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Monte Santo",
+    "codigoUnidade": "000000001",
+    "nomeUnidade": "MUNICIPIO DE MONTE SANTO",
+    "codigoIbge": "2921500"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101116",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 1176002.25,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitações-E BB"
+}

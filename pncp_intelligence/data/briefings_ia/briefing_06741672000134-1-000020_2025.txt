@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SENADOR POMPEU - CAMARA MUNICIPAL (Senador Pompeu/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de serviço especializado para a realização de curso de capacitação profissional presencial voltado para vereadores, assessores, servidores e demais agentes políticos da Câmara Municipal, com o tema “Comunicação Política e Planejamento de Mandato”. O curso será ministrado pela profissional Elizabeth Falcão, com experiência em campanhas eleitorais, comunicação institucional e articulação política
+VALOR ESTIMADO: R$ 27.933,33
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/2349a3c7da8d4d1eb9c8c87b0fc1d4d5/contratacao-de-servico-especializado-para-a-realiz
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06741672000134/compras/2025/20/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06741672000134/compras/2025/20/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06741672000134/compras/2025/20/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06741672000134/compras/2025/20/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço especializado para a realização de curso de capacitação profissional presencial voltado para vereadores, assesso | Qtd: 1.0 | R$ Unit: 27933.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 25000.0,
+  "orgaoEntidade": {
+    "cnpj": "06741672000134",
+    "razaoSocial": "MUNICIPIO DE SENADOR POMPEU - CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-08-12T08:00:40",
+  "dataInclusao": "2025-08-12T08:00:40",
+  "numeroControlePNCP": "06741672000134-1-000020/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 20,
+  "emendaParlamentar": null,
+  "numeroCompra": "015/2025 DE",
+  "processo": "0000120250626000246",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "Contratação de serviço especializado para a realização de curso de capacitação profissional presencial voltado para vereadores, assessores, servidores e demais agentes políticos da Câmara Municipal, com o tema “Comunicação Política e Planejamento de Mandato”. O curso será ministrado pela profissional Elizabeth Falcão, com experiência em campanhas eleitorais, comunicação institucional e articulação política",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-08-12T08:00:40",
+  "dataAtualizacaoGlobal": "2025-08-14T11:23:51",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Senador Pompeu",
+    "codigoUnidade": "202599",
+    "nomeUnidade": "CÂMARA MUNICIPAL DE SENADOR POMPEU",
+    "codigoIbge": "2312700"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/2349a3c7da8d4d1eb9c8c87b0fc1d4d5/contratacao-de-servico-especializado-para-a-realiz",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia",
+  "valorTotalEstimado": 27933.33
+}

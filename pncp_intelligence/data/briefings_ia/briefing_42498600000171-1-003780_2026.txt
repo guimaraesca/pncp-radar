@@ -1,0 +1,90 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO RIO DE JANEIRO (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa(s) especializada(s), dividida em 02 (dois) Lotes 
+distintos, para atender às necessidades da Agência de Fomento do Estado do Rio de Janeiro S.A. – AgeRio, conforme abaixo: 
+LOTE 1: Serviços técnicos de sustentação, desenvolvimento de demandas evolutivas, consultoria técnica no ambiente SAP e atualização de versão e migração da infraestrutura dos ambientes SAP. 
+LOTE 2: Reativação e serviços de suporte e manutenção das licenças SAP (Enterprise Support).
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-07T14:00:00
+LINK OFICIAL: https://www.compras.rj.gov.br/EditaisLicitacoes/detalhar.action?idLic=37368
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/14
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/15
+doc_16.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/16
+doc_17.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/17
+doc_18.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/18
+doc_19.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/19
+doc_20.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498600000171/compras/2026/3780/arquivos/20
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: DESCRIÇÃO: SERVICO DE MANUTENCAO PREVENTIVA, CORRETIVA E EVOLUTIVA DA SOLUCAO DE GESTAO, COM ATUALIZACOES PROGRAMADAS, S | Qtd: 1.0 | R$ Unit: 0.0
+  - Item 2: DESCRIÇÃO: CONTRATACAO DE EMPRESA ESPECIALIZADA EM SERVICO DE ATUALIZACAO E SUPORTE DE MANUTENCAO DE SOFTWARE | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "42498600000171",
+    "razaoSocial": "ESTADO DO RIO DE JANEIRO",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-04T15:52:45",
+  "dataAtualizacao": "2026-09-10T09:26:16",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 3780,
+  "emendaParlamentar": null,
+  "numeroCompra": "PE 004/26",
+  "processo": "SEI-220002/000664/2026",
+  "objetoCompra": "Contratação de empresa(s) especializada(s), dividida em 02 (dois) Lotes \r\ndistintos, para atender às necessidades da Agência de Fomento do Estado do Rio de Janeiro S.A. – AgeRio, conforme abaixo: \r\nLOTE 1: Serviços técnicos de sustentação, desenvolvimento de demandas evolutivas, consultoria técnica no ambiente SAP e atualização de versão e migração da infraestrutura dos ambientes SAP. \r\nLOTE 2: Reativação e serviços de suporte e manutenção das licenças SAP (Enterprise Support).",
+  "informacaoComplementar": "Esta Unidade é uma Entidade Estatal e está sujeita à Lei nº 13.303/2016",
+  "dataAberturaProposta": "2026-09-11T08:00:00",
+  "dataEncerramentoProposta": "2026-10-07T14:00:00",
+  "dataPublicacaoPncp": "2026-09-04T15:52:45",
+  "dataAtualizacaoGlobal": "2026-09-10T09:26:19",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoUnidade": "227200",
+    "nomeUnidade": "Agência de Fomento do ERJ SA",
+    "codigoIbge": "3304557"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "42498600000171-1-003780/2026",
+  "amparoLegal": {
+    "nome": "Lei 13.303/2016, Art. 32, IV",
+    "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+    "codigo": 113
+  },
+  "linkSistemaOrigem": "https://www.compras.rj.gov.br/EditaisLicitacoes/detalhar.action?idLic=37368",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Portal de Compras Públicas do Estado do Rio de Janeiro"
+}

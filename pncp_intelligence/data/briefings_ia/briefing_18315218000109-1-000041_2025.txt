@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE LEANDRO FERREIRA (Leandro Ferreira/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA ADMINISTRATIVA NO SETOR DE CULTURA E TURISMO DO MUNICÍPIO DE LEANDRO FERREIRA, COMPREENDENDO A ELABORAÇÃO DE PROJETOS, PLANEJAMENTO ESTRATÉGICO E PROMOÇÃO DE EVENTOS CULTURAIS E TURÍSTICOS, VISANDO O DESENVOLVIMENTO SUSTENTÁVEL DO SETOR E A VALORIZAÇÃO DO PATRIMÔNIO CULTURAL LOCAL.
+VALOR ESTIMADO: R$ 42.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/18315218000109-1-000041/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18315218000109/compras/2025/41/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18315218000109/compras/2025/41/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONSULTORIA ADMINISTRATIVA NO SETOR DE CULTURA E TURISMO - ELABORAÇÃO DE PROJETOS, PLANEJAMENTO E PROMOÇÃO DE EVENTOS | Qtd: 1.0 | R$ Unit: 42000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 42000.0,
+  "orgaoEntidade": {
+    "cnpj": "18315218000109",
+    "razaoSocial": "MUNICIPIO DE LEANDRO FERREIRA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-24T12:49:31",
+  "dataAtualizacao": "2025-03-24T12:49:31",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 41,
+  "emendaParlamentar": null,
+  "numeroCompra": "000050",
+  "processo": "000050/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA ADMINISTRATIVA NO SETOR DE CULTURA E TURISMO DO MUNICÍPIO DE LEANDRO FERREIRA, COMPREENDENDO A ELABORAÇÃO DE PROJETOS, PLANEJAMENTO ESTRATÉGICO E PROMOÇÃO DE EVENTOS CULTURAIS E TURÍSTICOS, VISANDO O DESENVOLVIMENTO SUSTENTÁVEL DO SETOR E A VALORIZAÇÃO DO PATRIMÔNIO CULTURAL LOCAL.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-24T12:49:31",
+  "dataAtualizacaoGlobal": "2025-03-24T12:52:57",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Leandro Ferreira",
+    "codigoUnidade": "0202",
+    "nomeUnidade": "Dep. Administração, Planejamento e Finanças",
+    "codigoIbge": "3138302"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "18315218000109-1-000041/2025",
+  "valorTotalEstimado": 42000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ADPM - Administração Pública para Municípios Ltda"
+}

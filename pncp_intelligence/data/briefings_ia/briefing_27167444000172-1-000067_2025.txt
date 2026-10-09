@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTA TERESA (Santa Teresa/ES)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratacao de empresa para licenciamento de uso de sistema integrado, para gestao publica municipal, para atender as demandas desta entidade, bem como da administracao e legislativo municipal, sendo em ambiente nuvem (data center externo), com os servicos de conversao de dados, implantacao, migracao de dados pre-existentes, treinamento, manutencao, suporte tecnico e acompanhamento durante o periodo contratual.
+VALOR ESTIMADO: R$ 894.959,22
+PRAZO PARA PROPOSTAS: 2025-06-02T08:59:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/ES/Prefeitura-Municipal-de-Santa-Teresa-1219/PE-000012-2025-2025-389432
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/27167444000172/compras/2025/67/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/27167444000172/compras/2025/67/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lote 1 - IMPLANTACAO E CONVERSAO - SERVICO DE IMPLANTACAO, CONVERSAO DE DADOS - CAMARA Incluido os softwares de: Contabi | Qtd: 1.0 | R$ Unit: 10391.07
+  - Item 2: Lote 1 - IMPLANTACAO E CONVERSAO - SERVICO DE IMPLANTACAO, CONVERSAO DE DADOS - SMFA Incluido os softwares de: Sistema d | Qtd: 1.0 | R$ Unit: 31500.0
+  - Item 3: Lote 1 - IMPLANTACAO E CONVERSAO - SERVICO DE IMPLANTACAO, CONVERSAO DE DADOS - SMAR Incluido os softwares de: Sistema d | Qtd: 1.0 | R$ Unit: 47472.84
+  - Item 4: Lote 1 - IMPLANTACAO E CONVERSAO - SERVICO DE IMPLANTACAO, CONVERSAO DE DADOS - SMSA Incluido os softwares de: Contabili | Qtd: 1.0 | R$ Unit: 11667.56
+  - Item 5: Lote 1 - LICENCA DE USO DE SOFTWARE - DECLARACAO MENSAL DE SERVICOS ELETRONICA- ISS BANCARIO Incluido os servicos de cus | Qtd: 12.0 | R$ Unit: 3525.08
+  - Item 6: Lote 1 - LICENCA DE USO DE SOFTWARE - ITBI ON-LINE Incluido os servicos de customizacao, testes e servicos de manutencao | Qtd: 12.0 | R$ Unit: 1545.18
+  - Item 7: Lote 1 - LICENCA DE USO DE SOFTWARE - SISTEMA DE  GESTAO DE PROCESSO SELETIVO Incluido os servicos de customizacao, test | Qtd: 12.0 | R$ Unit: 1900.0
+  - Item 8: Lote 1 - LICENCA DE USO DE SOFTWARE - SISTEMA DE GESTAO DE ALMOXARIFADO Incluido os servicos de customizacao, testes e s | Qtd: 12.0 | R$ Unit: 681.82
+  - Item 9: Lote 1 - LICENCA DE USO DE SOFTWARE - SISTEMA DE GESTAO DE ALMOXARIFADO Incluido os servicos de customizacao, testes e s | Qtd: 12.0 | R$ Unit: 1219.99
+  - Item 10: Lote 1 - LICENCA DE USO DE SOFTWARE - SISTEMA DE GESTAO DE ALMOXARIFADO Incluido os servicos de customizacao, testes e s | Qtd: 12.0 | R$ Unit: 880.98
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "27167444000172",
+    "razaoSocial": "MUNICIPIO DE SANTA TERESA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-19T09:50:10",
+  "dataAtualizacao": "2025-05-19T09:50:10",
+  "numeroControlePNCP": "27167444000172-1-000067/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 67,
+  "emendaParlamentar": null,
+  "numeroCompra": "000012",
+  "processo": "001571/2025",
+  "srp": false,
+  "objetoCompra": "[Portal de Compras Públicas] - Contratacao de empresa para licenciamento de uso de sistema integrado, para gestao publica municipal, para atender as demandas desta entidade, bem como da administracao e legislativo municipal, sendo em ambiente nuvem (data center externo), com os servicos de conversao de dados, implantacao, migracao de dados pre-existentes, treinamento, manutencao, suporte tecnico e acompanhamento durante o periodo contratual.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-19T12:00:00",
+  "dataEncerramentoProposta": "2025-06-02T08:59:00",
+  "dataPublicacaoPncp": "2025-05-19T09:50:10",
+  "dataAtualizacaoGlobal": "2025-05-28T13:13:59",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Santa Teresa",
+    "codigoIbge": "3204609",
+    "codigoUnidade": "01",
+    "nomeUnidade": "CGAB - GABINETE DO PREFEITO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/ES/Prefeitura-Municipal-de-Santa-Teresa-1219/PE-000012-2025-2025-389432",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 894959.22,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

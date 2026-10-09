@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: AGENCIA NACIONAL DO PETROLEO, GAS NATURAL E BIOCOMBUSTIVEIS (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Subscrições para virtualização do ambiente tecnológico da ANP - VMware.
+VALOR ESTIMADO: R$ 1.052.956,80
+PRAZO PARA PROPOSTAS: 2025-05-21T10:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=32303105900092025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02313673000127/compras/2025/21/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 12.0 | R$ Unit: 83011.2
+  - Item 2: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 12.0 | R$ Unit: 4735.2
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 762119.64,
+  "orgaoEntidade": {
+    "cnpj": "02313673000127",
+    "razaoSocial": "AGENCIA NACIONAL DO PETROLEO, GAS NATURAL E BIOCOMBUSTIVEIS",
+    "esferaId": "F",
+    "poderId": "E"
+  },
+  "dataInclusao": "2025-05-07T07:22:35",
+  "dataAtualizacao": "2025-05-07T07:22:35",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2025-05-07T09:00:00",
+  "dataEncerramentoProposta": "2025-05-21T10:30:00",
+  "dataPublicacaoPncp": "2025-05-07T07:22:35",
+  "dataAtualizacaoGlobal": "2025-07-04T14:38:20",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoIbge": "3304557",
+    "codigoUnidade": "323031",
+    "nomeUnidade": "AGENCIA NACIONAL DO PETROLEO - ANP - RJ"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=32303105900092025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 21,
+  "emendaParlamentar": null,
+  "numeroCompra": "90009",
+  "processo": "48610204358202433",
+  "objetoCompra": "Subscrições para virtualização do ambiente tecnológico da ANP - VMware.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=32303105900092025",
+  "numeroControlePNCP": "02313673000127-1-000021/2025",
+  "valorTotalEstimado": 1052956.8,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

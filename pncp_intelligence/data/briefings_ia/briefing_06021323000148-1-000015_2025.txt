@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ALTAMIRA DO MARANHAO (Altamira do Maranhão/MA)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para prestação de serviços de Assessoria de Comunicação/Imprensa/Rede Social, planejamento estratégico das ações de comunicação social internas e externas, bem como Branding Fullservice com Consultoria de Criação, Planejamento, design e Organização de Serviços Digitais, a fim de atender as demandas da Prefeitura de Altamira do Maranhão.
+VALOR ESTIMADO: R$ 328.737,00
+PRAZO PARA PROPOSTAS: 2025-07-23T09:00:00
+LINK OFICIAL: app2-compras.licitaaltamirama.com.br/pesquisa/4353
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06021323000148/compras/2025/15/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa para prestação de serviços de assessoria e consultoria de comunicação, imprensa e publicidade, ma | Qtd: 12.0 | R$ Unit: 27394.75
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 298800.0,
+  "orgaoEntidade": {
+    "cnpj": "06021323000148",
+    "razaoSocial": "MUNICIPIO DE ALTAMIRA DO MARANHAO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-11T15:40:39",
+  "dataAtualizacao": "2025-07-11T15:40:39",
+  "numeroControlePNCP": "06021323000148-1-000015/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 15,
+  "emendaParlamentar": null,
+  "numeroCompra": "002",
+  "processo": "012605/2025",
+  "objetoCompra": "Contratação de empresa para prestação de serviços de Assessoria de Comunicação/Imprensa/Rede Social, planejamento estratégico das ações de comunicação social internas e externas, bem como Branding Fullservice com Consultoria de Criação, Planejamento, design e Organização de Serviços Digitais, a fim de atender as demandas da Prefeitura de Altamira do Maranhão.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-11T15:40:16",
+  "dataEncerramentoProposta": "2025-07-23T09:00:00",
+  "dataPublicacaoPncp": "2025-07-11T15:40:39",
+  "dataAtualizacaoGlobal": "2025-08-19T09:46:15",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "Altamira do Maranhão",
+    "codigoIbge": "2100402",
+    "codigoUnidade": "224",
+    "nomeUnidade": "Unidade Única"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "app2-compras.licitaaltamirama.com.br/pesquisa/4353",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 328737.0,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "STARTGOV SOLUCOES EM TECNOLOGIA LTDA"
+}

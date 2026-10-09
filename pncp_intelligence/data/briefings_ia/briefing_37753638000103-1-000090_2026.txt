@@ -1,0 +1,86 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO DAS COMUNICACOES (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação, por meio de Ata de Registro de Preços, de aquisição de servidores, licenciamento de software de virtualização, equipamentos de rede e prestação de serviços de suporte e garantia, para atender as necessidades da Telebras, de acordo com as especificações e quantidades estimadas constantes do Termo de Referência e seus Anexos.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-16T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92515005000402026
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37753638000103/compras/2026/90/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software Solução de Infraestrutura Hiperconvergen | Qtd: 10.0 | R$ Unit: 0.0
+  - Item 2: Manutenção de Software (Corretiva, Preventiva, Adaptativa) Garantia e Suporte por 60 meses - Solução de Infraestrutura H | Qtd: 10.0 | R$ Unit: 0.0
+  - Item 3: Serviços de Instalação, Transição e Configuração / Parametrização de Software Serviços de Instalação, migração e Configu | Qtd: 10.0 | R$ Unit: 0.0
+  - Item 4: Switch quantidade portas: 48, tipo portas: sfp+, velocidade porta: 10 gb, alimentação: 100/240, frequência: 50/60, tipo: | Qtd: 4.0 | R$ Unit: 0.0
+  - Item 5: Manutenção de Software (Corretiva, Preventiva, Adaptativa) Garantia e Suporte por 60 meses - Switches Tipo 1 (Acesso), c | Qtd: 4.0 | R$ Unit: 0.0
+  - Item 6: Instalação / Montagem / Manutenção - Equipamentos Elétricos Serviços de Instalação e Configuração - Switches Tipo 1 (Ace | Qtd: 4.0 | R$ Unit: 0.0
+  - Item 7: Switch quantidade portas: 48, tipo portas: sfp+, velocidade porta: 10 gb, alimentação: 100/240, frequência: 50/60, tipo: | Qtd: 4.0 | R$ Unit: 0.0
+  - Item 8: Manutenção de Software (Corretiva, Preventiva, Adaptativa) Garantia e Suporte por 60 meses - Switches Tipo 2 (Core), com | Qtd: 4.0 | R$ Unit: 0.0
+  - Item 9: Instalação / Montagem / Manutenção - Equipamentos Elétricos Serviços de Instalação e Configuração - Switches Tipo 2 (Cor | Qtd: 4.0 | R$ Unit: 0.0
+  - Item 10: Treinamento Informática - Sistema / Software Treinamentos (turmas de até 10 pessoas), conforme especificações constantes | Qtd: 2.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "37753638000103",
+    "razaoSocial": "MINISTERIO DAS COMUNICACOES",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-23T11:15:21",
+  "dataAtualizacao": "2026-09-23T11:15:21",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 90,
+  "emendaParlamentar": null,
+  "numeroCompra": "40",
+  "processo": "TLB-PRO-2026/01766",
+  "objetoCompra": "Contratação, por meio de Ata de Registro de Preços, de aquisição de servidores, licenciamento de software de virtualização, equipamentos de rede e prestação de serviços de suporte e garantia, para atender as necessidades da Telebras, de acordo com as especificações e quantidades estimadas constantes do Termo de Referência e seus Anexos.",
+  "informacaoComplementar": "As especificações do objeto detalhadas no Edital e seus Anexos prevalecem sobre aquelas cadastradas de forma genérica no sistema CATMAT/CATSER. A proposta comercial deve seguir o modelo de proposta constante no Anexo B do Edital. Obs.: O valor da proposta comercial cadastrado no sistema deverá ser o valor total da contratação.",
+  "dataAberturaProposta": "2026-09-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-16T10:00:00",
+  "dataPublicacaoPncp": "2026-09-23T11:15:21",
+  "dataAtualizacaoGlobal": "2026-09-23T11:16:25",
+  "numeroControlePNCP": "37753638000103-1-000090/2026",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoUnidade": "925150",
+    "nomeUnidade": "TELECOMUNICAÇÕES BRASILEIRAS S.A.",
+    "codigoIbge": "5300108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 13.303/2016, Art. 32, IV",
+    "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+    "codigo": 113
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92515005000402026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T11:15:22"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE FERNANDES TOURINHO (Fernandes Tourinho/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de sistema de Gestão de dados das marcações de ponto eletrônico híbrido, de acordo com a PORTARIA/MTP Nº 671/2021, sendo fornecido por meio de serviço de computação em nuvem (cloud computing), com infraestrutura de armazenamento, processamento e transmissão de dados, fornecido e mantido pela contratada, funcionando integrado diretamente com os provedores na Divisão de Pessoal e relógios de ponto, instalados nos prédios da administração municipal.
+VALOR ESTIMADO: R$ 26.400,00
+PRAZO PARA PROPOSTAS: 2025-07-08T07:00:00
+LINK OFICIAL: app2.licitardigital.com.br/pesquisa/68990
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18080887000130/compras/2025/26/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18080887000130/compras/2025/26/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18080887000130/compras/2025/26/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/18080887000130/compras/2025/26/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LOCAÇÃO DE SISTEMA DE TRATAMENTO DE PONTO EM NUVEM PARA 350 A 400 SERVIDORES.
+
+Principais Requisitos do Sistema de Ponto | Qtd: 12.0 | R$ Unit: 2200.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 25920.0,
+  "orgaoEntidade": {
+    "cnpj": "18080887000130",
+    "razaoSocial": "MUNICIPIO DE FERNANDES TOURINHO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-03T19:09:58",
+  "dataAtualizacao": "2025-07-03T19:09:58",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 26,
+  "emendaParlamentar": null,
+  "numeroCompra": "11",
+  "processo": "53/2025",
+  "objetoCompra": "Contratação de sistema de Gestão de dados das marcações de ponto eletrônico híbrido, de acordo com a PORTARIA/MTP Nº 671/2021, sendo fornecido por meio de serviço de computação em nuvem (cloud computing), com infraestrutura de armazenamento, processamento e transmissão de dados, fornecido e mantido pela contratada, funcionando integrado diretamente com os provedores na Divisão de Pessoal e relógios de ponto, instalados nos prédios da administração municipal.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-03T19:09:58",
+  "dataEncerramentoProposta": "2025-07-08T07:00:00",
+  "dataPublicacaoPncp": "2025-07-03T19:09:58",
+  "dataAtualizacaoGlobal": "2025-08-05T07:54:04",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Fernandes Tourinho",
+    "codigoUnidade": "50",
+    "nomeUnidade": "Unidade Única",
+    "codigoIbge": "3125804"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "app2.licitardigital.com.br/pesquisa/68990",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "18080887000130-1-000026/2025",
+  "valorTotalEstimado": 26400.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+}

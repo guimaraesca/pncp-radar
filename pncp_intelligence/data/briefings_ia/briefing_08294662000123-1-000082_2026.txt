@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ASSU (Assú/RN)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - A contratação de serviço continuado de fornecimento de equipamentos, em regime de locação, incluindo insumos em geral, calibradores, controles, reagentes e software de interfaceamento com todo licenciamento de software necessário para seu funcionamento, a realização dos exames de hematologia, equipamento analisador automático para Bioquímica Clínica e gasometria arterial, para atender a Rede Municipal de Saúde de Assú/RN. O serviço deve incluir, manutenção corretiva e preventiva, suporte técnico e atualização tecnológica dos equipamentos, garantindo a disponibilidade ininterrupta das operações laboratoriais e o suporte necessário ao diagnóstico clínico e acompanhamento terapêutico.
+VALOR ESTIMADO: R$ 1.681.310,88
+PRAZO PARA PROPOSTAS: 2026-10-06T08:59:00
+LINK OFICIAL: https://www.portaldecompraspublicas.com.br/processos/RN/Prefeitura-Municipal-de-Assu-1270/PE-025-2026-2026-512121
+BASE LOGÍSTICA COMPATÍVEL: Natal (100 a 200 km)
+SELO LOGÍSTICO: [BASE: NATAL | Assú/RN (210km)]
+DISTÂNCIA ESTIMADA DA BASE: 210 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08294662000123/compras/2026/82/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08294662000123/compras/2026/82/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: HEMATOLOGIA - Locação de equipamento de Hematologia | Qtd: 24.0 | R$ Unit: 6896.66
+  - Item 2: BIOQUÍMICA - Equipamento analisador automático para Bioquímica Clínica a ser cedido em regime de locação, o equipamento  | Qtd: 24.0 | R$ Unit: 7533.8
+  - Item 3: LOTE 03 - GASOMETRIA: Equipamento automatizado para testes de gasometria,portátil,que realize os testes: | Qtd: 24.0 | R$ Unit: 8789.16
+  - Item 4: HEMATOLOGIA - Conjunto de soluções, reagentes e acessórios para uso em análise em hematologia | Qtd: 28800.0 | R$ Unit: 3.97
+  - Item 5: BIOQUÍMICA - Integração/interfaceamento do equipamento com o sistema atualmente em uso na SMS | Qtd: 24.0 | R$ Unit: 1396.0
+  - Item 6: LOTE 03 - Dispositivo para realizar os testes de gasometria | Qtd: 7980.0 | R$ Unit: 52.3
+  - Item 7: BIOQUÍMICA - Ácido úrico enzimático | Qtd: 5400.0 | R$ Unit: 1.7
+  - Item 8: LOTE 03 - Integração/interfaceamento	do equipamento	com	o sistema atualmente	em uso	na SMS. | Qtd: 24.0 | R$ Unit: 1396.0
+  - Item 9: HEMATOLOGIA - Locação de software de gerenciamento de laboratório de análises clínicas em ambiente windows. | Qtd: 24.0 | R$ Unit: 1550.0
+  - Item 10: BIOQUÍMICA - Albumina | Qtd: 5400.0 | R$ Unit: 2.84
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "08294662000123",
+    "razaoSocial": "MUNICIPIO DE ASSU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-18T10:23:11",
+  "dataAtualizacao": "2026-09-18T10:23:14",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 82,
+  "emendaParlamentar": null,
+  "numeroCompra": "025",
+  "processo": "2026.03.18.0046",
+  "objetoCompra": "[Portal de Compras Públicas] - A contratação de serviço continuado de fornecimento de equipamentos, em regime de locação, incluindo insumos em geral, calibradores, controles, reagentes e software de interfaceamento com todo licenciamento de software necessário para seu funcionamento, a realização dos exames de hematologia, equipamento analisador automático para Bioquímica Clínica e gasometria arterial, para atender a Rede Municipal de Saúde de Assú/RN. O serviço deve incluir, manutenção corretiva e preventiva, suporte técnico e atualização tecnológica dos equipamentos, garantindo a disponibilidade ininterrupta das operações laboratoriais e o suporte necessário ao diagnóstico clínico e acompanhamento terapêutico.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-22T08:00:00",
+  "dataEncerramentoProposta": "2026-10-06T08:59:00",
+  "dataPublicacaoPncp": "2026-09-18T10:23:11",
+  "dataAtualizacaoGlobal": "2026-09-18T10:23:14",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Norte",
+    "ufSigla": "RN",
+    "municipioNome": "Assú",
+    "codigoUnidade": "001",
+    "nomeUnidade": "FUNDO MUNICIPAL DE SAÚDE DO MUNICÍPIO DE ASSÚ",
+    "codigoIbge": "2400208"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/RN/Prefeitura-Municipal-de-Assu-1270/PE-025-2026-2026-512121",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "08294662000123-1-000082/2026",
+  "valorTotalEstimado": 1681310.88,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

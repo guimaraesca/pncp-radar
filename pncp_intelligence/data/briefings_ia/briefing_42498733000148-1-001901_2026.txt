@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RIO DE JANEIRO (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços de fornecimento de Vale Alimentação e Vale Refeição, na modalidade cartão eletrônico com chip de segurança. A prestação de serviços de fornecimento de Vale Alimentação e Vale Refeição destina-se aos empregados da COMLURB, estendendo-se essa prestação de serviços também à RIOTUR, RIOLUZ, RIOFILME, IMPRENSA DA CIDADE, MULTIRIO, CET-RIO, IPLANRIO, RIO-URBE, RIOSAÚDE, RIOEVENTOS e MOBI-RIO nas condições definidas no Termo de Referência...
+VALOR ESTIMADO: R$ 881.472.736,34
+PRAZO PARA PROPOSTAS: 2026-10-19T09:59:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98600105016362026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42498733000148/compras/2026/1901/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Administração de Tíquete ( Ticket ) / Vale Alimentação (Car-tão Eletrônico) - Sistema Convênio Administração de Tíquete  | Qtd: 1.0 | R$ Unit: 881472736.34
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "42498733000148",
+    "razaoSocial": "MUNICIPIO DE RIO DE JANEIRO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-18T15:33:37",
+  "dataAtualizacao": "2026-09-24T13:32:22",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 1901,
+  "emendaParlamentar": null,
+  "numeroCompra": "1636",
+  "processo": "007100.020407/2026-11",
+  "objetoCompra": "Prestação de serviços de fornecimento de Vale Alimentação e Vale Refeição, na modalidade cartão eletrônico com chip de segurança. A prestação de serviços de fornecimento de Vale Alimentação e Vale Refeição destina-se aos empregados da COMLURB, estendendo-se essa prestação de serviços também à RIOTUR, RIOLUZ, RIOFILME, IMPRENSA DA CIDADE, MULTIRIO, CET-RIO, IPLANRIO, RIO-URBE, RIOSAÚDE, RIOEVENTOS e MOBI-RIO nas condições definidas no Termo de Referência...",
+  "informacaoComplementar": "Trata o presente processo de Registro de Preços visando à contratação de empresa especializada na prestação de serviços de administração, gerenciamento, emissão e fornecimento de Vale Alimentação (VA) e Vale Refeição (VR) , por meio de cartões eletrônicos com chip de segurança, aplicativo móvel e plataforma eletrônica de gestão, compreendendo\na disponibilização e recarga de créditos aos beneficiários, destinados aos empregados e estagiários da Companhia Municipal de Limpeza Urbana – COMLURB e das entidades da Administração Indireta do Município do Rio de Janeiro que aderirem à Ata de Registro de Preços, nas condições definidas no Termo de Referência que será acostado ao presente processo após a captação de demanda.\nA Ata de Registro de Preços terá vigência de 12 (doze) meses, sendo que os contratos dela decorrentes poderão ser celebrados com vigência de até 24 (vinte e quatro) meses, observada a legislação vigente. Os benefícios deverão ser disponibilizados por meio de cartão eletrônico flexível (cartão único), com chip de segurança, contendo carteiras eletrônicas distintas e saldos segregados para Vale Alimentação (VA) e Vale Refeição (VR), observadas as disposições do Programa de Alimentação do Trabalhador – PAT e demais normas aplicáveis. ",
+  "dataAberturaProposta": "2026-09-25T09:00:00",
+  "dataEncerramentoProposta": "2026-10-19T09:59:00",
+  "dataPublicacaoPncp": "2026-09-18T15:33:37",
+  "dataAtualizacaoGlobal": "2026-09-24T13:32:22",
+  "numeroControlePNCP": "42498733000148-1-001901/2026",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoUnidade": "986001",
+    "nomeUnidade": "MRJ-PREFEITURA MUNICIPAL DO RIO DE JANEIRO",
+    "codigoIbge": "3304557"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 13.303/2016, Art. 32, IV",
+    "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+    "codigo": 113
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98600105016362026",
+  "linkProcessoEletronico": "https://prefeitura.sei.rio/sip/login.php?sigla_orgao_sistema=PCRJ&sigla_sistema=SEI",
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 881472736.34,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-18T15:33:38"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

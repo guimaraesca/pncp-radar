@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE LACERDOPOLIS (Lacerdópolis/SC)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa especializada para a prestação de serviços de assessoria e consultoria técnica e operacional no gerenciamento de convênios e emendas parlamentares em âmbito federal e estadual.
+VALOR ESTIMADO: R$ 22.800,00
+PRAZO PARA PROPOSTAS: 2025-08-14T07:55:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Lacerdopolis-4008/CPMP-2-2025-2025-403214
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82939471000124/compras/2025/19/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Prestação de serviços especializados de assessoria e consultoria técnica e operacional no gerenciamento de convênios e e | Qtd: 6.0 | R$ Unit: 3800.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "82939471000124",
+    "razaoSocial": "MUNICIPIO DE LACERDOPOLIS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-08T08:08:32",
+  "dataAtualizacao": "2025-07-08T08:08:32",
+  "numeroControlePNCP": "82939471000124-1-000019/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 19,
+  "emendaParlamentar": null,
+  "numeroCompra": "2",
+  "processo": "81",
+  "srp": false,
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa especializada para a prestação de serviços de assessoria e consultoria técnica e operacional no gerenciamento de convênios e emendas parlamentares em âmbito federal e estadual.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-08T17:00:00",
+  "dataEncerramentoProposta": "2025-08-14T07:55:00",
+  "dataPublicacaoPncp": "2025-07-08T08:08:32",
+  "dataAtualizacaoGlobal": "2025-07-08T08:08:36",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Lacerdópolis",
+    "codigoIbge": "4209201",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Prefeitura Municipal de Lacerdópolis"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Lacerdopolis-4008/CPMP-2-2025-2025-403214",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 22800.0,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

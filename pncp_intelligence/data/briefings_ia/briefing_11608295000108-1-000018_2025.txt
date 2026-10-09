@@ -1,0 +1,88 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDO MUNICIPAL DE SAUDE (Brejinho de Nazaré/TO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA EM COMUNICAÇÃO, MARKETING E PRODUÇÃO DE CONTEÚDO, INCLUINDO O PLANEJAMENTO ESTRATÉGICO, CRIAÇÃO, EXECUÇÃO E ACOMPANHAMENTO DAS AÇÕES DE COMUNICAÇÃO INSTITUCIONAL E DE UTILIDADE PÚBLICA.
+VALOR ESTIMADO: R$ 49.050,00
+PRAZO PARA PROPOSTAS: 2025-04-14T23:59:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/11608295000108-1-000018/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/12
+doc_13.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/13
+doc_14.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/14
+doc_15.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/15
+doc_16.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/16
+doc_17.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/17
+doc_18.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/18
+doc_19.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/19
+doc_20.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/20
+doc_21.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/21
+doc_22.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11608295000108/compras/2025/18/arquivos/22
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTAÇÃO DE SERVIÇOS DE  ASSESSORIA EM COMUNICAÇÃO, MARKETING E PRODUÇÃO DE CONTEÚDO, INCLUINDO O PLANEJAMENTO ESTRATÉG | Qtd: 9.0 | R$ Unit: 5450.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "11608295000108",
+    "razaoSocial": "FUNDO MUNICIPAL DE SAUDE",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 45000.0,
+  "dataInclusao": "2025-07-03T13:57:20",
+  "dataAtualizacao": "2025-07-25T14:48:44",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 18,
+  "emendaParlamentar": null,
+  "numeroCompra": "(7406) | 1055-0",
+  "processo": "1055/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA EM COMUNICAÇÃO, MARKETING E PRODUÇÃO DE CONTEÚDO, INCLUINDO O PLANEJAMENTO ESTRATÉGICO, CRIAÇÃO, EXECUÇÃO E ACOMPANHAMENTO DAS AÇÕES DE COMUNICAÇÃO INSTITUCIONAL E DE UTILIDADE PÚBLICA.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-04-10T08:00:00",
+  "dataEncerramentoProposta": "2025-04-14T23:59:00",
+  "dataPublicacaoPncp": "2025-07-03T13:57:20",
+  "dataAtualizacaoGlobal": "2025-09-11T09:40:52",
+  "unidadeOrgao": {
+    "ufNome": "Tocantins",
+    "ufSigla": "TO",
+    "municipioNome": "Brejinho de Nazaré",
+    "codigoUnidade": "4",
+    "nomeUnidade": "FUNDO MUNICIPAL DE SAUDE",
+    "codigoIbge": "1703701"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "11608295000108-1-000018/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 49050.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Megasoft Informática"
+}

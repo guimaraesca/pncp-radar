@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO RIO DE JANEIRO (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada, mediante a renovação com upgrade do fornecimento da solução Kaspersky Endpoint Security for Business para Kaspersky NEXT EDR Optimum para o Hospital Universitário Pedro Ernesto.
+VALOR ESTIMADO: R$ 615,948.25
+PRAZO PARA PROPOSTAS: 2026-10-08T09:59:00
+LINK OFICIAL: https://www.compras.rj.gov.br/EditaisLicitacoes/detalhar.action?idLic=37365
+SELO LOGÍSTICO: [FORA DAS BASES]
+BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

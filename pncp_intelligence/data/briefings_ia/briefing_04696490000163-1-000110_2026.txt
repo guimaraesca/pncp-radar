@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SUP. EST. DE LICITACAO (Porto Velho/RO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para a prestação de serviços de internet dedicada, incluindo instalação, fornecimento de infraestrutura de rede, suporte técnico, segurança da informação (firewall por appliance), conectividade por VPN e monitoramento, para atendimento das necessidades dos 14 (quatorze) postos de fiscalização da Agência de Regulação de Serviços Públicos Delegados do Estado de Rondônia - AGERO.
+VALOR ESTIMADO: R$ 57.456,00
+PRAZO PARA PROPOSTAS: 2026-10-09T10:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92537305001962026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/110/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/110/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/110/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/110/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/110/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/110/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04696490000163/compras/2026/110/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Taxa de instalação link de internet - stfc (banda larga) Taxa de instalação link de internet - stfc (banda larga) Em cas | Qtd: 14.0 | R$ Unit: 4104.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "04696490000163",
+    "razaoSocial": "SUP. EST. DE LICITACAO",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-08-26T12:34:24",
+  "dataAtualizacao": "2026-09-24T13:58:42",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 110,
+  "emendaParlamentar": null,
+  "numeroCompra": "196",
+  "processo": "0001.000377/2026-04",
+  "objetoCompra": "Contratação de empresa especializada para a prestação de serviços de internet dedicada, incluindo instalação, fornecimento de infraestrutura de rede, suporte técnico, segurança da informação (firewall por appliance), conectividade por VPN e monitoramento, para atendimento das necessidades dos 14 (quatorze) postos de fiscalização da Agência de Regulação de Serviços Públicos Delegados do Estado de Rondônia - AGERO.",
+  "informacaoComplementar": "Maiores informações e esclarecimentos sobre o certame serão prestados nas dependências da Superintendência Estadual Licitações, sito a Av. Farquar, 2986, Bairro: Pedrinhas, Complexo Rio Madeira, Ed. Pacaás Novos, 2º Andar, em Porto Velho/RO - CEP: 76.801-470.",
+  "dataAberturaProposta": "2026-09-24T14:36:00",
+  "dataEncerramentoProposta": "2026-10-09T10:30:00",
+  "dataPublicacaoPncp": "2026-08-26T12:34:24",
+  "dataAtualizacaoGlobal": "2026-09-24T13:58:42",
+  "numeroControlePNCP": "04696490000163-1-000110/2026",
+  "unidadeOrgao": {
+    "ufNome": "Rondônia",
+    "ufSigla": "RO",
+    "municipioNome": "Porto Velho",
+    "codigoUnidade": "925373",
+    "nomeUnidade": "SUPERINTEND.ESTAD.DE COMPRAS E LICITAÇÕES-RO",
+    "codigoIbge": "1100205"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92537305001962026",
+  "linkProcessoEletronico": "https://sei.ro.gov.br/",
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 57456.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-08-26T12:34:24"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FRANCA CAMARA MUNICIPAL (Franca/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Licença Chat GPT Plus para Diretoria Geral
+VALOR ESTIMADO: R$ 6.612,00
+PRAZO PARA PROPOSTAS: 2025-08-08T23:59:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/49219538000180-1-000074/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/49219538000180/compras/2025/74/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/49219538000180/compras/2025/74/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LICENÇA DE SOFTWARE CHATGPT | Qtd: 5.0 | R$ Unit: 1322.4
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "49219538000180",
+    "razaoSocial": "FRANCA CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-08-05T16:16:30",
+  "dataInclusao": "2025-08-05T16:16:30",
+  "numeroControlePNCP": "49219538000180-1-000074/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 74,
+  "emendaParlamentar": null,
+  "numeroCompra": "00049",
+  "processo": "00089/2025",
+  "dataEncerramentoProposta": "2025-08-08T23:59:00",
+  "objetoCompra": "Licença Chat GPT Plus para Diretoria Geral",
+  "informacaoComplementar": "A versão paga da ferramenta oferece acesso a modelos avançados de inteligência artificial, com maior capacidade de compreensão e geração de textos técnicos, jurídicos e administrativos, além de acesso prioritário e com menor tempo de resposta. Dentre os principais benefícios institucionais estão a otimização do tempo de trabalho dos servidores no apoio à produção legislativa e administrativa, reduzindo o tempo de elaboração de documentos padronizados e estudos preliminares; melhoria na qualidade dos textos institucionais, com sugestões linguísticas, correções gramaticais e padronização da comunicação oficial; ferramenta de apoio à pesquisa jurídica e legislativa, com simulações de argumentos, indicações de jurisprudência e análises comparativas; geração de ideias e conteúdos para campanhas educativas, projetos de lei, apresentações públicas e eventos promovidos pela Câmara; e acesso prioritário e estável à plataforma, especialmente em horários de pico; evitando interrupções no atendimento às demandas internas.",
+  "dataAberturaProposta": "2025-08-06T07:00:00",
+  "dataPublicacaoPncp": "2025-08-05T16:16:30",
+  "dataAtualizacaoGlobal": "2025-08-19T08:45:12",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Franca",
+    "codigoUnidade": "010100",
+    "nomeUnidade": "CÂMARA MUNICIPAL DE FRANCA",
+    "codigoIbge": "3516200"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "EDDYDATA SERVICOS DE INFORMATICA LTDA",
+  "valorTotalEstimado": 6612.0
+}

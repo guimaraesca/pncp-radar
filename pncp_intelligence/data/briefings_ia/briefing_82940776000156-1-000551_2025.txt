@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CAIBI (Caibi/SC)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: A realização da Conferência Municipal das Cidades é uma etapa essencial e obrigatória para a participação do Município na 6ª Conferência Estadual e, posteriormente, na 6ª Conferência Nacional das Cidades, conforme diretrizes estabelecidas pelo Ministério das Cidades. A conferência municipal constitui um espaço democrático e participativo que visa discutir políticas públicas de desenvolvimento urbano, habitação, mobilidade, saneamento, meio ambiente e gestão territorial, além de eleger delegados para as etapas subsequentes.
+Diante da complexidade e relevância dos temas tratados, faz-se necessária a contratação de palestrante especializado para contribuir com informações técnicas atualizadas, contextualizar os desafios locais à luz das políticas públicas nacionais e estaduais, e fomentar o debate qualificado entre os participantes. A presença de um palestrante capacitado garante maior engajamento dos diversos segmentos da sociedade civil e melhora a qualidade das propostas deliberadas na conferência.
+Além disso, a contratação de assessoria técnica especializada é imprescindível para o adequado planejamento, organização e condução dos trabalhos da conferência, garantindo o cumprimento das exigências regimentais, normativas e operacionais estabelecidas pelo Conselho Nacional das Cidades. Esta assessoria irá atuar desde a fase preparatória até a finalização da conferência, assegurando o correto registro das deliberações, a sistematização das propostas e o processo de eleição dos delegados.
+Portanto, a contratação dos referidos serviços é de interesse público, sendo fundamental para assegurar a efetiva participação do Município na 6ª Conferência das Cidades, bem como para a construção de uma política urbana democrática, transparente e alinhada com as reais necessidades da população local.
+VALOR ESTIMADO: R$ 8.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/82940776000156-1-000551/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/82940776000156/compras/2025/551/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PALESTRA
+<p><span style="font-size: 11.5pt; line-height:  107%em; font-family: Arial, sans-serif;">Contratação de pales | Qtd: 1.0 | R$ Unit: 8000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 8000.0,
+  "orgaoEntidade": {
+    "cnpj": "82940776000156",
+    "razaoSocial": "MUNICIPIO DE CAIBI",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-06-03T08:47:17",
+  "dataAtualizacao": "2025-06-03T08:47:17",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-06-03T08:47:17",
+  "dataAtualizacaoGlobal": "2025-06-03T08:49:44",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Caibi",
+    "codigoIbge": "4203105",
+    "codigoUnidade": "03001",
+    "nomeUnidade": "Dpto de Administração"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 551,
+  "emendaParlamentar": null,
+  "numeroCompra": "PRD 543",
+  "processo": "607/2025",
+  "objetoCompra": "A realização da Conferência Municipal das Cidades é uma etapa essencial e obrigatória para a participação do Município na 6ª Conferência Estadual e, posteriormente, na 6ª Conferência Nacional das Cidades, conforme diretrizes estabelecidas pelo Ministério das Cidades. A conferência municipal constitui um espaço democrático e participativo que visa discutir políticas públicas de desenvolvimento urbano, habitação, mobilidade, saneamento, meio ambiente e gestão territorial, além de eleger delegados para as etapas subsequentes.\nDiante da complexidade e relevância dos temas tratados, faz-se necessária a contratação de palestrante especializado para contribuir com informações técnicas atualizadas, contextualizar os desafios locais à luz das políticas públicas nacionais e estaduais, e fomentar o debate qualificado entre os participantes. A presença de um palestrante capacitado garante maior engajamento dos diversos segmentos da sociedade civil e melhora a qualidade das propostas deliberadas na conferência.\nAlém disso, a contratação de assessoria técnica especializada é imprescindível para o adequado planejamento, organização e condução dos trabalhos da conferência, garantindo o cumprimento das exigências regimentais, normativas e operacionais estabelecidas pelo Conselho Nacional das Cidades. Esta assessoria irá atuar desde a fase preparatória até a finalização da conferência, assegurando o correto registro das deliberações, a sistematização das propostas e o processo de eleição dos delegados.\nPortanto, a contratação dos referidos serviços é de interesse público, sendo fundamental para assegurar a efetiva participação do Município na 6ª Conferência das Cidades, bem como para a construção de uma política urbana democrática, transparente e alinhada com as reais necessidades da população local.",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "82940776000156-1-000551/2025",
+  "valorTotalEstimado": 8000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

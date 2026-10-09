@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL REGIONAL ELEITORAL DO AMAZONAS (Manaus/AM)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços técnicos especializados na área de Tecnologia da Informação, por meio da execução continuada de atividades de suporte e atendimento técnico, modelo SERVICE DESK
+VALOR ESTIMADO: R$ 2,677,859.12
+PRAZO PARA PROPOSTAS: 2026-10-13T11:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=07000305001552026
+SELO LOGÍSTICO: [FORA DAS BASES]
+BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

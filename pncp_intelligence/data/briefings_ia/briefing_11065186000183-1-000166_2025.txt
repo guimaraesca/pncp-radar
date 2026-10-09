@@ -1,0 +1,83 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SERVICO AUTONOMO DE AGUA E ESGOTO DE SALTO - SAAE SALTO (Salto/SP)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de engenharia para a prestação de serviços para execução de pesquisa de vazamentos com tecnologia de inteligência artificial em redes dos sistemas de abastecimento de água do SAAE SALTO para a redução permanente dos índices de perda de água.
+VALOR ESTIMADO: R$ 655.849,96
+PRAZO PARA PROPOSTAS: 2025-08-08T08:00:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]mT5o7qoUYGEwQiz7RL0YenFxVFI_naPJAeRtgckUCImViR04WZTH3MV0jtuOMkzf0ZGkdMsg5Yj_R61XUQxDTsm9k3PxJlh42hALwAj6VTk=
+BASE LOGÍSTICA COMPATÍVEL: Campinas (Até 50 km)
+SELO LOGÍSTICO: [BASE: CAMPINAS | Salto/SP (40km)]
+DISTÂNCIA ESTIMADA DA BASE: 40 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11065186000183/compras/2025/166/arquivos/11
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Software de gestão (comercial) | Qtd: 12.0 | R$ Unit: 13250.0
+  - Item 2: Software de monitoramento de pressão (comercial) | Qtd: 12.0 | R$ Unit: 24270.83
+  - Item 3: Treinamento (comercial) | Qtd: 1.0 | R$ Unit: 64000.0
+  - Item 4: Pesquisa de vazamentos ( comercial ) 250km | Qtd: 12.0 | R$ Unit: 11800.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "11065186000183",
+    "razaoSocial": "SERVICO AUTONOMO DE AGUA E ESGOTO DE SALTO - SAAE SALTO",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 623000.0,
+  "dataInclusao": "2025-07-18T09:41:40",
+  "dataAtualizacao": "2025-08-22T14:31:56",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 166,
+  "emendaParlamentar": null,
+  "numeroCompra": "2025/100001",
+  "processo": "2025/000617",
+  "objetoCompra": "Contratação de serviços de engenharia para a prestação de serviços para execução de pesquisa de vazamentos com tecnologia de inteligência artificial em redes dos sistemas de abastecimento de água do SAAE SALTO para a redução permanente dos índices de perda de água.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-07-19T08:00:00",
+  "dataEncerramentoProposta": "2025-08-08T08:00:00",
+  "dataPublicacaoPncp": "2025-07-18T09:41:40",
+  "dataAtualizacaoGlobal": "2025-08-22T14:32:00",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Salto",
+    "codigoUnidade": "1",
+    "nomeUnidade": "SERVIÇO AUTONOMO DE AGUA E ESGOTO DE SALTO - SP",
+    "codigoIbge": "3545209"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "11065186000183-1-000166/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]mT5o7qoUYGEwQiz7RL0YenFxVFI_naPJAeRtgckUCImViR04WZTH3MV0jtuOMkzf0ZGkdMsg5Yj_R61XUQxDTsm9k3PxJlh42hALwAj6VTk=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 655849.96,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 6,
+  "modoDisputaNome": "Fechado-Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

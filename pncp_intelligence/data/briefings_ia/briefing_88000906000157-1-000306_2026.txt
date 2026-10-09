@@ -1,0 +1,81 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ALVORADA (Alvorada/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa especializada para fornecer e implantar sistema de gestão do Cadastro Técnico Territorial Multifinalitário em Alvorada-RS, incluindo licenciamento de software SaaS, levantamento aerofotogramétrico digital, incluindo modelagem, parametrização, configuração, integração de sistemas, capacitação de servidores e prestação de serviços sob demanda.
+VALOR ESTIMADO: R$ 8.968.183,33
+PRAZO PARA PROPOSTAS: 2026-10-06T08:59:00
+LINK OFICIAL: https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Alvorada-59/PE-67-2026-2026-505171
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88000906000157/compras/2026/306/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88000906000157/compras/2026/306/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88000906000157/compras/2026/306/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LOTE ÚNICO - LEVANTAMENTO, ANALISE, DIAGNOSTICO E ORGANIZACAO | Qtd: 1.0 | R$ Unit: 137250.0
+  - Item 2: LOTE ÚNICO - DIGITALIZACAO E ORGANIZACAO DO BANCO DE DADOS DO CADASTRO IMOBILIARIO MUNICIPAL E DIGITALIZACAO BIC | Qtd: 1.0 | R$ Unit: 108462.5
+  - Item 3: LOTE ÚNICO - FORNECIMENTO DE LOCACAO DE LICENCA DE SISTEMA COMO SERVICO (SOFTWARE AS A SERVICE - SAAS) NA WEB PARA GESTA | Qtd: 12.0 | R$ Unit: 39575.0
+  - Item 4: LOTE ÚNICO - FORNECIMENTO DE HOSPEDAGEM EM DATACENTER, CENTRAL DE ATENDIMENTO AO USUARIO, SERVICO DE HELP-DESK, SUPORTE  | Qtd: 12.0 | R$ Unit: 15366.67
+  - Item 5: LOTE ÚNICO - IMPLANTACAO DA APLICACAO DO CADASTRO TECNICO MULTIFINALITARIO | Qtd: 1.0 | R$ Unit: 14783.33
+  - Item 6: LOTE ÚNICO - INTEGRACAO ENTRE SISTEMAS | Qtd: 1.0 | R$ Unit: 55000.0
+  - Item 7: LOTE ÚNICO - PARAMETRIZACAO DE CERTIDOES | Qtd: 6.0 | R$ Unit: 8833.33
+  - Item 8: LOTE ÚNICO - CONFIGURACAO DAS APLICACOES MOBILE - FISCALIZACAO | Qtd: 3.0 | R$ Unit: 8900.0
+  - Item 9: LOTE ÚNICO - PARAMETRIZACAO DE NOTIFICACOES | Qtd: 1.0 | R$ Unit: 10075.0
+  - Item 10: LOTE ÚNICO - CAPACITACAO DOS ADMINISTRADORES DO SISTEMA DE CADASTRO TECNICO MULTIFINALITARIO | Qtd: 1.0 | R$ Unit: 10162.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "88000906000157",
+    "razaoSocial": "MUNICIPIO DE ALVORADA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-08-19T14:51:02",
+  "dataAtualizacao": "2026-09-21T13:33:49",
+  "numeroControlePNCP": "88000906000157-1-000306/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 306,
+  "emendaParlamentar": null,
+  "numeroCompra": "67",
+  "processo": "11588/2026",
+  "srp": false,
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa especializada para fornecer e implantar sistema de gestão do Cadastro Técnico Territorial Multifinalitário em Alvorada-RS, incluindo licenciamento de software SaaS, levantamento aerofotogramétrico digital, incluindo modelagem, parametrização, configuração, integração de sistemas, capacitação de servidores e prestação de serviços sob demanda.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-21T10:10:00",
+  "dataEncerramentoProposta": "2026-10-06T08:59:00",
+  "dataPublicacaoPncp": "2026-08-19T14:51:02",
+  "dataAtualizacaoGlobal": "2026-09-21T13:33:49",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Alvorada",
+    "codigoIbge": "4300604",
+    "codigoUnidade": "82",
+    "nomeUnidade": "Departamento Geral de Compras, Licitações e Contratos"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Alvorada-59/PE-67-2026-2026-505171",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 8968183.33,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

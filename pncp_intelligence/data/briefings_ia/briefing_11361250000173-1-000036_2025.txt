@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SERRITA (Serrita/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ASSESSORIA E CONSULTORIA TÉCNICA NO APOIO ADMINISTRATIVO JUNTO A EQUIPE DE LICITAÇÕES E CONTRATOS, DA PREFEITURA MUNICIPAL DE SERRITA/PE, PELO PERÍODO DE 12 (DOZE) MESES.
+VALOR ESTIMADO: R$ 46.400,04
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://www.licitacaoserrita.com.br
+BASE LOGÍSTICA COMPATÍVEL: Recife (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PE]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11361250000173/compras/2025/36/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ASSESSORIA E CONSULTORIA TÉCNICA NO APOIO ADMINISTRATIVO JUNTO A EQUIPE | Qtd: 12.0 | R$ Unit: 3866.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "11361250000173",
+    "razaoSocial": "MUNICIPIO DE SERRITA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-03-20T09:32:06",
+  "dataAtualizacao": "2025-03-20T09:32:06",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 36,
+  "emendaParlamentar": null,
+  "numeroCompra": "014/2025",
+  "processo": "039/2025",
+  "objetoCompra": "CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ASSESSORIA E CONSULTORIA TÉCNICA NO APOIO ADMINISTRATIVO JUNTO A EQUIPE DE LICITAÇÕES E CONTRATOS, DA PREFEITURA MUNICIPAL DE SERRITA/PE, PELO PERÍODO DE 12 (DOZE) MESES.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-20T09:32:06",
+  "dataAtualizacaoGlobal": "2025-03-20T09:32:07",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Serrita",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SERRITA - PE",
+    "codigoIbge": "2614006"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "11361250000173-1-000036/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://www.licitacaoserrita.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 46400.04,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BR Conectado"
+}

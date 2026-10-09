@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE ADMINISTRACAO DO ESPIRITO SANTO (Vitória/ES)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Aquisição de 01 (uma) licença Microsoft Windows Server Standard 2025, 64 bits, 16 núcleos (EP2-25182), 01 (um) firewall SonicWall TZ470 (02-SSC-2829) e a renovação do pacote Essential Protection Service Suite (02-SSC-5139) com duração de 03 (três) anos.
+VALOR ESTIMADO: R$ 56.286,28
+PRAZO PARA PROPOSTAS: 2025-07-09T08:00:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/ES/Conselho-Regional-de-Administracao-do-Espirito-Santo-3808/DE-007-2025-2025-402412
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/28414217000167/compras/2025/11/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/28414217000167/compras/2025/11/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/28414217000167/compras/2025/11/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/28414217000167/compras/2025/11/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/28414217000167/compras/2025/11/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/28414217000167/compras/2025/11/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Aquisição de 01 (uma) licença Microsoft Windows Server Standard 2025, 64 bits, 16 núcleos (EP2-25182), 01 (um) firewall  | Qtd: 1.0 | R$ Unit: 56286.28
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "28414217000167",
+    "razaoSocial": "CONSELHO REGIONAL DE ADMINISTRACAO DO ESPIRITO SANTO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 44500.0,
+  "dataInclusao": "2025-07-03T17:25:00",
+  "dataAtualizacao": "2025-07-03T17:25:00",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 11,
+  "emendaParlamentar": null,
+  "numeroCompra": "007",
+  "processo": "476913.000581/2025-01",
+  "objetoCompra": "[Portal de Compras Públicas] - Aquisição de 01 (uma) licença Microsoft Windows Server Standard 2025, 64 bits, 16 núcleos (EP2-25182), 01 (um) firewall SonicWall TZ470 (02-SSC-2829) e a renovação do pacote Essential Protection Service Suite (02-SSC-5139) com duração de 03 (três) anos.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-04T08:00:00",
+  "dataEncerramentoProposta": "2025-07-09T08:00:00",
+  "dataPublicacaoPncp": "2025-07-03T17:25:00",
+  "dataAtualizacaoGlobal": "2025-08-01T13:20:40",
+  "numeroControlePNCP": "28414217000167-1-000011/2025",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Vitória",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Conselho Regional de Administração do Espírito Santo",
+    "codigoIbge": "3205309"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/ES/Conselho-Regional-de-Administracao-do-Espirito-Santo-3808/DE-007-2025-2025-402412",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "valorTotalEstimado": 56286.28,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

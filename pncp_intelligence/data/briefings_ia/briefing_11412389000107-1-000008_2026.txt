@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDO MUNICIPAL DE SAUDE DE TOMAR DO GERU (Tomar do Geru/SE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento de solução integrada de Business Intelligence (BI) aplicada à gestão da saúde, contemplando painel gerencial de indicadores, suporte técnico, manutenção, hospedagem dos ambientes do e-SUS e BI em nuvem, atendimento presencial e remoto aos usuários e disponibilização de e tablets, notbooks e impressoras, necessários à execução dos serviços em regime de comodato, para atender as necessidades do Fundo Municipal de Saúde de Tomar do Geru/SE.
+VALOR ESTIMADO: R$ 467.664,67
+PRAZO PARA PROPOSTAS: 2026-10-21T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/11412389000107-1-000008/2026
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11412389000107/compras/2026/8/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11412389000107/compras/2026/8/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11412389000107/compras/2026/8/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11412389000107/compras/2026/8/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11412389000107/compras/2026/8/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇO DE IMPLANTAÇÃO DE SISTEMA DE BUSINESS INTELLIGENCE. Especificação: SERVIÇO DE IMPLANTAÇÃO DE SISTEMA DE BUSINESS | Qtd: 1.0 | R$ Unit: 15571.99
+  - Item 2: FORNECIMENTO DE LICENÇAS DE USO DE SISTEMA DE BUSINESS INTELLIGENCE. Especificação: FORNECIMENTO DE LICENÇAS DE USO DE S | Qtd: 12.0 | R$ Unit: 37674.39
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "11412389000107",
+    "razaoSocial": "FUNDO MUNICIPAL DE SAUDE DE TOMAR DO GERU",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-08T11:42:14",
+  "dataAtualizacao": "2026-10-02T13:20:44",
+  "anoCompra": 2026,
+  "sequencialCompra": 8,
+  "emendaParlamentar": null,
+  "numeroCompra": "06",
+  "processo": "11",
+  "objetoCompra": "Contratação de empresa especializada para o fornecimento de solução integrada de Business Intelligence (BI) aplicada à gestão da saúde, contemplando painel gerencial de indicadores, suporte técnico, manutenção, hospedagem dos ambientes do e-SUS e BI em nuvem, atendimento presencial e remoto aos usuários e disponibilização de e tablets, notbooks e impressoras, necessários à execução dos serviços em regime de comodato, para atender as necessidades do Fundo Municipal de Saúde de Tomar do Geru/SE.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-10-05T09:00:00",
+  "dataEncerramentoProposta": "2026-10-21T09:00:00",
+  "dataPublicacaoPncp": "2026-09-08T11:42:14",
+  "dataAtualizacaoGlobal": "2026-10-02T13:21:05",
+  "unidadeOrgao": {
+    "ufNome": "Sergipe",
+    "ufSigla": "SE",
+    "municipioNome": "Tomar do Geru",
+    "codigoIbge": "2807501",
+    "codigoUnidade": "11412389000107",
+    "nomeUnidade": "FUNDO MUNICIPAL DE SAUDE DE TOMAR DO GERU"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "11412389000107-1-000008/2026",
+  "srp": false,
+  "valorTotalEstimado": 467664.67,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "3Tecnos Tecnologia LTDA"
+}

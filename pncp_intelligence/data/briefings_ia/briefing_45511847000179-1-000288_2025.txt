@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ARACATUBA (Araçatuba/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação  de  Pessoa  Jurídica  ou  MEI  para  promoção  de  projetos  sociais, especialmente  voltados  à  cultura,  educação  e  cidadania,  por  meio de um agente mobilizador  cultural,  com  experiência  comprovada  em  ações  e  projetos  soc
+VALOR ESTIMADO: R$ 36.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/45511847000179-1-000288/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45511847000179/compras/2025/288/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de Pessoa Jurídica ou MEI para promoção de projetos sociais, especialmente voltados à cultura, educação e ci | Qtd: 1.0 | R$ Unit: 36000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "45511847000179",
+    "razaoSocial": "MUNICIPIO DE ARACATUBA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 23400.0,
+  "dataInclusao": "2025-05-05T09:44:26",
+  "dataAtualizacao": "2025-05-05T09:44:26",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 288,
+  "emendaParlamentar": null,
+  "numeroCompra": "312",
+  "processo": "312/2025",
+  "objetoCompra": "Contratação  de  Pessoa  Jurídica  ou  MEI  para  promoção  de  projetos  sociais, especialmente  voltados  à  cultura,  educação  e  cidadania,  por  meio de um agente mobilizador  cultural,  com  experiência  comprovada  em  ações  e  projetos  soc",
+  "informacaoComplementar": "Proc. Administrativo 6.592/2025",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-05-05T09:44:26",
+  "dataAtualizacaoGlobal": "2025-05-05T09:44:37",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Araçatuba",
+    "codigoUnidade": "2",
+    "nomeUnidade": "Prefeitura Municipal de Araçatuba",
+    "codigoIbge": "3502804"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "45511847000179-1-000288/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 36000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Grupo Assessor"
+}

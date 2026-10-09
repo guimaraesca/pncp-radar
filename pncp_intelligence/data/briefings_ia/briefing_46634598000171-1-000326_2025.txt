@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE TIETE (Tietê/SP)
+MODALIDADE: Credenciamento
+OBJETO DA CONTRATAÇÃO: Contratação de Instrutor de Fanfarra
+VALOR ESTIMADO: R$ 54.000,00
+PRAZO PARA PROPOSTAS: 2025-07-08T13:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/46634598000171-1-000326/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46634598000171/compras/2025/326/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATACAO DE PROFISSIONAL EM AULAS DE FANFARRA | Qtd: 1080.0 | R$ Unit: 50.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "46634598000171",
+    "razaoSocial": "MUNICIPIO DE TIETE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-06-23T09:25:59",
+  "dataAtualizacao": "2025-06-23T09:25:59",
+  "numeroControlePNCP": "46634598000171-1-000326/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 326,
+  "emendaParlamentar": null,
+  "numeroCompra": "7",
+  "processo": "7/2025",
+  "objetoCompra": "Contratação de Instrutor de Fanfarra",
+  "informacaoComplementar": "JUSTIFICATIVA PARA O PROCESSO DE CREDENCIAMENTO DE INSTRUTORES DE FANFARRA\r\n\r\n\r\nO presente processo administrativo tem por objetivo credenciar instrutores para atuação nas fanfarras das unidades escolares da Rede Municipal de Ensino de Tietê, promovido pela Secretaria Municipal de Educação. A realização deste credenciamento é justificada por diversos aspectos pedagógicos, culturais, sociais e legais, conforme se detalha a seguir.\r\nA música desempenha um papel fundamental no processo educativo, atuando diretamente no desenvolvimento cognitivo, emocional e social dos estudantes. As fanfarras escolares, além de possibilitarem o acesso à cultura e à arte, contribuem significativamente para a construção de valores como disciplina, cooperação, respeito mútuo e trabalho em equipe. Trata-se de uma atividade que estimula o protagonismo juvenil, reforça o vínculo do aluno com a escola e atua de forma concreta na prevenção da evasão escolar.\r\nA oferta de oficinas de fanfarra requer a atuação de instrutores especializados, que tenham vivência na área musical e estejam aptos a conduzir atividades práticas e teóricas junto a crianças e adolescentes. Dessa forma, o credenciamento de profissionais qualificados visa assegurar qualidade técnica e segurança pedagógica no desenvolvimento das atividades extracurriculares.\r\nA opção pelo credenciamento, conforme previsto na Lei Federal nº 14.133/2021, justifica-se por se tratar de serviço não exclusivo, de natureza contínua e eventual, podendo ser executado por diversos interessados que atendam aos critérios estabelecidos no Termo de Referência. Tal procedimento garante maior transparência, legalidade e economicidade na contratação dos serviços, ao mesmo tempo em que possibilita o acesso democrático de profissionais da área cultural e musical ao serviço público.\r\n\tAlém disso, para a definição do valor da hora/aula, estamos utilizando como referência o valor praticado pela Secretaria de Turismo e Cultura, R$ 50,00 (cinquenta reais) conforme estabelecido no Chamamento Público nº 02/2025, que trata do credenciamento de instrutores (como Instrutores de Violino, Musicalização Infantil, entre outros), conforme detalhado no Estudo Técnico Preliminar anexo a este processo.\r\nA Secretaria Municipal de Educação entende que essa ação reforça o compromisso da administração pública com a valorização da cultura local, a formação integral dos estudantes e o fortalecimento das políticas públicas educacionais, em consonância com o Plano Municipal de Educação.\r\nPor fim, ressalta-se que o serviço será prestado em seis unidades escolares, conforme planejamento anual e calendário oficial do Município, sendo o início das atividades previsto para 15/06/2025.\r\nDiante do exposto, justifica-se plenamente a instauração do presente processo de chamamento público para o credenciamento de instrutores de fanfarra, conforme condições estabelecidas no Termo de Referência.\r\n\r\n\r\nTietê, 30 de maio de 2025\r\n\r\n\r\n\r\n\r\n\r\nRoberson Luiz Demarchi\r\nSecretário Municipal de Educação",
+  "dataAberturaProposta": "2025-06-23T11:00:00",
+  "dataEncerramentoProposta": "2025-07-08T13:00:00",
+  "dataPublicacaoPncp": "2025-06-23T09:25:59",
+  "dataAtualizacaoGlobal": "2025-06-23T09:26:03",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Tietê",
+    "codigoIbge": "3554508",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE TIETÊ - SP"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 79, I",
+    "descricao": "Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+    "codigo": 140
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 54000.0,
+  "modalidadeId": 12,
+  "modalidadeNome": "Credenciamento",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 4,
+  "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "CONAM Consultoria em Administração Municipal"
+}

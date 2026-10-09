@@ -1,0 +1,90 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA DOS DEPUTADOS (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços de autoagendamento de viagens aéreas na modalidade software como serviço (SaaS), incluindo implantação da solução, capacitação para usuários e, ainda, emissão de bilhete aéreo, hospedagem, suporte técnico e manutenção evolutiva sob demanda das interfaces de integração entre a solução e os sistemas corporativos da Câmara dos Deputados, pelo período de 12 (doze) meses.
+VALOR ESTIMADO: R$ 383.547,68
+PRAZO PARA PROPOSTAS: 2026-10-06T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=01000105002052026
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00530352000159/compras/2026/256/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00530352000159/compras/2026/256/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de Instalação, Transição e Configuração / Parametrização de Software IMPLANTAÇÃO DA SOLUÇÃO
+DESCRIÇÃO: Implanta | Qtd: 1.0 | R$ Unit: 20684.83
+  - Item 2: Prestaçao de Serviços de Agenciamento de Viagens TAXA DE EMISSÃO DE BILHETE AÉREO
+CARACTERÍSTICA(S): 
+- Taxa de emissão  | Qtd: 90000.0 | R$ Unit: 3.02
+  - Item 3: Serviços de Hospedagem de Sistemas HOSPEDAGEM E SUPORTE TÉCNICO DA SOLUÇÃO
+CARACTERÍSTICA(S):  
+- A solução deverá ser h | Qtd: 12.0 | R$ Unit: 734.71
+  - Item 4: Treinamento Qualificação Profissional CAPACITAÇÃO OPERACIONAL/TREINAMENTO NA OPERAÇÃO DE SOFTWARE/SOLUÇÃO
+DESCRIÇÃO: Tre | Qtd: 1.0 | R$ Unit: 3018.17
+  - Item 5: Treinamento Qualificação Profissional CAPACITAÇÃO PARA USUÁRIOS OPERACIONAIS
+DESCRIÇÃO: Capacitação para usuários operac | Qtd: 2.0 | R$ Unit: 1509.08
+  - Item 6: Manutenção Evolutiva de  Software (Acréscimo de Novas Funcionalidades) - Java MANUTENÇÃO EVOLUTIVA DE SOFTWARE DE AUTOAG | Qtd: 500.0 | R$ Unit: 152.42
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "00530352000159",
+    "razaoSocial": "CAMARA DOS DEPUTADOS",
+    "poderId": "L",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-09-22T04:00:20",
+  "dataAtualizacao": "2026-09-22T04:00:20",
+  "objetoCompra": "Prestação de serviços de autoagendamento de viagens aéreas na modalidade software como serviço (SaaS), incluindo implantação da solução, capacitação para usuários e, ainda, emissão de bilhete aéreo, hospedagem, suporte técnico e manutenção evolutiva sob demanda das interfaces de integração entre a solução e os sistemas corporativos da Câmara dos Deputados, pelo período de 12 (doze) meses.",
+  "dataAberturaProposta": "2026-09-22T08:00:00",
+  "dataEncerramentoProposta": "2026-10-06T10:00:00",
+  "dataPublicacaoPncp": "2026-09-22T04:00:20",
+  "dataAtualizacaoGlobal": "2026-09-22T04:01:05",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoIbge": "5300108",
+    "codigoUnidade": "010001",
+    "nomeUnidade": "CAMARA DOS DEPUTADOS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=01000105002052026",
+  "linkProcessoEletronico": "https://www.camara.leg.br/licitacoes-e-contratos/licitacoes?search=",
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "00530352000159-1-000256/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 256,
+  "emendaParlamentar": null,
+  "numeroCompra": "205",
+  "processo": "1018082/2026",
+  "informacaoComplementar": "Em caso de discordância existente entre as especificações descritas no ComprasNet e as especificações constantes do Edital, prevalecerão as do Edital. O Edital está disponível também no site www.camara.leg.br.",
+  "valorTotalEstimado": 383547.68,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-22T04:00:21"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

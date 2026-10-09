@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO SETENTRIAO PARANAENSE - CISAMUSEP (Maringá/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada na área de tecnologia da informação para disponibilização do Sistema Informatizado de Gestão de Pessoas no modelo de comercialização SaaS – Software as a Service (Software como Serviço), compreendendo as funções de gestão de recursos humanos e folha de pagamento, registro e tratamento de ponto eletrônico, prestação de contas ao Tribunal de Contas do Estado do Paraná e documentos eletrônicos para o eSocial para o Cisamusep.
+VALOR ESTIMADO: R$ 103.175,16
+PRAZO PARA PROPOSTAS: 2025-06-04T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92776305900202025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04956153000168/compras/2025/40/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Desenvolvimento / Geração / Implantação - Código Barra | Qtd: 1.0 | R$ Unit: 9310.56
+  - Item 2: Desenvolvimento / Geração / Implantação - Código Barra | Qtd: 12.0 | R$ Unit: 6872.05
+  - Item 3: Desenvolvimento / Geração / Implantação - Código Barra | Qtd: 50.0 | R$ Unit: 228.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 64210.56,
+  "orgaoEntidade": {
+    "cnpj": "04956153000168",
+    "razaoSocial": "CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO SETENTRIAO PARANAENSE - CISAMUSEP",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "dataInclusao": "2025-05-05T07:24:11",
+  "dataAtualizacao": "2025-05-20T08:36:08",
+  "numeroControlePNCP": "04956153000168-1-000040/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 40,
+  "emendaParlamentar": null,
+  "numeroCompra": "90020",
+  "processo": "20",
+  "srp": false,
+  "objetoCompra": "Contratação de empresa especializada na área de tecnologia da informação para disponibilização do Sistema Informatizado de Gestão de Pessoas no modelo de comercialização SaaS – Software as a Service (Software como Serviço), compreendendo as funções de gestão de recursos humanos e folha de pagamento, registro e tratamento de ponto eletrônico, prestação de contas ao Tribunal de Contas do Estado do Paraná e documentos eletrônicos para o eSocial para o Cisamusep.",
+  "informacaoComplementar": "Havendo Qualquer Discordância Entre A Descrição Do Catser/Catmat E A Do Edital, Prevalece A Descrição Do Item E A Unidade De Medida Constante No Edital. Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=92776305900202025",
+  "dataAberturaProposta": "2025-05-20T08:00:00",
+  "dataEncerramentoProposta": "2025-06-04T09:00:00",
+  "dataPublicacaoPncp": "2025-05-05T07:24:11",
+  "dataAtualizacaoGlobal": "2025-09-16T20:38:20",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Maringá",
+    "codigoIbge": "4115200",
+    "codigoUnidade": "927763",
+    "nomeUnidade": "CONSORCIO PUB.INT.DE SAU.DO SET.PARANAENSE-PR"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=92776305900202025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 103175.16,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

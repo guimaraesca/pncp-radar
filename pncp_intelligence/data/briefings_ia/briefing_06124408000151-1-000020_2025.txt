@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE NINA RODRIGUES (Nina Rodrigues/MA)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Preços para contratação de empresa para Assessoria técnica especializada em infraestrutura educacional para suporte à Secretaria Municipal de Educação de Nina Rodrigues/MA
+VALOR ESTIMADO: R$ 100.911,96
+PRAZO PARA PROPOSTAS: 2025-04-16T08:00:00
+LINK OFICIAL: app2.licitardigital.com.br/pesquisa/59450
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/06124408000151/compras/2025/20/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Assessoria técnica especializada em infraestrutura educacional para suporte à Secretaria Municipal de Educação de Nina R | Qtd: 12.0 | R$ Unit: 8409.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "06124408000151",
+    "razaoSocial": "MUNICIPIO DE NINA RODRIGUES",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-04-07T23:16:37",
+  "dataAtualizacao": "2025-04-28T09:55:07",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 20,
+  "emendaParlamentar": null,
+  "numeroCompra": "16",
+  "processo": "19/2025",
+  "objetoCompra": "Preços para contratação de empresa para Assessoria técnica especializada em infraestrutura educacional para suporte à Secretaria Municipal de Educação de Nina Rodrigues/MA",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-07T23:16:37",
+  "dataEncerramentoProposta": "2025-04-16T08:00:00",
+  "dataPublicacaoPncp": "2025-04-07T23:16:37",
+  "dataAtualizacaoGlobal": "2025-04-28T09:55:07",
+  "numeroControlePNCP": "06124408000151-1-000020/2025",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "Nina Rodrigues",
+    "codigoUnidade": "2210",
+    "nomeUnidade": "Unidade Única",
+    "codigoIbge": "2107209"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "app2.licitardigital.com.br/pesquisa/59450",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 100911.96,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+}

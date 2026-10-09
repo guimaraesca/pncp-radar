@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL SUPERIOR ELEITORAL (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Fornecimento sob demanda de subscrições de solução correlação de eventos de segurança da informação (Security Information and Event Management - SIEM) devendo ter a capacidade de processar efetivamente 30.000 eventos por segundo, incluindo infraestrutura computacional, implantação, garantia e serviço de suporte técnico especializado, pelo período de 30 meses, prorrogáveis nos termos da lei, consoante especificações, exigências e prazos constantes no Termo de Referência.
+VALOR ESTIMADO: R$ 18.540.707,45
+PRAZO PARA PROPOSTAS: 2025-05-09T14:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=07000105900062025
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00509018000113/compras/2025/786/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licenciamento de Direitos  Permanentes de Uso de Outros Softwares / Programas de Computador | Qtd: 5.0 | R$ Unit: 1760000.0
+  - Item 2: Servidor | Qtd: 1.0 | R$ Unit: 3345738.55
+  - Item 3: Licenciamento de Direitos  Permanentes de Uso de Outros Softwares / Programas de Computador | Qtd: 1.0 | R$ Unit: 1624656.0
+  - Item 4: Contratos de  Prestação de Serviços de Assistência Técnica eCientífica | Qtd: 30.0 | R$ Unit: 62936.43
+  - Item 5: Contratos de  Prestação de Serviços de Assistência Técnica eCientífica | Qtd: 240.0 | R$ Unit: 3678.0
+  - Item 6: Licenciamento de Direitos  Permanentes de Uso de Outros Softwares / Programas de Computador | Qtd: 1.0 | R$ Unit: 1999500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00509018000113",
+    "razaoSocial": "TRIBUNAL SUPERIOR ELEITORAL",
+    "poderId": "J",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 13949558.06,
+  "dataInclusao": "2025-04-22T07:15:56",
+  "dataAtualizacao": "2025-04-22T07:15:56",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoUnidade": "070001",
+    "nomeUnidade": "TSE _ TRIBUNAL SUPERIOR ELEITORAL/SEC.ADM/DF",
+    "codigoIbge": "5300108"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=07000105900062025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 786,
+  "emendaParlamentar": null,
+  "numeroCompra": "90006",
+  "processo": "8762-9/2021",
+  "objetoCompra": "Fornecimento sob demanda de subscrições de solução correlação de eventos de segurança da informação (Security Information and Event Management - SIEM) devendo ter a capacidade de processar efetivamente 30.000 eventos por segundo, incluindo infraestrutura computacional, implantação, garantia e serviço de suporte técnico especializado, pelo período de 30 meses, prorrogáveis nos termos da lei, consoante especificações, exigências e prazos constantes no Termo de Referência.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=07000105900062025",
+  "dataAberturaProposta": "2025-04-22T08:00:00",
+  "dataEncerramentoProposta": "2025-05-09T14:00:00",
+  "dataPublicacaoPncp": "2025-04-22T07:15:56",
+  "dataAtualizacaoGlobal": "2025-09-26T17:00:27",
+  "numeroControlePNCP": "00509018000113-1-000786/2025",
+  "valorTotalEstimado": 18540707.45,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

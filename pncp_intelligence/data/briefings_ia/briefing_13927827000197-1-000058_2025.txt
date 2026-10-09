@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SIMOES FILHO (Simões Filho/BA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de serviços técnicos especializados, integrados e contínuos de tecnologia da
+informação para a gestão do processamento eletronico de infrações de trânsito no âmbito do
+Município de Simões Filho, desde processamento até o armazenamento de dados, com
+transmissão eletrônica de arquivos (web e mobile) por meio do “Sistema de Gestão de Infrações
+de trânsito – RADAR”. PROCESSO POR VALOR GLOBAL- DESCRIÇÃO DOS ITENS EM CONFORMIDADE COM O TERMO DE REFERENCIA E SEUS ANEXOS (Anexo I - Descrição e quantitativo dos itens).
+VALOR ESTIMADO: R$ 84.360,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/13927827000197-1-000058/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13927827000197/compras/2025/58/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de serviços técnicos especializados, integrados e contínuos de tecnologia da
+informação para a gestão do pr | Qtd: 1.0 | R$ Unit: 84360.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 84360.0,
+  "orgaoEntidade": {
+    "cnpj": "13927827000197",
+    "razaoSocial": "MUNICIPIO DE SIMOES FILHO",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-08-07T09:37:44",
+  "dataAtualizacao": "2025-08-07T09:37:44",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "J F REIS / AssisTECH Informatica",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T09:37:44",
+  "dataAtualizacaoGlobal": "2025-08-07T09:41:27",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Simões Filho",
+    "codigoIbge": "2930709",
+    "codigoUnidade": "0901",
+    "nomeUnidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, IX",
+    "descricao": "Dispensa de Licitação: para a aquisição, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade que integrem a Administração Pública e que tenham sido criados para esse fim específico, desde que o preço contratado seja compatível com o praticado no mercado",
+    "codigo": 39
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 58,
+  "emendaParlamentar": null,
+  "numeroCompra": "038",
+  "processo": "2203/2025",
+  "objetoCompra": "Contratação de serviços técnicos especializados, integrados e contínuos de tecnologia da\r\ninformação para a gestão do processamento eletronico de infrações de trânsito no âmbito do\r\nMunicípio de Simões Filho, desde processamento até o armazenamento de dados, com\r\ntransmissão eletrônica de arquivos (web e mobile) por meio do “Sistema de Gestão de Infrações\r\nde trânsito – RADAR”. PROCESSO POR VALOR GLOBAL- DESCRIÇÃO DOS ITENS EM CONFORMIDADE COM O TERMO DE REFERENCIA E SEUS ANEXOS (Anexo I - Descrição e quantitativo dos itens).",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "13927827000197-1-000058/2025",
+  "valorTotalEstimado": 84360.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: AGENCIA NACIONAL DO PETROLEO, GAS NATURAL E BIOCOMBUSTIVEIS (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de atualização, suporte e manutenção para licenças do software CA Service Desk Manager pelo período de 12 (doze) meses, nas condições estabelecidas no Termo de Referência. 
+VALOR ESTIMADO: R$ 205,600.80
+PRAZO PARA PROPOSTAS: 2026-10-06T10:29:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=32303105000782026
+SELO LOGÍSTICO: [FORA DAS BASES]
+BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
+DISTÂNCIA ESTIMADA: 999 km

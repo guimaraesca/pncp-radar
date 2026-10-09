@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE JUSSARA (Jussara/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE DISPONIBILIZAÇÃO, IMPLANTAÇÃO, CONFIGURAÇÃO, TREINAMENTO, SUPORTE TÉCNICO, MANUTENÇÃO, ATUALIZAÇÃO E LICENCIAMENTO DE USO DE SOLUÇÃO TECNOLÓGICA INTEGRADA PARA GESTÃO DA FROTA MUNICIPAL, DISPONIBILIZADA NA MODALIDADE SOFTWARE COMO SERVIÇO – SAAS (SOFTWARE AS A SERVICE), HOSPEDADA EM AMBIENTE DE COMPUTAÇÃO EM NUVEM, INCLUINDO O FORNECIMENTO, INSTALAÇÃO, CONFIGURAÇÃO, SUBSTITUIÇÃO E MANUTENÇÃO DOS DISPOSITIVOS ELETRÔNICOS EMBARCADOS (IOT), DESTINADOS À COLETA, TRANSMISSÃO, PROCESSAMENTO E GERENCIAMENTO DAS INFORMAÇÕES OPERACIONAIS DOS VEÍCULOS PERTENCENTES OU UTILIZADOS PELA ADMINISTRAÇÃO MUNICIPAL, CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NO TERMO DE REFERÊNCIA.
+VALOR ESTIMADO: R$ 159.799,96
+PRAZO PARA PROPOSTAS: 2026-10-08T08:30:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/75789552000120-1-000082/2026
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75789552000120/compras/2026/82/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75789552000120/compras/2026/82/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75789552000120/compras/2026/82/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75789552000120/compras/2026/82/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviço de implantação e configuração inicial da plataforma de gestão inteligente de frotas | Qtd: 1.0 | R$ Unit: 16000.0
+  - Item 2: Licenciamento de uso de plataforma tecnológica integrada para gestão inteligente de frota municipal | Qtd: 12.0 | R$ Unit: 4183.33
+  - Item 3: Locação mensal de dispositivos eletrônicos embarcados com tecnologia IoT | Qtd: 1200.0 | R$ Unit: 78.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "75789552000120",
+    "razaoSocial": "MUNICIPIO DE JUSSARA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-23T16:52:02",
+  "dataAtualizacao": "2026-09-23T16:52:02",
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 82,
+  "emendaParlamentar": null,
+  "numeroCompra": "31",
+  "processo": "76/2026",
+  "objetoCompra": "FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE DISPONIBILIZAÇÃO, IMPLANTAÇÃO, CONFIGURAÇÃO, TREINAMENTO, SUPORTE TÉCNICO, MANUTENÇÃO, ATUALIZAÇÃO E LICENCIAMENTO DE USO DE SOLUÇÃO TECNOLÓGICA INTEGRADA PARA GESTÃO DA FROTA MUNICIPAL, DISPONIBILIZADA NA MODALIDADE SOFTWARE COMO SERVIÇO – SAAS (SOFTWARE AS A SERVICE), HOSPEDADA EM AMBIENTE DE COMPUTAÇÃO EM NUVEM, INCLUINDO O FORNECIMENTO, INSTALAÇÃO, CONFIGURAÇÃO, SUBSTITUIÇÃO E MANUTENÇÃO DOS DISPOSITIVOS ELETRÔNICOS EMBARCADOS (IOT), DESTINADOS À COLETA, TRANSMISSÃO, PROCESSAMENTO E GERENCIAMENTO DAS INFORMAÇÕES OPERACIONAIS DOS VEÍCULOS PERTENCENTES OU UTILIZADOS PELA ADMINISTRAÇÃO MUNICIPAL, CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NO TERMO DE REFERÊNCIA.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-24T08:30:00",
+  "dataEncerramentoProposta": "2026-10-08T08:30:00",
+  "dataPublicacaoPncp": "2026-09-23T16:52:02",
+  "dataAtualizacaoGlobal": "2026-09-23T16:52:12",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Jussara",
+    "codigoUnidade": "75789552000120",
+    "nomeUnidade": "Unidade administrativa",
+    "codigoIbge": "4113007"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "75789552000120-1-000082/2026",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 159799.96,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Elotech Gestão Pública Ltda"
+}

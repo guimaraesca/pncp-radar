@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MIRAIMA (Miraíma/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE EXPURGO, ORGANIZAÇÃO, HIGIENIZAÇÃO, MODERNIZAÇÃO E ARMAZENAMENTO DE DADOS DO ACERVO DOCUMENTAL, DO INTERESSE DA SECRETARIA MUNICIPAL DE FINANÇAS DE MIRAÍMA/CE
+VALOR ESTIMADO: R$ 83.916,54
+PRAZO PARA PROPOSTAS: 2026-10-06T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98126305001572026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10517563000105/compras/2026/58/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Documento - Guarda / Transporte SERVIÇOS TÉCNICOS ESPECIALIZADOS NO EXPURGO E ARMAZENAMENTO POR MEIO DE MODERNAS TÉCNICA | Qtd: 38.0 | R$ Unit: 2208.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "10517563000105",
+    "razaoSocial": "MUNICIPIO DE MIRAIMA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-17T10:40:06",
+  "dataAtualizacao": "2026-09-17T10:40:06",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Miraíma",
+    "codigoUnidade": "981263",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE MIRAIMA - CE",
+    "codigoIbge": "2308377"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98126305001572026",
+  "linkProcessoEletronico": "https://www.compras.gov.br",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 58,
+  "emendaParlamentar": null,
+  "numeroCompra": "157",
+  "processo": "157/2026 - PE",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE EXPURGO, ORGANIZAÇÃO, HIGIENIZAÇÃO, MODERNIZAÇÃO E ARMAZENAMENTO DE DADOS DO ACERVO DOCUMENTAL, DO INTERESSE DA SECRETARIA MUNICIPAL DE FINANÇAS DE MIRAÍMA/CE",
+  "informacaoComplementar": "Havendo divergências entre o sistema comprasnet e o edital ou termo de referência, prevalecerão as disposições do Edital e seu Termo de Referência.",
+  "dataAberturaProposta": "2026-09-18T09:00:00",
+  "dataEncerramentoProposta": "2026-10-06T09:00:00",
+  "dataPublicacaoPncp": "2026-09-17T10:40:06",
+  "dataAtualizacaoGlobal": "2026-09-17T10:41:06",
+  "numeroControlePNCP": "10517563000105-1-000058/2026",
+  "valorTotalEstimado": 83916.54,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-17T10:40:06"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

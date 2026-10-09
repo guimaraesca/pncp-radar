@@ -1,0 +1,75 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SANTA BRANCA (Santa Branca/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE CURSO DE CAPACITAÇÃO REFERENTE AO TEMA DE DESAPROPRIAÇÃO , PARA FUNCIONARIO QUE EXERCE A FUNÇÃO DE PROCURADOR DO MUNICIPIO.
+PROCESSO 2124/2025 - GABINETE DO PREFEITO
+CONFORME DECRETO 443/2024
+VALOR ESTIMADO: R$ 1.500,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pmsantabranca.geosiap.net.br/portal-transparencia/licitacoes/processo/8290
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46694121000181/compras/2025/159/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46694121000181/compras/2025/159/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46694121000181/compras/2025/159/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA MINISTRAR CURSO DE CAPACITAÇÃO
+Especificação: CONTRATAÇÃO DE CURSO DE CAPACITA | Qtd: 1.0 | R$ Unit: 1500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 1500.0,
+  "orgaoEntidade": {
+    "cnpj": "46694121000181",
+    "razaoSocial": "MUNICIPIO DE SANTA BRANCA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-06T11:29:17",
+  "dataAtualizacao": "2025-08-06T11:29:17",
+  "numeroControlePNCP": "46694121000181-1-000159/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 159,
+  "emendaParlamentar": null,
+  "numeroCompra": "46",
+  "processo": "PC 002124/2025",
+  "objetoCompra": "CONTRATAÇÃO DE CURSO DE CAPACITAÇÃO REFERENTE AO TEMA DE DESAPROPRIAÇÃO , PARA FUNCIONARIO QUE EXERCE A FUNÇÃO DE PROCURADOR DO MUNICIPIO.\r\nPROCESSO 2124/2025 - GABINETE DO PREFEITO\r\nCONFORME DECRETO 443/2024",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-06T11:29:17",
+  "dataAtualizacaoGlobal": "2025-08-19T14:34:48",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Santa Branca",
+    "codigoIbge": "3546009",
+    "codigoUnidade": "1",
+    "nomeUnidade": "GERAL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://pmsantabranca.geosiap.net.br/portal-transparencia/licitacoes/processo/8290",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "CONFORME PARECER JURIDICO ANEXO AO PROCESSO E DECRETO 443/2024",
+  "valorTotalEstimado": 1500.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "EMBRAS - EMPRESA BRASILEIRA DE TECNOLOGIA LTDA"
+}

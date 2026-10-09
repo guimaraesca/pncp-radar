@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO MARANHAO - DEFENSORIA PUBLICA DO ESTADO DO MARANHAO (São Luís/MA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de 2 (duas) unidades de placas aceleradoras de GPU de arquitetura profissional, com especificações técnicas mínimas compatíveis ao modelo de referência NVIDIA RTX A4500, destinadas à ampliação da infraestrutura computacional da Defensoria Pública do Estado do Maranhão (DPE/MA) para suportar o desenvolvimento e execução de soluções institucionais baseadas em Inteligência Artificial (IA).
+VALOR ESTIMADO: R$ 29.996,00
+PRAZO PARA PROPOSTAS: 2025-07-09T07:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/00820295000142-1-000048/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00820295000142/compras/2025/48/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Placa Controladora Vídeo | Qtd: 2.0 | R$ Unit: 14998.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00820295000142",
+    "razaoSocial": "ESTADO DO MARANHAO - DEFENSORIA PUBLICA DO ESTADO DO MARANHAO",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 28298.0,
+  "dataInclusao": "2025-07-04T11:56:40",
+  "dataAtualizacao": "2025-07-04T11:56:40",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "São Luís",
+    "codigoUnidade": "453747",
+    "nomeUnidade": "DEFENSORIA PÚBLICA DO ESTADO DO MARANHÃO",
+    "codigoIbge": "2111300"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 48,
+  "emendaParlamentar": null,
+  "numeroCompra": "90019",
+  "processo": "0002238.110000931",
+  "objetoCompra": "Aquisição de 2 (duas) unidades de placas aceleradoras de GPU de arquitetura profissional, com especificações técnicas mínimas compatíveis ao modelo de referência NVIDIA RTX A4500, destinadas à ampliação da infraestrutura computacional da Defensoria Pública do Estado do Maranhão (DPE/MA) para suportar o desenvolvimento e execução de soluções institucionais baseadas em Inteligência Artificial (IA).",
+  "informacaoComplementar": "O custo estimado para contratação enquadra-se no disposto no Art. 75º, Inciso II da Lei nº 14.133 de 1º/04/2021.",
+  "dataAberturaProposta": "2025-07-04T11:56:39",
+  "dataEncerramentoProposta": "2025-07-09T07:59:59",
+  "dataPublicacaoPncp": "2025-07-04T11:56:40",
+  "dataAtualizacaoGlobal": "2025-07-29T10:44:59",
+  "numeroControlePNCP": "00820295000142-1-000048/2025",
+  "valorTotalEstimado": 29996.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

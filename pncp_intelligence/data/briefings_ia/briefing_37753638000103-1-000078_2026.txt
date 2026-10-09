@@ -1,0 +1,78 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MINISTERIO DAS COMUNICACOES (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para prestação de serviços técnicos para elaboração de projeto de instalação, fornecimento e instalação de sistema de ar condicionado VRF/ VRV para o Datacenter da TELEBRAS, conforme especificações e quantidades constantes do Termo de Referência e seus Anexos. O valor da proposta cadastrado no sistema deverá ser global para o lote de itens e contemplar os 24 meses contratuais.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-09T10:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92515005000342026
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/37753638000103/compras/2026/78/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Aparelho Ar Condicionado capacidade refrigeração: 5,0, características adicionais: controle remoto, garantia: 1, tensão: | Qtd: 4.0 | R$ Unit: 0.0
+  - Item 2: Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas) Serviços técnicos para elaboração de pro | Qtd: 1.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "37753638000103",
+    "razaoSocial": "MINISTERIO DAS COMUNICACOES",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataInclusao": "2026-08-07T16:39:53",
+  "dataAtualizacao": "2026-09-16T17:21:07",
+  "numeroControlePNCP": "37753638000103-1-000078/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 78,
+  "emendaParlamentar": null,
+  "numeroCompra": "34",
+  "processo": "TLB-PRO-2025/05460",
+  "srp": false,
+  "objetoCompra": "Contratação de empresa para prestação de serviços técnicos para elaboração de projeto de instalação, fornecimento e instalação de sistema de ar condicionado VRF/ VRV para o Datacenter da TELEBRAS, conforme especificações e quantidades constantes do Termo de Referência e seus Anexos. O valor da proposta cadastrado no sistema deverá ser global para o lote de itens e contemplar os 24 meses contratuais.",
+  "informacaoComplementar": "As especificações do objeto detalhadas no Termo de Referência e seus Anexos prevalecem sobre aquelas cadastradas de forma genérica no sistema CATMAT/CATSER. A proposta comercial deve seguir o modelo de proposta constante no Anexo B do Edital.",
+  "dataAberturaProposta": "2026-09-17T08:00:00",
+  "dataEncerramentoProposta": "2026-10-09T10:00:00",
+  "dataPublicacaoPncp": "2026-08-07T16:39:53",
+  "dataAtualizacaoGlobal": "2026-09-16T17:21:07",
+  "unidadeOrgao": {
+    "ufNome": "Distrito Federal",
+    "ufSigla": "DF",
+    "municipioNome": "Brasília",
+    "codigoIbge": "5300108",
+    "codigoUnidade": "925150",
+    "nomeUnidade": "TELECOMUNICAÇÕES BRASILEIRAS S.A."
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 13.303/2016, Art. 32, IV",
+    "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+    "codigo": 113
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92515005000342026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-08-07T16:39:53"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

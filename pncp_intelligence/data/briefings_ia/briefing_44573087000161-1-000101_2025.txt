@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE TUPA (Tupã/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Aquisição de material impresso do SIMAE (Sistema Municipal de Avaliação Educacional), para as edições de Abril, Junho e Setembro de 2025
+VALOR ESTIMADO: R$ 46.708,52
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/44573087000161-1-000101/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/44573087000161/compras/2025/101/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CADERNO DE BROCHURA COLORIDO | Qtd: 1110.0 | R$ Unit: 7.094
+  - Item 2: CADERNO DE BROCHURA COLORIDO 12 PÁGINAS | Qtd: 1110.0 | R$ Unit: 7.094
+  - Item 3: CADERNO DE BROCHURA COLORIDO 24 PÁGINAS | Qtd: 1170.0 | R$ Unit: 13.2307
+  - Item 4: CADERNO DE BROCHURA COLORIDO 20 PÁGINAS | Qtd: 1170.0 | R$ Unit: 13.2307
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 46708.52,
+  "orgaoEntidade": {
+    "cnpj": "44573087000161",
+    "razaoSocial": "MUNICIPIO DE TUPA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-21T11:08:01",
+  "dataAtualizacao": "2025-03-21T11:08:01",
+  "numeroControlePNCP": "44573087000161-1-000101/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 101,
+  "emendaParlamentar": null,
+  "numeroCompra": "85",
+  "processo": "85",
+  "srp": false,
+  "objetoCompra": "Aquisição de material impresso do SIMAE (Sistema Municipal de Avaliação Educacional), para as edições de Abril, Junho e Setembro de 2025",
+  "informacaoComplementar": "Contratação de empresa para prestação de serviços de impressão de material do sistema municipal de avaliação educacional - SIMAE",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-21T11:08:01",
+  "dataAtualizacaoGlobal": "2025-03-21T11:08:58",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Tupã",
+    "codigoIbge": "3555000",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREF. DA ESTANCIA TURISTICA DE TUPA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 46708.52,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software"
+}

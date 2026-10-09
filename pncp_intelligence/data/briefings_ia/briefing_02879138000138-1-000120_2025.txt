@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE JANDAIA (Jandaia/GO)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇAO DE EMPRESA ESPECIALIZADA NA PRESTAÇAO DE SERVIÇO DE PLATAFORMA DE ATENDIMENTO DIGITAL, COM ENVIO E RECEBIMENTO DE MENSAGENS, CADASTRO DE BANCO DE CONTATOS, E CRIAÇAO DE AUTOMAÇOES DE RESPOSTAS AUTOMATICAS COM INTELIGENCIA ARTIFICIAL.
+VALOR ESTIMADO: R$ 21.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/02879138000138-1-000120/2025
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02879138000138/compras/2025/120/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02879138000138/compras/2025/120/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02879138000138/compras/2025/120/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02879138000138/compras/2025/120/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Sistema de automação de respostas a perguntas frequentes, garantindo interação rápida e eficaz sem necessidade de interv | Qtd: 5.0 | R$ Unit: 4200.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "02879138000138",
+    "razaoSocial": "MUNICIPIO DE JANDAIA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 21000.0,
+  "dataInclusao": "2025-08-05T11:23:39",
+  "dataAtualizacao": "2025-08-05T11:23:39",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Jandaia",
+    "codigoUnidade": "2",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE JANDAIA",
+    "codigoIbge": "5211701"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 120,
+  "emendaParlamentar": null,
+  "numeroCompra": "(2316) | 137-0",
+  "processo": "3516/2025",
+  "objetoCompra": "CONTRATAÇAO DE EMPRESA ESPECIALIZADA NA PRESTAÇAO DE SERVIÇO DE PLATAFORMA DE ATENDIMENTO DIGITAL, COM ENVIO E RECEBIMENTO DE MENSAGENS, CADASTRO DE BANCO DE CONTATOS, E CRIAÇAO DE AUTOMAÇOES DE RESPOSTAS AUTOMATICAS COM INTELIGENCIA ARTIFICIAL.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-05T11:23:39",
+  "dataAtualizacaoGlobal": "2025-08-05T11:24:31",
+  "numeroControlePNCP": "02879138000138-1-000120/2025",
+  "valorTotalEstimado": 21000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2025-08-05T11:23:46"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Megasoft Informática"
+}

@@ -1,0 +1,88 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: PIAUI PROCURADORIA GERAL DA JUSTICA (Teresina/PI)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento, via Ata de Registro de Preços, de licenciamento, serviços e expansão da plataforma hiperconvergente Nutanix atualmente em uso no Ministério Público do Estado do Piauí (MPPI), abrangendo a ampliação de capacidade computacional, a implantação de site de recuperação de desastres (DR), a integração de aplicações de inteligência artificial (IA)
+VALOR ESTIMADO: R$ 201.100.589,42
+PRAZO PARA PROPOSTAS: 2026-10-08T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92609205000242026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05805924000189/compras/2026/40/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05805924000189/compras/2026/40/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05805924000189/compras/2026/40/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05805924000189/compras/2026/40/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05805924000189/compras/2026/40/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/05805924000189/compras/2026/40/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Servidor tipo: rack, processadores físicos: 2, núcleos por processador: 15 a 20, memória ram: 768, interface rede lan: 2 | Qtd: 43.0 | R$ Unit: 1274398.12
+  - Item 2: Servidor tipo: rack, processadores físicos: 2, núcleos por processador: 15 a 20, memória ram: 768, interface rede lan: 2 | Qtd: 46.0 | R$ Unit: 18723.5
+  - Item 3: Servidor tipo: rack, processadores físicos: 2, núcleos por processador: 15 a 20, memória ram: 768, interface rede lan: 2 | Qtd: 111.0 | R$ Unit: 457329.75
+  - Item 4: Servidor tipo: rack, processadores físicos: 2, núcleos por processador: 15 a 20, memória ram: 768, interface rede lan: 2 | Qtd: 43.0 | R$ Unit: 212478.07
+  - Item 5: Servidor tipo: rack, processadores físicos: 2, núcleos por processador: 15 a 20, memória ram: 768, interface rede lan: 2 | Qtd: 109.0 | R$ Unit: 41005.75
+  - Item 6: Servidor tipo: rack, processadores físicos: 2, núcleos por processador: 15 a 20, memória ram: 768, interface rede lan: 2 | Qtd: 19.0 | R$ Unit: 498369.87
+  - Item 7: Licenciamento de Direitos Permanentes  de  Uso  de  Softwarepara Servidor Licenciamento de Direitos Permanentes  de  Uso | Qtd: 19.0 | R$ Unit: 385233.63
+  - Item 8: Licenciamento de Direitos Permanentes  de  Uso  de  Softwarepara Servidor Licenciamento de Direitos Permanentes  de  Uso | Qtd: 1376.0 | R$ Unit: 32054.73
+  - Item 9: Licenciamento de Direitos Permanentes  de  Uso  de  Softwarepara Servidor Licenciamento de Direitos Permanentes  de  Uso | Qtd: 144.0 | R$ Unit: 28202.71
+  - Item 10: Licenciamento de Direitos Permanentes  de  Uso  de  Softwarepara Servidor Licenciamento de Direitos Permanentes  de  Uso | Qtd: 68.0 | R$ Unit: 20652.22
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "05805924000189",
+    "razaoSocial": "PIAUI PROCURADORIA GERAL DA JUSTICA",
+    "esferaId": "E",
+    "poderId": "J"
+  },
+  "dataInclusao": "2026-09-23T13:45:08",
+  "dataAtualizacao": "2026-09-23T13:45:08",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 3,
+      "nome": "Estadual",
+      "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-23T13:45:08"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2026-09-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-08T09:00:00",
+  "dataPublicacaoPncp": "2026-09-23T13:45:08",
+  "dataAtualizacaoGlobal": "2026-09-23T14:35:39",
+  "unidadeOrgao": {
+    "ufNome": "Piauí",
+    "ufSigla": "PI",
+    "municipioNome": "Teresina",
+    "codigoIbge": "2211001",
+    "codigoUnidade": "926092",
+    "nomeUnidade": "PROCURADORIA GERAL DE JUSTIÇA DO PIAUI"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92609205000242026",
+  "linkProcessoEletronico": "https://sei.mppi.mp.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=1402703",
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 40,
+  "emendaParlamentar": null,
+  "numeroCompra": "24",
+  "processo": "19.21.0016.0044447/2025-49",
+  "objetoCompra": "Contratação de empresa especializada para o fornecimento, via Ata de Registro de Preços, de licenciamento, serviços e expansão da plataforma hiperconvergente Nutanix atualmente em uso no Ministério Público do Estado do Piauí (MPPI), abrangendo a ampliação de capacidade computacional, a implantação de site de recuperação de desastres (DR), a integração de aplicações de inteligência artificial (IA)",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "05805924000189-1-000040/2026",
+  "valorTotalEstimado": 201100589.42,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

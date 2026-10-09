@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CANDEIAS DO JAMARI (Candeias do Jamari/RO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [LICITANET] - Contratação de empresa para prestação de serviços de locação de software em modelo Software as a Service (SaaS), compreendendo cessão/licenciamento, hospedagem em nuvem e demais serviços correlatos, visando atender às necessidades da Prefeitura Municipal de Candeias do Jamari – PMCJ/RO e da Câmara Municipal de Candeias do Jamari – CMCJ/RO, conforme condições, quantidades e exigências estabelecidas no Termo de Referência
+VALOR ESTIMADO: R$ 1.814.506,16
+PRAZO PARA PROPOSTAS: 2026-10-13T10:00:00
+LINK OFICIAL: https://licitanet.com.br/sessao/202362
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/63761902000160/compras/2026/129/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 8037125: Serviço de implantação, conversão e migração de dados de sistemas nas áreas de: Contabilidade, Tesouraria, Planejamento, | Qtd: 1.0 | R$ Unit: 115349.6
+  - Item 8037126: Licença de uso não exclusiva de Contabilidade.  (SEMG). | Qtd: 12.0 | R$ Unit: 3263.6
+  - Item 8037127: Licença de uso não exclusiva de Tesouraria    (SEMG). | Qtd: 12.0 | R$ Unit: 2280.0
+  - Item 8037128: Licença de uso não exclusiva de Planejamento/Orçamento   (SEMG). | Qtd: 12.0 | R$ Unit: 2199.4
+  - Item 8037129: Licença de uso não exclusiva de Prestação de Contas  (SEMG). | Qtd: 12.0 | R$ Unit: 1860.0
+  - Item 8037130: Licença de uso não exclusiva de Controladoria   (SEMG). | Qtd: 12.0 | R$ Unit: 2200.0
+  - Item 8037131: Licença de uso não exclusiva de Folha de Pagamento, Folha de Servidor e e-Social   (SEMG). | Qtd: 12.0 | R$ Unit: 6192.67
+  - Item 8037132: Licença de uso não exclusiva de Recursos Humanos   (SEMG). | Qtd: 12.0 | R$ Unit: 4899.4
+  - Item 8037133: Licença de uso não exclusiva de Ponto Eletrônico e Relógio Ponto Virtual   (SEMG). | Qtd: 12.0 | R$ Unit: 3013.66
+  - Item 8037134: Licença de uso não exclusiva de patrimônio   (SEMG). | Qtd: 12.0 | R$ Unit: 2630.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "63761902000160",
+    "razaoSocial": "MUNICIPIO DE CANDEIAS DO JAMARI",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-22T13:27:07",
+  "dataAtualizacao": "2026-09-22T13:27:07",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 129,
+  "emendaParlamentar": null,
+  "numeroCompra": "024",
+  "processo": "0000691.02.01-2026",
+  "objetoCompra": "[LICITANET] - Contratação de empresa para prestação de serviços de locação de software em modelo Software as a Service (SaaS), compreendendo cessão/licenciamento, hospedagem em nuvem e demais serviços correlatos, visando atender às necessidades da Prefeitura Municipal de Candeias do Jamari – PMCJ/RO e da Câmara Municipal de Candeias do Jamari – CMCJ/RO, conforme condições, quantidades e exigências estabelecidas no Termo de Referência",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-22T13:26:06",
+  "dataEncerramentoProposta": "2026-10-13T10:00:00",
+  "dataPublicacaoPncp": "2026-09-22T13:27:07",
+  "dataAtualizacaoGlobal": "2026-09-22T13:27:09",
+  "unidadeOrgao": {
+    "ufNome": "Rondônia",
+    "ufSigla": "RO",
+    "municipioNome": "Candeias do Jamari",
+    "codigoUnidade": "138",
+    "nomeUnidade": "MUNICÍPIO DE CANDEIAS DO JAMARI/RO",
+    "codigoIbge": "1100809"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://licitanet.com.br/sessao/202362",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "63761902000160-1-000129/2026",
+  "valorTotalEstimado": 1814506.16,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA"
+}

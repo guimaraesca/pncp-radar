@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: FUNDACAO CULTURAL CASSIANO RICARDO (São José dos Campos/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO:  - Contratação de 1 (uma) empresa especializada na captação de recursos financeiros, por meio de verbas da iniciativa privada para eventos oficiais da Fundação Cultural Cassiano Ricardo, com prestação de serviço de elaboração de catálogo digital e impresso para apresentação dos eventos, valores, contrapartidas, além de pacotes e cotas de patrocínio, incluindo apresentação de relatório sobre contratos e acordos, prestação de contas dos acordos de patrocínio, gestão financeira, planejamento estratégico, avaliação de resultados e suporte logístico.
+VALOR ESTIMADO: R$ 48.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/45395704000149-1-000669/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo (50 a 100 km)
+SELO LOGÍSTICO: [BASE: SÃO PAULO | São José dos Campos/SP (85km)]
+DISTÂNCIA ESTIMADA DA BASE: 85 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45395704000149/compras/2025/669/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/45395704000149/compras/2025/669/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa especializada na captação de recursos financeiros por meio de verbas da iniciativa privada para e | Qtd: 1.0 | R$ Unit: 48000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "45395704000149",
+    "razaoSocial": "FUNDACAO CULTURAL CASSIANO RICARDO",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-07T07:56:15",
+  "dataAtualizacao": "2025-08-07T07:56:15",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 669,
+  "emendaParlamentar": null,
+  "numeroCompra": "412",
+  "processo": "623/2025",
+  "objetoCompra": " - Contratação de 1 (uma) empresa especializada na captação de recursos financeiros, por meio de verbas da iniciativa privada para eventos oficiais da Fundação Cultural Cassiano Ricardo, com prestação de serviço de elaboração de catálogo digital e impresso para apresentação dos eventos, valores, contrapartidas, além de pacotes e cotas de patrocínio, incluindo apresentação de relatório sobre contratos e acordos, prestação de contas dos acordos de patrocínio, gestão financeira, planejamento estratégico, avaliação de resultados e suporte logístico.",
+  "informacaoComplementar": " - A contratação de empresa especializada em captação de recursos financeiros por meio de verbas da iniciativa privada visa fortalecer e diversificar as fontes de financiamento dos eventos oficiais realizados pela Fundação Cultural Cassiano Ricardo. Considerando o cenário atual de restrições orçamentárias e a crescente necessidade de parcerias com o setor privado para viabilização de ações culturais, torna-se fundamental contar com apoio técnico-profissional qualificado para estruturar propostas de patrocínio, otimizar a apresentação dos projetos e garantir a transparência nos processos de gestão dos recursos captados.",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T07:56:15",
+  "dataAtualizacaoGlobal": "2025-08-07T07:56:22",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São José dos Campos",
+    "codigoUnidade": "3",
+    "nomeUnidade": "FUNDAÇÃO CULTURAL CASSIANO RICARDO",
+    "codigoIbge": "3549904"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "45395704000149-1-000669/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": " - A contratação de empresa especializada em captação de recursos financeiros por meio de verbas da iniciativa privada visa fortalecer e diversificar as fontes de financiamento dos eventos oficiais realizados pela Fundação Cultural Cassiano Ricardo. Considerando o cenário atual de restrições orçamentárias e a crescente necessidade de parcerias com o setor privado para viabilização de ações culturais, torna-se fundamental contar com apoio técnico-profissional qualificado para estruturar propostas de patrocínio, otimizar a apresentação dos projetos e garantir a transparência nos processos de gestão dos recursos captados.",
+  "valorTotalEstimado": 48000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Obara Informática Ltda"
+}

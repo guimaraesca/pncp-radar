@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ICO (Icó/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA VISANDO A IMPLANTAÇÃO DE SOLUÇÃO TECNOLOGICA INFORMATIZADA DE GESTÃO PUBLICA OBRIGATORIAMENTE EM AMBIENTE WEB, TOTALMENTE INTEGRADA, QUE ABRANJA AINDA OS SERVIÇOS DE LICENCIAMENTO DE SOFTWARE, SUPORTE TÉCNICO, ALTERAÇÕES LEGAIS, CORRETIVAS E EVOLUTIVAS E TREINAMENTO DE USUÁRIOS.
+VALOR ESTIMADO: R$ 216.533,34
+PRAZO PARA PROPOSTAS: 2025-05-20T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/07669682000179-1-000014/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07669682000179/compras/2025/14/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07669682000179/compras/2025/14/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07669682000179/compras/2025/14/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07669682000179/compras/2025/14/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07669682000179/compras/2025/14/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07669682000179/compras/2025/14/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07669682000179/compras/2025/14/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07669682000179/compras/2025/14/arquivos/8
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇO DE IMPLANTAÇÃO DE UMA SOLUÇÃO TECNOLOGICA INFORMATIZADA DE GESTÃO PUBLICA, INCLUINDO MIGRAÇÃO, PARAMETRIZAÇÃO, C | Qtd: 2.0 | R$ Unit: 14366.67
+  - Item 2: HOSPEDAGEM DA PLATAFORMA EM DATACENTER/CLOUDE COMPUTING (NUVENS), DE ALTA PERFORMACE E ELEVADA SEGURANÇA. | Qtd: 12.0 | R$ Unit: 3316.67
+  - Item 3: CONTRATAÇAO DE EMPRESA VISANDO A IMPLANTAÇAO DE SOLUÇÃO TECNOLOGICA INFORMATIZADA DE GESTÃO PUBLICA OBRIGATORIAMENTE EM  | Qtd: 12.0 | R$ Unit: 12333.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "07669682000179",
+    "razaoSocial": "MUNICIPIO DE ICO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-05T10:22:44",
+  "dataAtualizacao": "2025-05-05T10:22:44",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 14,
+  "emendaParlamentar": null,
+  "numeroCompra": "03.003/2025-PE",
+  "processo": "03.003/2025",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA VISANDO A IMPLANTAÇÃO DE SOLUÇÃO TECNOLOGICA INFORMATIZADA DE GESTÃO PUBLICA OBRIGATORIAMENTE EM AMBIENTE WEB, TOTALMENTE INTEGRADA, QUE ABRANJA AINDA OS SERVIÇOS DE LICENCIAMENTO DE SOFTWARE, SUPORTE TÉCNICO, ALTERAÇÕES LEGAIS, CORRETIVAS E EVOLUTIVAS E TREINAMENTO DE USUÁRIOS.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-05T11:00:00",
+  "dataEncerramentoProposta": "2025-05-20T08:00:00",
+  "dataPublicacaoPncp": "2025-05-05T10:22:44",
+  "dataAtualizacaoGlobal": "2025-05-23T09:14:08",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Icó",
+    "codigoUnidade": "1958",
+    "nomeUnidade": "Icó",
+    "codigoIbge": "2305407"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "07669682000179-1-000014/2025",
+  "valorTotalEstimado": 216533.34,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações"
+}

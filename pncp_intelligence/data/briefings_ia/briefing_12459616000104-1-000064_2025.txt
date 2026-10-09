@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE OCARA (Ocara/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Prestação de serviços destinados a elaboração do projeto de BackBone, Datacenter e servidor próprio junto a Secretaria de Ciência, Tecnologia, Inovação e Desenvolvimento Econômico do Município de Ocara/CE.
+VALOR ESTIMADO: R$ 30.326,63
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/9702a5ed03e94f128cf8ef05e06fcf63/prestacao-de-servicos-destinados-a-elaboracao-do-p
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12459616000104/compras/2025/64/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12459616000104/compras/2025/64/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12459616000104/compras/2025/64/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/12459616000104/compras/2025/64/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Prestação de serviços destinados a elaboração do projeto de BackBone, Datacenter e servidor próprio junto a Secretaria d | Qtd: 1.0 | R$ Unit: 30326.63
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 24688.0,
+  "orgaoEntidade": {
+    "cnpj": "12459616000104",
+    "razaoSocial": "MUNICIPIO DE OCARA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-04T08:50:07",
+  "dataAtualizacao": "2025-07-04T08:50:07",
+  "numeroControlePNCP": "12459616000104-1-000064/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 64,
+  "emendaParlamentar": null,
+  "numeroCompra": "059/2025 DE",
+  "processo": "0001820250630000144",
+  "srp": false,
+  "objetoCompra": "Prestação de serviços destinados a elaboração do projeto de BackBone, Datacenter e servidor próprio junto a Secretaria de Ciência, Tecnologia, Inovação e Desenvolvimento Econômico do Município de Ocara/CE.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-07-04T08:50:07",
+  "dataAtualizacaoGlobal": "2025-07-17T09:33:07",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Ocara",
+    "codigoIbge": "2309458",
+    "codigoUnidade": "202527",
+    "nomeUnidade": "SECRETARIA DE CIENCIAS, TECNOL. INOVAÇ E DESENV.EC"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/9702a5ed03e94f128cf8ef05e06fcf63/prestacao-de-servicos-destinados-a-elaboracao-do-p",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 30326.63,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

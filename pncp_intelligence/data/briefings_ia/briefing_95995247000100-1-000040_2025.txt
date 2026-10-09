@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ARVOREDO (Arvoredo/SC)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE SERVIÇOS DE CONSULTORIA TÉCNICA ESPECIALIZADA PARA ASSESSORIA EM MATÉRIA TRIBUTÁRIA E REFORMA TRIBUTÁRIA NO MUNICÍPIO DE ARVOREDO/SC.
+VALOR ESTIMADO: R$ 53.199,96
+PRAZO PARA PROPOSTAS: 2025-06-16T09:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/95995247000100-1-000040/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/95995247000100/compras/2025/40/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS DE CONSULTORIA TÉCNICA ESPECIALIZADA EM MATÉRIA TRIBUTÁRIA E REFORMA TRIBUTÁRIA. | Qtd: 12.0 | R$ Unit: 4433.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "95995247000100",
+    "razaoSocial": "MUNICIPIO DE ARVOREDO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-04-24T08:18:48",
+  "dataAtualizacao": "2025-04-24T08:18:48",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 40,
+  "emendaParlamentar": null,
+  "numeroCompra": "CCE 1",
+  "processo": "38/2025",
+  "objetoCompra": "CONTRATAÇÃO DE SERVIÇOS DE CONSULTORIA TÉCNICA ESPECIALIZADA PARA ASSESSORIA EM MATÉRIA TRIBUTÁRIA E REFORMA TRIBUTÁRIA NO MUNICÍPIO DE ARVOREDO/SC.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-04-24T09:00:00",
+  "dataEncerramentoProposta": "2025-06-16T09:00:00",
+  "dataPublicacaoPncp": "2025-04-24T08:18:48",
+  "dataAtualizacaoGlobal": "2025-04-24T08:18:51",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Arvoredo",
+    "codigoUnidade": "03001",
+    "nomeUnidade": "ADM - GERENCIA DE ADMINISTRAÇÃO E GESTÃO",
+    "codigoIbge": "4201653"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "95995247000100-1-000040/2025",
+  "valorTotalEstimado": 53199.96,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 2,
+  "modoDisputaNome": "Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PEDERNEIRAS (Pederneiras/SP)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para prestação de serviços de aerolevantamento fotogramétrico e perfilométrico LiDAR, mapeamento móvel 360° LiDAR, atualização do cadastro imobiliário, planta de valores genéricos e implantação de plataforma de geoprocessamento na modalidade SaaS, incluindo serviços de suporte técnico, treinamento e hospedagem de dados georreferenciados para o Município de Pederneiras/SP.
+VALOR ESTIMADO: R$ 2.234.351,30
+PRAZO PARA PROPOSTAS: 2025-09-01T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98683503900062025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46189718000179/compras/2025/229/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Execução Serviço - Mapeamento Cartográfico | Qtd: 1.0 | R$ Unit: 570235.0
+  - Item 2: Serviços Especializados de Geoprocessamento | Qtd: 1.0 | R$ Unit: 1318852.5
+  - Item 3: Software como Servico - Saas | Qtd: 1.0 | R$ Unit: 345263.8
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 2000000.0,
+  "orgaoEntidade": {
+    "cnpj": "46189718000179",
+    "razaoSocial": "MUNICIPIO DE PEDERNEIRAS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-15T07:07:49",
+  "dataAtualizacao": "2025-08-15T07:07:49",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 229,
+  "emendaParlamentar": null,
+  "numeroCompra": "90006",
+  "processo": "14487/2025",
+  "objetoCompra": "Contratação de empresa para prestação de serviços de aerolevantamento fotogramétrico e perfilométrico LiDAR, mapeamento móvel 360° LiDAR, atualização do cadastro imobiliário, planta de valores genéricos e implantação de plataforma de geoprocessamento na modalidade SaaS, incluindo serviços de suporte técnico, treinamento e hospedagem de dados georreferenciados para o Município de Pederneiras/SP.",
+  "informacaoComplementar": "Deverão ser observadas as especificações contidas no Termo de Referência do edital. Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=98683503900062025",
+  "dataAberturaProposta": "2025-08-15T08:00:00",
+  "dataEncerramentoProposta": "2025-09-01T09:00:00",
+  "dataPublicacaoPncp": "2025-08-15T07:07:49",
+  "dataAtualizacaoGlobal": "2025-09-19T16:33:45",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Pederneiras",
+    "codigoUnidade": "986835",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE PEDERNEIRAS - SP",
+    "codigoIbge": "3536703"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98683503900062025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "46189718000179-1-000229/2025",
+  "valorTotalEstimado": 2234351.3,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

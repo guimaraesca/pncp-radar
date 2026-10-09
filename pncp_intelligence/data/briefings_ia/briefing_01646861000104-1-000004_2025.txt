@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE FONOAUDIOLOGIA - 6 REGIAO (Belo Horizonte/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: O objeto da presente dispensa é a escolha da proposta mais vantajosa para a aquisição/renovação para 12 meses  do software Microsoft Office 365 Business Standard Anual New Commerce. 
+VALOR ESTIMADO: R$ 14.620,00
+PRAZO PARA PROPOSTAS: 2025-03-25T07:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/01646861000104-1-000004/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01646861000104/compras/2025/4/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Cessão Temporária de Direitos Sobre Programas de Computador Locação de Software | Qtd: 17.0 | R$ Unit: 860.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01646861000104",
+    "razaoSocial": "CONSELHO REGIONAL DE FONOAUDIOLOGIA - 6 REGIAO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": 13783.43,
+  "dataInclusao": "2025-03-20T10:29:46",
+  "dataAtualizacao": "2025-03-20T10:29:46",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 4,
+  "emendaParlamentar": null,
+  "numeroCompra": "90032",
+  "processo": "10/2025",
+  "objetoCompra": "O objeto da presente dispensa é a escolha da proposta mais vantajosa para a aquisição/renovação para 12 meses  do software Microsoft Office 365 Business Standard Anual New Commerce. ",
+  "informacaoComplementar": "Aquisição de baixo valor para atender as demandas do Conselho Regional de Fonoaudiologia 6ª Região.",
+  "dataAberturaProposta": "2025-03-20T10:29:45",
+  "dataEncerramentoProposta": "2025-03-25T07:59:59",
+  "dataPublicacaoPncp": "2025-03-20T10:29:46",
+  "dataAtualizacaoGlobal": "2025-03-31T12:28:21",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Belo Horizonte",
+    "codigoUnidade": "927983",
+    "nomeUnidade": "CONSELHO REGIONAL DE FONOAUDIOLOGIA 6ª - MG",
+    "codigoIbge": "3106200"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "01646861000104-1-000004/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 14620.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

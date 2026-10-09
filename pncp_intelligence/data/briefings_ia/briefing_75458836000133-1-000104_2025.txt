@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE ITAUNA DO SUL (Itaúna do Sul/PR)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratacao de empresa especializada na prestacao de servicos de consultoria tecnica especializada em relacao ao ITR Imposto Territorial Rural
+VALOR ESTIMADO: R$ 21.000,00
+PRAZO PARA PROPOSTAS: 2025-08-07T14:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/75458836000133-1-000104/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/75458836000133/compras/2025/104/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: consultoria tecnica especializada em relacao ao ITR | Qtd: 12.0 | R$ Unit: 1750.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "75458836000133",
+    "razaoSocial": "MUNICIPIO DE ITAUNA DO SUL",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-08-04T16:24:05",
+  "dataAtualizacao": "2025-08-04T16:24:05",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 104,
+  "emendaParlamentar": null,
+  "numeroCompra": "36",
+  "processo": "91",
+  "objetoCompra": "Contratacao de empresa especializada na prestacao de servicos de consultoria tecnica especializada em relacao ao ITR Imposto Territorial Rural",
+  "informacaoComplementar": "Inexistente",
+  "dataAberturaProposta": "2025-08-07T08:00:00",
+  "dataEncerramentoProposta": "2025-08-07T14:00:00",
+  "dataPublicacaoPncp": "2025-08-04T16:24:05",
+  "dataAtualizacaoGlobal": "2025-08-04T16:24:14",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Itaúna do Sul",
+    "codigoUnidade": "60",
+    "nomeUnidade": "SALA DA ADMINISTRACAO",
+    "codigoIbge": "4111308"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "75458836000133-1-000104/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 21000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Equiplano Sistemas LTDA / Equiplano Sistemas "
+}

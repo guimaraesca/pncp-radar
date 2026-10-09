@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO JOSE DO RIO PRETO (São José do Rio Preto/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: AQUISIÇÃO DE MOBILIÁRIO POLTRONA E PUFF PARA O PQ TECNOLÓGICO, CONF SOLIC 6154 DA SM PLANEJAMENTO ESTRATÉGICO
+VALOR ESTIMADO: R$ 38.810,00
+PRAZO PARA PROPOSTAS: 2025-08-12T08:00:00
+LINK OFICIAL: https://compras.empro.com.br/
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46588950000180/compras/2025/635/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46588950000180/compras/2025/635/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: POLTRONA MODULO 1 LUGAR | Qtd: 2.0 | R$ Unit: 2035.0
+  - Item 2: PUFF | Qtd: 9.0 | R$ Unit: 3860.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 15160.0,
+  "orgaoEntidade": {
+    "cnpj": "46588950000180",
+    "razaoSocial": "MUNICIPIO DE SAO JOSE DO RIO PRETO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-08-04T14:06:15",
+  "dataInclusao": "2025-08-04T14:06:15",
+  "numeroControlePNCP": "46588950000180-1-000635/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 635,
+  "emendaParlamentar": null,
+  "numeroCompra": "12178",
+  "processo": "12178/2025",
+  "dataEncerramentoProposta": "2025-08-12T08:00:00",
+  "objetoCompra": "AQUISIÇÃO DE MOBILIÁRIO POLTRONA E PUFF PARA O PQ TECNOLÓGICO, CONF SOLIC 6154 DA SM PLANEJAMENTO ESTRATÉGICO",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-08-07T08:00:00",
+  "dataPublicacaoPncp": "2025-08-04T14:06:15",
+  "dataAtualizacaoGlobal": "2025-08-21T10:31:05",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "São José do Rio Preto",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SAO JOSE DO RIO PRETO",
+    "codigoIbge": "3549805"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://compras.empro.com.br/",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "EMPRO TECNOLOGIA E INFORMACAO",
+  "valorTotalEstimado": 38810.0
+}

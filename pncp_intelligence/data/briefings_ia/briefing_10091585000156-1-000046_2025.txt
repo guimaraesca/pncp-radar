@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO CAITANO (São Caitano/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA NA ÁREA DE ENGENHARIA CIVIL NO MUNICÍPIO DE SÃO CAETANO, CONFORME CONDIÇÕES DESCRITAS NESTE EDITAL E SEUS ANEXOS.
+
+VALOR ESTIMADO: R$ 84.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]1KnfwRPJiatX3En0BO3v4PWbqJzGEaZ6EzvNeR/l9Oh4lYr8lseY31mCppbx_6o7kVpzl17VZ6Id0_X7sU6OU8lxfCp172kOXpjhqtk49f0=
+BASE LOGÍSTICA COMPATÍVEL: Recife (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PE]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/10091585000156/compras/2025/46/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa de engenharia para prestação de serviços de assessoria e consultoria técnica na área de engenhari | Qtd: 1.0 | R$ Unit: 84000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 84000.0,
+  "orgaoEntidade": {
+    "cnpj": "10091585000156",
+    "razaoSocial": "MUNICIPIO DE SAO CAITANO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-11T09:11:32",
+  "dataAtualizacao": "2025-08-11T09:11:32",
+  "numeroControlePNCP": "10091585000156-1-000046/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 46,
+  "emendaParlamentar": null,
+  "numeroCompra": "09",
+  "processo": "022/2025",
+  "srp": false,
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA NA ÁREA DE ENGENHARIA CIVIL NO MUNICÍPIO DE SÃO CAETANO, CONFORME CONDIÇÕES DESCRITAS NESTE EDITAL E SEUS ANEXOS.\r\n",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-11T09:11:32",
+  "dataAtualizacaoGlobal": "2025-08-11T09:11:45",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "São Caitano",
+    "codigoIbge": "2613107",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE SÃO CAITANO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, I",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores",
+    "codigo": 18
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]1KnfwRPJiatX3En0BO3v4PWbqJzGEaZ6EzvNeR/l9Oh4lYr8lseY31mCppbx_6o7kVpzl17VZ6Id0_X7sU6OU8lxfCp172kOXpjhqtk49f0=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 84000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC"
+}

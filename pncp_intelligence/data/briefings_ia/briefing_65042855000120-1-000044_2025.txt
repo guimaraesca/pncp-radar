@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE POTIM (Potim/SP)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: CONCORRÊNCIA 009/2025 - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE ENGENHARIA PARA A PRESTAÇÃO DE SERVIÇOS DE ATUALIZAÇÃO DO CADASTRO MUNICIPAL, COLETA DE DADOS E IMPLANTAÇÃO DE SISTEMA DE GESTÃO DO CADASTRO COM LICENCIAMENTO COMO SERVIÇO (SAAS), TREINAMENTO E SUPORTE, PARA O MUNICÍPIO DE POTIM - SP, CONFORME AS ESPECIFICAÇÕES CONSTANTES DO EDITAL E SEUS ANEXOS.
+VALOR ESTIMADO: R$ 1.403.351,50
+PRAZO PARA PROPOSTAS: 2025-08-29T08:00:00
+LINK OFICIAL: http://www.compraspotim.com.br
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/65042855000120/compras/2025/44/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/65042855000120/compras/2025/44/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/65042855000120/compras/2025/44/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE ENGENHARIA PARA A PRESTAÇÃO DE SERVIÇOS DE ATUALIZAÇÃO DO CADASTRO M | Qtd: 1.0 | R$ Unit: 1403351.5
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "65042855000120",
+    "razaoSocial": "MUNICIPIO DE POTIM",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 1295000.0,
+  "dataInclusao": "2025-08-15T20:03:10",
+  "dataAtualizacao": "2025-08-15T20:03:10",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 44,
+  "emendaParlamentar": null,
+  "numeroCompra": "038",
+  "processo": "150/2025",
+  "objetoCompra": "CONCORRÊNCIA 009/2025 - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE ENGENHARIA PARA A PRESTAÇÃO DE SERVIÇOS DE ATUALIZAÇÃO DO CADASTRO MUNICIPAL, COLETA DE DADOS E IMPLANTAÇÃO DE SISTEMA DE GESTÃO DO CADASTRO COM LICENCIAMENTO COMO SERVIÇO (SAAS), TREINAMENTO E SUPORTE, PARA O MUNICÍPIO DE POTIM - SP, CONFORME AS ESPECIFICAÇÕES CONSTANTES DO EDITAL E SEUS ANEXOS.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-08-18T08:00:00",
+  "dataEncerramentoProposta": "2025-08-29T08:00:00",
+  "dataPublicacaoPncp": "2025-08-15T20:03:10",
+  "dataAtualizacaoGlobal": "2025-09-04T16:23:56",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Potim",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE POTIM",
+    "codigoIbge": "3540754"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "65042855000120-1-000044/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "http://www.compraspotim.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 1403351.5,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BR Conectado"
+}

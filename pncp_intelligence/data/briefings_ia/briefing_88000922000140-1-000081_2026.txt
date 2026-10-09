@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MOSTARDAS (Mostardas/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de empresa especializada para fornecimento e execução de serviços técnicos em locação, manutenção corretiva, adaptativa e evolutiva, atualizações legais, suporte técnico, consultoria técnica e customização, de software em gestão de saúde pública para a Secretaria Municipal de Saúde conforme Memorial Descritivo e demais anexos
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-08T08:50:00
+LINK OFICIAL: https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Mostardas-2760/PE-65-2026-2026-513023
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88000922000140/compras/2026/81/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88000922000140/compras/2026/81/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88000922000140/compras/2026/81/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88000922000140/compras/2026/81/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88000922000140/compras/2026/81/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88000922000140/compras/2026/81/arquivos/6
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lote 1 - Setup/Licenca de uso do sistema eletronico de saude para atender a secretaria municipal saude e Unidades Basica | Qtd: 1.0 | R$ Unit: 30300.0
+  - Item 2: Lote 1 - Conversao do banco de dados atual (Cadastro e Prontuario) | Qtd: 1.0 | R$ Unit: 18133.33
+  - Item 3: Lote 1 - Implantacao, configuracao e treinamento inicial para uso do sistema eletronico de saude | Qtd: 400.0 | R$ Unit: 223.83
+  - Item 4: Lote 1 - Hospedagem em datacenter | Qtd: 12.0 | R$ Unit: 1288.33
+  - Item 5: Lote 1 - Locacao/Manutencao/Atualizacoes do sistema eletronico de saude, incluindo todas as unidades de atendimento. | Qtd: 12.0 | R$ Unit: 7884.5
+  - Item 6: Lote 1 - Hora tecnica para desenvolvimento ou adaptacoes do sistema | Qtd: 50.0 | R$ Unit: 272.75
+  - Item 7: Lote 1 - Valor de referencia para assinatura digital por profissional/ano | Qtd: 120.0 | R$ Unit: 191.75
+  - Item 8: Lote 1 - Assistente Virtual (comunicacao com sociedade), com 5.000 mil mensagens inclusas | Qtd: 12.0 | R$ Unit: 2935.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "88000922000140",
+    "razaoSocial": "MUNICIPIO DE MOSTARDAS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-22T08:59:24",
+  "dataAtualizacao": "2026-10-05T08:27:03",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Mostardas",
+    "codigoUnidade": "5003",
+    "nomeUnidade": "Prefeitura Municipal de Mostardas",
+    "codigoIbge": "4312500"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Mostardas-2760/PE-65-2026-2026-513023",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 81,
+  "emendaParlamentar": null,
+  "numeroCompra": "65",
+  "processo": "321/2026",
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de empresa especializada para fornecimento e execução de serviços técnicos em locação, manutenção corretiva, adaptativa e evolutiva, atualizações legais, suporte técnico, consultoria técnica e customização, de software em gestão de saúde pública para a Secretaria Municipal de Saúde conforme Memorial Descritivo e demais anexos",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-22T09:00:00",
+  "dataEncerramentoProposta": "2026-10-08T08:50:00",
+  "dataPublicacaoPncp": "2026-09-22T08:59:24",
+  "dataAtualizacaoGlobal": "2026-10-05T08:28:17",
+  "numeroControlePNCP": "88000922000140-1-000081/2026",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 2,
+  "situacaoCompraNome": "Revogada",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

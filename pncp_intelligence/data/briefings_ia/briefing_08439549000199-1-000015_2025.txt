@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CRAIBAS (Craíbas/AL)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa para prestação de serviços de cessão e licenciamento de software – PROCESSO ELETRÔNICO INTEGRADO, visando atender as necessidades do Município de Craíbas/AL
+VALOR ESTIMADO: R$ 54.000,00
+PRAZO PARA PROPOSTAS: 2025-03-21T08:00:00
+LINK OFICIAL: https://bnccompras.com/Process/ProcessView?param1=[gkz]UlKX/EsVOXxJ820KQ37a16u2WFR/u7TQtPsdzimw1oYCsNPwsLRnN5VKkOuV3wg5SNGWXuaKUUhktq/DpR9fIO47bPUOEOkO5C3x2fo11oM=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08439549000199/compras/2025/15/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa para prestação de serviços de cessão e licenciamento de software – PROCESSO ELETRÔNICO INTEGRADO, | Qtd: 6.0 | R$ Unit: 9000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "08439549000199",
+    "razaoSocial": "MUNICIPIO DE CRAIBAS",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-03-25T11:39:10",
+  "dataAtualizacao": "2025-03-25T11:39:10",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Bolsa Nacional De Compras - BNC",
+  "dataAberturaProposta": "2025-03-17T13:00:00",
+  "dataEncerramentoProposta": "2025-03-21T08:00:00",
+  "dataPublicacaoPncp": "2025-03-25T11:39:10",
+  "dataAtualizacaoGlobal": "2025-03-25T11:39:12",
+  "unidadeOrgao": {
+    "ufNome": "Alagoas",
+    "ufSigla": "AL",
+    "municipioNome": "Craíbas",
+    "codigoIbge": "2702355",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE CRAÍBAS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]UlKX/EsVOXxJ820KQ37a16u2WFR/u7TQtPsdzimw1oYCsNPwsLRnN5VKkOuV3wg5SNGWXuaKUUhktq/DpR9fIO47bPUOEOkO5C3x2fo11oM=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 15,
+  "emendaParlamentar": null,
+  "numeroCompra": "002",
+  "processo": "03060007/2025",
+  "objetoCompra": "Contratação de empresa para prestação de serviços de cessão e licenciamento de software – PROCESSO ELETRÔNICO INTEGRADO, visando atender as necessidades do Município de Craíbas/AL",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "08439549000199-1-000015/2025",
+  "valorTotalEstimado": 54000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta"
+}

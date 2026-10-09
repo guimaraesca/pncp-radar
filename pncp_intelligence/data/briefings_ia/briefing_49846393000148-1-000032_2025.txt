@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSELHO REGIONAL DE EDUCAÇAO FISICA/ES (Vitória/ES)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: O objeto da presente licitação é a escolha da proposta mais vantajosa para contratação de empresa ou profissional especializado para prestação de serviços de Análise e Levantamento de Requisitos para o desenvolvimento de um Sistema de Fiscalização do Conselho Regional de Educação Física da 22ª Região - CREF22/ES. O objetivo é detalhar as funcionalidades e requisitos técnicos necessários para a futura contratação de uma empresa de desenvolvimento de software
+VALOR ESTIMADO: R$ 7.500,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/49846393000148-1-000032/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/49846393000148/compras/2025/32/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços Especializados em Modelagem de Processos - BPM Serviços Especializados em Modelagem de Processos - BPM | Qtd: 1.0 | R$ Unit: 7500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 7500.0,
+  "orgaoEntidade": {
+    "cnpj": "49846393000148",
+    "razaoSocial": "CONSELHO REGIONAL DE EDUCAÇAO FISICA/ES",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "dataInclusao": "2025-08-04T08:32:27",
+  "dataAtualizacao": "2025-08-04T08:32:27",
+  "numeroControlePNCP": "49846393000148-1-000032/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 32,
+  "emendaParlamentar": null,
+  "numeroCompra": "23",
+  "processo": "2025/000033",
+  "objetoCompra": "O objeto da presente licitação é a escolha da proposta mais vantajosa para contratação de empresa ou profissional especializado para prestação de serviços de Análise e Levantamento de Requisitos para o desenvolvimento de um Sistema de Fiscalização do Conselho Regional de Educação Física da 22ª Região - CREF22/ES. O objetivo é detalhar as funcionalidades e requisitos técnicos necessários para a futura contratação de uma empresa de desenvolvimento de software",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-04T08:32:27",
+  "dataAtualizacaoGlobal": "2025-08-04T08:35:33",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Vitória",
+    "codigoIbge": "3205309",
+    "codigoUnidade": "930365",
+    "nomeUnidade": "CONSELHO REGIONAL DE EDUCAÇAO FISICA/ES"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 7500.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

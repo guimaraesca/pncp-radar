@@ -1,0 +1,81 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO SUSTENTAVEL DA SERRA GAUCHA - CISGA (Garibaldi/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de soluções de adequação à lei geral de proteção de dados (LGPD), serviços gerenciados de segurança cibernética, backup em nuvem e suporte técnico especializado, para atender às necessidades demandadas pelos municípios consorciados ao CP – CISGA.
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2026-10-09T08:00:00
+LINK OFICIAL: https://pregaobanrisul.com.br/editais/0011_2026/357159
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14662467000101/compras/2026/29/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14662467000101/compras/2026/29/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/14662467000101/compras/2026/29/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ITEM 1 - Implantação do Software para adequação à lei geral de proteção de dados – LGPD – Tipo I, II, III. | Qtd: 20208.0 | R$ Unit: 0.0
+  - Item 2: ITEM 2 - Licença do Software para adequação à lei geral de proteção de dados – LGPD – Tipo I. | Qtd: 192.0 | R$ Unit: 0.0
+  - Item 3: ITEM 3 - Terceirização do Encarregado de Dados – Tipo I. | Qtd: 192.0 | R$ Unit: 0.0
+  - Item 4: ITEM 4 - Licença do Software para adequação à lei geral de proteção de dados – LGPD – Tipo II. | Qtd: 36.0 | R$ Unit: 0.0
+  - Item 5: ITEM 5 - Terceirização do Encarregado de Dados – Tipo II. | Qtd: 36.0 | R$ Unit: 0.0
+  - Item 6: ITEM 6 - Licença do Software para adequação à lei geral de proteção de dados – LGPD – Tipo III. | Qtd: 12.0 | R$ Unit: 0.0
+  - Item 7: ITEM 7 - Terceirização do Encarregado de Dados – Tipo III. | Qtd: 12.0 | R$ Unit: 0.0
+  - Item 8: ITEM 8 - Plataforma unificada de segurança cibernética para Segurança de Nuvem, Segurança de E-mail, Segurança de Endpoi | Qtd: 68928.0 | R$ Unit: 0.0
+  - Item 9: ITEM 9 - Operação Assistida e Treinamento para Plataforma unificada de segurança cibernética para Segurança de Nuvem, Se | Qtd: 7680.0 | R$ Unit: 0.0
+  - Item 10: ITEM 10 - Solução de Detecção e Resposta a Incidentes em Endpoints (EDR) com setup/implantação e suporte de 12 meses. | Qtd: 68928.0 | R$ Unit: 0.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "14662467000101",
+    "razaoSocial": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO SUSTENTAVEL DA SERRA GAUCHA - CISGA",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-24T14:11:21",
+  "dataAtualizacao": "2026-10-05T13:30:39",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Garibaldi",
+    "codigoUnidade": "126800",
+    "nomeUnidade": "CONSÓRCIO INTERMUNICIPAL DE DESENVOLVIMENTO SUSTENTÁVEL DA SERRA GAÚCHA",
+    "codigoIbge": "4308607"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://pregaobanrisul.com.br/editais/0011_2026/357159",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": true,
+  "sequencialCompra": 29,
+  "emendaParlamentar": null,
+  "numeroCompra": "0011",
+  "processo": "031",
+  "objetoCompra": "Contratação de soluções de adequação à lei geral de proteção de dados (LGPD), serviços gerenciados de segurança cibernética, backup em nuvem e suporte técnico especializado, para atender às necessidades demandadas pelos municípios consorciados ao CP – CISGA.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-25T08:00:00",
+  "dataEncerramentoProposta": "2026-10-09T08:00:00",
+  "dataPublicacaoPncp": "2026-09-24T14:11:21",
+  "dataAtualizacaoGlobal": "2026-10-05T13:30:51",
+  "numeroControlePNCP": "14662467000101-1-000029/2026",
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PROCERGS - CENTRO DE TECNOLOGIA DA INFORMACAO E COMUNICACAO DO ESTADO DO RIO GRANDE DO SUL S.A."
+}

@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GUARACIABA DO NORTE (Guaraciaba do Norte/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA NO ÂMBITO CULTURAL, COM VISTAS AO ACOMPANHAMENTO, PLANEJAMENTO E SUPORTE NA EXECUÇÃO DO CALENDÁRIO OFICIAL DE EVENTOS E FESTIVIDADES DO MUNICÍPIO DE GUARACIABA DO NORTE – CE, INCLUINDO A PROPOSIÇÃO DE DIRETRIZES QUANTO ÀS ORNAMENTAÇÕES, ORGANIZAÇÃO DOS ESPAÇOS E LOCAIS DE REALIZAÇÃO DOS EVENTOS, BEM COMO A ASSESSORIA NA ÁREA DE CONVÊNIOS, VISANDO ORIENTAR, ACOMPANHAR E APOIAR A CELEBRAÇÃO, EXECUÇÃO, PRESTAÇÃO DE CONTAS E DEMAIS OBRIGAÇÕES CORRELATAS A INSTRUMENTOS FIRMADOS COM ENTES PÚBLICOS E PRIVADOS, PARA ATENDER AS NECESSIDADES DA SECRETARIA DE CULTURA, DESTE MUNICÍPIO
+VALOR ESTIMADO: R$ 61.699,98
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/481d3503863443de8fa0bda08672e261/objeto-contratacao-de-servicos-de-assessoria-e-co
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07569205000131/compras/2025/88/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07569205000131/compras/2025/88/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07569205000131/compras/2025/88/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07569205000131/compras/2025/88/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA NO ÂMBITO CULTURAL, COM VISTAS AO ACOMPANHAMENTO, PLANEJAMENTO E SUPORTE NA | Qtd: 6.0 | R$ Unit: 10283.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "07569205000131",
+    "razaoSocial": "MUNICIPIO DE GUARACIABA DO NORTE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-12T08:57:55",
+  "dataAtualizacao": "2025-08-12T08:57:55",
+  "numeroControlePNCP": "07569205000131-1-000088/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 88,
+  "emendaParlamentar": null,
+  "numeroCompra": "2807002/2025",
+  "processo": "0001520250725000168",
+  "srp": false,
+  "objetoCompra": "OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA NO ÂMBITO CULTURAL, COM VISTAS AO ACOMPANHAMENTO, PLANEJAMENTO E SUPORTE NA EXECUÇÃO DO CALENDÁRIO OFICIAL DE EVENTOS E FESTIVIDADES DO MUNICÍPIO DE GUARACIABA DO NORTE – CE, INCLUINDO A PROPOSIÇÃO DE DIRETRIZES QUANTO ÀS ORNAMENTAÇÕES, ORGANIZAÇÃO DOS ESPAÇOS E LOCAIS DE REALIZAÇÃO DOS EVENTOS, BEM COMO A ASSESSORIA NA ÁREA DE CONVÊNIOS, VISANDO ORIENTAR, ACOMPANHAR E APOIAR A CELEBRAÇÃO, EXECUÇÃO, PRESTAÇÃO DE CONTAS E DEMAIS OBRIGAÇÕES CORRELATAS A INSTRUMENTOS FIRMADOS COM ENTES PÚBLICOS E PRIVADOS, PARA ATENDER AS NECESSIDADES DA SECRETARIA DE CULTURA, DESTE MUNICÍPIO",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-12T08:57:55",
+  "dataAtualizacaoGlobal": "2025-08-12T08:57:57",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Guaraciaba do Norte",
+    "codigoIbge": "2305001",
+    "codigoUnidade": "202518",
+    "nomeUnidade": "SECRETARIA DE CULTURA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/481d3503863443de8fa0bda08672e261/objeto-contratacao-de-servicos-de-assessoria-e-co",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 61699.98,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

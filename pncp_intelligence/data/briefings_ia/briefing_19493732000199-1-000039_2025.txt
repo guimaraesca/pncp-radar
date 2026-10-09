@@ -1,0 +1,80 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CONSORCIO INTERFEDERATIVO MINAS GERAIS - CIMINAS (Araxá/MG)
+MODALIDADE: Credenciamento
+OBJETO DA CONTRATAÇÃO: [Publicenter] - CREDENCIAMENTO DE EMPRESAS ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA TÉCNICA ADMINISTRATIVA NO ORGÃO EXECUTIVO DE TRANSITO MUNICIPAL, EM ATENDIMENTO ÀS DEMANDAS DOS MUNICÍPIOS QUE COMPÕEM O CONSÓRCIO INTERFEDERATIVO DE MINAS GERAIS - CIMINAS.                                                                                                                                                                                                                                                      
+VALOR ESTIMADO: R$ 8.048.479,98
+PRAZO PARA PROPOSTAS: 2025-03-10T08:01:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/19493732000199-1-000039/2025
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/19493732000199/compras/2025/39/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/19493732000199/compras/2025/39/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CAPACITACAO DA ESTRUTURA TECNICA AS CAPACITACOES DEVERAO SER REALIZADAS POR EQUIPES, SENDO NO MINIMO APRESENTADO O DIAGN | Qtd: 33.0 | R$ Unit: 46666.6666
+  - Item 2: COLETA, CONTROLE E ANALISE ESTATISTICA DE TRANSITO ALEM DOS REQUISITOS MINIMOS ACIMA DESCRITAS A CAPACITACAO DEVE ENVOLV | Qtd: 33.0 | R$ Unit: 16666.6666
+  - Item 3: CONCLUSOES APOS A ENTREGA E VALIDACAO DE TODOS OS PRODUTOS ELES DEVERAO SER COMPILADOS DE FORMA SISTEMATICA DE MODO A CO | Qtd: 33.0 | R$ Unit: 21666.6666
+  - Item 4: EDUCACAO DE TRANSITO: ALEM DOS REQUISITOS MINIMOS ACIMA DESCRITAS A CAPACITACAO DEVE ENVOLVER A SISTEMATICA JA APLICADAS | Qtd: 33.0 | R$ Unit: 16666.6666
+  - Item 5: ENGENHARIA DE TRAFEGO ALEM DOS REQUISITOS MINIMOS ACIMA DESCRITAS A CAPACITACAO DEVE ENVOLVER A SISTEMATICA JA APLICADAS | Qtd: 33.0 | R$ Unit: 16666.6666
+  - Item 6: FISCALIZACAO E OPERACAO: ALEM DOS REQUISITOS MINIMOS ACIMA DESCRITAS A CAPACITACAO DEVE ENVOLVER A SISTEMATICA JA APLICA | Qtd: 33.0 | R$ Unit: 16666.6666
+  - Item 7: JUNTA ADMINISTRATIVA DE RECURSO DE INFRACAO- JARI: ALEM DOS REQUISITOS MINIMOS ACIMA DESCRITAS A CAPACITACAO DEVE ENVOLV | Qtd: 33.0 | R$ Unit: 16666.6666
+  - Item 8: PROCESSO DE MUNICIPALIZACAO DO TRANSITO APOIO AO PODER PUBLICO MUNICIPAL PARA CUMPRIR AS EXIGENCIAS IMPOSTAS PELO ART. 2 | Qtd: 33.0 | R$ Unit: 71666.6666
+  - Item 9: PROJETOS DE SEGURANCA VIARIA ELABORAR PROJETOS DE MOBILIDADE URBANA E SEGURANCA VIARIA DENTRO DAS NORMAS E PADROES ATEND | Qtd: 33.0 | R$ Unit: 3893.3333
+  - Item 10: TRANSPORTE PUBICO COLETIVO URBANO; TAXI; MOTOTAXI; TRANSPORTE ESCOLAR ALEM DOS REQUISITOS MINIMOS ACIMA DESCRITAS A CAPA | Qtd: 33.0 | R$ Unit: 16666.6666
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "19493732000199",
+    "razaoSocial": "CONSORCIO INTERFEDERATIVO MINAS GERAIS - CIMINAS",
+    "poderId": "E",
+    "esferaId": "N"
+  },
+  "valorTotalHomologado": 24145439.94,
+  "dataInclusao": "2025-03-05T17:20:22",
+  "dataAtualizacao": "2025-05-21T16:21:05",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 39,
+  "emendaParlamentar": null,
+  "numeroCompra": "14",
+  "processo": "34",
+  "objetoCompra": "[Publicenter] - CREDENCIAMENTO DE EMPRESAS ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA TÉCNICA ADMINISTRATIVA NO ORGÃO EXECUTIVO DE TRANSITO MUNICIPAL, EM ATENDIMENTO ÀS DEMANDAS DOS MUNICÍPIOS QUE COMPÕEM O CONSÓRCIO INTERFEDERATIVO DE MINAS GERAIS - CIMINAS.                                                                                                                                                                                                                                                      ",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-03-10T08:00:00",
+  "dataEncerramentoProposta": "2025-03-10T08:01:00",
+  "dataPublicacaoPncp": "2025-03-05T17:20:22",
+  "dataAtualizacaoGlobal": "2025-05-28T14:49:57",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Araxá",
+    "codigoUnidade": "20101",
+    "nomeUnidade": "CIMINAS - CONSORCIO INTERFEDERATIVO MINAS GERAIS",
+    "codigoIbge": "3104007"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "19493732000199-1-000039/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 79, I",
+    "descricao": "Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+    "codigo": 140
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "LEI N  14.133, DE 1  DE ABRIL DE 2021, E DEMAIS LEGISLAÇÃO APLICÁVEL E PORTARIAS N  11/2023, 30/2023, 23/2025, AINDA, DE ACORDO COM AS CONDIÇÕES ESTABELECIDAS NESTE    EDITAL.",
+  "valorTotalEstimado": 8048479.98,
+  "modalidadeId": 12,
+  "modalidadeNome": "Credenciamento",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 4,
+  "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PUBLICENTER INFORMATICA COMERCIO E LOCACAO LTDA"
+}

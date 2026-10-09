@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RUBIATABA (Rubiataba/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - SOLICITAÇÃO PARA CONTRATAÇÃO DE  EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO (TI) NO MUNICÍPIO DE RUBIATABA,  ESSENCIAL PARA GARANTIR A MODERNIZAÇÃO, SEGURANÇA E EFICIÊNCIA DOS SISTEMAS E PROCESSOS ADMINISTRATIVOS, ALÉM DE OTIMIZAR A COMUNICAÇÃO E O ATENDIMENTO AO CIDADÃO. A IMPLEMENTAÇÃO E MANUTENÇÃO DE SOLUÇÕES TECNOLÓGICAS ADEQUADAS SÃO IMPRESCINDÍVEIS PARA ASSEGURAR O BOM FUNCIONAMENTO DAS ATIVIDADES DESSES SETORES, QUE DESEMPENHAM FUNÇÕES CRUCIAIS NA ADMINISTRAÇÃO PÚBLICA. A EMPRESA CONTRATADA SERÁ RESPONSÁVEL POR PRESTAR SUPORTE TÉCNICO, MANUTENÇÃO DE SISTEMAS, GESTÃO DE INFRAESTRUTURA DE TI, ALÉM DE PROPOR SOLUÇÕES INOVADORAS QUE ATENDAM ÀS NECESSIDADES ESPECÍFICAS DE CADA ÁREA,  SECRETARIAS: ADMINSTRAÇÃO, CONTROLE INTERNO, AGRICULTURA, CONSELHO TUTELAR, SEGURANÇA PUBLICA E OUTROS.
+VALOR ESTIMADO: R$ 145.500,24
+PRAZO PARA PROPOSTAS: 2025-05-22T08:00:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/GO/Prefeitura-Municipal-de-Rubiataba-3024/PE-12-2025-2025-386359
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: GO]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/48/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/02382836000123/compras/2025/48/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lote 1 - Município de Rubiataba, distribuídos entre as Secretaria de administração e demais secretarias do prédio admini | Qtd: 12.0 | R$ Unit: 3838.74
+  - Item 2: Lote 2 - Fundo Municipal de Assistência Social, distribuído entre Secretaria de Promoção e Assistência Social, CRAS, CRE | Qtd: 12.0 | R$ Unit: 2243.28
+  - Item 3: Lote 3 - Fundo Municipal de Educação e Cultura, distribuídas entre Secretaria de Educação, escolas na cidade e distritos | Qtd: 12.0 | R$ Unit: 6043.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "02382836000123",
+    "razaoSocial": "MUNICIPIO DE RUBIATABA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-05-07T16:20:59",
+  "dataAtualizacao": "2025-05-07T16:20:59",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Rubiataba",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Prefeitura Municipal de Rubiataba",
+    "codigoIbge": "5218904"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/GO/Prefeitura-Municipal-de-Rubiataba-3024/PE-12-2025-2025-386359",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 48,
+  "emendaParlamentar": null,
+  "numeroCompra": "12",
+  "processo": "2801/2025",
+  "objetoCompra": "[Portal de Compras Públicas] - SOLICITAÇÃO PARA CONTRATAÇÃO DE  EMPRESA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO (TI) NO MUNICÍPIO DE RUBIATABA,  ESSENCIAL PARA GARANTIR A MODERNIZAÇÃO, SEGURANÇA E EFICIÊNCIA DOS SISTEMAS E PROCESSOS ADMINISTRATIVOS, ALÉM DE OTIMIZAR A COMUNICAÇÃO E O ATENDIMENTO AO CIDADÃO. A IMPLEMENTAÇÃO E MANUTENÇÃO DE SOLUÇÕES TECNOLÓGICAS ADEQUADAS SÃO IMPRESCINDÍVEIS PARA ASSEGURAR O BOM FUNCIONAMENTO DAS ATIVIDADES DESSES SETORES, QUE DESEMPENHAM FUNÇÕES CRUCIAIS NA ADMINISTRAÇÃO PÚBLICA. A EMPRESA CONTRATADA SERÁ RESPONSÁVEL POR PRESTAR SUPORTE TÉCNICO, MANUTENÇÃO DE SISTEMAS, GESTÃO DE INFRAESTRUTURA DE TI, ALÉM DE PROPOR SOLUÇÕES INOVADORAS QUE ATENDAM ÀS NECESSIDADES ESPECÍFICAS DE CADA ÁREA,  SECRETARIAS: ADMINSTRAÇÃO, CONTROLE INTERNO, AGRICULTURA, CONSELHO TUTELAR, SEGURANÇA PUBLICA E OUTROS.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-05-08T08:00:00",
+  "dataEncerramentoProposta": "2025-05-22T08:00:00",
+  "dataPublicacaoPncp": "2025-05-07T16:20:59",
+  "dataAtualizacaoGlobal": "2025-05-16T09:45:54",
+  "numeroControlePNCP": "02382836000123-1-000048/2025",
+  "valorTotalEstimado": 145500.24,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

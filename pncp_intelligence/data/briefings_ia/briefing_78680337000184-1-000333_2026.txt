@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: UNIVERSIDADE ESTADUAL DO OESTE DO PARANA (Cascavel/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação desenvolvimento de software PE Juventude
+VALOR ESTIMADO: R$ 150.000,00
+PRAZO PARA PROPOSTAS: 2026-10-14T08:30:00
+LINK OFICIAL: www.transparencia.pr.gov.br/pte/compras/licitacoes/pesquisar-param?numprocesso=1411&ano=2026&codmodalidade=68
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/78680337000184/compras/2026/333/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/78680337000184/compras/2026/333/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/78680337000184/compras/2026/333/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: (L1) 208.18939-Prestação de Serviços, TIPO: Tecnologia da Informação e Comunicação, UNID. DE MEDIDA: Unidade de Serviço  | Qtd: 1.0 | R$ Unit: 150000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "78680337000184",
+    "razaoSocial": "UNIVERSIDADE ESTADUAL DO OESTE DO PARANA",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-23T17:00:09",
+  "dataAtualizacao": "2026-09-23T17:00:09",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Cascavel",
+    "codigoUnidade": "103",
+    "nomeUnidade": "UNIOESTE REITOR - Universidade Estadual do Oeste do Paraná - Reitoria",
+    "codigoIbge": "4104808"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "www.transparencia.pr.gov.br/pte/compras/licitacoes/pesquisar-param?numprocesso=1411&ano=2026&codmodalidade=68",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 333,
+  "emendaParlamentar": null,
+  "numeroCompra": "1411",
+  "processo": "1411/2026",
+  "objetoCompra": "Contratação desenvolvimento de software PE Juventude",
+  "informacaoComplementar": "(L1):Pe Juventude",
+  "dataAberturaProposta": "2026-09-25T08:00:00",
+  "dataEncerramentoProposta": "2026-10-14T08:30:00",
+  "dataPublicacaoPncp": "2026-09-23T17:00:09",
+  "dataAtualizacaoGlobal": "2026-09-23T17:00:13",
+  "numeroControlePNCP": "78680337000184-1-000333/2026",
+  "valorTotalEstimado": 150000.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria de Estado da Administração e da Previdência do Estado do Paraná - SEAP-PR"
+}

@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CATUJI (Catuji/MG)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada em Serviços de Consultoria Técnica.
+VALOR ESTIMADO: R$ 51.916,67
+PRAZO PARA PROPOSTAS: 2025-06-27T07:30:00
+LINK OFICIAL: https://bllcompras.com/Process/ProcessView?param1=[gkz]4JPpKHEd/3tIsi/n_uT_bjp3zdr/uPsyUIsOdh6GKMGMYOgDP1PTowYjuwd03JiyJZjlivuYJK_JynDIpu_COZMejj5ElFFFS01nxGYDIQc=
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/26218636000106/compras/2025/29/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/26218636000106/compras/2025/29/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE CONSULTORIA TÉCNICA, CONFORME PARÂMETROS E ETAPAS CONSTANTES NO TERMO DE REFERÊNCIA, DECORRENTES DE SOLIC | Qtd: 7.0 | R$ Unit: 7416.6667
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 40530.0,
+  "orgaoEntidade": {
+    "cnpj": "26218636000106",
+    "razaoSocial": "MUNICIPIO DE CATUJI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-06-18T08:48:12",
+  "dataAtualizacao": "2025-07-08T11:19:22",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 29,
+  "emendaParlamentar": null,
+  "numeroCompra": "012",
+  "processo": "054/2025",
+  "objetoCompra": "Contratação de empresa especializada em Serviços de Consultoria Técnica.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-06-23T07:30:00",
+  "dataEncerramentoProposta": "2025-06-27T07:30:00",
+  "dataPublicacaoPncp": "2025-06-18T08:48:12",
+  "dataAtualizacaoGlobal": "2025-07-08T11:19:27",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Catuji",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE CATUJI- MG",
+    "codigoIbge": "3115458"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]4JPpKHEd/3tIsi/n_uT_bjp3zdr/uPsyUIsOdh6GKMGMYOgDP1PTowYjuwd03JiyJZjlivuYJK_JynDIpu_COZMejj5ElFFFS01nxGYDIQc=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "26218636000106-1-000029/2025",
+  "valorTotalEstimado": 51916.67,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

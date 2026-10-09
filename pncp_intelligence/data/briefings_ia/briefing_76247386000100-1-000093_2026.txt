@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE MARIA HELENA (Maria Helena/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: A presente demanda manifesta a necessidade de contratação de empresa para aquisição de refeições self-service e bebidas, a serem prestadas em restaurante localizado no Município de Umuarama/PR, destinadas ao atendimento dos servidores municipais de Maria Helena/PR em deslocamento oficial.
+VALOR ESTIMADO: R$ 25,241.60
+PRAZO PARA PROPOSTAS: 2026-10-07T08:00:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

@@ -1,0 +1,81 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TIMBO CAMARA DE VEREADORES (Timbó/SC)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para disponibilização de Sistema de Processo
+Legislativo e Administrativo Eletrônico em nuvem, na modalidade Software como Serviço
+(SaaS), abrangendo a gestão do processo legislativo, sessões plenárias com votação eletrônica,
+portal web e parlamento jovem, incluindo os serviços de implantação, parametrização,
+migração de dados, treinamento, suporte técnico e manutenção, compreendendo os módulos
+integrados, serviços, requisitos técnicos e níveis de desempenho 
+VALOR ESTIMADO: R$ 39.406,50
+PRAZO PARA PROPOSTAS: 2026-10-14T08:59:00
+LINK OFICIAL: https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=48460
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83497594000115/compras/2026/41/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83497594000115/compras/2026/41/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83497594000115/compras/2026/41/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83497594000115/compras/2026/41/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83497594000115/compras/2026/41/arquivos/5
+
+ITENS DA CONTRATAÇÃO:
+  - Item 2288499: Implantação, parametrização, customização inicial, migração econversão integral dos dados, treinamento inicial de 30 hor | Qtd: 1.0 | R$ Unit: 1500.0
+  - Item 2288500: Disponibilização mensal de Sistema de Software de Processo Legislativo e Administrativo em regime de Software como Servi | Qtd: 12.0 | R$ Unit: 2812.5
+  - Item 2288501: Serviços técnicos: especializados sob demanda, remunerados por hora previamente autorizada e efetivamente executada, com | Qtd: 30.0 | R$ Unit: 138.55
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "83497594000115",
+    "razaoSocial": "TIMBO CAMARA DE VEREADORES",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-21T15:38:34",
+  "dataAtualizacao": "2026-09-21T15:38:34",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 41,
+  "emendaParlamentar": null,
+  "numeroCompra": "01",
+  "processo": "01/2026",
+  "objetoCompra": "Contratação de empresa especializada para disponibilização de Sistema de Processo\nLegislativo e Administrativo Eletrônico em nuvem, na modalidade Software como Serviço\n(SaaS), abrangendo a gestão do processo legislativo, sessões plenárias com votação eletrônica,\nportal web e parlamento jovem, incluindo os serviços de implantação, parametrização,\nmigração de dados, treinamento, suporte técnico e manutenção, compreendendo os módulos\nintegrados, serviços, requisitos técnicos e níveis de desempenho ",
+  "informacaoComplementar": "conforme TERMO DE REFERÊNCIA E ETP",
+  "dataAberturaProposta": "2026-09-21T09:00:00",
+  "dataEncerramentoProposta": "2026-10-14T08:59:00",
+  "dataPublicacaoPncp": "2026-09-21T15:38:34",
+  "dataAtualizacaoGlobal": "2026-09-21T15:41:03",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Timbó",
+    "codigoUnidade": "570",
+    "nomeUnidade": "Câmara de Vereadores de Timbó - SC",
+    "codigoIbge": "4218202"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=48460",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "83497594000115-1-000041/2026",
+  "valorTotalEstimado": 39406.5,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "AZ INFORMATICA LTDA"
+}

@@ -1,0 +1,78 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CAMBORIU (Camboriú/SC)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE ASSESSORIA TÉCNICA ESPECIALIZADA NA ORIENTAÇÃO DE ELABORAÇÃO DE PROJETOS E
+ACOMPANHAMENTO DE PROCESSOS EM TRAMITAÇÃO, NO ÂMBITO DO DISTRITO FEDERAL, JUNTO AOS ÓRGÃOS FEDERAIS
+(MINISTÉRIOS, FUNDOS, AUTARQUIAS E DEMAIS INSTITUIÇÕES), ORGANISMOS INTERNACIONAIS E EMBAIXADAS, E NA ÁREA
+DE CAPTAÇÃO DE RECURSOS JUNTO AO GOVERNO FEDERAL, INSTITUIÇÕES FINANCEIRAS NACIONAIS E INTERNACIONAIS E
+ORGANISMOS INTERNACIONAIS, COM O OBJETIVO DE PROPORCIONAR MELHORIAS NOS SERVIÇOS PÚBLICOS MUNICIPAIS
+OFERECIDOS AOS CIDADÃOS DO MUNICÍPIO.
+VALOR ESTIMADO: R$ 24.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/83102293000145-1-000171/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102293000145/compras/2025/171/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: PRESTAÇÃO DE ASSESSORIA TÉCNICA
+NA ORIENTAÇÃO E ACOMPANHAMENTO
+DAS DEMANDAS DA SECRETÁRIA DE
+ADMINISTRAÇÃO DE CAMBORIÚ/S | Qtd: 12.0 | R$ Unit: 2000.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 24000.0,
+  "orgaoEntidade": {
+    "cnpj": "83102293000145",
+    "razaoSocial": "MUNICIPIO DE CAMBORIU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-24T17:01:50",
+  "dataAtualizacao": "2025-03-24T17:01:50",
+  "numeroControlePNCP": "83102293000145-1-000171/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 171,
+  "emendaParlamentar": null,
+  "numeroCompra": "PRD 96",
+  "processo": "156/2025",
+  "objetoCompra": "CONTRATAÇÃO DE ASSESSORIA TÉCNICA ESPECIALIZADA NA ORIENTAÇÃO DE ELABORAÇÃO DE PROJETOS E\nACOMPANHAMENTO DE PROCESSOS EM TRAMITAÇÃO, NO ÂMBITO DO DISTRITO FEDERAL, JUNTO AOS ÓRGÃOS FEDERAIS\n(MINISTÉRIOS, FUNDOS, AUTARQUIAS E DEMAIS INSTITUIÇÕES), ORGANISMOS INTERNACIONAIS E EMBAIXADAS, E NA ÁREA\nDE CAPTAÇÃO DE RECURSOS JUNTO AO GOVERNO FEDERAL, INSTITUIÇÕES FINANCEIRAS NACIONAIS E INTERNACIONAIS E\nORGANISMOS INTERNACIONAIS, COM O OBJETIVO DE PROPORCIONAR MELHORIAS NOS SERVIÇOS PÚBLICOS MUNICIPAIS\nOFERECIDOS AOS CIDADÃOS DO MUNICÍPIO.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-24T17:01:50",
+  "dataAtualizacaoGlobal": "2025-03-24T17:13:37",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Camboriú",
+    "codigoIbge": "4203204",
+    "codigoUnidade": "02003",
+    "nomeUnidade": "SECRETARIA DE ADMINISTRAÇÃO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 24000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "IPM Sistemas"
+}

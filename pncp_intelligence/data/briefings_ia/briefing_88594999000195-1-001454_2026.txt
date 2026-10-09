@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GARIBALDI (Garibaldi/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA PARA A PRESTAÇÃO DE SERVIÇO DE LOCAÇÃO DE “APPLIANCE DE FIREWALL NEXT GENERATION” - NGFW
+VALOR ESTIMADO: R$ 110.195,39
+PRAZO PARA PROPOSTAS: 2026-10-08T08:30:00
+LINK OFICIAL: https://pregaobanrisul.com.br/editais/0098_2026/357237
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88594999000195/compras/2026/1454/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/88594999000195/compras/2026/1454/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LOCAÇÃO SOFTWARE  SERVIÇOS DE LOCAÇÃO DE SOLUÇÃO DE FIREWALL DE PRÓXIMA GERAÇÃO (NEXT GENERATION FIREWALL  NGFW), COMPRE | Qtd: 12.0 | R$ Unit: 7240.66
+  - Item 2: LOCAÇÃO SOFTWARE  SERVIÇO DE IMPLEMENTAÇÃO DA SOLUÇÃO DE APPLIANCE DE FIREWALL NEXT GENERATION  NGFW. | Qtd: 1.0 | R$ Unit: 23307.47
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "88594999000195",
+    "razaoSocial": "MUNICIPIO DE GARIBALDI",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-24T09:11:07",
+  "dataAtualizacao": "2026-09-24T09:11:07",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA A PRESTAÇÃO DE SERVIÇO DE LOCAÇÃO DE “APPLIANCE DE FIREWALL NEXT GENERATION” - NGFW",
+  "dataAberturaProposta": "2026-09-25T08:30:00",
+  "dataEncerramentoProposta": "2026-10-08T08:30:00",
+  "dataPublicacaoPncp": "2026-09-24T09:11:07",
+  "dataAtualizacaoGlobal": "2026-09-24T09:11:08",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Garibaldi",
+    "codigoIbge": "4308607",
+    "codigoUnidade": "172777",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE GARIBALDI"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://pregaobanrisul.com.br/editais/0098_2026/357237",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "88594999000195-1-001454/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 1454,
+  "emendaParlamentar": null,
+  "numeroCompra": "0098",
+  "processo": "098",
+  "informacaoComplementar": "",
+  "valorTotalEstimado": 110195.39,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "PROCERGS - CENTRO DE TECNOLOGIA DA INFORMACAO E COMUNICACAO DO ESTADO DO RIO GRANDE DO SUL S.A."
+}

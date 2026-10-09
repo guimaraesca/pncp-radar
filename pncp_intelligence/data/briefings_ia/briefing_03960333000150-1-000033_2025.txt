@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL CACERES (Cáceres/MT)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: MEDICINA E SEGURANÇA DO TRABALHO
+VALOR ESTIMADO: R$ 32.015,09
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://www.caceres.mt.leg.br/
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03960333000150/compras/2025/33/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/03960333000150/compras/2025/33/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Lote 01 | Qtd: 1.0 | R$ Unit: 32015.09
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "03960333000150",
+    "razaoSocial": "CAMARA MUNICIPAL CACERES",
+    "esferaId": "M",
+    "poderId": "L"
+  },
+  "dataInclusao": "2025-08-07T09:32:10",
+  "dataAtualizacao": "2025-08-07T09:32:10",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Fiorilli Software",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T09:32:10",
+  "dataAtualizacaoGlobal": "2025-08-07T09:32:20",
+  "unidadeOrgao": {
+    "ufNome": "Mato Grosso",
+    "ufSigla": "MT",
+    "municipioNome": "Cáceres",
+    "codigoIbge": "5102504",
+    "codigoUnidade": "1",
+    "nomeUnidade": "CÂMARA MUNICIPAL DE CÁCERES - MT"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://www.caceres.mt.leg.br/",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 33,
+  "emendaParlamentar": null,
+  "numeroCompra": "22",
+  "processo": "22",
+  "objetoCompra": "MEDICINA E SEGURANÇA DO TRABALHO",
+  "informacaoComplementar": "Contratação de empresa especializada na prestação de serviços técnicos em Segurança e Medicina do Trabalho, com a finalidade de elaborar, implementar e manter atualizados os programas e laudos legais, bem como prestar assessoria técnica especializada voltada ao cumprimento das exigências do e-Social.\r\n",
+  "numeroControlePNCP": "03960333000150-1-000033/2025",
+  "valorTotalEstimado": 32015.09,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

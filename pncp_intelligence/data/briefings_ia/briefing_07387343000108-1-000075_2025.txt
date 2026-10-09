@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE BATURITE (Baturité/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: SERVIÇO TÉCNICO ESPECIALIZADO NA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA JUNTO AO SETOR DE COMPRAS DA PREFEITURA MUNICIPAL DE BATURITÉ, JUNTO A SECRETARIA DA EDUCAÇÃO
+
+
+VALOR ESTIMADO: R$ 23.400,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]c91gcjm3VV/8NhZbOJHe89UxcdFV0_9dHzfNlb34V_KY2JprI5HJ8hxYaRocmhoXY/zB0hqXeo45eRgaOzSNhGgts8/MX63WWDisevQahYI=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07387343000108/compras/2025/75/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07387343000108/compras/2025/75/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIÇO TÉCNICO ESPECIALIZADO NA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA JUNTO AO SETOR DE COMPRAS DA  | Qtd: 1.0 | R$ Unit: 23400.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07387343000108",
+    "razaoSocial": "MUNICIPIO DE BATURITE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 23400.0,
+  "dataInclusao": "2025-05-04T15:23:16",
+  "dataAtualizacao": "2025-05-05T20:38:34",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 75,
+  "emendaParlamentar": null,
+  "numeroCompra": "2803.03",
+  "processo": "2803.03/2025",
+  "objetoCompra": "SERVIÇO TÉCNICO ESPECIALIZADO NA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA JUNTO AO SETOR DE COMPRAS DA PREFEITURA MUNICIPAL DE BATURITÉ, JUNTO A SECRETARIA DA EDUCAÇÃO\r\n\r\n",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-05-04T15:23:16",
+  "dataAtualizacaoGlobal": "2025-05-05T20:38:36",
+  "numeroControlePNCP": "07387343000108-1-000075/2025",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Baturité",
+    "codigoUnidade": "2105",
+    "nomeUnidade": "Baturité",
+    "codigoIbge": "2302107"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]c91gcjm3VV/8NhZbOJHe89UxcdFV0_9dHzfNlb34V_KY2JprI5HJ8hxYaRocmhoXY/zB0hqXeo45eRgaOzSNhGgts8/MX63WWDisevQahYI=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "valorTotalEstimado": 23400.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

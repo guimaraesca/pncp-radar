@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: TRIBUNAL SUPERIOR ELEITORAL (Porto Alegre/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de solução de firewall para interligação segura dos cartórios eleitorais, depósito de urnas e de atendimento da Justiça Eleitoral Presente, através de VPN (Virtual Private Network, rede privada virtual criptografada) à rede corporativa do TRE-RS
+VALOR ESTIMADO: R$ 1.532.171,01
+PRAZO PARA PROPOSTAS: 2026-10-09T14:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=07002105001512026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/00509018000113/compras/2026/2235/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Equipamento Segurança Rede tipo: amppliance, aplicação: firewall Solução de Firewall VPN, composta por 155 appliances re | Qtd: 1.0 | R$ Unit: 822519.04
+  - Item 2: Licenciamento de Direitos Permanentes  de  Uso  de  Software para Servidor Suporte técnico, garantia do fabricante, atua | Qtd: 1.0 | R$ Unit: 619219.12
+  - Item 3: Treinamento Informática - Sistema / Software Serviço de configuração de 01 (um) Firewall VPN com Hands On | Qtd: 1.0 | R$ Unit: 34365.03
+  - Item 4: Treinamento Informática - Sistema / Software Treinamento oficial | Qtd: 4.0 | R$ Unit: 14016.955
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "00509018000113",
+    "razaoSocial": "TRIBUNAL SUPERIOR ELEITORAL",
+    "poderId": "J",
+    "esferaId": "F"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-24T04:08:57",
+  "dataAtualizacao": "2026-09-24T04:08:57",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Porto Alegre",
+    "codigoUnidade": "070021",
+    "nomeUnidade": "TRIBUNAL REGIONAL ELEITORAL DO RIO G.DO SUL",
+    "codigoIbge": "4314902"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=07002105001512026",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 2235,
+  "emendaParlamentar": null,
+  "numeroCompra": "151",
+  "processo": "0005918-42.2026.6.21.8000",
+  "objetoCompra": "Aquisição de solução de firewall para interligação segura dos cartórios eleitorais, depósito de urnas e de atendimento da Justiça Eleitoral Presente, através de VPN (Virtual Private Network, rede privada virtual criptografada) à rede corporativa do TRE-RS",
+  "informacaoComplementar": "O edital também está disponível no sítio www.tre-rs.jus.br",
+  "dataAberturaProposta": "2026-09-24T08:00:00",
+  "dataEncerramentoProposta": "2026-10-09T14:00:00",
+  "dataPublicacaoPncp": "2026-09-24T04:08:57",
+  "dataAtualizacaoGlobal": "2026-09-24T04:29:25",
+  "numeroControlePNCP": "00509018000113-1-002235/2026",
+  "valorTotalEstimado": 1532171.01,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 4,
+      "nome": "Federal",
+      "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-24T04:08:57"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

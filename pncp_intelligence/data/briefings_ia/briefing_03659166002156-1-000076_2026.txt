@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA (Brasília/DF)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de serviços contínuos de transporte coletivo por ônibus, para o deslocamento de funcionários em Brasília/DF.
+VALOR ESTIMADO: R$ 585,807.12
+PRAZO PARA PROPOSTAS: 2026-10-13T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=19309905001422026
+SELO LOGÍSTICO: [BASE DIRETA: BRASÍLIA/DF]
+BASE LOGÍSTICA COMPATÍVEL: Brasília (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE NOVA PORTEIRINHA (Nova Porteirinha/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA ADMINISTRATIVA, COM FOCO NO APOIO TÉCNICO À GESTÃO MUNICIPAL, NO ACOMPANHAMENTO DOS PROCESSOS ADMINISTRATIVOS, NA ORGANIZAÇÃO E CONSOLIDAÇÃO DE INFORMAÇÕES GERENCIAIS, NO APOIO AO PLANEJAMENTO ESTRATÉGICO E ACOMPANHAMENTO DO PLANO DE METAS DAS SECRETARIAS MUNICIPAIS, BEM COMO NO SUPORTE À APLICAÇÃO CORRETA DO BRANDING INSTITUCIONAL DO MUNICÍPIO E NO APOIO TÉCNICO À ÁREA DE COMUNICAÇÃO DE NOVA PORTEIRINHA/MG.
+
+
+VALOR ESTIMADO: R$ 84.023,52
+PRAZO PARA PROPOSTAS: 2026-10-08T09:00:00
+LINK OFICIAL: https://app2.licitardigital.com.br/pesquisa/114351
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612499000150/compras/2026/107/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Prestacao de servicos de assessoria em gestao administrativa, planejamento estrategico e acompanhamento do plano de meta | Qtd: 12.0 | R$ Unit: 7001.96
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "01612499000150",
+    "razaoSocial": "MUNICIPIO DE NOVA PORTEIRINHA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-23T11:00:43",
+  "dataAtualizacao": "2026-09-23T11:00:43",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 107,
+  "emendaParlamentar": null,
+  "numeroCompra": "0018",
+  "processo": "0082/2026",
+  "objetoCompra": "CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA ADMINISTRATIVA, COM FOCO NO APOIO TÉCNICO À GESTÃO MUNICIPAL, NO ACOMPANHAMENTO DOS PROCESSOS ADMINISTRATIVOS, NA ORGANIZAÇÃO E CONSOLIDAÇÃO DE INFORMAÇÕES GERENCIAIS, NO APOIO AO PLANEJAMENTO ESTRATÉGICO E ACOMPANHAMENTO DO PLANO DE METAS DAS SECRETARIAS MUNICIPAIS, BEM COMO NO SUPORTE À APLICAÇÃO CORRETA DO BRANDING INSTITUCIONAL DO MUNICÍPIO E NO APOIO TÉCNICO À ÁREA DE COMUNICAÇÃO DE NOVA PORTEIRINHA/MG.\n\n",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-09-23T12:00:00",
+  "dataEncerramentoProposta": "2026-10-08T09:00:00",
+  "dataPublicacaoPncp": "2026-09-23T11:00:43",
+  "dataAtualizacaoGlobal": "2026-09-23T11:00:43",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Nova Porteirinha",
+    "codigoUnidade": "1294",
+    "nomeUnidade": "Unidade Única",
+    "codigoIbge": "3145059"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "01612499000150-1-000107/2026",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/114351",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 84023.52,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+}

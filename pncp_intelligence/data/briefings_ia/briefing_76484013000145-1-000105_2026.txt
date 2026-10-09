@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: COMPANHIA DE SANEAMENTO DO PARANA SANEPAR (Curitiba/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Serviços da atualização tecnológica da Solução virtualização de fitas cartucho para plataforma mainframe, do TS7760 para TS7780, serviços de instalação, configuração, migração, operação assistida, serviços de armazenamento de cópia e garantia, conforme especificações, quantidades, condições e prazos.
+VALOR ESTIMADO: R$ 0.00
+PRAZO PARA PROPOSTAS: 2026-10-20T09:00:00
+LINK OFICIAL: https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101235
+SELO LOGÍSTICO: [BASE: JOINVILLE | Curitiba/PR (130km)]
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+DISTÂNCIA ESTIMADA: 130 km

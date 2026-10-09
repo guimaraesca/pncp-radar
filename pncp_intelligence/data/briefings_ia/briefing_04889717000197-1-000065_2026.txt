@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: DEPARTAMENTO DE EDIFICACOES E DE RODOVIAS DO ESTADO DO ESPIRITO SANTO - DER-ES (Vitória/ES)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Aquisição de 02 (dois) servidores corporativos de alto desempenho para modernização do ambiente de virtualização do Data Center do Departamento de Edificações e de Rodovias do Estado do Espírito Santo - DER-ES, incluindo todos os componentes e acessórios necessários à instalação e operação, integração com a infraestrutura existente, montagem em rack, atualização de firmwares, configuração inicial, testes de aceitação, documentação técnica, transferência de conhecimento, garantia e suporte técnico do fabricante pelo período de 60 (sessenta) meses.
+VALOR ESTIMADO: R$ 1.694.222,24
+PRAZO PARA PROPOSTAS: 2026-10-14T08:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/04889717000197-1-000065/2026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04889717000197/compras/2026/65/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04889717000197/compras/2026/65/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04889717000197/compras/2026/65/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04889717000197/compras/2026/65/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04889717000197/compras/2026/65/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04889717000197/compras/2026/65/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/04889717000197/compras/2026/65/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: SERVIDOR - ARMAZENAMENTO SAS: COM DISCOS SAS; ARMAZENAMENTO SATA: SEM DISCOS SATA; ARMAZENAMENTO SSD: COM DISCOS SSD; FO | Qtd: 2.0 | R$ Unit: 847111.12
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "04889717000197",
+    "razaoSocial": "DEPARTAMENTO DE EDIFICACOES E DE RODOVIAS DO ESTADO DO ESPIRITO SANTO - DER-ES",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "dataInclusao": "2026-09-22T14:30:07",
+  "dataAtualizacao": "2026-09-22T14:30:07",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "AZ INFORMATICA LTDA",
+  "dataAberturaProposta": "2026-09-28T08:00:00",
+  "dataEncerramentoProposta": "2026-10-14T08:00:00",
+  "dataPublicacaoPncp": "2026-09-22T14:30:07",
+  "dataAtualizacaoGlobal": "2026-09-22T14:30:15",
+  "unidadeOrgao": {
+    "ufNome": "Espírito Santo",
+    "ufSigla": "ES",
+    "municipioNome": "Vitória",
+    "codigoIbge": "3205309",
+    "codigoUnidade": "250",
+    "nomeUnidade": "DEPARTAMENTO DE EDIFICACOES E DE RODOVIAS DO ESTADO DO ESPIRITO SANTO"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 65,
+  "emendaParlamentar": null,
+  "numeroCompra": "008",
+  "processo": "2026-F4WD7",
+  "objetoCompra": "Aquisição de 02 (dois) servidores corporativos de alto desempenho para modernização do ambiente de virtualização do Data Center do Departamento de Edificações e de Rodovias do Estado do Espírito Santo - DER-ES, incluindo todos os componentes e acessórios necessários à instalação e operação, integração com a infraestrutura existente, montagem em rack, atualização de firmwares, configuração inicial, testes de aceitação, documentação técnica, transferência de conhecimento, garantia e suporte técnico do fabricante pelo período de 60 (sessenta) meses.",
+  "informacaoComplementar": null,
+  "numeroControlePNCP": "04889717000197-1-000065/2026",
+  "valorTotalEstimado": 1694222.24,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

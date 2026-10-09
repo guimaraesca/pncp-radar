@@ -1,0 +1,68 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL (Sobral/CE)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de consultoria técnica de gestão de pessoas (Lote nº 01) e execução da escrituração contábil tributária para cumprimento da IN nº 2.043/2021-RFB (Lote nº 02) destinados à Câmara Municipal de Sobral-CE.
+VALOR ESTIMADO: R$ 293.199,96
+PRAZO PARA PROPOSTAS: 2025-04-28T08:00:00
+LINK OFICIAL: https://licitamaisbrasil.com.br/detalhes-do-edital/zyCKXZLIZPrZC5xN
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/09485046000112/compras/2025/31/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1:  Consultoria Técnica de Gestão de Pessoas, no que diz respeito ao diagnóstico e definição de fluxos e rotinas do Departa | Qtd: 12.0 | R$ Unit: 12800.0
+  - Item 2:  Execução da escrituração contábil tributária ao cumprimento das obrigações da Instrução Normativa RFB nº 2.043, de 2021 | Qtd: 12.0 | R$ Unit: 11633.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 132000.0,
+  "orgaoEntidade": {
+    "cnpj": "09485046000112",
+    "razaoSocial": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-04-09T09:46:37",
+  "dataInclusao": "2025-04-09T09:46:37",
+  "numeroControlePNCP": "09485046000112-1-000031/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 31,
+  "emendaParlamentar": null,
+  "numeroCompra": "CE nº 002002/2025",
+  "processo": "CE nº 002002/2025",
+  "dataEncerramentoProposta": "2025-04-28T08:00:00",
+  "objetoCompra": "Contratação de consultoria técnica de gestão de pessoas (Lote nº 01) e execução da escrituração contábil tributária para cumprimento da IN nº 2.043/2021-RFB (Lote nº 02) destinados à Câmara Municipal de Sobral-CE.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-04-10T08:00:00",
+  "dataPublicacaoPncp": "2025-04-09T09:46:37",
+  "dataAtualizacaoGlobal": "2025-05-14T12:07:05",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Sobral",
+    "codigoUnidade": "1",
+    "nomeUnidade": "MUNICIPIO DE SOBRAL - CAMARA MUNICIPAL",
+    "codigoIbge": "2312908"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://licitamaisbrasil.com.br/detalhes-do-edital/zyCKXZLIZPrZC5xN",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Licita + Brasil",
+  "valorTotalEstimado": 293199.96
+}

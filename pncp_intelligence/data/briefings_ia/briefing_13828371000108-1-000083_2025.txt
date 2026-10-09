@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE CONCEICAO DA FEIRA (Conceição da Feira/BA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de  prestação de serviços de consultoria e assessoria técnica especializada na área da educação para  melhoria dos índices  educacionais,  orientação e  auxílio  no planejamento, execução e monitoramento de programas e projetos municipais, programas do Ministério da Educação – MEC, do Sistema Integrado de Monitoramento, Execução e Controle - SIMEC, possibilitando as adesões, inserção de dados, e acompanhamento continuo e auxiliando na elaboração do Plano de Ações Articuladas – PAR 4 
+VALOR ESTIMADO: R$ 60.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/13828371000108-1-000083/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/13828371000108/compras/2025/83/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Consultoria e assessoria - educação Consultoria e assessoria - educação | Qtd: 8.0 | R$ Unit: 7500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "13828371000108",
+    "razaoSocial": "MUNICIPIO DE CONCEICAO DA FEIRA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": 60000.0,
+  "dataInclusao": "2025-08-07T08:54:48",
+  "dataAtualizacao": "2025-08-07T08:54:48",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 83,
+  "emendaParlamentar": null,
+  "numeroCompra": "53",
+  "processo": "152/2025",
+  "objetoCompra": "Contratação de  prestação de serviços de consultoria e assessoria técnica especializada na área da educação para  melhoria dos índices  educacionais,  orientação e  auxílio  no planejamento, execução e monitoramento de programas e projetos municipais, programas do Ministério da Educação – MEC, do Sistema Integrado de Monitoramento, Execução e Controle - SIMEC, possibilitando as adesões, inserção de dados, e acompanhamento continuo e auxiliando na elaboração do Plano de Ações Articuladas – PAR 4 ",
+  "informacaoComplementar": " Lei nº 14.133/2021, art. 75. É dispensável a licitação: Inciso II – para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras. atualizado pelo \nDecreto nº 12.343/2024 de 31/12/2024 para o valor de R$ R$62.725,59  (sessenta e dois mil, setecentos e vinte e cinco reais e cinquenta e nove centavos).\n",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T08:54:48",
+  "dataAtualizacaoGlobal": "2025-08-07T08:57:54",
+  "numeroControlePNCP": "13828371000108-1-000083/2025",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Conceição da Feira",
+    "codigoUnidade": "983463",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE CONCEIÇÃO DA FEIRA-BA",
+    "codigoIbge": "2908200"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "valorTotalEstimado": 60000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

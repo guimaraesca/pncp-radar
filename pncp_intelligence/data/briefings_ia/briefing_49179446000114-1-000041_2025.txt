@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: SEIMT - Secretaria de Estado da Inovação, Modernização e Transformação Digital (Curitiba/PR)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para o fornecimento de 100 (cem) pastas suspensas com divisórias para a Secretaria de Estado da Inovação e Inteligência Artificial (SEIA)
+VALOR ESTIMADO: R$ 4.773,00
+PRAZO PARA PROPOSTAS: 2025-08-15T09:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/49179446000114-1-000041/2025
+BASE LOGÍSTICA COMPATÍVEL: Joinville (100 a 200 km)
+SELO LOGÍSTICO: [BASE: JOINVILLE | Curitiba/PR (130km)]
+DISTÂNCIA ESTIMADA DA BASE: 130 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/49179446000114/compras/2025/41/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Pasta Arquivo | Qtd: 100.0 | R$ Unit: 47.73
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "49179446000114",
+    "razaoSocial": "SEIMT - Secretaria de Estado da Inovação, Modernização e Transformação Digital",
+    "poderId": "E",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 3300.0,
+  "dataInclusao": "2025-08-11T15:09:23",
+  "dataAtualizacao": "2025-08-11T15:09:23",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 41,
+  "emendaParlamentar": null,
+  "numeroCompra": "90007",
+  "processo": "240184230",
+  "objetoCompra": "Contratação de empresa especializada para o fornecimento de 100 (cem) pastas suspensas com divisórias para a Secretaria de Estado da Inovação e Inteligência Artificial (SEIA)",
+  "informacaoComplementar": "Devido ao baixo valor e economicidade do processo de despensa de licitação",
+  "dataAberturaProposta": "2025-08-11T15:09:22",
+  "dataEncerramentoProposta": "2025-08-15T09:59:59",
+  "dataPublicacaoPncp": "2025-08-11T15:09:23",
+  "dataAtualizacaoGlobal": "2025-08-28T09:19:49",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "Curitiba",
+    "codigoUnidade": "929881",
+    "nomeUnidade": "SECRETARIA EST.INOV.MOD,TRANFORM.DIGITAL - PR",
+    "codigoIbge": "4106902"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "49179446000114-1-000041/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 4773.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

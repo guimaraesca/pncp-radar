@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: GOIAS TRIBUNAL DE CONTAS (Goiânia/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Prestação de serviços especializados de operação de infraestrutura, de atendimento a usuários de Tecnologia da Informação e Comunicação (TIC), bem como de desenvolvimento, manutenção e sustentação de software, em regime de dedicação exclusiva de mão de obra, na forma de serviços continuados presenciais e não presenciais.
+VALOR ESTIMADO: R$ 9,405,643.75
+PRAZO PARA PROPOSTAS: 2026-10-15T08:59:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92540005001132026
+SELO LOGÍSTICO: [BASE DIRETA: GOIÂNIA/GO]
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (0 km (Base Central))
+DISTÂNCIA ESTIMADA: 0 km

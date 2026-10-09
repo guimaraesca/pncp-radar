@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE NOVA OLINDA DO MARANHAO (Nova Olinda do Maranhão/MA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para ministrar Curso de Capacitação sobre Diagnóstico, Tratamento, Prevenção e Controle da Hanseníase na Atenção Primária à Saúde (APS)
+VALOR ESTIMADO: R$ 43.666,67
+PRAZO PARA PROPOSTAS: 2025-07-11T10:00:00
+LINK OFICIAL: www.licitanovaolindama.com.br
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/01612625000177/compras/2025/15/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa especializada para ministrar Curso de Capacitação sobre Diagnóstico, Tratamento, Prevenção e Cont | Qtd: 1.0 | R$ Unit: 43666.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "01612625000177",
+    "razaoSocial": "MUNICIPIO DE NOVA OLINDA DO MARANHAO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-04T11:02:39",
+  "dataAtualizacao": "2025-07-04T11:02:39",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 15,
+  "emendaParlamentar": null,
+  "numeroCompra": "09",
+  "processo": "2605.01/2025",
+  "objetoCompra": "Contratação de empresa especializada para ministrar Curso de Capacitação sobre Diagnóstico, Tratamento, Prevenção e Controle da Hanseníase na Atenção Primária à Saúde (APS)",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2025-07-04T00:00:00",
+  "dataEncerramentoProposta": "2025-07-11T10:00:00",
+  "dataPublicacaoPncp": "2025-07-04T11:02:39",
+  "dataAtualizacaoGlobal": "2025-07-04T11:02:44",
+  "unidadeOrgao": {
+    "ufNome": "Maranhão",
+    "ufSigla": "MA",
+    "municipioNome": "Nova Olinda do Maranhão",
+    "codigoUnidade": "2770",
+    "nomeUnidade": "Secretaria Municipal de Saúde",
+    "codigoIbge": "2107357"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "www.licitanovaolindama.com.br",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "01612625000177-1-000015/2025",
+  "valorTotalEstimado": 43666.67,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "STARTGOV SOLUCOES EM TECNOLOGIA LTDA"
+}

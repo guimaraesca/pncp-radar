@@ -1,0 +1,10 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PARAISO DO NORTE (Paraíso do Norte/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para prestação de serviços técnicos de diagnóstico, saneamento da Base de Cadastro Imobiliário Municipal (BCI), integração ao Sistema Nacional de Gestão de Informações Territoriais - SINTER, disponibilização de interface de integração (API), capacitação de servidores municipais e suporte técnico.
+VALOR ESTIMADO: R$ 57,250.00
+PRAZO PARA PROPOSTAS: 2026-10-08T08:30:00
+LINK OFICIAL: None
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+DISTÂNCIA ESTIMADA: 250 km

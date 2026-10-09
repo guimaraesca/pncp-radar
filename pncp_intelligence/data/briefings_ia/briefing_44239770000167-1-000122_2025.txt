@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: DEPARTAMENTO AUTONOMO DE AGUA E ESGOTO (Araraquara/SP)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: RENOVAÇÃO DE PACOTE DE LICENÇA DOS SERVIÇOS DE SEGURANÇA DE REDE DO FIREWALL SONICWALL MODELO 2650, ATÉ O FIM DO CICLO DE VIDA DO EQUIPAMENTO (01/05/2026), UTILIZADO PELO DAAE.
+VALOR ESTIMADO: R$ 21.104,90
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://araraquaradaae.cebicloud.com.br/transparencia
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/44239770000167/compras/2025/122/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/44239770000167/compras/2025/122/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: RENOVAÇÃO DE LICENÇA DE SEGURANÇA DO FIREWALL SONICWALL | Qtd: 1.0 | R$ Unit: 21104.9
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "44239770000167",
+    "razaoSocial": "DEPARTAMENTO AUTONOMO DE AGUA E ESGOTO",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-07-03T11:07:28",
+  "dataInclusao": "2025-07-03T11:07:28",
+  "numeroControlePNCP": "44239770000167-1-000122/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 122,
+  "emendaParlamentar": null,
+  "numeroCompra": "000020",
+  "processo": "2025/000139",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "RENOVAÇÃO DE PACOTE DE LICENÇA DOS SERVIÇOS DE SEGURANÇA DE REDE DO FIREWALL SONICWALL MODELO 2650, ATÉ O FIM DO CICLO DE VIDA DO EQUIPAMENTO (01/05/2026), UTILIZADO PELO DAAE.",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-07-03T11:07:28",
+  "dataAtualizacaoGlobal": "2025-07-03T11:08:24",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Araraquara",
+    "codigoUnidade": "1000220",
+    "nomeUnidade": "Administração Geral",
+    "codigoIbge": "3503208"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://araraquaradaae.cebicloud.com.br/transparencia",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": " ",
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Centro Eletrônico Bancário Industrial LTDA",
+  "valorTotalEstimado": 21104.9
+}

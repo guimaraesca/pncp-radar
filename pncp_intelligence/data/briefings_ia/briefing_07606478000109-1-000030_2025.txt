@@ -1,0 +1,72 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GUARAMIRANGA (Guaramiranga/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS LIGADOS À ÁREA DE TECNOLOGIA DA INFORMAÇÃO PARA FORNECIMENTO DE SERVIÇOS DE SOLUÇÃO TECNOLÓGICA E DE ACESSO REMOTO PARA GESTÃO DE NEGÓCIOS NA MODALIDADE SAAS (SOFTWARE COMO SERVIÇO), SOLUÇÃO IN
+VALOR ESTIMADO: R$ 40.640,04
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]jYjH6ANUnpk7D8rlhJZX3wCawYDsrLOSnclkff_e3COueTY7Ovn0vtc5_k3o2zomdkS/qjOWNPJiNxj/6VL13Ei_T9r8McHOfu53z6tJVUU=
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07606478000109/compras/2025/30/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07606478000109/compras/2025/30/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Licença de aplicativo mobile especializado em gestão de folha de pagamento IOS/Android;
+Prestação de serviços técnicos  | Qtd: 12.0 | R$ Unit: 3386.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 40640.04,
+  "orgaoEntidade": {
+    "cnpj": "07606478000109",
+    "razaoSocial": "MUNICIPIO DE GUARAMIRANGA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-07T13:24:25",
+  "dataAtualizacao": "2025-08-07T13:24:25",
+  "numeroControlePNCP": "07606478000109-1-000030/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 30,
+  "emendaParlamentar": null,
+  "numeroCompra": "2025021202",
+  "processo": "2025.02.12.02",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS LIGADOS À ÁREA DE TECNOLOGIA DA INFORMAÇÃO PARA FORNECIMENTO DE SERVIÇOS DE SOLUÇÃO TECNOLÓGICA E DE ACESSO REMOTO PARA GESTÃO DE NEGÓCIOS NA MODALIDADE SAAS (SOFTWARE COMO SERVIÇO), SOLUÇÃO IN",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-07T13:24:25",
+  "dataAtualizacaoGlobal": "2025-08-07T13:24:38",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Guaramiranga",
+    "codigoIbge": "2305100",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE GUARAMIRANGA - CE"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, I",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores",
+    "codigo": 18
+  },
+  "linkSistemaOrigem": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]jYjH6ANUnpk7D8rlhJZX3wCawYDsrLOSnclkff_e3COueTY7Ovn0vtc5_k3o2zomdkS/qjOWNPJiNxj/6VL13Ei_T9r8McHOfu53z6tJVUU=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 40640.04,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "BLL Compras"
+}

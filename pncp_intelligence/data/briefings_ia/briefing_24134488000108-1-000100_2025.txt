@@ -1,0 +1,74 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: UNIVERSIDADE FEDERAL DE PERNAMBUCO (Recife/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CLÁUSULA 1ª. OBJETO 
+Prestação de serviços de apoio à gestão administrativa e financeira pela CONTRATADA visando 
+à realização do Projeto intitulado “Formação Continuada em Serviço - Estado de Pernambuco”, conforme Plano de Trabalho e Orçamento Detalhado
+VALOR ESTIMADO: R$ 935.515,38
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/24134488000108-1-000100/2025
+BASE LOGÍSTICA COMPATÍVEL: Recife (0 km (Base Central))
+SELO LOGÍSTICO: [BASE DIRETA: RECIFE/PE]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24134488000108/compras/2025/100/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24134488000108/compras/2025/100/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24134488000108/compras/2025/100/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Administração / execução projeto educacional - convênio / estágio / universitário / monitor Administração / execução pro | Qtd: 1.0 | R$ Unit: 935515.38
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 935515.38,
+  "orgaoEntidade": {
+    "cnpj": "24134488000108",
+    "razaoSocial": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+    "poderId": "E",
+    "esferaId": "F"
+  },
+  "dataAtualizacao": "2025-08-08T11:03:09",
+  "dataInclusao": "2025-08-08T11:03:09",
+  "numeroControlePNCP": "24134488000108-1-000100/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 100,
+  "emendaParlamentar": null,
+  "numeroCompra": "4",
+  "processo": " 23076.053161/2025-14",
+  "dataEncerramentoProposta": null,
+  "objetoCompra": "CLÁUSULA 1ª. OBJETO \nPrestação de serviços de apoio à gestão administrativa e financeira pela CONTRATADA visando \nà realização do Projeto intitulado “Formação Continuada em Serviço - Estado de Pernambuco”, conforme Plano de Trabalho e Orçamento Detalhado",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataPublicacaoPncp": "2025-08-08T11:03:09",
+  "dataAtualizacaoGlobal": "2025-08-08T11:27:04",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Recife",
+    "codigoUnidade": "153085",
+    "nomeUnidade": "DIRET.DO CENTRO DE EDUCACAO DA UFPE",
+    "codigoIbge": "2611606"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, XV",
+    "descricao": "Dispensa de Licitação: para contratação de instituição brasileira que tenha por finalidade estatutária apoiar, captar e executar atividades de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive para gerir administrativa e financeiramente essas atividades, ou para contratação de instituição dedicada à recuperação social da pessoa presa, desde que o contratado tenha inquestionável reputação ética e profissional e não tenha fins lucrativos",
+    "codigo": 45
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "valorTotalEstimado": 935515.38
+}

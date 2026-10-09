@@ -1,0 +1,76 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DO CEARA (Fortaleza/CE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Prestação de serviços em Nuvem Pública como SaaS ( Licenças do software Google Workspace e Serviços especializados sob Demanda) 
+VALOR ESTIMADO: R$ 566.454,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/07954480000179-1-002736/2025
+BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2025/2736/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2025/2736/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07954480000179/compras/2025/2736/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ASSINATURA E LICENCA DE USO DE SOFTWARE - LICENCA DE USO GOOGLE WORKSPACE FRONTLINE WORKER START, MENSAL
+ | Qtd: 60.0 | R$ Unit: 746.7
+  - Item 2: ASSINATURA E LICENCA DE USO DE SOFTWARE - GOOGLE WORKSPACE ENTERPRISE STARTER
+ | Qtd: 60.0 | R$ Unit: 8411.3
+  - Item 3: ASSINATURA E LICENCA DE USO DE SOFTWARE - GOOGLE WORKSPACE ENTERPRISE PLUS | Qtd: 60.0 | R$ Unit: 282.9
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07954480000179",
+    "razaoSocial": "ESTADO DO CEARA",
+    "poderId": "N",
+    "esferaId": "E"
+  },
+  "valorTotalHomologado": 566454.0,
+  "dataInclusao": "2025-03-20T10:35:04",
+  "dataAtualizacao": "2025-03-26T10:03:04",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Fortaleza",
+    "codigoUnidade": "570001",
+    "nomeUnidade": "SECRETARIA DO MEIO AMBIENTE",
+    "codigoIbge": "2304400"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, IX",
+    "descricao": "Dispensa de Licitação: para a aquisição, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade que integrem a Administração Pública e que tenham sido criados para esse fim específico, desde que o preço contratado seja compatível com o praticado no mercado",
+    "codigo": 39
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 2736,
+  "emendaParlamentar": null,
+  "numeroCompra": "202505342",
+  "processo": "57001000592202533",
+  "objetoCompra": "Prestação de serviços em Nuvem Pública como SaaS ( Licenças do software Google Workspace e Serviços especializados sob Demanda) ",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-03-20T10:35:04",
+  "dataAtualizacaoGlobal": "2025-03-26T10:03:04",
+  "numeroControlePNCP": "07954480000179-1-002736/2025",
+  "valorTotalEstimado": 566454.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Secretaria do Planejamento e Gestão do Ceará"
+}

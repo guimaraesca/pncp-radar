@@ -1,0 +1,78 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: AUTARQUIA DO ENSINO SUPERIOR DE GARANHUNS AESGA (Garanhuns/PE)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: CONTRATACAO DE EMPRESA ESPECIALIZADA EM ASSESSORIA E CONSULTORIA TECNICA INSTITUCIONAL, NA AREA DE TRANSPARENCIA PUBLICA ATIVA E PASSIVA, COM LICENCIAMENTO DE SOFTWARE PARA MANUTENCAO, REVISAO, GERENCIAMENTO E CONTROLE DE SITE INSTITUCIONAL (PORTAL DA TRANSPARENCIA), PARA VIABILIZAR O
+CUMPRIMENTO DA LEI DE ACESSO A INFORMACAO - LAI, LEI DE RESPONSABILIDADE FISCAL - LRF, E LEGISLACAO CORRELATA, BEM COMO ACESSO AO PNCP, CONFORME RECOMENDACAO DOS ORGAOS DE CONTROLE EXTERNO, NO AMBITO DA AUTARQUIA DO ENSINO SUPERIOR DE GARANHUNS -AESGA
+VALOR ESTIMADO: R$ 6.000,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/11224920000100-1-000010/2025
+BASE LOGÍSTICA COMPATÍVEL: Recife (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PE]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11224920000100/compras/2025/10/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11224920000100/compras/2025/10/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11224920000100/compras/2025/10/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11224920000100/compras/2025/10/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11224920000100/compras/2025/10/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11224920000100/compras/2025/10/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11224920000100/compras/2025/10/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/11224920000100/compras/2025/10/arquivos/8
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: ASSESSORIA E TECNICA INSTITUCIONAL, NA AREA DE TRANSPARENCIA PUBLICA ATIVA E PASSIVA, COM LICENDAMENTO DE SOFTWARE PARA | Qtd: 12.0 | R$ Unit: 500.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 6000.0,
+  "orgaoEntidade": {
+    "cnpj": "11224920000100",
+    "razaoSocial": "AUTARQUIA DO ENSINO SUPERIOR DE GARANHUNS AESGA",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-11T10:10:56",
+  "dataAtualizacao": "2026-08-10T12:53:26",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 10,
+  "emendaParlamentar": null,
+  "numeroCompra": "005",
+  "processo": "006/2025",
+  "objetoCompra": "CONTRATACAO DE EMPRESA ESPECIALIZADA EM ASSESSORIA E CONSULTORIA TECNICA INSTITUCIONAL, NA AREA DE TRANSPARENCIA PUBLICA ATIVA E PASSIVA, COM LICENCIAMENTO DE SOFTWARE PARA MANUTENCAO, REVISAO, GERENCIAMENTO E CONTROLE DE SITE INSTITUCIONAL (PORTAL DA TRANSPARENCIA), PARA VIABILIZAR O\r\nCUMPRIMENTO DA LEI DE ACESSO A INFORMACAO - LAI, LEI DE RESPONSABILIDADE FISCAL - LRF, E LEGISLACAO CORRELATA, BEM COMO ACESSO AO PNCP, CONFORME RECOMENDACAO DOS ORGAOS DE CONTROLE EXTERNO, NO AMBITO DA AUTARQUIA DO ENSINO SUPERIOR DE GARANHUNS -AESGA",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-11T10:10:56",
+  "dataAtualizacaoGlobal": "2026-09-10T15:17:48",
+  "unidadeOrgao": {
+    "ufNome": "Pernambuco",
+    "ufSigla": "PE",
+    "municipioNome": "Garanhuns",
+    "codigoUnidade": "062004",
+    "nomeUnidade": "AUTARQUIA DO ENSINO SUPERIOR DE GARANHUNS AESGA",
+    "codigoIbge": "2606002"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "numeroControlePNCP": "11224920000100-1-000010/2025",
+  "valorTotalEstimado": 6000.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "AUTARQUIA DE ENSINO SUPERIOR DE GARANHUNS AESGA"
+}

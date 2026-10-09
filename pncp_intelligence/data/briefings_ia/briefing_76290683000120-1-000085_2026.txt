@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO JERONIMO DA SERRA (São Jerônimo da Serra/PR)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE SISTEMAS INTEGRADOS DE GESTÃO PÚBLICA EM AMBIENTE DE COMPUTAÇÃO EM NUVEM (CLOUD), COMPREENDENDO LICENCIAMENTO OU CESSÃO DE DIREITO DE USO, IMPLANTAÇÃO, CONFIGURAÇÃO, PARAMETRIZAÇÃO, MIGRAÇÃO E CONVERSÃO DE DADOS, TREINAMENTO, MANUTENÇÃO, ATUALIZAÇÃO, SUPORTE TÉCNICO, HOSPEDAGEM E DEMAIS SERVIÇOS NECESSÁRIOS AO PLENO FUNCIONAMENTO DA SOLUÇÃO, DESTINADA À PREFEITURA MUNICIPAL DE SÃO JERÔNIMO DA SERRA/PR, CÂMARA MUNICIPAL E SAMAE
+VALOR ESTIMADO: R$ 658.584,00
+PRAZO PARA PROPOSTAS: 2026-10-15T09:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98786905000422026
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76290683000120/compras/2026/85/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Serviços de integração de  sistemas em tecnologia da informação e comunicação (tic) Sistemas integrados de gestão públic | Qtd: 12.0 | R$ Unit: 39882.0
+  - Item 2: Serviços de integração de  sistemas em tecnologia da informação e comunicação (tic) Sistemas integrados de gestão públic | Qtd: 12.0 | R$ Unit: 8300.0
+  - Item 3: Serviços de integração de  sistemas em tecnologia da informação e comunicação (tic) Sistemas integrados de gestão públic | Qtd: 12.0 | R$ Unit: 6700.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "76290683000120",
+    "razaoSocial": "MUNICIPIO DE SAO JERONIMO DA SERRA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2026-09-21T14:48:24",
+  "dataAtualizacao": "2026-09-28T16:34:44",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 85,
+  "emendaParlamentar": null,
+  "numeroCompra": "42",
+  "processo": "131/2026",
+  "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE SISTEMAS INTEGRADOS DE GESTÃO PÚBLICA EM AMBIENTE DE COMPUTAÇÃO EM NUVEM (CLOUD), COMPREENDENDO LICENCIAMENTO OU CESSÃO DE DIREITO DE USO, IMPLANTAÇÃO, CONFIGURAÇÃO, PARAMETRIZAÇÃO, MIGRAÇÃO E CONVERSÃO DE DADOS, TREINAMENTO, MANUTENÇÃO, ATUALIZAÇÃO, SUPORTE TÉCNICO, HOSPEDAGEM E DEMAIS SERVIÇOS NECESSÁRIOS AO PLENO FUNCIONAMENTO DA SOLUÇÃO, DESTINADA À PREFEITURA MUNICIPAL DE SÃO JERÔNIMO DA SERRA/PR, CÂMARA MUNICIPAL E SAMAE",
+  "informacaoComplementar": null,
+  "dataAberturaProposta": "2026-09-29T08:00:00",
+  "dataEncerramentoProposta": "2026-10-15T09:00:00",
+  "dataPublicacaoPncp": "2026-09-21T14:48:24",
+  "dataAtualizacaoGlobal": "2026-09-28T16:34:44",
+  "numeroControlePNCP": "76290683000120-1-000085/2026",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "São Jerônimo da Serra",
+    "codigoUnidade": "987869",
+    "nomeUnidade": "PREFEITURA MUNICIPAL SÃO JERÔNIMO DA SERRA-PR",
+    "codigoIbge": "4124707"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98786905000422026",
+  "linkProcessoEletronico": "https://saojeronimodaserra.pr.gov.br/",
+  "justificativaPresencial": null,
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "valorTotalEstimado": 658584.0,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [
+    {
+      "codigo": 2,
+      "nome": "Municipal",
+      "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+      "dataInclusao": "2026-09-21T14:48:24"
+    }
+  ],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

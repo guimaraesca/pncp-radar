@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE IPANEMA (Ipanema/MG)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Registro de preços para futura e eventual CONTRATAÇÃO DE EMPRESA PARA LICENCIAMENTO DE USO DE SISTEMAS DE TECNOLOGIA INTEGRADOS, PARA A GESTÃO PÚBLICA MUNICIPAL, PARA ATENDER AS DEMANDAS DESTA ENTIDADE, SENDO EM AMBIENTE NUVEM (DATA CENTER EXTERNO), COM OS SERVIÇOS DE CONVERSÃO DE DADOS, IMPLANTAÇÃO, MIGRAÇÃO DE DADOS PRÉ-EXISTENTES, TREINAMENTO, MANUTENÇÃO, SUPORTE TÉCNICO E ACOMPANHAMENTO DURANTE O PERÍODO CONTRATUAL, E QUE ATENDAM AOS REQUISITOS DO SIAFIC - SISTEMA ÚNICO E INTEGRADO DE EXECUÇ
+VALOR ESTIMADO: R$ 188.556,67
+PRAZO PARA PROPOSTAS: 2025-05-20T10:00:00
+LINK OFICIAL: https://www.ipanema.mg.leg.br/transparencia/licitacoes-e-contratos/licitacao-011-2025/
+BASE LOGÍSTICA COMPATÍVEL: Campinas/Sul de Minas (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: MG]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/66232802000135/compras/2025/5/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: CONTRATAÇÃO DE SOFTWARE | Qtd: 1.0 | R$ Unit: 188556.6667
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "66232802000135",
+    "razaoSocial": "CAMARA MUNICIPAL DE IPANEMA",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-07T13:47:32",
+  "dataAtualizacao": "2025-05-07T13:47:32",
+  "numeroControlePNCP": "66232802000135-1-000005/2025",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 5,
+  "emendaParlamentar": null,
+  "numeroCompra": "1",
+  "processo": "11",
+  "objetoCompra": "Registro de preços para futura e eventual CONTRATAÇÃO DE EMPRESA PARA LICENCIAMENTO DE USO DE SISTEMAS DE TECNOLOGIA INTEGRADOS, PARA A GESTÃO PÚBLICA MUNICIPAL, PARA ATENDER AS DEMANDAS DESTA ENTIDADE, SENDO EM AMBIENTE NUVEM (DATA CENTER EXTERNO), COM OS SERVIÇOS DE CONVERSÃO DE DADOS, IMPLANTAÇÃO, MIGRAÇÃO DE DADOS PRÉ-EXISTENTES, TREINAMENTO, MANUTENÇÃO, SUPORTE TÉCNICO E ACOMPANHAMENTO DURANTE O PERÍODO CONTRATUAL, E QUE ATENDAM AOS REQUISITOS DO SIAFIC - SISTEMA ÚNICO E INTEGRADO DE EXECUÇ",
+  "informacaoComplementar": "REGISTRO DE PREÇO PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA PARA LICENCIAMENTO DE USO DE SISTEMAS DE TECNOLOGIA INTEGRADOS, PARA A GESTÃO PÚBLICA MUNICIPAL, PARA ATENDER AS DEMANDAS DESTA ENTIDADE, SENDO EM AMBIENTE NUVEM (DATA CENTER EXTERNO), COM OS SERVIÇOS DE CONVERSÃO DE DADOS, IMPLANTAÇÃO, MIGRAÇÃO DE DADOS PRÉ-EXISTENTES, TREINAMENTO, MANUTENÇÃO, SUPORTE TÉCNICO E ACOMPANHAMENTO DURANTE O PERÍODO CONTRATUAL, E QUE ATENDAM AOS REQUISITOS DO SIAFIC-SISTEMA ÚNICO E INTEGRADO DE EXECUÇÃO ORÇAMENTÁRIA, ADMINISTRAÇÃO FINANCEIRA E CONTROLE EM UM MESMO AMBIENTE VIRTUAL ADVINDO, PELO DECRETO FEDERAL Nº 10.540/2020 PARA ATENDIMENTO DA CÂMARA MUNICIPAL DE IPANEMA.",
+  "dataAberturaProposta": "2025-05-20T10:00:00",
+  "dataEncerramentoProposta": "2025-05-20T10:00:00",
+  "dataPublicacaoPncp": "2025-05-07T13:47:32",
+  "dataAtualizacaoGlobal": "2025-05-07T13:47:34",
+  "unidadeOrgao": {
+    "ufNome": "Minas Gerais",
+    "ufSigla": "MG",
+    "municipioNome": "Ipanema",
+    "codigoIbge": "3131208",
+    "codigoUnidade": "010101",
+    "nomeUnidade": "GABINETE DA PRESIDENCIA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.ipanema.mg.leg.br/transparencia/licitacoes-e-contratos/licitacao-011-2025/",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 188556.67,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Memory Projetos e Desenvolvimento de Sistemas LTDA"
+}

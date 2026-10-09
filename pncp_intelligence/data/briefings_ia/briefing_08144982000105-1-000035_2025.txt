@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PASSA E FICA (Passa e Fica/RN)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de serviço de licença de uso de plataforma tecnológica integrada de gestão, totalmente orientada para administração pública, disponibilizada no modelo software como serviço (SaaS) hospedada em nuvem, voltada para prover a modernização administrativa deste município
+VALOR ESTIMADO: R$ 168.519,96
+PRAZO PARA PROPOSTAS: 2025-03-19T08:01:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/08144982000105-1-000035/2025
+BASE LOGÍSTICA COMPATÍVEL: Natal (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: RN]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08144982000105/compras/2025/35/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: 1.	LICENÇA DE USO DE SOFTWARE PARA REGULAÇÃO DE PROCEDIMENTOS DE MÉDIA E ALTA COMPLEXIDADE.
+2.	LICENÇA DE USO DE SOFTWA | Qtd: 12.0 | R$ Unit: 14043.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 120000.0,
+  "orgaoEntidade": {
+    "cnpj": "08144982000105",
+    "razaoSocial": "MUNICIPIO DE PASSA E FICA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-04-08T09:03:07",
+  "dataInclusao": "2025-04-08T09:03:07",
+  "numeroControlePNCP": "08144982000105-1-000035/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 35,
+  "emendaParlamentar": null,
+  "numeroCompra": "4",
+  "processo": "16",
+  "dataEncerramentoProposta": "2025-03-19T08:01:00",
+  "objetoCompra": "Contratação de serviço de licença de uso de plataforma tecnológica integrada de gestão, totalmente orientada para administração pública, disponibilizada no modelo software como serviço (SaaS) hospedada em nuvem, voltada para prover a modernização administrativa deste município",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-03-19T08:01:00",
+  "dataPublicacaoPncp": "2025-04-08T09:03:07",
+  "dataAtualizacaoGlobal": "2025-04-08T09:03:10",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Norte",
+    "ufSigla": "RN",
+    "municipioNome": "Passa e Fica",
+    "codigoUnidade": "08144982000105",
+    "nomeUnidade": "Prefeitura",
+    "codigoIbge": "2409100"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "TOP DOWN CONSULTORIA LTDA",
+  "valorTotalEstimado": 168519.96
+}

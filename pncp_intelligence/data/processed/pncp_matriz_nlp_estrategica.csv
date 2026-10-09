@@ -1,0 +1,31 @@
+﻿termo,tipo_ngram,frequencia,valor_total_estimado,ticket_medio,total_orgaos,total_ufs,score_estrategico,categoria_estrategica
+ensino,1-grama,307,12152471893.94,39584599.0,246,22,3095.99,Educação & Evidências (IDEB)
+rede,1-grama,295,11365763638.08,38528012.33,238,23,2966.4,Tecnologia & Inovação
+educacao,1-grama,323,752881820.81,2330903.47,262,24,2867.18,Educação & Evidências (IDEB)
+servidores,1-grama,260,984111819.21,3785045.46,229,25,2338.19,Infraestrutura & Cibersegurança
+sistema,1-grama,190,10370412494.72,54581118.39,159,25,1903.0,Plataformas & Software (SaaS)
+gestao,1-grama,215,488385194.0,2271559.04,189,23,1868.08,Tecnologia & Inovação
+rede ensino,2-grama,183,10792799542.0,58977046.68,150,20,1836.06,Educação & Evidências (IDEB)
+educacional,1-grama,170,11365086310.24,66853448.88,148,18,1709.45,Educação & Evidências (IDEB)
+digital,1-grama,169,10523366991.08,62268443.73,144,24,1693.74,Tecnologia & Inovação
+avaliacao,1-grama,179,153502591.13,857556.38,137,21,1465.31,M&A e Políticas Públicas
+materiais,1-grama,141,11062260457.25,78455747.92,121,19,1416.18,IA & Ciência de Dados
+plataforma,1-grama,137,11422998931.44,83379554.24,120,21,1377.92,Plataformas & Software (SaaS)
+manutencao,1-grama,154,393297845.63,2553882.11,132,21,1323.59,Tecnologia & Inovação
+formacao,1-grama,132,10036195935.88,76031787.39,119,21,1320.21,Tecnologia & Inovação
+fundamental,1-grama,138,918584759.7,6656411.3,112,18,1236.91,Tecnologia & Inovação
+software,1-grama,125,1503741987.95,12029935.9,114,23,1147.15,Plataformas & Software (SaaS)
+ensino fundamental,2-grama,128,912013363.67,7125104.4,103,18,1146.88,Educação & Evidências (IDEB)
+saude,1-grama,127,725013314.4,5708766.26,108,20,1125.26,Gestão Administrativa & Apoio
+assessoria,1-grama,110,10131138207.76,92101256.43,95,16,1100.62,IA & Ciência de Dados
+portal,1-grama,121,181556592.82,1500467.71,101,15,999.34,Tecnologia & Inovação
+aprendizagem,1-grama,109,1443160498.25,13240004.57,97,18,998.37,Educação & Evidências (IDEB)
+projeto,1-grama,107,417135603.36,3898463.58,91,19,922.37,Tecnologia & Inovação
+didaticos,1-grama,91,10524082337.29,115649256.45,82,17,912.02,Tecnologia & Inovação
+monitoramento,1-grama,111,125180742.2,1127754.43,93,24,898.83,M&A e Políticas Públicas
+desenvolvimento,1-grama,105,343778969.23,3274085.42,97,18,896.31,Tecnologia & Inovação
+alunos,1-grama,100,549293700.52,5492937.01,89,18,873.98,Educação & Evidências (IDEB)
+professores,1-grama,103,177159465.82,1719994.81,93,19,849.58,Educação & Evidências (IDEB)
+compras,1-grama,103,152329099.17,1478923.29,85,15,842.83,Tecnologia & Inovação
+capacitacao,1-grama,97,432551744.49,4459296.33,86,20,837.7,Consultoria & Governança
+portal compras,2-grama,102,152110986.81,1491284.18,84,14,834.58,Tecnologia & Inovação

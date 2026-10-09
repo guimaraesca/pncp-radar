@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: BNDES (Rio de Janeiro/RJ)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de desenvolvimento de software com práticas ágeis, na modalidade Pregão Eletrônico, por menor preço global, e modo de disputa aberto e fechado, conforme as especificações do Edital e de seus Anexos.
+VALOR ESTIMADO: R$ 124.756.512,92
+PRAZO PARA PROPOSTAS: 2025-07-31T15:00:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=20101405900192025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/33657248000189/compras/2025/153/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Desenvolvimento de Novo Software - Outras Linguagens | Qtd: 1.0 | R$ Unit: 124756512.92
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "33657248000189",
+    "razaoSocial": "BNDES",
+    "esferaId": "N",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-07-03T07:11:14",
+  "dataAtualizacao": "2025-07-16T08:46:55",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": "2025-07-03T10:00:00",
+  "dataEncerramentoProposta": "2025-07-31T15:00:00",
+  "dataPublicacaoPncp": "2025-07-03T07:11:14",
+  "dataAtualizacaoGlobal": "2025-07-16T08:46:56",
+  "unidadeOrgao": {
+    "ufNome": "Rio de Janeiro",
+    "ufSigla": "RJ",
+    "municipioNome": "Rio de Janeiro",
+    "codigoIbge": "3304557",
+    "codigoUnidade": "201014",
+    "nomeUnidade": "CRJ-BANCO NACIONAL DE DESEN. ECON. E SOCIAL"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=20101405900192025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 153,
+  "emendaParlamentar": null,
+  "numeroCompra": "90019",
+  "processo": "192025",
+  "objetoCompra": "Contratação de serviços de desenvolvimento de software com práticas ágeis, na modalidade Pregão Eletrônico, por menor preço global, e modo de disputa aberto e fechado, conforme as especificações do Edital e de seus Anexos.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=20101405900192025",
+  "numeroControlePNCP": "33657248000189-1-000153/2025",
+  "valorTotalEstimado": 124756512.92,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 3,
+  "modoDisputaNome": "Aberto-Fechado",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital"
+}

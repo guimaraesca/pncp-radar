@@ -1,0 +1,71 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA MUNICIPAL DE JATAI (Jataí/GO)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de serviços de locação com fornecimento de licença de uso de sistema web em formato saas para gestão eletrônica de documentos e processos digitais, com compatibilidade com o sistema de gestão utilizado atualmente(sigep), com serviços de implantação e migração, manutenção, treinamento e suporte técnico remoto para a Câmara Municipal de Jataí, conforme especificações e condições estabelecidas no Termo de Referência constante do Anexo I deste Edital.
+VALOR ESTIMADO: R$ 51.088,44
+PRAZO PARA PROPOSTAS: 2025-04-25T08:00:00
+LINK OFICIAL: https://portaldecompraspublicas.com.br/processos/GO/Camara-Municipal-de-Jatai-5035/PE-001-2025-2025-379080
+BASE LOGÍSTICA COMPATÍVEL: Goiânia (100 a 200 km)
+SELO LOGÍSTICO: [BASE: GOIÂNIA | Jataí/GO (320km)]
+DISTÂNCIA ESTIMADA DA BASE: 320 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24858805000139/compras/2025/47/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/24858805000139/compras/2025/47/arquivos/2
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: locação com fornecimento de licença de uso de sistema web em formato saas para gestão eletrônica de documentos e process | Qtd: 12.0 | R$ Unit: 4257.37
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 50400.0,
+  "orgaoEntidade": {
+    "cnpj": "24858805000139",
+    "razaoSocial": "CAMARA MUNICIPAL DE JATAI",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataAtualizacao": "2025-04-08T09:14:47",
+  "dataInclusao": "2025-04-08T09:14:47",
+  "numeroControlePNCP": "24858805000139-1-000047/2025",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 47,
+  "emendaParlamentar": null,
+  "numeroCompra": "001",
+  "processo": "204/2025",
+  "dataEncerramentoProposta": "2025-04-25T08:00:00",
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de serviços de locação com fornecimento de licença de uso de sistema web em formato saas para gestão eletrônica de documentos e processos digitais, com compatibilidade com o sistema de gestão utilizado atualmente(sigep), com serviços de implantação e migração, manutenção, treinamento e suporte técnico remoto para a Câmara Municipal de Jataí, conforme especificações e condições estabelecidas no Termo de Referência constante do Anexo I deste Edital.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-09T08:00:00",
+  "dataPublicacaoPncp": "2025-04-08T09:14:47",
+  "dataAtualizacaoGlobal": "2025-05-07T14:56:03",
+  "unidadeOrgao": {
+    "ufNome": "Goiás",
+    "ufSigla": "GO",
+    "municipioNome": "Jataí",
+    "codigoUnidade": "01",
+    "nomeUnidade": "Câmara Municipal de Jataí",
+    "codigoIbge": "5211909"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://portaldecompraspublicas.com.br/processos/GO/Camara-Municipal-de-Jatai-5035/PE-001-2025-2025-379080",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A",
+  "valorTotalEstimado": 51088.44
+}

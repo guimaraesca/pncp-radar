@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: ESTADO DA PARAIBA (João Pessoa/PB)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: SERVIÇO DE LOCAÇÃO DE MESAS, CADEIRAS E TOALHAS DE MESAS
+VALOR ESTIMADO: R$ 2.800,00
+PRAZO PARA PROPOSTAS: Ver Edital
+LINK OFICIAL: https://pncp.gov.br/app/editais/08761124000100-1-000075/2025
+BASE LOGÍSTICA COMPATÍVEL: Recife (100 a 200 km)
+SELO LOGÍSTICO: [BASE: RECIFE | João Pessoa/PB (120km)]
+DISTÂNCIA ESTIMADA DA BASE: 120 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08761124000100/compras/2025/75/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Locação de mesa / cadeira /mobiliário decoração interior Locação de mesa / cadeira /mobiliário decoração interior | Qtd: 2.0 | R$ Unit: 1400.0
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 1400.0,
+  "orgaoEntidade": {
+    "cnpj": "08761124000100",
+    "razaoSocial": "ESTADO DA PARAIBA",
+    "esferaId": "E",
+    "poderId": "N"
+  },
+  "dataInclusao": "2025-08-04T13:29:53",
+  "dataAtualizacao": "2025-08-04T13:29:53",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br",
+  "dataAberturaProposta": null,
+  "dataEncerramentoProposta": null,
+  "dataPublicacaoPncp": "2025-08-04T13:29:53",
+  "dataAtualizacaoGlobal": "2025-08-04T13:33:00",
+  "unidadeOrgao": {
+    "ufNome": "Paraíba",
+    "ufSigla": "PB",
+    "municipioNome": "João Pessoa",
+    "codigoIbge": "2507507",
+    "codigoUnidade": "460243",
+    "nomeUnidade": "SECRETARIA DE EST.DA MULHER E DA DIV.HUMANA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 75,
+  "emendaParlamentar": null,
+  "numeroCompra": "12",
+  "processo": "SMH-PRC-2025/00251",
+  "objetoCompra": "SERVIÇO DE LOCAÇÃO DE MESAS, CADEIRAS E TOALHAS DE MESAS",
+  "informacaoComplementar": "A Secretaria de Estado da Mulher e da Diversidade Humana realizará, nos dias 1 e 2 de agosto de 2025, a 5ª Conferência Estadual de Políticas para as Mulheres, um evento de grande relevância política e social para a consolidação das políticas públicas voltadas à equidade de gênero, à participação social e à promoção dos direitos das mulheres em todas as suas diversidades. A conferência integra o planejamento estratégico da Secretaria e está alinhada às diretrizes do Plano Estadual de Políticas para as Mulheres, especialmente no que tange à promoção da participação social ampla, ao fortalecimento dos mecanismos de controle social e à articulação interinstitucional. O evento constitui uma etapa preparatória obrigatória para a Conferência Nacional, convocada pelo Governo Federal, sendo, portanto, uma ação estratégica e institucionalmente prevista. A realização da conferência demanda a contratação de diversos serviços e produtos essenciais à sua execução, como contratação de empresa para dispor de cadeiras, mesas e toalhas para o evento. Tais contratações são imprescindíveis para garantir a qualidade, a acessibilidade, a segurança e a efetividade do evento. ",
+  "numeroControlePNCP": "08761124000100-1-000075/2025",
+  "valorTotalEstimado": 2800.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 5,
+  "modoDisputaNome": "Não se aplica",
+  "tipoInstrumentoConvocatorioCodigo": 3,
+  "tipoInstrumentoConvocatorioNome": "Ato que autoriza a Contratação Direta"
+}

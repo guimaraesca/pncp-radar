@@ -1,0 +1,77 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE PIRAPORA DO BOM JESUS (Pirapora do Bom Jesus/SP)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para fornecimento de Sistema de Gestão do Cadastro Técnico Territorial Multifinalitário para plataforma web e mobile, com licenciamento temporário e hospedagem em datacenter, levantamento aerofotogramétrico digital e orbital; mapeamento móvel 360º; atualização do cadastro territorial municipal; revisão e atualização da Planta Genérica de Valores (PGV) para o município de Pirapora do Bom Jesus-SP.
+VALOR ESTIMADO: R$ 1.741.831,67
+PRAZO PARA PROPOSTAS: 2025-08-15T08:30:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/46523007000199-1-000043/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523007000199/compras/2025/43/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523007000199/compras/2025/43/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523007000199/compras/2025/43/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523007000199/compras/2025/43/arquivos/4
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523007000199/compras/2025/43/arquivos/5
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523007000199/compras/2025/43/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523007000199/compras/2025/43/arquivos/7
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Contratação de empresa especializada para fornecimento de Sistema de Gestão do
+Cadastro Técnico Territorial Multifinalit | Qtd: 1.0 | R$ Unit: 1741831.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "46523007000199",
+    "razaoSocial": "MUNICIPIO DE PIRAPORA DO BOM JESUS",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-07-25T10:16:29",
+  "dataAtualizacao": "2025-07-25T10:16:29",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 43,
+  "emendaParlamentar": null,
+  "numeroCompra": "002/2025",
+  "processo": "0860/2025",
+  "objetoCompra": "Contratação de empresa especializada para fornecimento de Sistema de Gestão do Cadastro Técnico Territorial Multifinalitário para plataforma web e mobile, com licenciamento temporário e hospedagem em datacenter, levantamento aerofotogramétrico digital e orbital; mapeamento móvel 360º; atualização do cadastro territorial municipal; revisão e atualização da Planta Genérica de Valores (PGV) para o município de Pirapora do Bom Jesus-SP.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-25T17:30:00",
+  "dataEncerramentoProposta": "2025-08-15T08:30:00",
+  "dataPublicacaoPncp": "2025-07-25T10:16:29",
+  "dataAtualizacaoGlobal": "2025-08-28T08:53:33",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Pirapora do Bom Jesus",
+    "codigoUnidade": "992",
+    "nomeUnidade": "Pirapora do Bom Jesus",
+    "codigoIbge": "3539103"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "46523007000199-1-000043/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 1741831.67,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Novo BBMNET Licitações"
+}

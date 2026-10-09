@@ -1,0 +1,69 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE VENANCIO AIRES (Venâncio Aires/RS)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para implantação, fornecimento, configuração, operação e manutenção de infraestrutura de rede de comunicação de dados por meio de fibra óptica, contemplando a segmentação lógica por VLANs, destinada à interligação do Data Center da Prefeitura Municipal, Secretarias, unidades administrativas e demais prédios públicos. 
+VALOR ESTIMADO: R$ 118.442,64
+PRAZO PARA PROPOSTAS: 2026-10-09T08:59:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/87334918000155-1-000240/2026
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/87334918000155/compras/2026/240/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/87334918000155/compras/2026/240/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/87334918000155/compras/2026/240/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Link de Transporte Intranet Fibra Óptica ponto a ponto-Link de Transporte Intranet Fibra Óptica ponto a ponto para 43 po | Qtd: 516.0 | R$ Unit: 229.54
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "87334918000155",
+    "razaoSocial": "MUNICIPIO DE VENANCIO AIRES",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-23T11:53:16",
+  "dataAtualizacao": "2026-09-23T11:53:16",
+  "objetoCompra": "Contratação de empresa especializada para implantação, fornecimento, configuração, operação e manutenção de infraestrutura de rede de comunicação de dados por meio de fibra óptica, contemplando a segmentação lógica por VLANs, destinada à interligação do Data Center da Prefeitura Municipal, Secretarias, unidades administrativas e demais prédios públicos. ",
+  "dataAberturaProposta": "2026-08-14T15:21:00",
+  "dataEncerramentoProposta": "2026-10-09T08:59:00",
+  "dataPublicacaoPncp": "2026-09-23T11:53:16",
+  "dataAtualizacaoGlobal": "2026-09-23T11:53:20",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Sul",
+    "ufSigla": "RS",
+    "municipioNome": "Venâncio Aires",
+    "codigoIbge": "4322608",
+    "codigoUnidade": "62600",
+    "nomeUnidade": "PM VENANACIO AIRES"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "87334918000155-1-000240/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 240,
+  "emendaParlamentar": null,
+  "numeroCompra": "38",
+  "processo": "38/2026",
+  "informacaoComplementar": null,
+  "valorTotalEstimado": 118442.64,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "MUNICIPIO DE VENÂNCIO AIRES"
+}

@@ -1,0 +1,73 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE RODEIO (Rodeio/SC)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: Contratação de serviços de assessoria e consultoria técnica e operacional para gerenciamento, execução e prestação de contas de convênios, elaboração de projetos e captação de recursos.
+VALOR ESTIMADO: R$ 126.399,96
+PRAZO PARA PROPOSTAS: 2026-10-13T08:00:00
+LINK OFICIAL: https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=48556
+BASE LOGÍSTICA COMPATÍVEL: Joinville (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SC]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102814000164/compras/2026/146/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102814000164/compras/2026/146/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102814000164/compras/2026/146/arquivos/3
+doc_4.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/83102814000164/compras/2026/146/arquivos/4
+
+ITENS DA CONTRATAÇÃO:
+  - Item 2293145: PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA E OPERACIONAL EM GERENCIAMENTO DE CONVÊNIOS E PRESTAÇÃO DE CON | Qtd: 12.0 | R$ Unit: 10533.33
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "83102814000164",
+    "razaoSocial": "MUNICIPIO DE RODEIO",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-09-24T15:29:05",
+  "dataAtualizacao": "2026-09-24T15:29:05",
+  "objetoCompra": "Contratação de serviços de assessoria e consultoria técnica e operacional para gerenciamento, execução e prestação de contas de convênios, elaboração de projetos e captação de recursos.",
+  "dataAberturaProposta": "2026-09-24T00:00:00",
+  "dataEncerramentoProposta": "2026-10-13T08:00:00",
+  "dataPublicacaoPncp": "2026-09-24T15:29:05",
+  "dataAtualizacaoGlobal": "2026-09-24T15:31:04",
+  "unidadeOrgao": {
+    "ufNome": "Santa Catarina",
+    "ufSigla": "SC",
+    "municipioNome": "Rodeio",
+    "codigoIbge": "4215109",
+    "codigoUnidade": "46",
+    "nomeUnidade": "Prefeitura Municipal de Rodeio - SC"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=48556",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "83102814000164-1-000146/2026",
+  "anoCompra": 2026,
+  "srp": false,
+  "sequencialCompra": 146,
+  "emendaParlamentar": null,
+  "numeroCompra": "23",
+  "processo": "99/2026",
+  "informacaoComplementar": null,
+  "valorTotalEstimado": 126399.96,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "AZ INFORMATICA LTDA"
+}

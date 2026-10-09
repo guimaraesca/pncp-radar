@@ -1,0 +1,70 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE SAO MIGUEL DO IGUACU (São Miguel do Iguaçu/PR)
+MODALIDADE: Concorrência - Eletrônica
+OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para construção do sistema de distribuição de água potável na Aldeia Indigena Ava-Guarani do Ocoy, através do convênio com a Itaipu Binacional, conforme condições e exigências estabelecidas no Edital e seus anexos.
+VALOR ESTIMADO: R$ 1.500.814,62
+PRAZO PARA PROPOSTAS: 2025-06-27T08:30:00
+LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98788903900042025
+BASE LOGÍSTICA COMPATÍVEL: Joinville/Curitiba (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: PR]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/76206499000150/compras/2025/135/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Obras Civis - Pequenas Obras / Pintura em Geral | Qtd: 1.0 | R$ Unit: 1500814.62
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 1327000.0,
+  "orgaoEntidade": {
+    "cnpj": "76206499000150",
+    "razaoSocial": "MUNICIPIO DE SAO MIGUEL DO IGUACU",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-05-21T08:01:57",
+  "dataAtualizacao": "2025-06-26T08:38:27",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 135,
+  "emendaParlamentar": null,
+  "numeroCompra": "90004",
+  "processo": "092/2025",
+  "objetoCompra": "Contratação de empresa especializada para construção do sistema de distribuição de água potável na Aldeia Indigena Ava-Guarani do Ocoy, através do convênio com a Itaipu Binacional, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+  "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=98788903900042025",
+  "dataAberturaProposta": "2025-06-09T08:00:00",
+  "dataEncerramentoProposta": "2025-06-27T08:30:00",
+  "dataPublicacaoPncp": "2025-05-21T08:01:57",
+  "dataAtualizacaoGlobal": "2025-06-30T09:12:44",
+  "unidadeOrgao": {
+    "ufNome": "Paraná",
+    "ufSigla": "PR",
+    "municipioNome": "São Miguel do Iguaçu",
+    "codigoUnidade": "987889",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE MIGUEL DO IGUACU",
+    "codigoIbge": "4125704"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, II ",
+    "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+    "codigo": 2
+  },
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98788903900042025",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "76206499000150-1-000135/2025",
+  "valorTotalEstimado": 1500814.62,
+  "modalidadeId": 4,
+  "modalidadeNome": "Concorrência - Eletrônica",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}

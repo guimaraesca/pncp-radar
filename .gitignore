@@ -1,0 +1,43 @@
+# ==============================================================
+# Git Ignore - PNCP Radar & Intelligence
+# ==============================================================
+
+# Credenciais, Segredos e Variáveis de Ambiente
+.env
+.env.*
+*.pem
+*.key
+.streamlit/secrets.toml
+auth/
+
+# Ambientes Virtuais e Cache Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Logs e Arquivos Temporários
+*.log
+.DS_Store
+*.tmp
+scratch/
+
+# Projetos Paralelos & Documentos Pessoais (Segurança e Privacidade)
+undp_job_applicant/
+teamwork_projects/
+.agents/
+linkedin_page.html
+inspect_linkedin.py
+notion_ai_organizer.py
+rescue_missing.py
+main_daily.py
+main_weekly.py
+setup_auth.py
+ORIGINAL_REQUEST.md
+projeto_link.md
+
+# Dados brutos temporários fora do módulo PNCP
+/data/

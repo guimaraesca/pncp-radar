@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: CAMARA DE VEREADORES DE PALMAS DE MONTE ALTO (Palmas de Monte Alto/BA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: [LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO SEGMENTO DE TECNOLOGIA DA INFORMAÇÃO PARA PRESTAÇÃO DE SERVIÇOS DE IMPLANTAÇÃO DE SISTEMA DE VOTAÇÃO ELETRÔNICA, EM FORMATO DIGITAL, COM CESSÃO DE USO DE SOFTWARE, FORNECIMENTO DE INFRAESTRUTURA EM REGIME DE COMODATO UND QDE MENSAL (INCLUINDO 11 TABLETS E 1 SMART TV DE 65”), SUPORTE TÉCNICO, CAPACITAÇÃO DE SERVIDORES, MANUTENÇÃO PREVENTIVA, CORRETIVA E EVOLUTIVA, CONFORME ESPECIFICAÇÕES TÉCNICAS DESCRITAS NESTE TERMO. 
+VALOR ESTIMADO: Não informado / Sigiloso
+PRAZO PARA PROPOSTAS: 2025-07-25T08:30:00
+LINK OFICIAL: https://portal.licitanet.com.br/acesso-visitante/Wkpla21KQ3A=
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/42709766000190/compras/2025/22/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 6161057: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO SEGMENTO DE TECNOLOGIA DA INFORMAÇÃO PARA PRESTAÇÃO DE SERVIÇOS DE IMPLANTAÇÃO D | Qtd: 12.0 | R$ Unit: 2076.67
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "42709766000190",
+    "razaoSocial": "CAMARA DE VEREADORES DE PALMAS DE MONTE ALTO",
+    "poderId": "L",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-07-18T09:19:12",
+  "dataAtualizacao": "2025-07-21T10:04:27",
+  "numeroControlePNCP": "42709766000190-1-000022/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 22,
+  "emendaParlamentar": null,
+  "numeroCompra": "012",
+  "processo": "019/2025",
+  "srp": false,
+  "objetoCompra": "[LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO SEGMENTO DE TECNOLOGIA DA INFORMAÇÃO PARA PRESTAÇÃO DE SERVIÇOS DE IMPLANTAÇÃO DE SISTEMA DE VOTAÇÃO ELETRÔNICA, EM FORMATO DIGITAL, COM CESSÃO DE USO DE SOFTWARE, FORNECIMENTO DE INFRAESTRUTURA EM REGIME DE COMODATO UND QDE MENSAL (INCLUINDO 11 TABLETS E 1 SMART TV DE 65”), SUPORTE TÉCNICO, CAPACITAÇÃO DE SERVIDORES, MANUTENÇÃO PREVENTIVA, CORRETIVA E EVOLUTIVA, CONFORME ESPECIFICAÇÕES TÉCNICAS DESCRITAS NESTE TERMO. ",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-07-18T09:19:09",
+  "dataEncerramentoProposta": "2025-07-25T08:30:00",
+  "dataPublicacaoPncp": "2025-07-18T09:19:12",
+  "dataAtualizacaoGlobal": "2025-07-21T10:04:48",
+  "unidadeOrgao": {
+    "ufNome": "Bahia",
+    "ufSigla": "BA",
+    "municipioNome": "Palmas de Monte Alto",
+    "codigoIbge": "2923407",
+    "codigoUnidade": "1692",
+    "nomeUnidade": "CÂMARA MUNICIPAL DE PALMAS DE MONTE ALTO/BA"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": "https://portal.licitanet.com.br/acesso-visitante/Wkpla21KQ3A=",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 0.0,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 3,
+  "situacaoCompraNome": "Anulada",
+  "usuarioNome": "Licitanet Licitações Eletrônicas LTDA"
+}

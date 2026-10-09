@@ -1,0 +1,81 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE GUARACIABA DO NORTE (Guaraciaba do Norte/CE)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: REGISTRO DE PREÇOS PARA SELEÇÃO DA PROPOSTA MAIS VANTAJOSA E, NO MOMENTO OPORTUNO EM QUE HOUVER A DEMANDA DESTE ÓRGÃO, PROCEDER COM A POSTERIOR CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM IMPLANTAÇÃO DE PROJETO DE EDUCAÇÃO 4.0, QUE PROMOVE A EDUCAÇÃO CIENTÍFICA, TECNOLÓGICA E DIGITAL PARA ALUNOS DO ENSINO FUNDAMENTAL, ALINHADO À BASE NACIONAL COMUM CURRICULAR (BNCC) E À POLÍTICA NACIONAL DE EDUCAÇÃO DIGITAL(PNED), UTILIZANDO METODOLOGIAS ATIVAS COMO EDUCAÇÃO MAKER E APRENDIZADO STEAM, COM FORNECIMENTO DE  MATERIAIS DIDÁTICOS E EQUIPAMENTOS PARA AULAS TEÓRICAS E PRÁTICAS DOS ALUNOS, E COM FORMAÇÃO TEÓRICA E PRÁTICA DE PROFESSORES, DISPONIBILIZANDO ACESSO À PLATAFORMA EDUCACIONAL DO PROJETO, SOFTWARE DE PROGRAMAÇÃO VISUAL  E ASSESSORIA DE UMA FEIRA DE CIÊNCIA E TECNOLOGIA PARA A CULMINÂNCIA DO PROJETO,  ATENDENDO AS NECESSIDADES  DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE GUARACIABA DO NORTE-CE
+VALOR ESTIMADO: R$ 14.428.969,60
+PRAZO PARA PROPOSTAS: 2025-05-06T09:59:00
+LINK OFICIAL: http://compras.m2atecnologia.com.br/processos/publicacao/51833cc1674d4558a313bda35c95d87d/registro-de-precos-para-selecao-da-proposta-mais-v
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07569205000131/compras/2025/23/arquivos/1
+doc_6.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07569205000131/compras/2025/23/arquivos/6
+doc_7.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07569205000131/compras/2025/23/arquivos/7
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07569205000131/compras/2025/23/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07569205000131/compras/2025/23/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/07569205000131/compras/2025/23/arquivos/10
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: MATERIAL DIDÁTICO EDUCACIONAL PARA O ALUNO DO 1º ANO DO ENSINO FUNDAMENTAL | Qtd: 2000.0 | R$ Unit: 231.05
+  - Item 2: MATERIAL DIDÁTICO EDUCACIONAL PARA O ALUNO DO 2º ANO DO ENSINO FUNDAMENTAL | Qtd: 2000.0 | R$ Unit: 231.05
+  - Item 3: MATERIAL DIDÁTICO EDUCACIONAL PARA O ALUNO DO 3º ANO DO ENSINO FUNDAMENTAL | Qtd: 2000.0 | R$ Unit: 231.05
+  - Item 4: MATERIAL DIDÁTICO EDUCACIONAL PARA O ALUNO DO 4º ANO DO ENSINO FUNDAMENTAL | Qtd: 2000.0 | R$ Unit: 231.05
+  - Item 5: MATERIAL DIDÁTICO EDUCACIONAL PARA O ALUNO DO 5º ANO DO ENSINO FUNDAMENTAL | Qtd: 2000.0 | R$ Unit: 231.05
+  - Item 6: MATERIAL DIDÁTICO EDUCACIONAL PARA O PROFESSOR DO 1º ANO DO ENSINO FUNDAMENTAL | Qtd: 260.0 | R$ Unit: 231.43
+  - Item 7: MATERIAL DIDÁTICO EDUCACIONAL PARA O PROFESSOR DO 2º ANO DO ENSINO FUNDAMENTAL | Qtd: 260.0 | R$ Unit: 231.43
+  - Item 8: MATERIAL DIDÁTICO EDUCACIONAL PARA O PROFESSOR DO 3º ANO DO ENSINO FUNDAMENTAL | Qtd: 260.0 | R$ Unit: 231.43
+  - Item 9: MATERIAL DIDÁTICO EDUCACIONAL PARA O PROFESSOR DO 4º ANO DO ENSINO FUNDAMENTAL | Qtd: 260.0 | R$ Unit: 231.43
+  - Item 10: MATERIAL DIDÁTICO EDUCACIONAL PARA O PROFESSOR DO 5º ANO DO ENSINO FUNDAMENTAL | Qtd: 260.0 | R$ Unit: 231.43
+
+DADOS COMPLETOS EM JSON:
+{
+  "orgaoEntidade": {
+    "cnpj": "07569205000131",
+    "razaoSocial": "MUNICIPIO DE GUARACIABA DO NORTE",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "valorTotalHomologado": null,
+  "dataInclusao": "2025-04-22T09:11:34",
+  "dataAtualizacao": "2025-04-22T09:11:34",
+  "anoCompra": 2025,
+  "srp": true,
+  "sequencialCompra": 23,
+  "emendaParlamentar": null,
+  "numeroCompra": "1404004/2025-PE",
+  "processo": "0001920250310000644",
+  "objetoCompra": "REGISTRO DE PREÇOS PARA SELEÇÃO DA PROPOSTA MAIS VANTAJOSA E, NO MOMENTO OPORTUNO EM QUE HOUVER A DEMANDA DESTE ÓRGÃO, PROCEDER COM A POSTERIOR CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM IMPLANTAÇÃO DE PROJETO DE EDUCAÇÃO 4.0, QUE PROMOVE A EDUCAÇÃO CIENTÍFICA, TECNOLÓGICA E DIGITAL PARA ALUNOS DO ENSINO FUNDAMENTAL, ALINHADO À BASE NACIONAL COMUM CURRICULAR (BNCC) E À POLÍTICA NACIONAL DE EDUCAÇÃO DIGITAL(PNED), UTILIZANDO METODOLOGIAS ATIVAS COMO EDUCAÇÃO MAKER E APRENDIZADO STEAM, COM FORNECIMENTO DE  MATERIAIS DIDÁTICOS E EQUIPAMENTOS PARA AULAS TEÓRICAS E PRÁTICAS DOS ALUNOS, E COM FORMAÇÃO TEÓRICA E PRÁTICA DE PROFESSORES, DISPONIBILIZANDO ACESSO À PLATAFORMA EDUCACIONAL DO PROJETO, SOFTWARE DE PROGRAMAÇÃO VISUAL  E ASSESSORIA DE UMA FEIRA DE CIÊNCIA E TECNOLOGIA PARA A CULMINÂNCIA DO PROJETO,  ATENDENDO AS NECESSIDADES  DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE GUARACIABA DO NORTE-CE",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2025-04-22T00:00:00",
+  "dataEncerramentoProposta": "2025-05-06T09:59:00",
+  "dataPublicacaoPncp": "2025-04-22T09:11:34",
+  "dataAtualizacaoGlobal": "2025-04-23T08:24:15",
+  "unidadeOrgao": {
+    "ufNome": "Ceará",
+    "ufSigla": "CE",
+    "municipioNome": "Guaraciaba do Norte",
+    "codigoUnidade": "202505",
+    "nomeUnidade": "SECRETARIA DE INFRAESTRUTURA E SERVIÇOS PÚBLICOS",
+    "codigoIbge": "2305001"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "numeroControlePNCP": "07569205000131-1-000023/2025",
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "http://compras.m2atecnologia.com.br/processos/publicacao/51833cc1674d4558a313bda35c95d87d/registro-de-precos-para-selecao-da-proposta-mais-v",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "valorTotalEstimado": 14428969.6,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "M2A tecnologia"
+}

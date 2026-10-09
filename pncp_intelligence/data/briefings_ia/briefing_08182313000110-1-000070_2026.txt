@@ -1,0 +1,79 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE LAGOA NOVA (Lagoa Nova/RN)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: [Portal de Compras Públicas] - Contratação de plataforma de monitoramento, incluindo, manutenção preventiva e corretiva, gravação, armazenamento, gerenciamento, combinada à câmeras em sistema de Videomonitoramento 100% em nuvem com acessos via ambiente Cloud Computing, e acesso web e via aplicativos para sistemas IOS e ANDROID.
+VALOR ESTIMADO: R$ 785.014,45
+PRAZO PARA PROPOSTAS: 2026-10-19T06:00:00
+LINK OFICIAL: https://www.portaldecompraspublicas.com.br/processos/RN/Prefeitura-Municipal-de-Lagoa-Nova-695/RPE-20-2026-2026-500753
+BASE LOGÍSTICA COMPATÍVEL: Natal (Estado Alvo)
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO] [ESTADO ALVO: RN]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08182313000110/compras/2026/70/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08182313000110/compras/2026/70/arquivos/2
+doc_5.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08182313000110/compras/2026/70/arquivos/5
+doc_8.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08182313000110/compras/2026/70/arquivos/8
+doc_9.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08182313000110/compras/2026/70/arquivos/9
+doc_10.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08182313000110/compras/2026/70/arquivos/10
+doc_11.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08182313000110/compras/2026/70/arquivos/11
+doc_12.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/08182313000110/compras/2026/70/arquivos/12
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: LOTE ÚNICO - Cessao do direito de uso de plataforma de videomonitoramento em nuvem, com gravacao e armazenamento das ima | Qtd: 12.0 | R$ Unit: 54394.56
+  - Item 2: LOTE ÚNICO - 50 Und Ponto de Monitoramento Inteligente  PMI - EXTRAS | Qtd: 12.0 | R$ Unit: 7272.0
+  - Item 3: LOTE ÚNICO - Implantacao do Projeto. | Qtd: 1.0 | R$ Unit: 45015.73
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": null,
+  "orgaoEntidade": {
+    "cnpj": "08182313000110",
+    "razaoSocial": "MUNICIPIO DE LAGOA NOVA",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2026-08-04T10:12:53",
+  "dataAtualizacao": "2026-09-30T15:39:49",
+  "numeroControlePNCP": "08182313000110-1-000070/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 70,
+  "emendaParlamentar": null,
+  "numeroCompra": "20",
+  "processo": "71",
+  "srp": true,
+  "objetoCompra": "[Portal de Compras Públicas] - Contratação de plataforma de monitoramento, incluindo, manutenção preventiva e corretiva, gravação, armazenamento, gerenciamento, combinada à câmeras em sistema de Videomonitoramento 100% em nuvem com acessos via ambiente Cloud Computing, e acesso web e via aplicativos para sistemas IOS e ANDROID.",
+  "informacaoComplementar": "",
+  "dataAberturaProposta": "2026-10-01T11:00:00",
+  "dataEncerramentoProposta": "2026-10-19T06:00:00",
+  "dataPublicacaoPncp": "2026-08-04T10:12:53",
+  "dataAtualizacaoGlobal": "2026-09-30T15:39:49",
+  "unidadeOrgao": {
+    "ufNome": "Rio Grande do Norte",
+    "ufSigla": "RN",
+    "municipioNome": "Lagoa Nova",
+    "codigoIbge": "2406502",
+    "codigoUnidade": "1037",
+    "nomeUnidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": "https://www.portaldecompraspublicas.com.br/processos/RN/Prefeitura-Municipal-de-Lagoa-Nova-695/RPE-20-2026-2026-500753",
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "",
+  "valorTotalEstimado": 785014.45,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "ECustomize Consultoria em Software S.A"
+}

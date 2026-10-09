@@ -1,0 +1,81 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: MUNICIPIO DE EMBU DAS ARTES (Embu das Artes/SP)
+MODALIDADE: Pregão - Eletrônico
+OBJETO DA CONTRATAÇÃO: O presente Termo de Referência tem por objeto a Aquisição Estimada, por meio de Registro de Preços, do Projeto de Educação Financeira “ISSO É REAL”, compreendendo kits com jogos educativos e materiais pedagógicos, além de curso de formação continuada para professores da rede municipal de ensino, visando atender os alunos e docentes do 1º ao 9º ano do Ensino Fundamental I e II das escolas públicas do Município de Embu das Artes/SP
+VALOR ESTIMADO: R$ 7.144.102,02
+PRAZO PARA PROPOSTAS: 2025-08-15T00:00:00
+LINK OFICIAL: https://pncp.gov.br/app/editais/46523114000117-1-000198/2025
+BASE LOGÍSTICA COMPATÍVEL: São Paulo/Campinas (Estado Alvo)
+SELO LOGÍSTICO: [ESTADO ALVO: SP]
+DISTÂNCIA ESTIMADA DA BASE: 250 km
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523114000117/compras/2025/198/arquivos/1
+doc_2.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523114000117/compras/2025/198/arquivos/2
+doc_3.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/46523114000117/compras/2025/198/arquivos/3
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: KIT ESTUDANTE 1º ANO: Livro do aluno Isso é Real – Gente pequena pensando no futuro, ISBN 978-85-93312-67-0, acompanha m | Qtd: 2700.0 | R$ Unit: 450.82
+  - Item 2: KIT ESTUDANTE 2º ANO: Livro do aluno Isso é Real – Gente pequena pensando no futuro, ISBN 978-85-93312-71-7 acompanha ma | Qtd: 2750.0 | R$ Unit: 447.56
+  - Item 3: KIT ESTUDANTE 3º ANO: Livro do aluno Isso é Real – Gente pequena pensando no futuro, ISBN 978-85-93312-73-1 acompanha ma | Qtd: 2800.0 | R$ Unit: 447.56
+  - Item 4: KIT ESTUDANTE 4º ANO: Livro do aluno Isso é Real – Gente pequena pensando no futuro, ISBN 978-85-93312-75-5 acompanha ma | Qtd: 2850.0 | R$ Unit: 447.56
+  - Item 5: KIT ESTUDANTE 5º ANO: Livro do aluno Isso é Real – Gente pequena pensando no futuro, ISBN 978-85-93312-77-9 acompanha ma | Qtd: 2700.0 | R$ Unit: 447.56
+  - Item 6: KIT ESTUDANTE 6º ANO: Caderno do estudante Isso é Real – Jovens pensando no futuro, ISBN 978-85-93312-92-2, acompanha ma | Qtd: 300.0 | R$ Unit: 225.22
+  - Item 7: KIT ESTUDANTE 7º ANO: Caderno do estudante Isso é Real – Jovens pensando no futuro, ISBN 978-85-93312-96-0, acompanha ma | Qtd: 300.0 | R$ Unit: 223.62
+  - Item 8: KIT ESTUDANTE 8º ANO: Caderno do estudante Isso é Real – Jovens pensando no futuro, ISBN 978-85-93312-98-4, acompanha ma | Qtd: 300.0 | R$ Unit: 223.62
+  - Item 9: KIT ESTUDANTE 9º ANO: Caderno do estudante Isso é Real – Jovens pensando no futuro, ISBN 978-65-5407-000-3, acompanha ma | Qtd: 280.0 | R$ Unit: 223.62
+  - Item 10: KIT PROFESSOR 1º ANO: Manual do Professor – Isso é Real – Gente pequena pensando no futuro, ISBN 978-85-93312-70-0, acom | Qtd: 90.0 | R$ Unit: 556.97
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 6951211.18,
+  "orgaoEntidade": {
+    "cnpj": "46523114000117",
+    "razaoSocial": "MUNICIPIO DE EMBU DAS ARTES",
+    "poderId": "N",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-08-04T15:01:44",
+  "dataAtualizacao": "2025-10-02T15:07:11",
+  "numeroControlePNCP": "46523114000117-1-000198/2025",
+  "anoCompra": 2025,
+  "sequencialCompra": 198,
+  "emendaParlamentar": null,
+  "numeroCompra": "25",
+  "processo": "12474/2025",
+  "srp": true,
+  "objetoCompra": "O presente Termo de Referência tem por objeto a Aquisição Estimada, por meio de Registro de Preços, do Projeto de Educação Financeira “ISSO É REAL”, compreendendo kits com jogos educativos e materiais pedagógicos, além de curso de formação continuada para professores da rede municipal de ensino, visando atender os alunos e docentes do 1º ao 9º ano do Ensino Fundamental I e II das escolas públicas do Município de Embu das Artes/SP",
+  "informacaoComplementar": "A presente contratação tem como objetivo a inserção estruturada da educação financeira no currículo escolar, de forma lúdica e interdisciplinar, utilizando jogos e materiais pedagógicos adequados às faixas etárias dos alunos. A ação está em conformidade com a Base Nacional Comum Curricular (BNCC), que orienta o desenvolvimento de competências relacionadas à gestão financeira pessoal, ao consumo consciente e à responsabilidade social.\r\nAdicionalmente, o projeto prevê a formação pedagógica dos professores da rede, garantindo a correta aplicação dos materiais e a abordagem metodológica necessária ao sucesso da iniciativa.\r\n Público-alvo:\r\n• Alunos do 1º ao 9º ano do Ensino Fundamental das escolas da rede municipal\r\nde Embu das Artes;\r\n• Professores das unidades escolares que atuarão com os materiais e\r\nmetodologias do projeto",
+  "dataAberturaProposta": "2025-08-15T00:00:00",
+  "dataEncerramentoProposta": "2025-08-15T00:00:00",
+  "dataPublicacaoPncp": "2025-08-04T15:01:44",
+  "dataAtualizacaoGlobal": "2025-10-02T15:07:25",
+  "unidadeOrgao": {
+    "ufNome": "São Paulo",
+    "ufSigla": "SP",
+    "municipioNome": "Embu das Artes",
+    "codigoIbge": "3515004",
+    "codigoUnidade": "1",
+    "nomeUnidade": "Prefeitura da Estância Turística de Embu das Artes"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 28, I",
+    "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+    "codigo": 1
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": "A presente contratação tem como objetivo a inserção estruturada da educação financeira no currículo escolar, de forma lúdica e interdisciplinar, utilizando jogos e materiais pedagógicos adequados às faixas etárias dos alunos. A ação está em conformidade com a Base Nacional Comum Curricular (BNCC), que orienta o desenvolvimento de competências relacionadas à gestão financeira pessoal, ao consumo consciente e à responsabilidade social.\r\nAdicionalmente, o projeto prevê a formação pedagógica dos professores da rede, garantindo a correta aplicação dos materiais e a abordagem metodológica necessária ao sucesso da iniciativa.\r\n Público-alvo:\r\n• Alunos do 1º ao 9º ano do Ensino Fundamental das escolas da rede municipal\r\nde Embu das Artes;\r\n• Professores das unidades escolares que atuarão com os materiais e\r\nmetodologias do projeto",
+  "valorTotalEstimado": 7144102.02,
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaId": 1,
+  "modoDisputaNome": "Aberto",
+  "tipoInstrumentoConvocatorioCodigo": 1,
+  "tipoInstrumentoConvocatorioNome": "Edital",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Obara Informática Ltda"
+}

@@ -1,0 +1,67 @@
+PORTAL: PNCP (Portal Nacional de Contratações Públicas)
+ÓRGÃO CONTRATANTE: INSTITUTO DE PREVIDENCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE BELEM (Belém/PA)
+MODALIDADE: Dispensa
+OBJETO DA CONTRATAÇÃO: Contratação de Empresa Especializada para Consultoria Técnica e Realização de Estudo Atuarial do Regime Próprio de Previdência do Município de Belém para o exercício 2025 tendo como base o ano de 2024, para aproximadamente 20 (vinte ) mil segurados.
+VALOR ESTIMADO: R$ 21.897,92
+PRAZO PARA PROPOSTAS: 2025-03-28T07:59:59
+LINK OFICIAL: https://pncp.gov.br/app/editais/29331615000182-1-000002/2025
+ARQUIVOS / ANEXOS OFICIAIS:
+doc_1.pdf: https://pncp.gov.br/pncp-api/v1/orgaos/29331615000182/compras/2025/2/arquivos/1
+
+ITENS DA CONTRATAÇÃO:
+  - Item 1: Auditoria - Atuarial | Qtd: 1.0 | R$ Unit: 21897.92
+
+DADOS COMPLETOS EM JSON:
+{
+  "valorTotalHomologado": 14999.99,
+  "orgaoEntidade": {
+    "cnpj": "29331615000182",
+    "razaoSocial": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE BELEM",
+    "poderId": "E",
+    "esferaId": "M"
+  },
+  "dataInclusao": "2025-03-25T12:08:24",
+  "dataAtualizacao": "2025-03-25T12:08:24",
+  "anoCompra": 2025,
+  "srp": false,
+  "sequencialCompra": 2,
+  "emendaParlamentar": null,
+  "numeroCompra": "90003",
+  "processo": "2025.22.200541pa",
+  "objetoCompra": "Contratação de Empresa Especializada para Consultoria Técnica e Realização de Estudo Atuarial do Regime Próprio de Previdência do Município de Belém para o exercício 2025 tendo como base o ano de 2024, para aproximadamente 20 (vinte ) mil segurados.",
+  "informacaoComplementar": "Atender a necessidade legal e também para renovação do CRP (Certificado de Regularidade Previdenciária) em efetuar a",
+  "dataAberturaProposta": "2025-03-25T12:08:22",
+  "dataEncerramentoProposta": "2025-03-28T07:59:59",
+  "dataPublicacaoPncp": "2025-03-25T12:08:24",
+  "dataAtualizacaoGlobal": "2025-04-01T10:40:48",
+  "unidadeOrgao": {
+    "ufNome": "Pará",
+    "ufSigla": "PA",
+    "municipioNome": "Belém",
+    "codigoUnidade": "930730",
+    "nomeUnidade": "PMPA-INSTITUTO DE PREV. SERVIDORES PÚBLICOS",
+    "codigoIbge": "1501402"
+  },
+  "orgaoSubRogado": null,
+  "unidadeSubRogada": null,
+  "amparoLegal": {
+    "nome": "Lei 14.133/2021, Art. 75, II",
+    "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+    "codigo": 19
+  },
+  "linkSistemaOrigem": null,
+  "linkProcessoEletronico": null,
+  "justificativaPresencial": null,
+  "numeroControlePNCP": "29331615000182-1-000002/2025",
+  "valorTotalEstimado": 21897.92,
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaId": 4,
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "tipoInstrumentoConvocatorioCodigo": 2,
+  "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+  "fontesOrcamentarias": [],
+  "situacaoCompraId": 1,
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "usuarioNome": "Compras.gov.br"
+}
