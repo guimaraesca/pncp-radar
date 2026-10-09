@@ -1109,8 +1109,8 @@ def render_executive_kpis(kpis_data):
 # Carrega os dados brutos
 df_raw = analytics.get_dataframe()
 # Filtro Principal: Manter apenas os editais que deram MATCH com o perfil B2G da empresa (Carlos e Felipe)
-if not df_raw.empty and "is_tech_or_strategy" in df_raw.columns:
-    df_raw = df_raw[df_raw["is_tech_or_strategy"] == 1]
+if not df_raw.empty and "matched_category" in df_raw.columns:
+    df_raw = df_raw[df_raw["matched_category"].notna() & (df_raw["matched_category"] != "")]
 df_itens_raw = analytics.get_itens_dataframe()
 
 # Header Executivo Estilo Power BI Top Tabs
