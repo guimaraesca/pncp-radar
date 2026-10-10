@@ -147,6 +147,12 @@ categories:
           - "pnld"
           - "bncc computacao"
           - "tecnologias na educacao"
+          - "material didatico estruturado"
+          - "material didatico digital"
+          - "trilhas de aprendizagem"
+          - "recursos educacionais abertos"
+          - "learning analytics"
+          - "analise de aprendizagem"
       
       politicas_educacionais:
         name: "Políticas Públicas Educacionais"
@@ -172,6 +178,13 @@ categories:
           - "plano de acoes articuladas"
           - "par educacao"
           - "fundeb"
+          - "recomposicao de aprendizagem"
+          - "recuperacao de aprendizagem"
+          - "tempo integral"
+          - "escola em tempo integral"
+          - "novo ensino medio"
+          - "formacao continuada de professores"
+          - "capacitacao docente"
 
 # -------------------------------------------------------------
 # FILTROS DE EXCLUSÃO CIRÚRGICA (ANTI-RUÍDO EM COMPRAS PÚBLICAS)
@@ -229,3 +242,20 @@ exclusions:
   - "reforma"
   - "pavimentacao"
   - "asfalto"
+  
+  # Equipamentos / TI Básica
+  - "toner"
+  - "cartucho"
+  - "impressora"
+  - "multifuncional"
+  - "computador desktop"
+  - "notebooks"
+  - "cabo de rede"
+  - "switch"
+  - "roteador"
+  - "manutencao de computadores"
+  - "link de internet"
+  - "banda larga"
+  - "fibra optica"
+  - "nobreak"
+  - "estabilizador"
