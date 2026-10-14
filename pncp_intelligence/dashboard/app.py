@@ -577,19 +577,23 @@ db, analytics, exporter, collector, nlp = get_services(_version="2026.10.14_v3")
 
 
 def apply_pbi_theme(fig, height=360, is_dark=True):
-    """Aplica o tema executivo Power BI aos gráficos Plotly de forma segura."""
+    """Aplica o tema executivo Power BI aos gráficos Plotly com proporcionalidade e sem sobreposição."""
     font_color = "#CBD5E1" if is_dark else "#334155"
     grid_color = "rgba(255, 255, 255, 0.05)" if is_dark else "rgba(0, 0, 0, 0.06)"
     line_color = "rgba(255, 255, 255, 0.12)" if is_dark else "rgba(0, 0, 0, 0.12)"
-    legend_bg = "rgba(15, 23, 42, 0.75)" if is_dark else "rgba(255, 255, 255, 0.9)"
+    legend_bg = "rgba(15, 23, 42, 0.85)" if is_dark else "rgba(255, 255, 255, 0.92)"
     legend_border = "rgba(255, 255, 255, 0.1)" if is_dark else "rgba(0, 0, 0, 0.1)"
+
+    has_title = bool(fig.layout.title and fig.layout.title.text)
+    top_margin = 56 if has_title else 22
+    bottom_margin = 48 if (fig.layout.showlegend is not False and len(fig.data) > 1) else 24
 
     try:
         fig.update_layout(
             paper_bgcolor="rgba(0,0,0,0)",
             plot_bgcolor="rgba(0,0,0,0)",
             font=dict(family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif", color=font_color, size=12),
-            margin=dict(l=12, r=12, t=38, b=12),
+            margin=dict(l=35, r=25, t=top_margin, b=bottom_margin),
             height=height,
             xaxis=dict(
                 gridcolor=grid_color,
@@ -606,19 +610,34 @@ def apply_pbi_theme(fig, height=360, is_dark=True):
                 automargin=True
             ),
             legend=dict(
+                orientation="h",
+                yanchor="top",
+                y=-0.14,
+                xanchor="center",
+                x=0.5,
                 bgcolor=legend_bg,
                 bordercolor=legend_border,
                 borderwidth=1,
                 font=dict(color=font_color, size=11)
             )
         )
+        if has_title:
+            fig.update_layout(
+                title=dict(
+                    y=0.96,
+                    x=0.01,
+                    xanchor="left",
+                    yanchor="top",
+                    font=dict(color=font_color, size=13)
+                )
+            )
     except Exception:
         # Fallback para gráficos sem eixos cartesianos (ex: Treemaps)
         fig.update_layout(
             paper_bgcolor="rgba(0,0,0,0)",
             plot_bgcolor="rgba(0,0,0,0)",
             font=dict(family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif", color=font_color, size=12),
-            margin=dict(l=12, r=12, t=38, b=12),
+            margin=dict(l=25, r=25, t=top_margin, b=bottom_margin),
             height=height,
         )
     return fig
@@ -822,12 +841,11 @@ def build_sankey_ramificacoes(df, is_dark=True):
     )])
 
     fig.update_layout(
-        title_text="🌿 Ramificações de Fluxo & Especialidades: Modalidade ➔ Vertical ➔ Subtema ➔ Decisão",
         font=dict(family="Plus Jakarta Sans, sans-serif", size=11, color="#E2E8F0" if is_dark else "#1E293B"),
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
-        height=580,
-        margin=dict(l=15, r=15, t=45, b=15)
+        height=620,
+        margin=dict(l=15, r=15, t=15, b=15)
     )
     return fig
 
@@ -998,16 +1016,32 @@ def build_risco_retorno_chart(df, is_dark=True):
     ]
 
     fig.update_layout(
-        title=dict(text="🎯 Matriz Quali-Quanti: Risco Operacional vs Potencial de Retorno", font=dict(size=15, color="#F8FAFC" if is_dark else "#0F172A")),
-        xaxis=dict(title="Nível de Risco Operacional & Regulatório (0 = Seguro → 100 = Alto Risco)", range=[0, 100], gridcolor="rgba(255,255,255,0.06)" if is_dark else "rgba(0,0,0,0.06)"),
-        yaxis=dict(title="Potencial de Retorno Financeiro & Margem (0 = Baixo → 100 = Alto)", range=[0, 105], gridcolor="rgba(255,255,255,0.06)" if is_dark else "rgba(0,0,0,0.06)"),
+        title=dict(
+            text="🎯 Matriz Quali-Quanti: Risco Operacional vs Potencial de Retorno",
+            font=dict(size=14, color="#F8FAFC" if is_dark else "#0F172A"),
+            y=0.97,
+            x=0.01,
+            xanchor="left",
+            yanchor="top"
+        ),
+        xaxis=dict(title="Nível de Risco Operacional & Regulatório (0 = Seguro → 100 = Alto Risco)", range=[0, 100], gridcolor="rgba(255,255,255,0.06)" if is_dark else "rgba(0,0,0,0.06)", automargin=True),
+        yaxis=dict(title="Potencial de Retorno Financeiro & Margem (0 = Baixo → 100 = Alto)", range=[0, 105], gridcolor="rgba(255,255,255,0.06)" if is_dark else "rgba(0,0,0,0.06)", automargin=True),
         shapes=shapes,
         annotations=annotations,
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
-        height=520,
-        margin=dict(l=40, r=20, t=50, b=40),
-        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+        height=550,
+        margin=dict(l=45, r=25, t=60, b=55),
+        legend=dict(
+            orientation="h",
+            yanchor="top",
+            y=-0.14,
+            xanchor="center",
+            x=0.5,
+            bgcolor="rgba(15, 23, 42, 0.85)" if is_dark else "rgba(255, 255, 255, 0.9)",
+            bordercolor="rgba(255, 255, 255, 0.1)" if is_dark else "rgba(0, 0, 0, 0.1)",
+            borderwidth=1
+        )
     )
     return fig
 
@@ -1077,37 +1111,43 @@ def build_wsj_timeline_swarm(df, is_dark=True):
 
     fig.add_vline(
         x=2.0, line_dash="dash", line_color="rgba(239, 68, 68, 0.7)",
-        annotation_text="🚨 Urgente (≤ 48h)", annotation_position="top left",
+        annotation_text="🚨 Urgente (≤ 48h)", annotation_position="bottom left",
         annotation_font=dict(size=10, color="#EF4444")
     )
     fig.add_vline(
         x=7.0, line_dash="dash", line_color="rgba(245, 158, 11, 0.7)",
-        annotation_text="⚡ Curto Prazo (3-7d)", annotation_position="top left",
+        annotation_text="⚡ Curto Prazo (3-7d)", annotation_position="bottom left",
         annotation_font=dict(size=10, color="#F59E0B")
     )
 
     fig.update_layout(
         title=dict(
             text="📅 Linha do Tempo Cronológica: Prazo Restante vs Valor Estimado",
-            font=dict(size=13, color="#F8FAFC" if is_dark else "#0F172A")
+            font=dict(size=13, color="#F8FAFC" if is_dark else "#0F172A"),
+            y=0.97,
+            x=0.01,
+            xanchor="left",
+            yanchor="top"
         ),
         xaxis=dict(
             title="Dias Restantes até o Encerramento de Propostas",
             gridcolor="rgba(255,255,255,0.06)" if is_dark else "rgba(0,0,0,0.06)",
             zeroline=False,
-            tickfont=dict(color="#94A3B8")
+            tickfont=dict(color="#94A3B8"),
+            automargin=True
         ),
         yaxis=dict(
             title="Valor Estimado do Contrato (R$)",
             type="log",
             gridcolor="rgba(255,255,255,0.06)" if is_dark else "rgba(0,0,0,0.06)",
             zeroline=False,
-            tickfont=dict(color="#94A3B8")
+            tickfont=dict(color="#94A3B8"),
+            automargin=True
         ),
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
-        height=480,
-        margin=dict(l=40, r=20, t=50, b=40)
+        height=520,
+        margin=dict(l=45, r=25, t=55, b=45)
     )
     return fig
 
@@ -1335,7 +1375,8 @@ menu_navegacao = st.sidebar.radio(
     [
         "📊 1. Visão Geral",
         "🧠 2. Contexto",
-        "🔍 3. Detalhes"
+        "🔍 3. Detalhes",
+        "🛡️ 4. Observabilidade"
     ],
     index=0,
     label_visibility="collapsed"
@@ -3343,6 +3384,80 @@ elif menu_navegacao == "🔍 3. Detalhes":
             st.dataframe(pd.DataFrame(LINEAGE_STAGES), use_container_width=True, hide_index=True)
             st.markdown("##### Linhagem dos Indicadores & Métricas Chave")
             st.dataframe(pd.DataFrame(INDICATOR_LINEAGE), use_container_width=True, hide_index=True)
+
+    except Exception as e:
+        st.warning(f"Não foi possível avaliar o relatório de observabilidade no momento: {e}")
+
+# ----------------- MÓDULO 4: OBSERVABILIDADE DE DADOS (5 PILARES) -----------------
+elif menu_navegacao == "🛡️ 4. Observabilidade":
+    st.subheader("🛡️ 4. Central de Observabilidade de Dados & Governança (5 Pilares)")
+    st.caption(
+        "Monitoramento contínuo da saúde do pipeline em produção cobrindo os 5 pilares canônicos: "
+        "**Freshness, Volume, Distribution, Schema e Lineage** (conforme SLA e contratos da Lei 14.133/2021)."
+    )
+
+    try:
+        report = evaluate_health(str(db.db_path))
+        counts = report.counts()
+        pillars_status = report.by_pillar()
+
+        c_obs1, c_obs2, c_obs3, c_obs4, c_obs5 = st.columns(5)
+        with c_obs1:
+            icon = "🟢" if pillars_status.get("Freshness") == "PASS" else ("🟡" if pillars_status.get("Freshness") == "WARN" else "🔴")
+            st.metric("1. Freshness", f"{icon} {pillars_status.get('Freshness')}", "Sincronização Diária")
+        with c_obs2:
+            icon = "🟢" if pillars_status.get("Volume") == "PASS" else ("🟡" if pillars_status.get("Volume") == "WARN" else "🔴")
+            st.metric("2. Volume", f"{icon} {pillars_status.get('Volume')}", f"{formatar_inteiro(len(df_raw))} editais")
+        with c_obs3:
+            icon = "🟢" if pillars_status.get("Distribution") == "PASS" else ("🟡" if pillars_status.get("Distribution") == "WARN" else "🔴")
+            st.metric("3. Distribution", f"{icon} {pillars_status.get('Distribution')}", "Valores e Domínios")
+        with c_obs4:
+            icon = "🟢" if pillars_status.get("Schema") == "PASS" else ("🟡" if pillars_status.get("Schema") == "WARN" else "🔴")
+            st.metric("4. Schema", f"{icon} {pillars_status.get('Schema')}", "Contrato de API")
+        with c_obs5:
+            icon = "🟢" if pillars_status.get("Lineage") == "PASS" else ("🟡" if pillars_status.get("Lineage") == "WARN" else "🔴")
+            st.metric("5. Lineage", f"{icon} {pillars_status.get('Lineage')}", "Rastreio Fim a Fim")
+
+        st.markdown("---")
+
+        tab_checks, tab_lineage, tab_stats = st.tabs([
+            "📋 Matriz de Verificações",
+            "🗺️ Arquitetura de Linhagem",
+            "📈 Estatísticas do Banco"
+        ])
+
+        with tab_checks:
+            st.markdown("##### 📋 Matriz Executiva de Verificações de Qualidade")
+            st.caption("Verificações automáticas aplicadas sobre o banco de dados:")
+            df_checks = pd.DataFrame(report.to_dicts())
+            if not df_checks.empty:
+                st.dataframe(
+                    df_checks,
+                    column_config={
+                        "pillar": "Pilar",
+                        "name": "Verificação",
+                        "status": "Status",
+                        "observed": "Observado",
+                        "expected": "Esperado",
+                        "detail": "Detalhes Técnicos"
+                    },
+                    use_container_width=True,
+                    hide_index=True
+                )
+
+        with tab_lineage:
+            st.markdown("##### 🗺️ Etapas de Transformação da Informação (Data Lineage)")
+            st.caption("Da coleta na API pública do PNCP até as decisões do Command Center:")
+            st.dataframe(pd.DataFrame(LINEAGE_STAGES), use_container_width=True, hide_index=True)
+
+            st.markdown("---")
+            st.markdown("##### 🎯 Linhagem dos Indicadores & Métricas Chave")
+            st.dataframe(pd.DataFrame(INDICATOR_LINEAGE), use_container_width=True, hide_index=True)
+
+        with tab_stats:
+            st.markdown("##### 📈 Metadados do Banco SQLite Local")
+            stats = db.get_stats()
+            st.json(stats)
 
     except Exception as e:
         st.warning(f"Não foi possível avaliar o relatório de observabilidade no momento: {e}")
