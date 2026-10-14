@@ -633,7 +633,11 @@ def build_sankey_ramificacoes(df, is_dark=True):
     if df.empty:
         return go.Figure()
 
-    df_flow = df.copy()
+    # Filtra apenas registros com categorização válida
+    df_flow = df[df["matched_category"].notna() & (df["matched_category"].astype(str).str.strip() != "")].copy()
+    if df_flow.empty:
+        return go.Figure()
+
     df_flow["modalidade_curta"] = df_flow["modalidade_nome"].fillna("Outra").apply(
         lambda m: "Pregão Eletrônico" if "pregão" in str(m).lower()
         else ("Dispensa" if "dispensa" in str(m).lower()
@@ -642,12 +646,30 @@ def build_sankey_ramificacoes(df, is_dark=True):
     )
     df_flow["categoria_label"] = df_flow["matched_category"].fillna("Políticas Públicas & Dados")
     df_flow["subtema_label"] = df_flow["matched_subtema"].fillna("Geral")
-    df_flow["decisao"] = df_flow["decisao_tag"].fillna("🟡 WATCH")
+
+    if "decisao_tag" in df_flow.columns:
+        df_flow["decisao"] = df_flow["decisao_tag"].fillna("🟡 WATCH")
+    else:
+        def _quick_decisao(row):
+            sub = str(row.get("matched_subtema", "")).lower()
+            mod = str(row.get("modalidade_nome", "")).lower()
+            val = float(row.get("valor_total_estimado", 0) or 0)
+            if "dispensa" in mod or any(k in sub for k in ["dados", "ia", "steam", "computacional", "ideb", "vaar"]):
+                return "🟢 GO" if (val >= 50000 or val == 0) else "🟡 WATCH"
+            elif any(k in sub for k in ["consultoria", "governança", "projetos", "educacional"]):
+                return "🟡 WATCH"
+            return "🔴 NO-GO"
+        df_flow["decisao"] = df_flow.apply(_quick_decisao, axis=1)
+
+    if "dias_restantes" not in df_flow.columns:
+        df_flow["dias_restantes"] = 0.0
 
     mods = sorted(df_flow["modalidade_curta"].unique().tolist())
     cats = sorted(df_flow["categoria_label"].unique().tolist())
     subs = sorted(df_flow["subtema_label"].unique().tolist())
     decs = [d for d in ["🟢 GO", "🟡 WATCH", "🔴 NO-GO"] if d in df_flow["decisao"].unique()]
+    if not decs:
+        decs = sorted(df_flow["decisao"].unique().tolist())
 
     # Prefixos para evitar colisão de nomes caso um nó tenha o mesmo rótulo
     all_node_keys = [f"MOD::{m}" for m in mods] + [f"CAT::{c}" for c in cats] + [f"SUB::{s}" for s in subs] + [f"DEC::{d}" for d in decs]
@@ -670,8 +692,10 @@ def build_sankey_ramificacoes(df, is_dark=True):
         "Monitoramento & Avaliação (M&A / MEL)": "#0D9488",
         "Gestão de Projetos": "#4F46E5",
         "Consultoria & Governança": "#7C3AED",
-        "Tecnologia & Inovação Educacional": "#D97706",
-        "Políticas Públicas Educacionais": "#B45309"
+        "Pensamento Computacional & STEAM": "#EC4899",
+        "Avaliação Educacional, IDEB & VAAR": "#10B981",
+        "Tecnologias & Inovação Educacional": "#D97706",
+        "Políticas Educacionais & Educação Básica": "#B45309"
     }
 
     node_colors = [color_map.get(lbl, "#38BDF8") for lbl in all_node_labels]
@@ -1514,9 +1538,18 @@ if menu_navegacao == "📊 1. Visão Geral":
                     )
 
                     if "Ramificações" in tipo_dataviz:
-                        fig_sankey = build_sankey_ramificacoes(df_cand, is_dark=is_dark)
+                        c_sank_escopo1, c_sank_escopo2 = st.columns([1, 1])
+                        with c_sank_escopo1:
+                            escopo_sankey = st.radio(
+                                "Base do Sankey:",
+                                ["🎯 Pipeline Aberto (Próximos 30d)", "🏛️ Mercado Mapeado (Base Completa)"],
+                                horizontal=True,
+                                key="escopo_sankey_radio"
+                            )
+                        df_sank_input = df_cand if "Pipeline Aberto" in escopo_sankey else filtered_df
+                        fig_sankey = build_sankey_ramificacoes(df_sank_input, is_dark=is_dark)
                         st.plotly_chart(fig_sankey, use_container_width=True)
-                        st.caption("🌿 **Fluxo de Ramificações (Imagem 1):** Conecta a modalidade ao segmento temático e converge para a decisão (🟢 GO, 🟡 WATCH, 🔴 NO-GO).")
+                        st.caption("🌿 **Fluxo de Ramificações Alluvial:** Mapeia Modalidade ➔ Vertical Estratégica ➔ Subtema Especializado (ex: Pensamento Computacional, VAAR, BI) ➔ Decisão Estratégica.")
                     else:
                         fig_wsj = build_wsj_timeline_swarm(df_cand, is_dark=is_dark)
                         st.plotly_chart(fig_wsj, use_container_width=True)
