@@ -1355,19 +1355,22 @@ if menu_navegacao == "📊 1. Visão Geral":
             peso_aderencia=peso_aderencia,
             peso_custo_beneficio=peso_custo,
             peso_logistica=peso_logistica,
-            peso_historico=peso_historico
+            peso_historico=peso_historico,
+            apenas_abertos=False
         )
 
         if not df_cand_raw.empty:
-            # 1. Faixa de KPIs Executivos do Pipeline Aberto
-            tot_abertos = len(df_cand_raw)
-            vol_aberto = df_cand_raw["valor_total_estimado"].sum()
+            # 1. Faixa de KPIs Executivos do Pipeline Mapeado
+            tot_mapeados = len(df_cand_raw)
+            tot_abertos = int((df_cand_raw["dias_restantes"] > 0).sum())
+            vol_aberto = df_cand_raw[df_cand_raw["dias_restantes"] > 0]["valor_total_estimado"].sum()
+            vol_total = df_cand_raw["valor_total_estimado"].sum()
             alta_rec_count = int((df_cand_raw["score_candidatura"] >= 75).sum())
             dispensas_count = int(df_cand_raw["modalidade_nome"].fillna("").astype(str).str.lower().str.contains("dispensa").sum())
 
             c_kpi1, c_kpi2, c_kpi3, c_kpi4 = st.columns(4)
-            c_kpi1.metric("Oportunidades em Aberto", f"{formatar_inteiro(tot_abertos)} editais", "Propostas ativas hoje")
-            c_kpi2.metric("Pipeline Aberto em Disputa", formatar_moeda_compacta(vol_aberto), help=f"Total: {formatar_moeda_completa(vol_aberto)}")
+            c_kpi1.metric("Oportunidades no Radar", f"{formatar_inteiro(tot_mapeados)} editais", f"{tot_abertos} abertas hoje")
+            c_kpi2.metric("Pipeline Mapeado", formatar_moeda_compacta(vol_total), help=f"Pipeline com propostas abertas hoje: {formatar_moeda_completa(vol_aberto)}")
             c_kpi3.metric("Altamente Recomendados", f"{formatar_inteiro(alta_rec_count)} editais", "Score ≥ 75 (Forte Fit)")
             c_kpi4.metric("Dispensas Eletrônicas", f"{formatar_inteiro(dispensas_count)} compras", "Vitória ágil / Baixa burocracia")
 
@@ -1379,11 +1382,12 @@ if menu_navegacao == "📊 1. Visão Geral":
 
             with f_col1:
                 filtro_rec = st.selectbox(
-                    "Sugerir Minha Candidatura:",
+                    "Sugerir Minha Candidatura / Escopo:",
                     [
+                        "🏛️ Mercado Mapeado Completo (Todos os Editais)",
+                        "🎯 Pipeline Aberto (Propostas Ativas Hoje)",
                         "🟢 Apenas Alta Recomendação (Score ≥ 75)",
                         "🟡 Viáveis ou Superiores (Score ≥ 50)",
-                        "Todas as Oportunidades em Aberto"
                     ],
                     index=0
                 )
@@ -1395,13 +1399,20 @@ if menu_navegacao == "📊 1. Visão Geral":
                         "Todas as Janelas de Prazo",
                         "🚨 Urgente (Até 48 horas)",
                         "⚡ Prazo Curto (3 a 7 dias)",
-                        "🎯 Janela Ampla (Mais de 7 dias)"
+                        "🎯 Janela Ampla (Mais de 7 dias)",
+                        "⏳ Propostas Encerradas / Base Histórica"
                     ],
                     index=0
                 )
 
             with f_col3:
-                mod_opcoes = ["Todas as Modalidades"] + sorted([m for m in df_cand_raw["modalidade_nome"].dropna().unique() if m])
+                mod_opcoes = [
+                    "Todas as Modalidades",
+                    "Dispensa (Eletrônica / Direta)",
+                    "Pregão Eletrônico",
+                    "Concorrência",
+                    "Credenciamento"
+                ]
                 filtro_mod = st.selectbox("Modalidade Competitiva:", mod_opcoes, index=0)
 
             with f_col4:
@@ -1417,19 +1428,31 @@ if menu_navegacao == "📊 1. Visão Geral":
             # Aplicação dos filtros do painel
             df_cand = df_cand_raw.copy()
 
-            if "Alta Recomendação" in filtro_rec:
+            if "Pipeline Aberto" in filtro_rec:
+                df_cand = df_cand[df_cand["dias_restantes"] > 0.0]
+            elif "Alta Recomendação" in filtro_rec:
                 df_cand = df_cand[df_cand["score_candidatura"] >= 75]
             elif "Viáveis" in filtro_rec:
                 df_cand = df_cand[df_cand["score_candidatura"] >= 50]
 
             if "Urgente" in filtro_prazo:
-                df_cand = df_cand[df_cand["dias_restantes"] <= 2.0]
+                df_cand = df_cand[(df_cand["dias_restantes"] > 0.0) & (df_cand["dias_restantes"] <= 2.0)]
             elif "Prazo Curto" in filtro_prazo:
                 df_cand = df_cand[(df_cand["dias_restantes"] > 2.0) & (df_cand["dias_restantes"] <= 7.0)]
             elif "Janela Ampla" in filtro_prazo:
                 df_cand = df_cand[df_cand["dias_restantes"] > 7.0]
+            elif "Encerradas" in filtro_prazo or "Histórica" in filtro_prazo:
+                df_cand = df_cand[df_cand["dias_restantes"] <= 0.0]
 
-            if filtro_mod != "Todas as Modalidades":
+            if "dispensa" in filtro_mod.lower():
+                df_cand = df_cand[df_cand["modalidade_nome"].fillna("").astype(str).str.lower().str.contains("dispensa")]
+            elif "pregão" in filtro_mod.lower():
+                df_cand = df_cand[df_cand["modalidade_nome"].fillna("").astype(str).str.lower().str.contains("pregão")]
+            elif "concorrência" in filtro_mod.lower():
+                df_cand = df_cand[df_cand["modalidade_nome"].fillna("").astype(str).str.lower().str.contains("concorrência")]
+            elif "credenciamento" in filtro_mod.lower():
+                df_cand = df_cand[df_cand["modalidade_nome"].fillna("").astype(str).str.lower().str.contains("credenciamento")]
+            elif filtro_mod != "Todas as Modalidades":
                 df_cand = df_cand[df_cand["modalidade_nome"] == filtro_mod]
 
             if "250km" in filtro_geo:
@@ -1439,7 +1462,17 @@ if menu_navegacao == "📊 1. Visão Geral":
                     (df_cand["matched_subtema"].fillna("").str.lower().str.contains("software|cloud|saas|dados|ia"))
                 ]
 
-            st.caption(f"Mostrando **{formatar_inteiro(len(df_cand))}** de **{formatar_inteiro(tot_abertos)}** editais abertos com base nos critérios de candidatura.")
+            col_inf_l, col_inf_r = st.columns([1.5, 1])
+            with col_inf_l:
+                st.caption(f"Mostrando **{formatar_inteiro(len(df_cand))}** de **{formatar_inteiro(tot_mapeados)}** editais com base nos critérios de candidatura.")
+            with col_inf_r:
+                modo_view_cc = st.radio(
+                    "Visualização do Command Center:",
+                    ["🌟 Dataviz Widescreen em Destaque", "📐 Painel Triplo em Colunas"],
+                    horizontal=True,
+                    label_visibility="collapsed",
+                    key="modo_view_cc_radio"
+                )
 
             if not df_cand.empty:
                 # Gerenciamento de Edital Ativo em Inspeção nas Gavetas
@@ -1450,190 +1483,343 @@ if menu_navegacao == "📊 1. Visão Geral":
 
                 st.markdown("<div style='height: 8px;'></div>", unsafe_allow_html=True)
 
-                # ==============================================================
-                # FLUXO WIDESCREEN EM 3 PARTES PRINCIPAIS
-                # ==============================================================
-                c_funil, c_dataviz, c_feed = st.columns([1.05, 1.45, 1.5], gap="medium")
+                qtd_go = int((df_cand["decisao_tag"] == "🟢 GO").sum())
+                vol_go = df_cand[df_cand["decisao_tag"] == "🟢 GO"]["valor_total_estimado"].sum()
+                qtd_watch = int((df_cand["decisao_tag"] == "🟡 WATCH").sum())
+                vol_watch = df_cand[df_cand["decisao_tag"] == "🟡 WATCH"]["valor_total_estimado"].sum()
+                qtd_nogo = int((df_cand["decisao_tag"] == "🔴 NO-GO").sum())
+                vol_nogo = df_cand[df_cand["decisao_tag"] == "🔴 NO-GO"]["valor_total_estimado"].sum()
 
-                # ---------------- PARTE 1: FUNIL & DECISÃO RÁPIDA ----------------
-                with c_funil:
-                    st.markdown("##### 🚦 1. Funil & Decisão Rápida")
-                    st.caption("Triagem imediata por probabilidade de vitória")
+                # Lista de ramos / subtemas para navegação interativa
+                sub_counts = df_cand["matched_subtema"].value_counts().to_dict()
+                ramos_opcoes = [f"🌟 Todos os Ramos ({len(df_cand)} editais)"]
+                subtemas_ordem = [
+                    "Inteligência Artificial & Machine Learning",
+                    "Privacidade & Proteção de Dados (LGPD)",
+                    "Governança Pública & Planejamento",
+                    "Consultoria & Assessoria Técnica Especializada",
+                    "Avaliação Educacional, IDEB & VAAR",
+                    "Business Intelligence & Dashboards",
+                    "Pensamento Computacional & STEAM",
+                    "Engenharia de Dados & Infraestrutura Cloud",
+                    "Políticas Educacionais & Educação Básica",
+                    "Tecnologias & Inovação Educacional",
+                    "Gestão de Projetos & Processos (PMO / BPM)",
+                    "Monitoramento & Avaliação (M&A / MEL)",
+                    "Transformação & Governo Digital",
+                    "Ciência de Dados & Analytics"
+                ]
+                icon_map = {
+                    "Inteligência Artificial & Machine Learning": "🤖",
+                    "Privacidade & Proteção de Dados (LGPD)": "🔒",
+                    "Governança Pública & Planejamento": "🏛️",
+                    "Consultoria & Assessoria Técnica Especializada": "📑",
+                    "Avaliação Educacional, IDEB & VAAR": "🟢",
+                    "Business Intelligence & Dashboards": "📊",
+                    "Pensamento Computacional & STEAM": "🌸",
+                    "Engenharia de Dados & Infraestrutura Cloud": "🗄️",
+                    "Políticas Educacionais & Educação Básica": "🟤",
+                    "Tecnologias & Inovação Educacional": "📙",
+                    "Gestão de Projetos & Processos (PMO / BPM)": "⚡",
+                    "Monitoramento & Avaliação (M&A / MEL)": "🎯",
+                    "Transformação & Governo Digital": "🌐",
+                    "Ciência de Dados & Analytics": "🔬",
+                }
+                for st_nome in subtemas_ordem:
+                    qtd_st = sub_counts.get(st_nome, 0)
+                    if qtd_st > 0:
+                        icon = icon_map.get(st_nome, "📁")
+                        ramos_opcoes.append(f"{icon} {st_nome} ({qtd_st} editais)")
 
-                    qtd_go = int((df_cand["decisao_tag"] == "🟢 GO").sum())
-                    vol_go = df_cand[df_cand["decisao_tag"] == "🟢 GO"]["valor_total_estimado"].sum()
-                    qtd_watch = int((df_cand["decisao_tag"] == "🟡 WATCH").sum())
-                    vol_watch = df_cand[df_cand["decisao_tag"] == "🟡 WATCH"]["valor_total_estimado"].sum()
-                    qtd_nogo = int((df_cand["decisao_tag"] == "🔴 NO-GO").sum())
-                    vol_nogo = df_cand[df_cand["decisao_tag"] == "🔴 NO-GO"]["valor_total_estimado"].sum()
-
-                    st.markdown(f"""
-                    <div class="radar-stat-box" style="border-left: 4px solid #10B981;">
-                        <div>
-                            <div style="font-weight: 700; color: #10B981; font-size: 13px;">🟢 GO (Candidatura Recomendada)</div>
-                            <div style="font-size: 11px; color: {c_text_secondary};">{formatar_moeda_compacta(vol_go)} em disputa</div>
-                        </div>
-                        <div style="font-size: 20px; font-weight: 800; color: #10B981;">{formatar_inteiro(qtd_go)}</div>
-                    </div>
-                    <div class="radar-stat-box" style="border-left: 4px solid #F59E0B;">
-                        <div>
-                            <div style="font-weight: 700; color: #F59E0B; font-size: 13px;">🟡 WATCH (Avaliar Viabilidade)</div>
-                            <div style="font-size: 11px; color: {c_text_secondary};">{formatar_moeda_compacta(vol_watch)} em disputa</div>
-                        </div>
-                        <div style="font-size: 20px; font-weight: 800; color: #F59E0B;">{formatar_inteiro(qtd_watch)}</div>
-                    </div>
-                    <div class="radar-stat-box" style="border-left: 4px solid #EF4444;">
-                        <div>
-                            <div style="font-weight: 700; color: #EF4444; font-size: 13px;">🔴 NO-GO (Baixa Prioridade)</div>
-                            <div style="font-size: 11px; color: {c_text_secondary};">{formatar_moeda_compacta(vol_nogo)} em disputa</div>
-                        </div>
-                        <div style="font-size: 20px; font-weight: 800; color: #EF4444;">{formatar_inteiro(qtd_nogo)}</div>
-                    </div>
-                    """, unsafe_allow_html=True)
-
-                    st.markdown("###### ⭐ Top Oportunidades Imediatas")
-                    # Cards das Top Oportunidades com os 4 Pilares
-                    for idx_card, r_card in df_cand.head(5).iterrows():
-                        pncp_num = r_card["numero_controle_pncp"]
-                        is_active_card = (pncp_num == st.session_state.get("edital_ativo_pncp"))
-                        border_color = "#3B82F6" if is_active_card else ("#10B981" if r_card["score_candidatura"] >= 75 else "#F59E0B")
-
+                if "Widescreen" in modo_view_cc:
+                    # ==============================================================
+                    # MODO 1: DATAVIZ WIDESCREEN EM DESTAQUE COM NAVEGAÇÃO INTERATIVA
+                    # ==============================================================
+                    # 1. Funil de Decisão Rápida em Faixa Superior
+                    c_f1, c_f2, c_f3 = st.columns(3)
+                    with c_f1:
                         st.markdown(f"""
-                        <div class="candidacy-card-item" style="border-left-color: {border_color}; {'background: rgba(59, 130, 246, 0.12);' if is_active_card else ''}">
-                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-                                <span style="font-size: 11.5px; font-weight: 800; color: {border_color};">{r_card['decisao_tag']}</span>
-                                <span style="font-size: 12px; font-weight: 800; background: rgba(59, 130, 246, 0.2); padding: 2px 7px; border-radius: 6px;">{r_card['score_candidatura']} pts</span>
+                        <div class="radar-stat-box" style="border-left: 5px solid #10B981; padding: 12px 16px;">
+                            <div>
+                                <div style="font-weight: 800; color: #10B981; font-size: 13.5px;">🟢 GO (Candidatura Recomendada)</div>
+                                <div style="font-size: 11.5px; color: {c_text_secondary};">{formatar_moeda_compacta(vol_go)} em volume</div>
                             </div>
-                            <div style="font-size: 12px; font-weight: 700; color: {c_text_primary}; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="{r_card['razao_social_orgao']}">
-                                {r_card['razao_social_orgao']} ({r_card['uf_sigla']})
+                            <div style="font-size: 24px; font-weight: 800; color: #10B981;">{formatar_inteiro(qtd_go)}</div>
+                        </div>
+                        """, unsafe_allow_html=True)
+                    with c_f2:
+                        st.markdown(f"""
+                        <div class="radar-stat-box" style="border-left: 5px solid #F59E0B; padding: 12px 16px;">
+                            <div>
+                                <div style="font-weight: 800; color: #F59E0B; font-size: 13.5px;">🟡 WATCH (Avaliar Viabilidade)</div>
+                                <div style="font-size: 11.5px; color: {c_text_secondary};">{formatar_moeda_compacta(vol_watch)} em volume</div>
                             </div>
-                            <div style="font-size: 11px; color: {c_text_secondary}; margin-bottom: 6px;">
-                                {r_card['matched_subtema']} • <b>{formatar_moeda_compacta(r_card['valor_total_estimado'])}</b> • ⏳ {r_card['dias_restantes']:.1f}d
+                            <div style="font-size: 24px; font-weight: 800; color: #F59E0B;">{formatar_inteiro(qtd_watch)}</div>
+                        </div>
+                        """, unsafe_allow_html=True)
+                    with c_f3:
+                        st.markdown(f"""
+                        <div class="radar-stat-box" style="border-left: 5px solid #EF4444; padding: 12px 16px;">
+                            <div>
+                                <div style="font-weight: 800; color: #EF4444; font-size: 13.5px;">🔴 NO-GO (Baixa Prioridade)</div>
+                                <div style="font-size: 11.5px; color: {c_text_secondary};">{formatar_moeda_compacta(vol_nogo)} em volume</div>
                             </div>
-                            <div class="pillar-row">
-                                <span>🎯 Aderência</span>
-                                <div class="pillar-bar-bg"><div class="pillar-bar-fill" style="width: {r_card['score_aderencia']}%; background: #3B82F6;"></div></div>
-                                <span>{r_card['score_aderencia']}%</span>
-                            </div>
-                            <div class="pillar-row">
-                                <span>💰 Custo-Ben.</span>
-                                <div class="pillar-bar-bg"><div class="pillar-bar-fill" style="width: {r_card['score_custo_beneficio']}%; background: #10B981;"></div></div>
-                                <span>{r_card['score_custo_beneficio']}%</span>
-                            </div>
-                            <div class="pillar-row">
-                                <span>🚚 Logística</span>
-                                <div class="pillar-bar-bg"><div class="pillar-bar-fill" style="width: {r_card['score_logistica']}%; background: #F59E0B;"></div></div>
-                                <span>{r_card['score_logistica']}%</span>
-                            </div>
-                            <div class="pillar-row">
-                                <span>🏛️ Histórico</span>
-                                <div class="pillar-bar-bg"><div class="pillar-bar-fill" style="width: {r_card['score_historico']}%; background: #8B5CF6;"></div></div>
-                                <span>{r_card['score_historico']}%</span>
-                            </div>
+                            <div style="font-size: 24px; font-weight: 800; color: #EF4444;">{formatar_inteiro(qtd_nogo)}</div>
                         </div>
                         """, unsafe_allow_html=True)
 
-                        if st.button("👉 Inspecionar nas Gavetas", key=f"btn_card_{r_card['id']}_{pncp_num}", use_container_width=True):
-                            st.session_state["edital_ativo_pncp"] = pncp_num
-                            st.rerun()
+                    # 2. Dataviz Central de Inteligência em Destaque Widescreen
+                    st.markdown("""
+                    <div style="margin-top: 14px; margin-bottom: 8px; padding: 10px 16px; background: rgba(59, 130, 246, 0.08); border-radius: 10px; border: 1px solid rgba(59, 130, 246, 0.25); display: flex; justify-content: space-between; align-items: center;">
+                        <span style="font-size: 15px; font-weight: 800; color: #38BDF8;">📊 2. Dataviz Central: Ramificações Alluvial & Linha do Tempo</span>
+                        <span style="font-size: 12px; color: #94A3B8;">Visão Panorâmica Widescreen & Navegação por Ramos</span>
+                    </div>
+                    """, unsafe_allow_html=True)
 
-                # ---------------- PARTE 2: DATAVIZ DE RAMIFICAÇÕES & LINHA DO TEMPO ----------------
-                with c_dataviz:
-                    st.markdown("##### 📊 2. Dataviz: Ramificações & Linha do Tempo")
-                    tipo_dataviz = st.radio(
-                        "Modo Dataviz:",
-                        ["🌿 Ramificações (Sankey Flow)", "📅 Linha do Tempo (WSJ Swarm)"],
-                        horizontal=True,
-                        label_visibility="collapsed"
-                    )
+                    c_ctrl1, c_ctrl2, c_ctrl3 = st.columns([1.1, 1.1, 1.8])
+                    with c_ctrl1:
+                        tipo_dataviz = st.radio(
+                            "Modo Dataviz:",
+                            ["🌿 Ramificações (Sankey Flow)", "📅 Linha do Tempo (WSJ Swarm)"],
+                            horizontal=True,
+                            key="tipo_dv_wide"
+                        )
+                    with c_ctrl2:
+                        escopo_sankey = st.radio(
+                            "Base do Dataviz:",
+                            ["🏛️ Mercado Mapeado Completo", "🎯 Pipeline Aberto"],
+                            horizontal=True,
+                            key="escopo_dv_wide"
+                        )
+                    with c_ctrl3:
+                        sel_ramo_drill = st.selectbox(
+                            "🧭 Navegar no Ramo do Dataviz para Filtrar:",
+                            ramos_opcoes,
+                            index=0,
+                            key="sb_ramo_drill_wide"
+                        )
+
+                    # Filtro do ramo selecionado
+                    if "Todos os Ramos" in sel_ramo_drill:
+                        df_ramo_cand = df_cand
+                        nome_ramo_ativo = "Todos os Ramos"
+                    else:
+                        nome_ramo_ativo = sel_ramo_drill.split(" (")[0][2:].strip()
+                        df_ramo_cand = df_cand[df_cand["matched_subtema"] == nome_ramo_ativo]
+                        if df_ramo_cand.empty:
+                            df_ramo_cand = df_cand
 
                     if "Ramificações" in tipo_dataviz:
-                        c_sank_escopo1, c_sank_escopo2 = st.columns([1, 1])
-                        with c_sank_escopo1:
-                            escopo_sankey = st.radio(
-                                "Base do Sankey:",
-                                ["🎯 Pipeline Aberto (Próximos 30d)", "🏛️ Mercado Mapeado (Base Completa)"],
-                                horizontal=True,
-                                key="escopo_sankey_radio"
-                            )
                         df_sank_input = df_cand if "Pipeline Aberto" in escopo_sankey else filtered_df
+                        if nome_ramo_ativo != "Todos os Ramos":
+                            df_sank_input = df_sank_input[df_sank_input["matched_subtema"] == nome_ramo_ativo]
                         fig_sankey = build_sankey_ramificacoes(df_sank_input, is_dark=is_dark)
                         st.plotly_chart(fig_sankey, use_container_width=True)
                         st.caption("🌿 **Fluxo de Ramificações Alluvial:** Mapeia Modalidade ➔ Vertical Estratégica ➔ Subtema Especializado (ex: Pensamento Computacional, VAAR, BI) ➔ Decisão Estratégica.")
                     else:
-                        fig_wsj = build_wsj_timeline_swarm(df_cand, is_dark=is_dark)
+                        fig_wsj = build_wsj_timeline_swarm(df_ramo_cand, is_dark=is_dark)
                         st.plotly_chart(fig_wsj, use_container_width=True)
-                        st.caption("📅 **Linha do Tempo Cronológica (Imagem 2):** Dispersão temporal estilo WSJ. Prazos no eixo X vs Valor no eixo Y com gradiente de calor. Selecione os editais no Feed ao lado para inspecionar os detalhes nas gavetas.")
+                        st.caption("📅 **Linha do Tempo Cronológica:** Prazos no eixo X vs Valor no eixo Y com gradiente de calor. Selecione os editais abaixo para inspecionar.")
 
-                # ---------------- PARTE 3: FEED TÁTICO DE ESCOLHA IMEDIATA ----------------
-                with c_feed:
-                    st.markdown("##### 📋 3. Feed Tático & Ação")
-                    st.caption("Grid de escolha rápida com link direto para o edital oficial no PNCP")
+                    # 3. Resumo Executivo & Acesso Imediato ao Edital
+                    st.markdown("---")
+                    st.markdown(f"##### 📋 3. Resumo Executivo & Seleção Imediata do Edital • <span style='color: #38BDF8;'>{nome_ramo_ativo} ({len(df_ramo_cand)} editais)</span>", unsafe_allow_html=True)
 
-                    busca_feed_txt = st.text_input("Filtrar no Feed:", placeholder="Buscar por palavra-chave...", key="txt_busca_feed_tactical")
+                    c_card_resumo, c_grid_feed = st.columns([1.15, 1.35], gap="large")
 
-                    df_feed = df_cand.copy()
-                    if busca_feed_txt:
-                        df_feed = df_feed[
-                            df_feed["objeto_compra"].str.contains(busca_feed_txt, case=False, na=False) |
-                            df_feed["razao_social_orgao"].str.contains(busca_feed_txt, case=False, na=False)
+                    # Coluna 1: Card de Resumo Executivo com Botão Clicável PNCP
+                    with c_card_resumo:
+                        st.markdown("###### 🔍 Edital Selecionado para Ação Imediata:")
+                        opcoes_edital_ramo = [
+                            f"[{r['score_candidatura']} pts] {r['razao_social_orgao'][:38]} • {formatar_moeda_compacta(r['valor_total_estimado'])}"
+                            for _, r in df_ramo_cand.iterrows()
                         ]
+                        pncp_edital_ramo = df_ramo_cand["numero_controle_pncp"].tolist()
+                        idx_sel_ramo = 0
+                        if st.session_state.get("edital_ativo_pncp") in pncp_edital_ramo:
+                            idx_sel_ramo = pncp_edital_ramo.index(st.session_state["edital_ativo_pncp"])
 
-                    df_table_cand = df_feed[[
-                        "decisao_tag", "score_candidatura", "dias_restantes",
-                        "razao_social_orgao", "uf_sigla", "modalidade_nome", "matched_subtema",
-                        "valor_total_estimado", "url_oficial_edital"
-                    ]].copy()
+                        edital_escolhido = st.selectbox(
+                            "Escolha um edital para inspecionar:",
+                            opcoes_edital_ramo,
+                            index=idx_sel_ramo,
+                            key="sb_edital_resumo_direto"
+                        )
+                        if edital_escolhido:
+                            pncp_num_sel = pncp_edital_ramo[opcoes_edital_ramo.index(edital_escolhido)]
+                            if st.session_state.get("edital_ativo_pncp") != pncp_num_sel:
+                                st.session_state["edital_ativo_pncp"] = pncp_num_sel
+                                st.rerun()
 
-                    df_table_cand["Prazo"] = df_table_cand["dias_restantes"].apply(lambda d: f"⏳ {d:.1f}d")
-                    df_table_cand["Valor Estimado"] = df_table_cand["valor_total_estimado"].apply(formatar_moeda_completa)
+                        row_sel_match = df_ramo_cand[df_ramo_cand["numero_controle_pncp"] == st.session_state.get("edital_ativo_pncp")]
+                        row_sel = row_sel_match.iloc[0] if not row_sel_match.empty else df_ramo_cand.iloc[0]
 
-                    st.dataframe(
-                        df_table_cand[[
-                            "decisao_tag", "score_candidatura", "Prazo", "razao_social_orgao", "uf_sigla",
-                            "matched_subtema", "Valor Estimado", "url_oficial_edital"
-                        ]].rename(columns={
-                            "decisao_tag": "Decisão",
-                            "score_candidatura": "Fit Score",
-                            "razao_social_orgao": "Órgão Contratante",
-                            "uf_sigla": "UF",
-                            "matched_subtema": "Demanda",
-                            "url_oficial_edital": "Edital Oficial"
-                        }),
-                        column_config={
-                            "Edital Oficial": st.column_config.LinkColumn("Edital no PNCP", display_text="🔗 Abrir Edital"),
-                            "Fit Score": st.column_config.ProgressColumn("Fit Score", min_value=0, max_value=100, format="%d pts"),
-                            "Decisão": st.column_config.TextColumn("Decisão", width="small"),
-                            "Prazo": st.column_config.TextColumn("Prazo", width="small"),
-                            "UF": st.column_config.TextColumn("UF", width="small"),
-                        },
-                        hide_index=True,
-                        use_container_width=True,
-                        height=680
-                    )
+                        dec_cor = "#10B981" if "GO" in str(row_sel["decisao_tag"]) else ("#F59E0B" if "WATCH" in str(row_sel["decisao_tag"]) else "#EF4444")
+                        prazo_txt = f"⏳ {row_sel['dias_restantes']:.1f}d restantes" if row_sel['dias_restantes'] > 0 else "⏳ Proposta Encerrada"
 
-                    st.markdown("###### 🔍 Seleção Rápida para as Gavetas:")
-                    opcoes_feed_sel = [
-                        f"[{r['score_candidatura']} pts] {r['razao_social_orgao'][:35]} • {formatar_moeda_compacta(r['valor_total_estimado'])}"
-                        for _, r in df_cand.head(80).iterrows()
-                    ]
-                    pncp_feed_list = df_cand.head(80)["numero_controle_pncp"].tolist()
-                    f_idx = 0
-                    if st.session_state.get("edital_ativo_pncp") in pncp_feed_list:
-                        f_idx = pncp_feed_list.index(st.session_state["edital_ativo_pncp"])
+                        st.markdown(f"""
+                        <div style="background: {c_card_bg}; border: 2px solid {dec_cor}; border-radius: 12px; padding: 16px 18px; margin-bottom: 12px; box-shadow: {c_card_shadow};">
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                                <span style="font-size: 13px; font-weight: 800; color: {dec_cor}; background: rgba(16, 185, 129, 0.12); padding: 4px 10px; border-radius: 6px;">
+                                    {row_sel['decisao_tag']} • Fit Score: {row_sel['score_candidatura']}/100
+                                </span>
+                                <span style="font-size: 12px; color: {c_text_secondary}; font-weight: 700;">
+                                    {prazo_txt}
+                                </span>
+                            </div>
+                            <div style="font-size: 14px; font-weight: 800; color: {c_text_primary}; margin-bottom: 4px;">
+                                🏛️ {row_sel['razao_social_orgao']} ({row_sel['uf_sigla']})
+                            </div>
+                            <div style="font-size: 11.5px; color: {c_text_secondary}; margin-bottom: 10px;">
+                                PNCP: <code>{row_sel['numero_controle_pncp']}</code><br>
+                                Modalidade: <b>{row_sel['modalidade_nome']}</b> • Valor: <b>{formatar_moeda_completa(row_sel['valor_total_estimado'])}</b>
+                            </div>
+                            <div style="font-size: 12px; font-weight: 700; color: #3B82F6; margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.05em;">
+                                📝 Resumo Executivo do Objeto:
+                            </div>
+                            <div style="font-size: 12.5px; line-height: 1.5; color: {c_text_primary}; background: {'rgba(255,255,255,0.04)' if is_dark else 'rgba(0,0,0,0.03)'}; padding: 10px 12px; border-radius: 8px; border-left: 3px solid #3B82F6; margin-bottom: 10px;">
+                                {row_sel['objeto_compra']}
+                            </div>
+                            <div style="font-size: 11px; color: {c_text_secondary}; margin-bottom: 10px;">
+                                🎯 <b>Especialidade:</b> {row_sel['matched_subtema']}<br>
+                                🔑 <b>Termos-chave:</b> <span style="color: #38BDF8;">{row_sel.get('matched_keywords', '')}</span>
+                            </div>
+                            <div class="pillar-row" style="margin-top: 6px;">
+                                <span>🎯 Aderência: <b>{row_sel['score_aderencia']}%</b></span>
+                                <span>💰 Custo: <b>{row_sel['score_custo_beneficio']}%</b></span>
+                                <span>🚚 Logística: <b>{row_sel['score_logistica']}%</b></span>
+                                <span>🏛️ Histórico: <b>{row_sel['score_historico']}%</b></span>
+                            </div>
+                        </div>
+                        """, unsafe_allow_html=True)
 
-                    escolha_feed_sb = st.selectbox(
-                        "Selecione para carregar imediatamente nas Gavetas Direitas:",
-                        opcoes_feed_sel,
-                        index=f_idx,
-                        key="sb_feed_edital_tactical"
-                    )
-                    if escolha_feed_sb:
-                        idx_f = opcoes_feed_sel.index(escolha_feed_sb)
-                        pncp_f = pncp_feed_list[idx_f]
-                        if st.session_state.get("edital_ativo_pncp") != pncp_f:
-                            st.session_state["edital_ativo_pncp"] = pncp_f
-                            st.rerun()
+                        # BOTÃO CLICÁVEL DIRETO AO PNCP
+                        st.link_button(
+                            "🌐 Abrir Edital Oficial Completo no Portal do PNCP ↗",
+                            row_sel["url_oficial_edital"],
+                            type="primary",
+                            use_container_width=True
+                        )
+
+                    # Coluna 2: Grid / Tabela com Links Clicáveis
+                    with c_grid_feed:
+                        st.markdown("###### 📋 Tabela de Oportunidades do Ramo:")
+                        busca_feed_txt = st.text_input("Filtrar nesta lista:", placeholder="Buscar órgão ou palavra...", key="txt_busca_feed_wide")
+                        df_feed_show = df_ramo_cand.copy()
+                        if busca_feed_txt:
+                            df_feed_show = df_feed_show[
+                                df_feed_show["objeto_compra"].str.contains(busca_feed_txt, case=False, na=False) |
+                                df_feed_show["razao_social_orgao"].str.contains(busca_feed_txt, case=False, na=False)
+                            ]
+
+                        df_tab = df_feed_show[[
+                            "decisao_tag", "score_candidatura", "dias_restantes",
+                            "razao_social_orgao", "uf_sigla", "modalidade_nome", "matched_subtema",
+                            "valor_total_estimado", "url_oficial_edital"
+                        ]].copy()
+                        df_tab["Prazo"] = df_tab["dias_restantes"].apply(lambda d: f"⏳ {d:.1f}d" if d > 0 else "⏳ Encerrado")
+                        df_tab["Valor Estimado"] = df_tab["valor_total_estimado"].apply(formatar_moeda_completa)
+
+                        st.dataframe(
+                            df_tab[[
+                                "decisao_tag", "score_candidatura", "Prazo", "razao_social_orgao", "uf_sigla",
+                                "modalidade_nome", "Valor Estimado", "url_oficial_edital"
+                            ]].rename(columns={
+                                "decisao_tag": "Decisão",
+                                "score_candidatura": "Fit Score",
+                                "razao_social_orgao": "Órgão Contratante",
+                                "uf_sigla": "UF",
+                                "modalidade_nome": "Modalidade",
+                                "url_oficial_edital": "Edital Oficial"
+                            }),
+                            column_config={
+                                "Edital Oficial": st.column_config.LinkColumn("Edital no PNCP", display_text="🔗 Abrir no PNCP"),
+                                "Fit Score": st.column_config.ProgressColumn("Fit Score", min_value=0, max_value=100, format="%d pts"),
+                                "Decisão": st.column_config.TextColumn("Decisão", width="small"),
+                                "Prazo": st.column_config.TextColumn("Prazo", width="small"),
+                                "UF": st.column_config.TextColumn("UF", width="small"),
+                            },
+                            hide_index=True,
+                            use_container_width=True,
+                            height=480
+                        )
+
+                else:
+                    # ==============================================================
+                    # MODO 2: PAINEL TRIPLO EM COLUNAS (COMPACTO)
+                    # ==============================================================
+                    c_funil, c_dataviz, c_feed = st.columns([1.05, 1.45, 1.5], gap="medium")
+                    with c_funil:
+                        st.markdown("##### 🚦 1. Funil & Decisão Rápida")
+                        st.caption("Triagem imediata por probabilidade de vitória")
+                        st.markdown(f"""
+                        <div class="radar-stat-box" style="border-left: 4px solid #10B981;">
+                            <div>
+                                <div style="font-weight: 700; color: #10B981; font-size: 13px;">🟢 GO (Candidatura Recomendada)</div>
+                                <div style="font-size: 11px; color: {c_text_secondary};">{formatar_moeda_compacta(vol_go)} em disputa</div>
+                            </div>
+                            <div style="font-size: 20px; font-weight: 800; color: #10B981;">{formatar_inteiro(qtd_go)}</div>
+                        </div>
+                        <div class="radar-stat-box" style="border-left: 4px solid #F59E0B;">
+                            <div>
+                                <div style="font-weight: 700; color: #F59E0B; font-size: 13px;">🟡 WATCH (Avaliar Viabilidade)</div>
+                                <div style="font-size: 11px; color: {c_text_secondary};">{formatar_moeda_compacta(vol_watch)} em disputa</div>
+                            </div>
+                            <div style="font-size: 20px; font-weight: 800; color: #F59E0B;">{formatar_inteiro(qtd_watch)}</div>
+                        </div>
+                        <div class="radar-stat-box" style="border-left: 4px solid #EF4444;">
+                            <div>
+                                <div style="font-weight: 700; color: #EF4444; font-size: 13px;">🔴 NO-GO (Baixa Prioridade)</div>
+                                <div style="font-size: 11px; color: {c_text_secondary};">{formatar_moeda_compacta(vol_nogo)} em disputa</div>
+                            </div>
+                            <div style="font-size: 20px; font-weight: 800; color: #EF4444;">{formatar_inteiro(qtd_nogo)}</div>
+                        </div>
+                        """, unsafe_allow_html=True)
+
+                        st.markdown("###### ⭐ Top Oportunidades Imediatas")
+                        for idx_card, r_card in df_cand.head(5).iterrows():
+                            pncp_num = r_card["numero_controle_pncp"]
+                            is_active_card = (pncp_num == st.session_state.get("edital_ativo_pncp"))
+                            border_color = "#3B82F6" if is_active_card else ("#10B981" if r_card["score_candidatura"] >= 75 else "#F59E0B")
+
+                            st.markdown(f"""
+                            <div class="candidacy-card-item" style="border-left-color: {border_color}; {'background: rgba(59, 130, 246, 0.12);' if is_active_card else ''}">
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+                                    <span style="font-size: 11.5px; font-weight: 800; color: {border_color};">{r_card['decisao_tag']}</span>
+                                    <span style="font-size: 12px; font-weight: 800; background: rgba(59, 130, 246, 0.2); padding: 2px 7px; border-radius: 6px;">{r_card['score_candidatura']} pts</span>
+                                </div>
+                                <div style="font-size: 12px; font-weight: 700; color: {c_text_primary}; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="{r_card['razao_social_orgao']}">
+                                    {r_card['razao_social_orgao']} ({r_card['uf_sigla']})
+                                </div>
+                                <div style="font-size: 11px; color: {c_text_secondary}; margin-bottom: 6px;">
+                                    {r_card['matched_subtema']} • <b>{formatar_moeda_compacta(r_card['valor_total_estimado'])}</b> • ⏳ {r_card['dias_restantes']:.1f}d
+                                </div>
+                            </div>
+                            """, unsafe_allow_html=True)
+                            if st.button("👉 Inspecionar nas Gavetas", key=f"btn_card_t_{r_card['id']}_{pncp_num}", use_container_width=True):
+                                st.session_state["edital_ativo_pncp"] = pncp_num
+                                st.rerun()
+
+                    with c_dataviz:
+                        st.markdown("##### 📊 2. Dataviz: Ramificações & Linha do Tempo")
+                        tipo_dataviz_t = st.radio("Modo Dataviz:", ["🌿 Ramificações (Sankey Flow)", "📅 Linha do Tempo (WSJ Swarm)"], horizontal=True, key="tipo_dv_t")
+                        if "Ramificações" in tipo_dataviz_t:
+                            fig_sankey_t = build_sankey_ramificacoes(filtered_df, is_dark=is_dark)
+                            st.plotly_chart(fig_sankey_t, use_container_width=True)
+                        else:
+                            fig_wsj_t = build_wsj_timeline_swarm(df_cand, is_dark=is_dark)
+                            st.plotly_chart(fig_wsj_t, use_container_width=True)
+
+                    with c_feed:
+                        st.markdown("##### 📋 3. Feed Tático & Ação")
+                        df_tab_t = df_cand.copy()
+                        st.dataframe(
+                            df_tab_t[["decisao_tag", "score_candidatura", "razao_social_orgao", "uf_sigla", "modalidade_nome", "url_oficial_edital"]].rename(columns={
+                                "decisao_tag": "Decisão", "score_candidatura": "Fit Score", "razao_social_orgao": "Órgão Contratante", "uf_sigla": "UF", "modalidade_nome": "Modalidade", "url_oficial_edital": "Edital Oficial"
+                            }),
+                            column_config={"Edital Oficial": st.column_config.LinkColumn("Edital no PNCP", display_text="🔗 Abrir Edital")},
+                            hide_index=True, use_container_width=True, height=600
+                        )
 
                 # ==============================================================
                 # AS 2 GAVETAS DA DIREITA (PAINÉIS RETRÁTEIS DE INTELIGÊNCIA)

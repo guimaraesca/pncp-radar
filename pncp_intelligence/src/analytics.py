@@ -262,6 +262,7 @@ class PNCPAnalytics:
         peso_custo_beneficio: float = 25.0,
         peso_logistica: float = 25.0,
         peso_historico: float = 15.0,
+        apenas_abertos: bool = True,
     ) -> pd.DataFrame:
         """Processa editais abertos com motor de decisão Datadriven em 4 pilares: Aderência, Custo-Benefício, Logística e Histórico."""
         if df is None:
@@ -282,7 +283,7 @@ class PNCPAnalytics:
             (df_copy["data_encerramento_proposta"].isna()) & (df_copy["data_abertura_proposta"].notna()) & (df_copy["data_abertura_proposta"] >= now_date_str)
         )
 
-        abertos = df_copy[mask_aberto].copy()
+        abertos = df_copy[mask_aberto].copy() if apenas_abertos else df_copy.copy()
         if abertos.empty:
             return pd.DataFrame()
 
