@@ -625,9 +625,10 @@ def apply_pbi_theme(fig, height=360, is_dark=True):
 
 
 def build_sankey_ramificacoes(df, is_dark=True):
-    """Constrói o diagrama de ramificações Sankey / Alluvial com resumo executivo rico no hover (Imagem 1).
+    """Constrói o diagrama de ramificações Sankey / Alluvial com detalhamento por Vertical e Subtema especializado.
 
-    Modalidade -> Demanda/Subtema -> Decisão Final (🟢 GO, 🟡 WATCH, 🔴 NO-GO).
+    Fluxo em 4 Estágios:
+    Modalidade ➔ Vertical Estratégica ➔ Subtema Especializado ➔ Decisão Tática (🟢 GO, 🟡 WATCH, 🔴 NO-GO).
     """
     if df.empty:
         return go.Figure()
@@ -639,17 +640,19 @@ def build_sankey_ramificacoes(df, is_dark=True):
         else ("Credenciamento" if "credenciamento" in str(m).lower()
         else ("Concorrência" if "concorrência" in str(m).lower() else "Outras Modalidades")))
     )
-    df_flow["subtema_curto"] = df_flow["matched_subtema"].fillna("Geral").apply(
-        lambda s: str(s)[:28] + "..." if len(str(s)) > 28 else str(s)
-    )
+    df_flow["categoria_label"] = df_flow["matched_category"].fillna("Políticas Públicas & Dados")
+    df_flow["subtema_label"] = df_flow["matched_subtema"].fillna("Geral")
     df_flow["decisao"] = df_flow["decisao_tag"].fillna("🟡 WATCH")
 
     mods = sorted(df_flow["modalidade_curta"].unique().tolist())
-    subs = sorted(df_flow["subtema_curto"].unique().tolist())
+    cats = sorted(df_flow["categoria_label"].unique().tolist())
+    subs = sorted(df_flow["subtema_label"].unique().tolist())
     decs = [d for d in ["🟢 GO", "🟡 WATCH", "🔴 NO-GO"] if d in df_flow["decisao"].unique()]
 
-    all_nodes = mods + subs + decs
-    node_map = {name: idx for idx, name in enumerate(all_nodes)}
+    # Prefixos para evitar colisão de nomes caso um nó tenha o mesmo rótulo
+    all_node_keys = [f"MOD::{m}" for m in mods] + [f"CAT::{c}" for c in cats] + [f"SUB::{s}" for s in subs] + [f"DEC::{d}" for d in decs]
+    all_node_labels = mods + cats + subs + decs
+    node_map = {k: idx for idx, k in enumerate(all_node_keys)}
 
     color_map = {
         "🟢 GO": "#10B981",
@@ -659,30 +662,37 @@ def build_sankey_ramificacoes(df, is_dark=True):
         "Dispensa": "#10B981",
         "Credenciamento": "#8B5CF6",
         "Concorrência": "#EC4899",
-        "Outras Modalidades": "#64748B"
+        "Outras Modalidades": "#64748B",
+        "Dados, IA & Políticas Públicas": "#06B6D4",
+        "Governança & Gestão de Projetos Estratégicos": "#6366F1",
+        "Políticas Educacionais & STEAM": "#F59E0B",
+        "Análise de Dados & BI": "#0284C7",
+        "Monitoramento & Avaliação (M&A / MEL)": "#0D9488",
+        "Gestão de Projetos": "#4F46E5",
+        "Consultoria & Governança": "#7C3AED",
+        "Tecnologia & Inovação Educacional": "#D97706",
+        "Políticas Públicas Educacionais": "#B45309"
     }
 
-    node_colors = [color_map.get(n, "#38BDF8") for n in all_nodes]
+    node_colors = [color_map.get(lbl, "#38BDF8") for lbl in all_node_labels]
 
     # Estatísticas consolidadas para os nós
     tot_pipe = max(1.0, float(df_flow["valor_total_estimado"].sum()))
     node_customdata = []
-    for n in all_nodes:
-        if n in mods:
-            v_n = df_flow[df_flow["modalidade_curta"] == n]["valor_total_estimado"].sum()
-        elif n in subs:
-            v_n = df_flow[df_flow["subtema_curto"] == n]["valor_total_estimado"].sum()
+    for k, lbl in zip(all_node_keys, all_node_labels):
+        if k.startswith("MOD::"):
+            sub_df = df_flow[df_flow["modalidade_curta"] == lbl]
+        elif k.startswith("CAT::"):
+            sub_df = df_flow[df_flow["categoria_label"] == lbl]
+        elif k.startswith("SUB::"):
+            sub_df = df_flow[df_flow["subtema_label"] == lbl]
         else:
-            v_n = df_flow[df_flow["decisao"] == n]["valor_total_estimado"].sum()
+            sub_df = df_flow[df_flow["decisao"] == lbl]
+        v_n = float(sub_df["valor_total_estimado"].sum())
+        q_n = len(sub_df)
         pct_n = (v_n / tot_pipe) * 100
-        node_customdata.append([formatar_moeda_compacta(v_n), f"{pct_n:.1f}"])
-
-    # Flow 1: Modalidade -> Subtema
-    flow1 = df_flow.groupby(["modalidade_curta", "subtema_curto"]).agg(
-        qtd=("id", "count"),
-        valor=("valor_total_estimado", "sum"),
-        dias_medio=("dias_restantes", "mean")
-    ).reset_index()
+        tm_n = v_n / max(1, q_n)
+        node_customdata.append([formatar_moeda_compacta(v_n), f"{pct_n:.1f}", formatar_moeda_compacta(tm_n), q_n])
 
     sources = []
     targets = []
@@ -690,25 +700,48 @@ def build_sankey_ramificacoes(df, is_dark=True):
     link_colors = []
     customdata = []
 
+    # Estágio 1: Modalidade -> Vertical Categoria
+    flow1 = df_flow.groupby(["modalidade_curta", "categoria_label"]).agg(
+        qtd=("id", "count"),
+        valor=("valor_total_estimado", "sum"),
+        dias_medio=("dias_restantes", "mean")
+    ).reset_index()
+
     for _, r in flow1.iterrows():
-        sources.append(node_map[r["modalidade_curta"]])
-        targets.append(node_map[r["subtema_curto"]])
+        sources.append(node_map[f"MOD::{r['modalidade_curta']}"])
+        targets.append(node_map[f"CAT::{r['categoria_label']}"])
         values.append(int(r["qtd"]))
-        link_colors.append("rgba(56, 189, 248, 0.32)" if is_dark else "rgba(56, 189, 248, 0.45)")
-
-        sub_pair = df_flow[(df_flow["modalidade_curta"] == r["modalidade_curta"]) & (df_flow["subtema_curto"] == r["subtema_curto"])]
-        taxa_go = (sub_pair["decisao"] == "🟢 GO").mean() * 100 if not sub_pair.empty else 0.0
+        link_colors.append("rgba(56, 189, 248, 0.28)" if is_dark else "rgba(56, 189, 248, 0.38)")
         tm = r["valor"] / max(1, r["qtd"])
-
         customdata.append([
             formatar_moeda_compacta(r["valor"]),
             formatar_moeda_compacta(tm),
-            f"{taxa_go:.0f}%",
+            "Vertical de Atuação",
             f"{r['dias_medio']:.1f}d"
         ])
 
-    # Flow 2: Subtema -> Decisão
-    flow2 = df_flow.groupby(["subtema_curto", "decisao"]).agg(
+    # Estágio 2: Vertical Categoria -> Subtema Especializado
+    flow2 = df_flow.groupby(["categoria_label", "subtema_label"]).agg(
+        qtd=("id", "count"),
+        valor=("valor_total_estimado", "sum"),
+        dias_medio=("dias_restantes", "mean")
+    ).reset_index()
+
+    for _, r in flow2.iterrows():
+        sources.append(node_map[f"CAT::{r['categoria_label']}"])
+        targets.append(node_map[f"SUB::{r['subtema_label']}"])
+        values.append(int(r["qtd"]))
+        link_colors.append("rgba(99, 102, 241, 0.30)" if is_dark else "rgba(99, 102, 241, 0.40)")
+        tm = r["valor"] / max(1, r["qtd"])
+        customdata.append([
+            formatar_moeda_compacta(r["valor"]),
+            formatar_moeda_compacta(tm),
+            "Especialidade B2G",
+            f"{r['dias_medio']:.1f}d"
+        ])
+
+    # Estágio 3: Subtema Especializado -> Decisão Estratégica
+    flow3 = df_flow.groupby(["subtema_label", "decisao"]).agg(
         qtd=("id", "count"),
         valor=("valor_total_estimado", "sum"),
         dias_medio=("dias_restantes", "mean")
@@ -720,13 +753,12 @@ def build_sankey_ramificacoes(df, is_dark=True):
         "🔴 NO-GO": "rgba(239, 68, 68, 0.38)" if is_dark else "rgba(239, 68, 68, 0.45)"
     }
 
-    for _, r in flow2.iterrows():
-        sources.append(node_map[r["subtema_curto"]])
-        targets.append(node_map[r["decisao"]])
+    for _, r in flow3.iterrows():
+        sources.append(node_map[f"SUB::{r['subtema_label']}"])
+        targets.append(node_map[f"DEC::{r['decisao']}"])
         values.append(int(r["qtd"]))
         link_colors.append(dec_link_colors.get(r["decisao"], "rgba(148, 163, 184, 0.3)"))
         tm = r["valor"] / max(1, r["qtd"])
-
         customdata.append([
             formatar_moeda_compacta(r["valor"]),
             formatar_moeda_compacta(tm),
@@ -737,13 +769,13 @@ def build_sankey_ramificacoes(df, is_dark=True):
     fig = go.Figure(data=[go.Sankey(
         arrangement="snap",
         node=dict(
-            pad=20,
-            thickness=18,
+            pad=18,
+            thickness=20,
             line=dict(color="#0F172A" if is_dark else "#FFFFFF", width=1.5),
-            label=all_nodes,
+            label=all_node_labels,
             color=node_colors,
             customdata=node_customdata,
-            hovertemplate="<b>📌 %{label}</b><br>─────────────────────────────<br>📦 <b>Total de Editais:</b> %{value}<br>💰 <b>Volume Mapeado:</b> %{customdata[0]}<br>📊 <b>Fatia do Pipeline:</b> %{customdata[1]}%<extra></extra>"
+            hovertemplate="<b>📌 %{label}</b><br>─────────────────────────────<br>📦 <b>Total de Editais:</b> %{customdata[3]}<br>💰 <b>Volume Total:</b> %{customdata[0]}<br>🎯 <b>Ticket Médio:</b> %{customdata[2]}<br>📊 <b>Fatia do Pipeline:</b> %{customdata[1]}%<extra></extra>"
         ),
         link=dict(
             source=sources,
@@ -756,11 +788,11 @@ def build_sankey_ramificacoes(df, is_dark=True):
     )])
 
     fig.update_layout(
-        title_text="🌿 Ramificações de Fluxo & Decisão: Modalidade → Demanda → Decisão Final",
-        font=dict(family="Plus Jakarta Sans, sans-serif", size=12, color="#E2E8F0" if is_dark else "#1E293B"),
+        title_text="🌿 Ramificações de Fluxo & Especialidades: Modalidade ➔ Vertical ➔ Subtema ➔ Decisão",
+        font=dict(family="Plus Jakarta Sans, sans-serif", size=11, color="#E2E8F0" if is_dark else "#1E293B"),
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
-        height=520,
+        height=580,
         margin=dict(l=15, r=15, t=45, b=15)
     )
     return fig
