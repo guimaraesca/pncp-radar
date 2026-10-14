@@ -127,6 +127,71 @@ class PNCPDatabase:
             cursor.execute("CREATE INDEX IF NOT EXISTS idx_contratacoes_base ON contratacoes(base_logistica);")
             cursor.execute("CREATE INDEX IF NOT EXISTS idx_contratacoes_priority_geo ON contratacoes(is_priority_geo);")
 
+            # Linhagem por edital: qual execução trouxe/atualizou, de qual endpoint
+            # e com qual versão do dicionário foi classificado.
+            lineage_columns = [
+                ("first_run_id", "TEXT"),
+                ("last_run_id", "TEXT"),
+                ("source_endpoint", "TEXT"),
+                ("keywords_hash", "TEXT"),
+                ("classified_at", "TEXT"),
+            ]
+            for col_name, col_type in lineage_columns:
+                try:
+                    cursor.execute(f"ALTER TABLE contratacoes ADD COLUMN {col_name} {col_type};")
+                except sqlite3.OperationalError:
+                    pass
+
+            # Observabilidade de dados: execuções do pipeline (freshness/volume/lineage)
+            cursor.execute("""
+            CREATE TABLE IF NOT EXISTS pipeline_runs (
+                run_id TEXT PRIMARY KEY,
+                trigger TEXT,
+                started_at TEXT,
+                finished_at TEXT,
+                status TEXT,                 -- RUNNING | SUCCESS | DEGRADED | FAILED
+                git_sha TEXT,
+                keywords_hash TEXT,
+                rows_scanned INTEGER DEFAULT 0,
+                rows_matched INTEGER DEFAULT 0,
+                api_errors INTEGER DEFAULT 0,
+                failed_chunks INTEGER DEFAULT 0,
+                rows_total_after INTEGER,
+                rows_matched_after INTEGER,
+                uf_counts TEXT,              -- JSON {UF: n} dos editais no escopo, após a execução
+                notes TEXT                   -- JSON com detalhes (drift de schema, erros)
+            );
+            """)
+
+            # Resultado de cada check por execução (histórico para tendência/baseline)
+            cursor.execute("""
+            CREATE TABLE IF NOT EXISTS quality_checks (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                run_id TEXT,
+                checked_at TEXT,
+                pillar TEXT,
+                name TEXT,
+                status TEXT,                 -- PASS | WARN | FAIL | SKIP
+                observed TEXT,
+                expected TEXT,
+                detail TEXT
+            );
+            """)
+            cursor.execute("CREATE INDEX IF NOT EXISTS idx_quality_checks_run ON quality_checks(run_id);")
+
+            # Snapshot do contrato observado da API a cada execução (detecção de drift)
+            cursor.execute("""
+            CREATE TABLE IF NOT EXISTS schema_snapshots (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                run_id TEXT,
+                endpoint TEXT,
+                captured_at TEXT,
+                fields_hash TEXT,
+                fields_json TEXT,
+                records_seen INTEGER
+            );
+            """)
+
             conn.commit()
 
     def is_chunk_completed(self, data_inicial: str, data_final: str, modalidade_id: int) -> bool:
@@ -163,8 +228,13 @@ class PNCPDatabase:
         geo_info: Optional[Dict[str, Any]] = None,
         briefing_ia_path: str = "",
         pdf_paths: Optional[List[str]] = None,
+        lineage: Optional[Dict[str, Any]] = None,
     ) -> bool:
-        """Insere ou atualiza um edital no banco de dados com inteligência logística."""
+        """Insere ou atualiza um edital no banco de dados com inteligência logística.
+
+        `lineage` (opcional): {"run_id", "source_endpoint", "keywords_hash"}; carimba
+        a linha com a execução que a trouxe/atualizou e a versão do dicionário usada.
+        """
         pncp_id = data.get("numeroControlePNCP")
         if not pncp_id:
             return False
@@ -264,6 +334,23 @@ class PNCPDatabase:
                 briefing_ia_path,
                 pdf_paths_json
             ))
+            if lineage:
+                cursor.execute("""
+                    UPDATE contratacoes SET
+                        first_run_id = COALESCE(first_run_id, ?),
+                        last_run_id = ?,
+                        source_endpoint = COALESCE(?, source_endpoint),
+                        keywords_hash = CASE WHEN ? != '' AND ? IS NOT NULL THEN ? ELSE keywords_hash END,
+                        classified_at = CASE WHEN ? != '' AND ? IS NOT NULL THEN CURRENT_TIMESTAMP ELSE classified_at END
+                    WHERE numero_controle_pncp = ?
+                """, (
+                    lineage.get("run_id"),
+                    lineage.get("run_id"),
+                    lineage.get("source_endpoint"),
+                    matched_category, matched_category, lineage.get("keywords_hash"),
+                    matched_category, matched_category,
+                    pncp_id,
+                ))
             conn.commit()
             return True
 

@@ -8,6 +8,7 @@ Implementa:
 
 import logging
 import time
+from pathlib import Path
 from typing import Any, Dict, List, Optional
 import requests
 
@@ -32,6 +33,10 @@ class PNCPClient:
         self.backoff_factor = backoff_factor
         self.rate_limit_delay = rate_limit_delay
 
+        # Observabilidade: a última requisição falhou (≠ resposta vazia 204/404)?
+        self.last_request_failed = False
+        self.request_errors = 0
+
         self.session = requests.Session()
         self.session.headers.update({
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -41,6 +46,12 @@ class PNCPClient:
     def _request_with_retry(self, method: str, url: str, params: Optional[Dict[str, Any]] = None) -> Optional[Any]:
         """Executa requisição HTTP com tentativas e backoff exponencial."""
         delay = self.backoff_factor
+        self.last_request_failed = False
+
+        def _fail() -> None:
+            self.last_request_failed = True
+            self.request_errors += 1
+            return None
 
         for attempt in range(1, self.max_retries + 1):
             try:
@@ -60,7 +71,9 @@ class PNCPClient:
                     try:
                         return response.json()
                     except Exception:
-                        return response.content
+                        # 200 com corpo não-JSON (ex.: página de manutenção) = falha, não "vazio"
+                        logger.error(f"Resposta 200 não-JSON em {url} (possível mudança/indisponibilidade da API).")
+                        return _fail()
 
                 # Caso 204 (Sem registros no período) ou 404 (não encontrado)
                 if response.status_code in (204, 404):
@@ -86,7 +99,7 @@ class PNCPClient:
                     continue
 
                 logger.error(f"Erro inesperado HTTP {response.status_code} na URL {url}: {response.text[:200]}")
-                return None
+                return _fail()
 
             except (requests.ConnectionError, requests.Timeout) as e:
                 logger.warning(f"Erro de conexão ({type(e).__name__}) em {url} (Tentativa {attempt}/{self.max_retries}). Aguardando {delay:.1f}s...")
@@ -94,10 +107,10 @@ class PNCPClient:
                 delay *= 2
             except Exception as e:
                 logger.error(f"Falha de requisição em {url}: {e}")
-                return None
+                return _fail()
 
         logger.error(f"Número máximo de tentativas excedido para a URL: {url}")
-        return None
+        return _fail()
 
     def get_publicacoes(
         self,

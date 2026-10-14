@@ -32,6 +32,8 @@ from pncp_intelligence.src.collector import PNCPCollector
 from pncp_intelligence.src.db import PNCPDatabase
 from pncp_intelligence.src.exporter import PNCPExporter
 from pncp_intelligence.src.geo_map import GeoMapBuilder
+from pncp_intelligence.src.observability import RunTracker, evaluate_health, persist_report
+from pncp_intelligence.src.rematch import rematch_stale
 from pncp_intelligence.src.telegram_bot import TelegramNotifier
 
 logging.basicConfig(
@@ -58,16 +60,53 @@ def main():
     telegram = TelegramNotifier()
 
     # 1. Coleta de Oportunidades Vivas (Próximos 30 dias)
+    tracker = RunTracker(db, trigger=os.getenv("GITHUB_EVENT_NAME", "manual"))
+    collector.run_id = tracker.start(keywords_hash=collector.matcher.fingerprint())
+    logger.info(f"🧾 Execução {collector.run_id} (dicionário {collector.matcher.fingerprint()})")
+
     logger.info("📡 1. Verificando propostas abertas no PNCP para os temas prioritários...")
+    novos = []
+    run_error = None
     try:
         novos = collector.collect_live_opportunities(days_ahead=30, max_pages_per_mod=10)
         logger.info(f"✅ Coleta finalizada: {len(novos)} editais com propostas abertas mapeados.")
     except Exception as e:
+        run_error = f"{type(e).__name__}: {e}"
         logger.error(f"⚠️ Erro ao consultar API ao vivo do PNCP: {e}")
+
+    # 1b. Reclassifica o que ficou com dicionário antigo (idempotente) e fecha o registro da execução
+    try:
+        rm = rematch_stale(db, collector.matcher)
+        if rm["reprocessed"]:
+            logger.info(f"🔁 Rematch: {rm['reprocessed']} linhas (+{rm['gained']} / -{rm['lost']}).")
+    except Exception as e:
+        run_error = run_error or f"rematch: {type(e).__name__}: {e}"
+        logger.error(f"⚠️ Erro no rematch: {e}")
+
+    run_status = tracker.finish(
+        audits=collector.audits,
+        rows_scanned=sum(a.records for a in collector.audits.values()),
+        rows_matched=len(novos),
+        api_errors=collector.api_errors,
+        failed_chunks=collector.failed_chunks,
+        error=run_error,
+    )
+    logger.info(f"🧾 Execução {collector.run_id} encerrada: {run_status}")
+
+    # 1c. Observabilidade: 5 pilares (Freshness, Volume, Distribution, Schema, Lineage)
+    report = evaluate_health(str(db.db_path))
+    persist_report(str(db.db_path), report, collector.run_id)
+    logger.info(f"🩺 Saúde dos dados: {report.overall} {report.counts()} | por pilar: {report.by_pillar()}")
+    for r in report.results:
+        if r.status in ("WARN", "FAIL"):
+            logger.log(logging.ERROR if r.status == "FAIL" else logging.WARNING,
+                       f"   [{r.status}] {r.pillar}/{r.name}: {r.observed} (esperado {r.expected}) {r.detail}")
 
     # 2. Carrega base consolidada e calcula Radar de Candidatura
     logger.info("🎯 2. Calculando Scores de Candidatura (Fit Logístico, Prazo, Modalidade e Ticket)...")
     df_geral = analytics.get_dataframe()
+    # Escopo do negócio: só editais com match no perfil (o dashboard aplica o mesmo filtro)
+    df_geral = df_geral[df_geral["matched_category"].notna() & (df_geral["matched_category"] != "")]
     df_radar = analytics.live_candidacy_radar(df_geral)
     total_abertos = len(df_radar)
     top_picks = (df_radar["score_candidatura"] >= 75).sum() if not df_radar.empty else 0
@@ -88,9 +127,11 @@ def main():
     except Exception as e:
         logger.error(f"⚠️ Erro ao reexportar mapa: {e}")
 
-    # 4. Disparo de Briefing no Telegram
+    # 4. Disparo de Briefing no Telegram (suprimido se a saúde dos dados estiver em FAIL)
     logger.info("📱 4. Processando notificação para o Telegram...")
-    if telegram.is_configured:
+    if report.overall == "FAIL":
+        logger.error("⛔ Saúde dos dados em FAIL: alerta de oportunidades NÃO enviado (evita decisão sobre dado ruim).")
+    elif telegram.is_configured:
         sucesso = telegram.send_candidacy_alert(df_radar, top_n=6, total_indexados=len(df_geral))
         if sucesso:
             logger.info("✅ Briefing executivo enviado com sucesso para o seu Telegram!")
@@ -103,9 +144,13 @@ def main():
         )
 
     logger.info("==================================================================")
-    logger.info("🎉 ROTINA DIÁRIA CONCLUÍDA COM SUCESSO!")
+    if report.overall == "FAIL":
+        logger.error("❌ ROTINA CONCLUÍDA COM FALHAS DE QUALIDADE DE DADOS (veja os [FAIL] acima).")
+    else:
+        logger.info(f"🎉 ROTINA DIÁRIA CONCLUÍDA (execução {run_status}, saúde {report.overall}).")
     logger.info("==================================================================")
+    return 1 if report.overall == "FAIL" else 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

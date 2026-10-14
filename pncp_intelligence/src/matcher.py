@@ -4,6 +4,8 @@ Normaliza textos (remoção de acentos, case-insensitive) e mapeia cada edital
 para categorias e subtemas configurados no YAML de palavras-chave.
 """
 
+import hashlib
+import json
 import re
 import unicodedata
 from pathlib import Path
@@ -41,6 +43,26 @@ class ThematicMatcher:
         self.categories = data.get("categories", {})
         raw_exclusions = data.get("exclusions", [])
         self.exclusions = [normalize_text(e) for e in raw_exclusions if e]
+
+    def fingerprint(self) -> str:
+        """Hash (12 hex) do dicionário vigente: termos e exclusões normalizados.
+
+        Não muda com comentários ou ordem no YAML; muda quando qualquer termo
+        ou exclusão muda. Usado na linhagem para saber com qual versão do
+        dicionário cada edital foi classificado.
+        """
+        canon = {
+            "categories": {
+                ck: {
+                    sk: sorted(normalize_text(t) for t in (sv.get("terms") or []))
+                    for sk, sv in (cv.get("subtemas") or {}).items()
+                }
+                for ck, cv in self.categories.items()
+            },
+            "exclusions": sorted(self.exclusions),
+        }
+        blob = json.dumps(canon, sort_keys=True, ensure_ascii=False).encode("utf-8")
+        return hashlib.sha256(blob).hexdigest()[:12]
 
     def add_custom_term(self, term: str, category: str = "termos_personalizados", subtema: str = "custom") -> None:
         """Permite adicionar termos dinamicamente em tempo de execução."""

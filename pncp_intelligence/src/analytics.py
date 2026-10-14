@@ -10,6 +10,43 @@ import pandas as pd
 from pncp_intelligence.src.db import PNCPDatabase
 
 
+def higienizar_valores(df: pd.DataFrame) -> pd.DataFrame:
+    """Corrige anomalias de digitação do PNCP em `valor_total_estimado`, com rastreabilidade.
+
+    Regras (aplicadas em sequência, idênticas às originais):
+      R1_50x_homologado   estimado > 50x o homologado e > R$ 50 mi  -> usa homologado
+      R2_dispensa_10mi    dispensa com estimado > R$ 10 mi          -> usa homologado (ou R$ 100 mil se zero)
+      R3_acima_2bi        estimado > R$ 2 bi com homologado > 0     -> usa homologado
+
+    Linhagem: `valor_estimado_original` guarda o valor da fonte e `regra_higienizacao`
+    lista as regras aplicadas ("" = valor intocado).
+    """
+    df = df.copy()
+    df["valor_estimado_original"] = df["valor_total_estimado"]
+    df["regra_higienizacao"] = ""
+
+    def _aplicar(mask: pd.Series, novos_valores: pd.Series, rotulo: str) -> None:
+        df.loc[mask, "valor_total_estimado"] = novos_valores
+        anterior = df.loc[mask, "regra_higienizacao"]
+        df.loc[mask, "regra_higienizacao"] = anterior.where(anterior == "", anterior + "+") + rotulo
+
+    mask_typo = (
+        (df["valor_total_homologado"] > 0)
+        & (df["valor_total_estimado"] > df["valor_total_homologado"] * 50)
+        & (df["valor_total_estimado"] > 50_000_000)
+    )
+    _aplicar(mask_typo, df.loc[mask_typo, "valor_total_homologado"], "R1_50x_homologado")
+
+    is_dispensa = df["modalidade_nome"].fillna("").astype(str).str.lower().str.contains("dispensa")
+    mask_dispensa = is_dispensa & (df["valor_total_estimado"] > 10_000_000)
+    _aplicar(mask_dispensa, df.loc[mask_dispensa, "valor_total_homologado"].replace(0, 100_000.0), "R2_dispensa_10mi")
+
+    mask_absurdo = (df["valor_total_estimado"] > 2_000_000_000) & (df["valor_total_homologado"] > 0)
+    _aplicar(mask_absurdo, df.loc[mask_absurdo, "valor_total_homologado"], "R3_acima_2bi")
+
+    return df
+
+
 class PNCPAnalytics:
     def __init__(self, db: Optional[PNCPDatabase] = None):
         self.db = db or PNCPDatabase()
@@ -29,7 +66,8 @@ class PNCPAnalytics:
                     link_sistema_origem, link_processo_eletronico,
                     matched_category, matched_subtema, matched_keywords,
                     base_logistica, distancia_km, faixa_raio, selo_logistico, is_priority_geo,
-                    briefing_ia_path, pdf_paths
+                    briefing_ia_path, pdf_paths,
+                    source_endpoint, first_run_id, last_run_id, keywords_hash, classified_at
                 FROM contratacoes
             """, conn)
 
@@ -38,19 +76,8 @@ class PNCPAnalytics:
             df["valor_total_estimado"] = pd.to_numeric(df["valor_total_estimado"], errors="coerce").fillna(0.0)
             df["valor_total_homologado"] = pd.to_numeric(df["valor_total_homologado"], errors="coerce").fillna(0.0)
 
-            # --- HIGIENIZAÇÃO DE ANOMALIAS DE DIGITAÇÃO DO PNCP ---
-            # 1. Se valor homologado existe e estimado for aberrante (>50x e >R$ 50 mi), corrige pelo valor homologado
-            mask_typo = (df["valor_total_homologado"] > 0) & (df["valor_total_estimado"] > df["valor_total_homologado"] * 50) & (df["valor_total_estimado"] > 50_000_000)
-            df.loc[mask_typo, "valor_total_estimado"] = df.loc[mask_typo, "valor_total_homologado"]
-
-            # 2. Dispensas de licitação com valores irreais (> R$ 10 mi digitados por engano pelo órgão)
-            is_dispensa = df["modalidade_nome"].fillna("").astype(str).str.lower().str.contains("dispensa")
-            mask_dispensa_outlier = is_dispensa & (df["valor_total_estimado"] > 10_000_000)
-            df.loc[mask_dispensa_outlier, "valor_total_estimado"] = df.loc[mask_dispensa_outlier, "valor_total_homologado"].replace(0, 100_000.0)
-
-            # 3. Trava de segurança para valores astronômicos (> R$ 2 bilhões exceto com homologado coerente)
-            mask_absurdo = (df["valor_total_estimado"] > 2_000_000_000) & (df["valor_total_homologado"] > 0)
-            df.loc[mask_absurdo, "valor_total_estimado"] = df.loc[mask_absurdo, "valor_total_homologado"]
+            # --- HIGIENIZAÇÃO DE ANOMALIAS DE DIGITAÇÃO DO PNCP (rastreável por linha) ---
+            df = higienizar_valores(df)
 
             df["ano_mes_pub"] = df["data_publicacao_pncp"].dt.to_period("M").astype(str)
             df["distancia_km"] = pd.to_numeric(df["distancia_km"], errors="coerce").fillna(999.0)
@@ -386,7 +413,11 @@ class PNCPAnalytics:
                 badge = "AVALIAR"
 
             pncp_id = str(row.get("numero_controle_pncp", "")).strip()
-            url_oficial = row.get("link_sistema_origem") or f"https://pncp.gov.br/app/editais/{pncp_id}"
+            link_orig = row.get("link_sistema_origem")
+            if pd.notna(link_orig) and str(link_orig).strip().startswith("http"):
+                url_oficial = str(link_orig).strip()
+            else:
+                url_oficial = f"https://pncp.gov.br/app/editais/{pncp_id}" if pncp_id else "https://pncp.gov.br"
 
             return (
                 score_final, s_aderencia, s_custo, s_logistica, s_historico,

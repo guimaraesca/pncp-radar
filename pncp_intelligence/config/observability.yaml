@@ -1,0 +1,32 @@
+# Limites dos checks de observabilidade de dados (pncp_intelligence/src/observability.py).
+# Só o que estiver aqui sobrescreve os padrões do código. FAIL bloqueia o deploy diário (gate de CI);
+# WARN aparece no painel e no resumo do GitHub Actions, mas não bloqueia.
+
+freshness:
+  run_warn_hours: 36        # cron diário: acima disso, uma rodada foi perdida
+  run_fail_hours: 72        # pipeline parado
+  source_warn_days: 7       # edital mais novo na fonte
+  source_fail_days: 21
+  stuck_run_hours: 6        # execução presa em RUNNING
+
+volume:
+  max_row_drop_pct: 10.0        # queda do escopo vs execução anterior (FAIL)
+  max_uf_loss: 0                # UFs que podem sumir vs execução anterior (FAIL se exceder)
+  checkpoint_max_lag_days: 30   # defasagem da coleta histórica (WARN)
+  min_items_coverage_pct: 80.0  # editais no escopo com itens coletados (WARN)
+
+distribution:
+  max_zero_value_pct: 15.0
+  value_hard_cap: 10000000000   # R$ 10 bi (FAIL)
+  outlier_mad_z: 5.0
+  max_outlier_pct: 2.0
+  max_term_share_pct: 40.0      # um único termo em >40% dos editais
+  max_short_term_only_pct: 10.0 # editais casados apenas por siglas curtas (ia, bi, ava...)
+  match_rate_shift_pp: 15.0
+
+schema:
+  sample_size: 300
+  max_bad_record_pct: 1.0
+
+lineage:
+  min_coverage_pct: 100.0

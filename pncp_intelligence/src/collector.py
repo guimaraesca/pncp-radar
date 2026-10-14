@@ -18,6 +18,7 @@ from typing import Any, Callable, Dict, List, Optional, Tuple
 from core.geo_utils import GeoIntelligence
 from pncp_intelligence.src.db import PNCPDatabase
 from pncp_intelligence.src.matcher import ThematicMatcher
+from pncp_intelligence.src.observability import ContractAudit
 from pncp_intelligence.src.pncp_client import PNCPClient
 
 logger = logging.getLogger("PNCPCollector")
@@ -48,6 +49,16 @@ class PNCPCollector:
 
         self.briefing_dir.mkdir(parents=True, exist_ok=True)
         self.pdf_dir.mkdir(parents=True, exist_ok=True)
+
+        # Observabilidade: linhagem e auditoria de contrato da execução corrente
+        self.run_id: Optional[str] = None
+        self.audits: Dict[str, ContractAudit] = {}
+        self.failed_chunks = 0
+        self.api_errors = 0  # falhas nos endpoints de LISTAGEM (determinam completude)
+
+    def _audit(self, endpoint: str, records: List[Dict[str, Any]]) -> None:
+        """Valida o contrato da API nos registros BRUTOS, antes de qualquer upsert."""
+        self.audits.setdefault(endpoint, ContractAudit()).add(records)
 
     @staticmethod
     def generate_date_chunks(start_date: date, end_date: date, chunk_size: int = 15) -> List[tuple[str, str]]:
@@ -125,7 +136,8 @@ class PNCPCollector:
         item: Dict[str, Any],
         cat_name: str,
         sub_name: str,
-        terms: List[str]
+        terms: List[str],
+        source_endpoint: str = "",
     ) -> Tuple[int, List[str], str]:
         """Processa itens detalhados, checagem geográfica, PDFs e briefing para edital qualificado."""
         unidade = item.get("unidadeOrgao") or {}
@@ -185,6 +197,11 @@ class PNCPCollector:
             geo_info=geo_info,
             briefing_ia_path=briefing_path,
             pdf_paths=downloaded_pdfs,
+            lineage={
+                "run_id": self.run_id,
+                "source_endpoint": source_endpoint or None,
+                "keywords_hash": self.matcher.fingerprint(),
+            } if self.run_id else None,
         )
 
         return n_itens, downloaded_pdfs, briefing_path
@@ -216,6 +233,7 @@ class PNCPCollector:
 
                 chunk_scanned = 0
                 chunk_matches = 0
+                chunk_failed = False
                 pagina = 1
 
                 while True:
@@ -228,11 +246,17 @@ class PNCPCollector:
                     )
 
                     if not resp:
+                        # 204/404 = período sem registros (legítimo); falha de API = bloco incompleto
+                        chunk_failed = self.client.last_request_failed
+                        if chunk_failed:
+                            self.api_errors += 1
                         break
 
                     data_list = resp.get("data") or []
                     if not data_list:
                         break
+
+                    self._audit("contratacoes/publicacao", data_list)
 
                     for item in data_list:
                         chunk_scanned += 1
@@ -247,7 +271,8 @@ class PNCPCollector:
                             chunk_matches += 1
                             total_matches += 1
 
-                            n_itens, _, _ = self._process_matched_edital(item, cat_name, sub_name, terms)
+                            n_itens, _, _ = self._process_matched_edital(
+                                item, cat_name, sub_name, terms, source_endpoint="contratacoes/publicacao")
                             total_items_saved += n_itens
 
                     total_paginas = resp.get("totalPaginas") or 1
@@ -260,6 +285,14 @@ class PNCPCollector:
                         break
 
                     pagina += 1
+
+                if chunk_failed:
+                    self.failed_chunks += 1
+                    logger.error(
+                        f"Bloco {dt_ini}-{dt_fim} (Modalidade {mod_id}) INCOMPLETO por falha de API; "
+                        f"checkpoint não gravado, será recoletado na próxima execução."
+                    )
+                    continue
 
                 self.db.record_checkpoint(dt_ini, dt_fim, mod_id, chunk_scanned, chunk_matches)
 
@@ -309,11 +342,16 @@ class PNCPCollector:
                 )
 
                 if not resp:
+                    if self.client.last_request_failed:
+                        self.api_errors += 1
+                        logger.error(f"Falha de API na modalidade {mod_id}, página {pagina}: varredura parcial.")
                     break
 
                 data_list = resp.get("data") or []
                 if not data_list:
                     break
+
+                self._audit("contratacoes/proposta", data_list)
 
                 for item in data_list:
                     total_scanned += 1
@@ -324,7 +362,8 @@ class PNCPCollector:
                     if is_match:
                         total_matches += 1
 
-                        n_itens, downloaded_pdfs, briefing_path = self._process_matched_edital(item, cat_name, sub_name, terms)
+                        n_itens, downloaded_pdfs, briefing_path = self._process_matched_edital(
+                            item, cat_name, sub_name, terms, source_endpoint="contratacoes/proposta")
                         total_items += n_itens
 
                         unidade = item.get("unidadeOrgao") or {}

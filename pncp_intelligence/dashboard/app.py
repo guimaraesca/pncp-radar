@@ -25,6 +25,7 @@ from pncp_intelligence.src.db import PNCPDatabase
 from pncp_intelligence.src.exporter import PNCPExporter
 from pncp_intelligence.src.nlp_analytics import NLPAnalytics
 from pncp_intelligence.src.geo_map import GeoMapBuilder, BASES_ESTRATEGICAS, CAPITAIS_INFO
+from pncp_intelligence.src.observability import evaluate_health, lineage_for_edital, LINEAGE_STAGES, INDICATOR_LINEAGE
 from pncp_intelligence.src.formatters import (
     formatar_inteiro,
     formatar_moeda,
@@ -2899,6 +2900,21 @@ elif menu_navegacao == "🔍 3. Detalhes":
             else:
                 st.info("Nenhum item unitário indexado ainda para este edital específico.")
 
+            # Linhagem detalhada do edital selecionado (Pilar 5: Lineage)
+            lin_info = lineage_for_edital(str(db.db_path), selected_pncp)
+            if lin_info:
+                with st.expander(f"🧬 Linhagem de Dados & Proveniência do Edital `{selected_pncp}`", expanded=False):
+                    c_lin1, c_lin2, c_lin3 = st.columns(3)
+                    with c_lin1:
+                        st.markdown(f"**Endpoint de Origem:** `{lin_info.get('source_endpoint') or 'PNCP API'}`")
+                        st.markdown(f"**Primeira Captura (Run):** `{lin_info.get('first_run_id') or 'N/A'}`")
+                    with c_lin2:
+                        st.markdown(f"**Última Atualização (Run):** `{lin_info.get('last_run_id') or 'N/A'}`")
+                        st.markdown(f"**Versão Dicionário (Hash):** `{lin_info.get('keywords_hash') or 'N/A'}`")
+                    with c_lin3:
+                        st.markdown(f"**Data Classificação:** `{lin_info.get('classified_at') or lin_info.get('created_at') or 'N/A'}`")
+                        st.markdown(f"**Palavras-chave Encontradas:** `{', '.join(lin_info.get('matched_keywords') or []) or 'N/A'}`")
+
 # ----------------- MÓDULO 9: GESTÃO DE COLETAS & EXPANSÃO -----------------
     st.markdown("---")
     st.subheader("⚙️ Gestão de Coletas & Expansão")
@@ -3007,3 +3023,56 @@ elif menu_navegacao == "🔍 3. Detalhes":
     st.markdown("#### 📈 Estatísticas Internas do Banco")
     stats = db.get_stats()
     st.json(stats)
+
+    # ----------------- PAINEL DE OBSERVABILIDADE DE DADOS (5 PILARES) -----------------
+    st.markdown("---")
+    st.markdown("### 🩺 Observabilidade de Dados & Qualidade em Produção (5 Pilares)")
+    st.caption("Auditoria contínua da saúde da base de dados cobrindo Freshness, Distribution, Volume, Schema e Lineage.")
+
+    try:
+        report = evaluate_health(str(db.db_path))
+        counts = report.counts()
+        pillars_status = report.by_pillar()
+
+        c_obs1, c_obs2, c_obs3, c_obs4, c_obs5 = st.columns(5)
+        with c_obs1:
+            icon = "✅" if pillars_status.get("Freshness") == "PASS" else ("⚠️" if pillars_status.get("Freshness") == "WARN" else "❌")
+            st.metric("1. Freshness", f"{icon} {pillars_status.get('Freshness')}")
+        with c_obs2:
+            icon = "✅" if pillars_status.get("Distribution") == "PASS" else ("⚠️" if pillars_status.get("Distribution") == "WARN" else "❌")
+            st.metric("2. Distribution", f"{icon} {pillars_status.get('Distribution')}")
+        with c_obs3:
+            icon = "✅" if pillars_status.get("Volume") == "PASS" else ("⚠️" if pillars_status.get("Volume") == "WARN" else "❌")
+            st.metric("3. Volume", f"{icon} {pillars_status.get('Volume')}")
+        with c_obs4:
+            icon = "✅" if pillars_status.get("Schema") == "PASS" else ("⚠️" if pillars_status.get("Schema") == "WARN" else "❌")
+            st.metric("4. Schema", f"{icon} {pillars_status.get('Schema')}")
+        with c_obs5:
+            icon = "✅" if pillars_status.get("Lineage") == "PASS" else ("⚠️" if pillars_status.get("Lineage") == "WARN" else "❌")
+            st.metric("5. Lineage", f"{icon} {pillars_status.get('Lineage')}")
+
+        st.markdown("##### 📋 Matriz de Verificações de Qualidade")
+        df_checks = pd.DataFrame(report.to_dicts())
+        if not df_checks.empty:
+            st.dataframe(
+                df_checks,
+                column_config={
+                    "pillar": "Pilar",
+                    "name": "Verificação",
+                    "status": "Status",
+                    "observed": "Observado",
+                    "expected": "Esperado",
+                    "detail": "Detalhes Técnicos"
+                },
+                use_container_width=True,
+                hide_index=True
+            )
+
+        with st.expander("🗺️ Arquitetura de Linhagem de Dados (Pipeline Lineage)", expanded=False):
+            st.markdown("##### Etapas de Transformação da Informação")
+            st.dataframe(pd.DataFrame(LINEAGE_STAGES), use_container_width=True, hide_index=True)
+            st.markdown("##### Linhagem dos Indicadores & Métricas Chave")
+            st.dataframe(pd.DataFrame(INDICATOR_LINEAGE), use_container_width=True, hide_index=True)
+
+    except Exception as e:
+        st.warning(f"Não foi possível avaliar o relatório de observabilidade no momento: {e}")

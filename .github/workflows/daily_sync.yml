@@ -9,6 +9,8 @@ on:
 jobs:
   sync-pncp:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # o bot precisa commitar o banco atualizado
 
     steps:
       - name: 📥 Checkout do Repositório
@@ -27,12 +29,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 🚀 Executar Rotina Diária de Coleta & Disparo Telegram
+      - name: 🚀 Executar Rotina Diária de Coleta & Disparo Telegram (falha se a saúde dos dados estiver em FAIL)
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python run_daily_sync.py
+
+      - name: 🩺 Resumo de Observabilidade de Dados (5 pilares)
+        if: always()
+        run: |
+          python -m pncp_intelligence.src.observability --markdown >> "$GITHUB_STEP_SUMMARY"
 
       - name: 🔄 Commit e Push do Banco de Dados Atualizado
         run: |
