@@ -263,7 +263,6 @@ class PNCPAnalytics:
         peso_logistica: float = 25.0,
         peso_historico: float = 15.0,
         apenas_abertos: bool = True,
-        **kwargs,
     ) -> pd.DataFrame:
         """Processa editais abertos com motor de decisão Datadriven em 4 pilares: Aderência, Custo-Benefício, Logística e Histórico."""
         if df is None:

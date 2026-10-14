@@ -563,8 +563,8 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 
-@st.cache_resource(show_spinner=False)
-def get_services(_version="2026.10.14_v2"):
+@st.cache_resource
+def get_services():
     db = PNCPDatabase()
     analytics = PNCPAnalytics(db)
     exporter = PNCPExporter(analytics)
@@ -573,7 +573,7 @@ def get_services(_version="2026.10.14_v2"):
     return db, analytics, exporter, collector, nlp
 
 
-db, analytics, exporter, collector, nlp = get_services(_version="2026.10.14_v2")
+db, analytics, exporter, collector, nlp = get_services()
 
 
 def apply_pbi_theme(fig, height=360, is_dark=True):
@@ -1350,23 +1350,14 @@ if menu_navegacao == "📊 1. Visão Geral":
     )
 
     if not filtered_df.empty:
-        try:
-            df_cand_raw = analytics.live_candidacy_radar(
-                filtered_df,
-                peso_aderencia=peso_aderencia,
-                peso_custo_beneficio=peso_custo,
-                peso_logistica=peso_logistica,
-                peso_historico=peso_historico,
-                apenas_abertos=False
-            )
-        except TypeError:
-            df_cand_raw = analytics.live_candidacy_radar(
-                filtered_df,
-                peso_aderencia=peso_aderencia,
-                peso_custo_beneficio=peso_custo,
-                peso_logistica=peso_logistica,
-                peso_historico=peso_historico
-            )
+        df_cand_raw = analytics.live_candidacy_radar(
+            filtered_df,
+            peso_aderencia=peso_aderencia,
+            peso_custo_beneficio=peso_custo,
+            peso_logistica=peso_logistica,
+            peso_historico=peso_historico,
+            apenas_abertos=False
+        )
 
         if not df_cand_raw.empty:
             # 1. Faixa de KPIs Executivos do Pipeline Mapeado
