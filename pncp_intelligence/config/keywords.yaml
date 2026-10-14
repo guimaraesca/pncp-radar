@@ -9,11 +9,25 @@ categories:
   dados_politicas_publicas:
     name: "Dados, IA & Políticas Públicas"
     subtemas:
-      analise_dados:
-        name: "Análise de Dados & BI"
+      inteligencia_artificial:
+        name: "Inteligência Artificial & Machine Learning"
         terms:
-          - "analise de dados"
-          - "ciencia de dados"
+          - "inteligencia artificial"
+          - "ia"
+          - "machine learning"
+          - "aprendizado de maquina"
+          - "modelagem preditiva"
+          - "analise preditiva"
+          - "ia generativa"
+          - "genai"
+          - "llm"
+          - "visao computacional"
+          - "processamento de linguagem natural"
+          - "nlp"
+
+      business_intelligence:
+        name: "Business Intelligence & Dashboards"
+        terms:
           - "business intelligence"
           - "bi"
           - "dashboard"
@@ -27,28 +41,34 @@ categories:
           - "plotly"
           - "dataviz"
           - "visualizacao de dados"
-          - "big data"
+
+      engenharia_dados:
+        name: "Engenharia de Dados & Infraestrutura Cloud"
+        terms:
           - "engenharia de dados"
           - "pipeline de dados"
           - "arquitetura de dados"
           - "etl"
           - "elt"
-          - "python"
-          - "linguagem r"
-          - "bigquery"
-          - "redshift"
-          - "dados educacionais"
-          - "governanca de dados"
-          - "inteligencia artificial"
-          - "ia"
-          - "machine learning"
-          - "aprendizado de maquina"
-          - "modelagem preditiva"
-          - "analise preditiva"
           - "banco de dados"
           - "data warehouse"
           - "dw"
           - "data lake"
+          - "big data"
+          - "bigquery"
+          - "redshift"
+          - "lakehouse"
+          - "modelagem de dados"
+
+      ciencia_analise_dados:
+        name: "Ciência de Dados & Analytics"
+        terms:
+          - "analise de dados"
+          - "ciencia de dados"
+          - "python"
+          - "linguagem r"
+          - "dados educacionais"
+          - "estatistica aplicada"
       
       monitoramento_avaliacao:
         name: "Monitoramento & Avaliação (M&A / MEL)"
@@ -79,8 +99,32 @@ categories:
   governanca_projetos:
     name: "Governança & Gestão de Projetos Estratégicos"
     subtemas:
+      lgpd_privacidade:
+        name: "Privacidade & Proteção de Dados (LGPD)"
+        terms:
+          - "lgpd"
+          - "protecao de dados"
+          - "lei geral de protecao de dados"
+          - "privacidade de dados"
+          - "dpo"
+          - "seguranca da informacao"
+          - "politica de privacidade"
+          - "conformidade lgpd"
+          - "dados pessoais"
+
+      transformacao_digital:
+        name: "Transformação & Governo Digital"
+        terms:
+          - "transformacao digital"
+          - "governo digital"
+          - "inovacao no setor publico"
+          - "cidades inteligentes"
+          - "smart cities"
+          - "modernizacao administrativa"
+          - "digitalizacao de servicos"
+
       gestao_projetos:
-        name: "Gestão de Projetos"
+        name: "Gestão de Projetos & Processos (PMO / BPM)"
         terms:
           - "gestao de projetos"
           - "gerenciamento de projetos"
@@ -99,25 +143,30 @@ categories:
           - "fluxos institucionais"
           - "modelagem de processos"
           - "melhoria de processos"
-      
-      consultoria_governanca:
-        name: "Consultoria & Governança"
+
+      governanca_planejamento:
+        name: "Governança Pública & Planejamento"
         terms:
           - "governanca"
           - "governanca publica"
           - "governanca corporativa"
+          - "planejamento estrategico"
+          - "plano estrategico"
+          - "diagnostico institucional"
+          - "diagnostico organizacional"
+          - "governanca de dados"
+          - "governanca de ti"
+          - "gestao de riscos"
+          - "compliance publico"
+
+      consultoria_especializada:
+        name: "Consultoria & Assessoria Técnica Especializada"
+        terms:
           - "consultoria especializada"
           - "assessoria tecnica"
           - "assessoria estrategica"
-          - "diagnostico institucional"
-          - "diagnostico organizacional"
           - "notas tecnicas"
           - "relatorios executivos"
-          - "transformacao digital"
-          - "governo digital"
-          - "inovacao no setor publico"
-          - "lgpd"
-          - "protecao de dados"
 
   # -------------------------------------------------------------
   # VERTICAL 3: EDUCAÇÃO DIGITAL E STEAM

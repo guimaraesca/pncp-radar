@@ -654,9 +654,9 @@ def build_sankey_ramificacoes(df, is_dark=True):
             sub = str(row.get("matched_subtema", "")).lower()
             mod = str(row.get("modalidade_nome", "")).lower()
             val = float(row.get("valor_total_estimado", 0) or 0)
-            if "dispensa" in mod or any(k in sub for k in ["dados", "ia", "steam", "computacional", "ideb", "vaar"]):
+            if "dispensa" in mod or any(k in sub for k in ["dados", "ia", "intelligence", "dashboards", "steam", "computacional", "ideb", "vaar", "lgpd", "machine learning"]):
                 return "🟢 GO" if (val >= 50000 or val == 0) else "🟡 WATCH"
-            elif any(k in sub for k in ["consultoria", "governança", "projetos", "educacional"]):
+            elif any(k in sub for k in ["consultoria", "governança", "projetos", "educacional", "planejamento", "transformacao"]):
                 return "🟡 WATCH"
             return "🔴 NO-GO"
         df_flow["decisao"] = df_flow.apply(_quick_decisao, axis=1)
@@ -685,14 +685,24 @@ def build_sankey_ramificacoes(df, is_dark=True):
         "Credenciamento": "#8B5CF6",
         "Concorrência": "#EC4899",
         "Outras Modalidades": "#64748B",
+        # Verticais
         "Dados, IA & Políticas Públicas": "#06B6D4",
         "Governança & Gestão de Projetos Estratégicos": "#6366F1",
         "Políticas Educacionais & STEAM": "#F59E0B",
-        "Análise de Dados & BI": "#0284C7",
+        # Subtemas Dados & IA
+        "Inteligência Artificial & Machine Learning": "#8B5CF6",
+        "Business Intelligence & Dashboards": "#0284C7",
+        "Engenharia de Dados & Infraestrutura Cloud": "#0EA5E9",
+        "Ciência de Dados & Analytics": "#38BDF8",
         "Monitoramento & Avaliação (M&A / MEL)": "#0D9488",
-        "Gestão de Projetos": "#4F46E5",
-        "Consultoria & Governança": "#7C3AED",
-        "Pensamento Computacional & STEAM": "#EC4899",
+        # Subtemas Governança & Projetos
+        "Privacidade & Proteção de Dados (LGPD)": "#EC4899",
+        "Governança Pública & Planejamento": "#6366F1",
+        "Consultoria & Assessoria Técnica Especializada": "#7C3AED",
+        "Gestão de Projetos & Processos (PMO / BPM)": "#4F46E5",
+        "Transformação & Governo Digital": "#14B8A6",
+        # Subtemas Educação
+        "Pensamento Computacional & STEAM": "#F43F5E",
         "Avaliação Educacional, IDEB & VAAR": "#10B981",
         "Tecnologias & Inovação Educacional": "#D97706",
         "Políticas Educacionais & Educação Básica": "#B45309"
