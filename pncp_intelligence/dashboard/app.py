@@ -643,19 +643,21 @@ def apply_pbi_theme(fig, height=360, is_dark=True):
     return fig
 
 
-def build_sankey_ramificacoes(df, is_dark=True):
+def build_sankey_ramificacoes(df, is_dark=True, return_metadata=False):
     """Constrói o diagrama de ramificações Sankey / Alluvial com detalhamento por Vertical e Subtema especializado.
 
-    Fluxo em 4 Estágios:
-    Modalidade ➔ Vertical Estratégica ➔ Subtema Especializado ➔ Decisão Tática (🟢 GO, 🟡 WATCH, 🔴 NO-GO).
+    Fluxo em 4 Estágios com destaque e amplo espaçamento na parte direita:
+    Modalidade (x=0.01) ➔ Vertical Estratégica (x=0.20) ➔ Subtema Especializado (x=0.62) ➔ Decisão Tática (x=0.99).
     """
     if df.empty:
-        return go.Figure()
+        empty_fig = go.Figure()
+        return (empty_fig, []) if return_metadata else empty_fig
 
     # Filtra apenas registros com categorização válida
     df_flow = df[df["matched_category"].notna() & (df["matched_category"].astype(str).str.strip() != "")].copy()
     if df_flow.empty:
-        return go.Figure()
+        empty_fig = go.Figure()
+        return (empty_fig, []) if return_metadata else empty_fig
 
     df_flow["modalidade_curta"] = df_flow["modalidade_nome"].fillna("Outra").apply(
         lambda m: "Pregão Eletrônico" if "pregão" in str(m).lower()
@@ -692,7 +694,6 @@ def build_sankey_ramificacoes(df, is_dark=True):
 
     # Prefixos para evitar colisão de nomes caso um nó tenha o mesmo rótulo
     all_node_keys = [f"MOD::{m}" for m in mods] + [f"CAT::{c}" for c in cats] + [f"SUB::{s}" for s in subs] + [f"DEC::{d}" for d in decs]
-    all_node_labels = mods + cats + subs + decs
     node_map = {k: idx for idx, k in enumerate(all_node_keys)}
 
     color_map = {
@@ -727,25 +728,125 @@ def build_sankey_ramificacoes(df, is_dark=True):
         "Políticas Educacionais & Educação Básica": "#B45309"
     }
 
-    node_colors = [color_map.get(lbl, "#38BDF8") for lbl in all_node_labels]
+    sub_icons = {
+        "Inteligência Artificial & Machine Learning": "🤖",
+        "Privacidade & Proteção de Dados (LGPD)": "🔒",
+        "Governança Pública & Planejamento": "🏛️",
+        "Consultoria & Assessoria Técnica Especializada": "📑",
+        "Avaliação Educacional, IDEB & VAAR": "🟢",
+        "Business Intelligence & Dashboards": "📊",
+        "Pensamento Computacional & STEAM": "🌸",
+        "Engenharia de Dados & Infraestrutura Cloud": "🗄️",
+        "Políticas Educacionais & Educação Básica": "🟤",
+        "Tecnologias & Inovação Educacional": "📙",
+        "Gestão de Projetos & Processos (PMO / BPM)": "⚡",
+        "Monitoramento & Avaliação (M&A / MEL)": "🎯",
+        "Transformação & Governo Digital": "🌐",
+        "Ciência de Dados & Analytics": "🔬",
+    }
 
-    # Estatísticas consolidadas para os nós
+    node_colors = [color_map.get(k.split("::", 1)[1], "#38BDF8") for k in all_node_keys]
+
+    # Posicionamento horizontal das 4 colunas dando amplo destaque e respiro à direita
+    node_x = []
+    display_labels = []
+    for k in all_node_keys:
+        lbl_orig = k.split("::", 1)[1]
+        if k.startswith("MOD::"):
+            cnt = len(df_flow[df_flow["modalidade_curta"] == lbl_orig])
+            display_labels.append(f"{lbl_orig} ({cnt})")
+            node_x.append(0.01)
+        elif k.startswith("CAT::"):
+            cnt = len(df_flow[df_flow["categoria_label"] == lbl_orig])
+            display_labels.append(f"{lbl_orig} ({cnt})")
+            node_x.append(0.20)
+        elif k.startswith("SUB::"):
+            cnt = len(df_flow[df_flow["subtema_label"] == lbl_orig])
+            icon = sub_icons.get(lbl_orig, "📁")
+            display_labels.append(f"{icon} {lbl_orig} ({cnt})")
+            node_x.append(0.62)
+        else:
+            cnt = len(df_flow[df_flow["decisao"] == lbl_orig])
+            display_labels.append(f"{lbl_orig} ({cnt})")
+            node_x.append(0.99)
+
+    # Estatísticas consolidadas e listas de editais para cada nó
     tot_pipe = max(1.0, float(df_flow["valor_total_estimado"].sum()))
     node_customdata = []
-    for k, lbl in zip(all_node_keys, all_node_labels):
+    node_editais_json = []
+
+    for k in all_node_keys:
+        lbl_orig = k.split("::", 1)[1]
         if k.startswith("MOD::"):
-            sub_df = df_flow[df_flow["modalidade_curta"] == lbl]
+            sub_df = df_flow[df_flow["modalidade_curta"] == lbl_orig]
         elif k.startswith("CAT::"):
-            sub_df = df_flow[df_flow["categoria_label"] == lbl]
+            sub_df = df_flow[df_flow["categoria_label"] == lbl_orig]
         elif k.startswith("SUB::"):
-            sub_df = df_flow[df_flow["subtema_label"] == lbl]
+            sub_df = df_flow[df_flow["subtema_label"] == lbl_orig]
         else:
-            sub_df = df_flow[df_flow["decisao"] == lbl]
+            sub_df = df_flow[df_flow["decisao"] == lbl_orig]
+
         v_n = float(sub_df["valor_total_estimado"].sum())
         q_n = len(sub_df)
         pct_n = (v_n / tot_pipe) * 100
         tm_n = v_n / max(1, q_n)
-        node_customdata.append([formatar_moeda_compacta(v_n), f"{pct_n:.1f}", formatar_moeda_compacta(tm_n), q_n])
+
+        sub_sorted = sub_df.sort_values(by=["score_candidatura", "valor_total_estimado"], ascending=False)
+
+        tooltip_items = []
+        ed_json_list = []
+
+        for _, ed in sub_sorted.iterrows():
+            org = str(ed.get("razao_social_orgao", "Órgão"))
+            uf = str(ed.get("uf_sigla", ""))
+            val_raw = float(ed.get("valor_total_estimado", 0) or 0)
+            val_fmt = formatar_moeda_compacta(val_raw)
+            sc = int(ed.get("score_candidatura", 0))
+            dias = float(ed.get("dias_restantes", 0.0) or 0.0)
+            prazo_str = f"{dias:.1f}d" if dias > 0 else "Encerrado"
+            pncp_id = str(ed.get("numero_controle_pncp", ""))
+            url = ed.get("url_oficial_edital") or f"https://pncp.gov.br/app/editais/{pncp_id}"
+            mod = str(ed.get("modalidade_nome", ""))
+            obj = str(ed.get("objeto_compra", ""))
+            dec = str(ed.get("decisao_tag", "WATCH"))
+
+            ed_json_list.append({
+                "orgao": org,
+                "uf": uf,
+                "valor": val_fmt,
+                "score": sc,
+                "prazo": prazo_str,
+                "pncp_id": pncp_id,
+                "url": url,
+                "modalidade": mod,
+                "objeto": (obj[:140] + ("..." if len(obj) > 140 else "")) if obj else "Sem descrição detalhada",
+                "decisao": dec
+            })
+
+        for ed in ed_json_list[:5]:
+            tooltip_items.append(f"• <b>[{ed['valor']} | Fit {ed['score']}]</b> {ed['orgao'][:24]} ({ed['uf']})<br>  ↳ 🔗 {ed['url']}")
+
+        if q_n > 5:
+            tooltip_items.append(f"<i>... e mais {q_n - 5} editais no ramo</i>")
+
+        tooltip_links_str = "<br>".join(tooltip_items) if tooltip_items else "<i>Nenhum edital ativo</i>"
+
+        node_customdata.append([
+            formatar_moeda_compacta(v_n),
+            f"{pct_n:.1f}",
+            formatar_moeda_compacta(tm_n),
+            q_n,
+            tooltip_links_str
+        ])
+
+        node_editais_json.append({
+            "label": lbl_orig,
+            "key": k,
+            "total_editais": q_n,
+            "volume_fmt": formatar_moeda_compacta(v_n),
+            "ticket_medio": formatar_moeda_compacta(tm_n),
+            "editais": ed_json_list[:15]
+        })
 
     sources = []
     targets = []
@@ -770,7 +871,8 @@ def build_sankey_ramificacoes(df, is_dark=True):
             formatar_moeda_compacta(r["valor"]),
             formatar_moeda_compacta(tm),
             "Vertical de Atuação",
-            f"{r['dias_medio']:.1f}d"
+            f"{r['dias_medio']:.1f}d",
+            ""
         ])
 
     # Estágio 2: Vertical Categoria -> Subtema Especializado
@@ -790,10 +892,11 @@ def build_sankey_ramificacoes(df, is_dark=True):
             formatar_moeda_compacta(r["valor"]),
             formatar_moeda_compacta(tm),
             "Especialidade B2G",
-            f"{r['dias_medio']:.1f}d"
+            f"{r['dias_medio']:.1f}d",
+            ""
         ])
 
-    # Estágio 3: Subtema Especializado -> Decisão Estratégica
+    # Estágio 3: Subtema Especializado -> Decisão Estratégica (com editais e links nos fluxos)
     flow3 = df_flow.groupby(["subtema_label", "decisao"]).agg(
         qtd=("id", "count"),
         valor=("valor_total_estimado", "sum"),
@@ -807,6 +910,20 @@ def build_sankey_ramificacoes(df, is_dark=True):
     }
 
     for _, r in flow3.iterrows():
+        sub_ed_link = df_flow[(df_flow["subtema_label"] == r["subtema_label"]) & (df_flow["decisao"] == r["decisao"])]
+        link_sorted = sub_ed_link.sort_values(by=["score_candidatura", "valor_total_estimado"], ascending=False)
+        link_items = []
+        for _, ed in link_sorted.head(4).iterrows():
+            org = str(ed.get("razao_social_orgao", "Órgão"))[:22]
+            uf = str(ed.get("uf_sigla", ""))
+            val_fmt = formatar_moeda_compacta(float(ed.get("valor_total_estimado", 0) or 0))
+            sc = int(ed.get("score_candidatura", 0))
+            url = ed.get("url_oficial_edital") or f"https://pncp.gov.br/app/editais/{ed.get('numero_controle_pncp', '')}"
+            link_items.append(f"• <b>[{val_fmt} | Fit {sc}]</b> {org} ({uf})<br>  ↳ 🔗 {url}")
+        if len(sub_ed_link) > 4:
+            link_items.append(f"<i>... e mais {len(sub_ed_link) - 4} editais</i>")
+        link_links_str = "<br>".join(link_items) if link_items else "<i>Sem editais</i>"
+
         sources.append(node_map[f"SUB::{r['subtema_label']}"])
         targets.append(node_map[f"DEC::{r['decisao']}"])
         values.append(int(r["qtd"]))
@@ -816,19 +933,23 @@ def build_sankey_ramificacoes(df, is_dark=True):
             formatar_moeda_compacta(r["valor"]),
             formatar_moeda_compacta(tm),
             r["decisao"],
-            f"{r['dias_medio']:.1f}d"
+            f"{r['dias_medio']:.1f}d",
+            link_links_str
         ])
+
+    calc_height = max(880, len(subs) * 58)
 
     fig = go.Figure(data=[go.Sankey(
         arrangement="snap",
         node=dict(
-            pad=18,
-            thickness=20,
-            line=dict(color="#0F172A" if is_dark else "#FFFFFF", width=1.5),
-            label=all_node_labels,
+            pad=16,
+            thickness=24,
+            line=dict(color="#0F172A" if is_dark else "#CBD5E1", width=2),
+            label=display_labels,
             color=node_colors,
             customdata=node_customdata,
-            hovertemplate="<b>📌 %{label}</b><br>─────────────────────────────<br>📦 <b>Total de Editais:</b> %{customdata[3]}<br>💰 <b>Volume Total:</b> %{customdata[0]}<br>🎯 <b>Ticket Médio:</b> %{customdata[2]}<br>📊 <b>Fatia do Pipeline:</b> %{customdata[1]}%<extra></extra>"
+            x=node_x,
+            hovertemplate="<b>📌 %{label}</b><br>─────────────────────────────<br>📦 <b>Total:</b> %{customdata[3]} editais • 💰 <b>Volume:</b> %{customdata[0]}<br>🎯 <b>Ticket Médio:</b> %{customdata[2]} • 📊 <b>Fatia do Pipeline:</b> %{customdata[1]}%<br>─────────────────────────────<br>🔗 <b>EDITAIS & LINKS DIRETOS PNCP:</b><br>%{customdata[4]}<extra></extra>"
         ),
         link=dict(
             source=sources,
@@ -836,18 +957,331 @@ def build_sankey_ramificacoes(df, is_dark=True):
             value=values,
             color=link_colors,
             customdata=customdata,
-            hovertemplate="<b>🌿 %{source.label} ➔ %{target.label}</b><br>─────────────────────────────<br>📦 <b>Oportunidades:</b> %{value} editais<br>💰 <b>Volume Total:</b> %{customdata[0]}<br>🎯 <b>Ticket Médio:</b> %{customdata[1]}<br>⚡ <b>Direcionamento:</b> %{customdata[2]}<br>⏳ <b>Prazo Médio:</b> %{customdata[3]}<extra></extra>"
+            hovertemplate="<b>🌿 %{source.label} ➔ %{target.label}</b><br>─────────────────────────────<br>📦 <b>Oportunidades:</b> %{value} editais • 💰 <b>Volume Total:</b> %{customdata[0]}<br>🎯 <b>Ticket Médio:</b> %{customdata[1]} • ⚡ <b>Direcionamento:</b> %{customdata[2]} • ⏳ <b>Prazo Médio:</b> %{customdata[3]}<br>─────────────────────────────<br>🔗 <b>EDITAIS DESTE FLUXO:</b><br>%{customdata[4]}<extra></extra>"
         )
     )])
 
     fig.update_layout(
-        font=dict(family="Plus Jakarta Sans, sans-serif", size=11, color="#E2E8F0" if is_dark else "#1E293B"),
+        font=dict(family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif", size=11.5, color="#F1F5F9" if is_dark else "#0F172A"),
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
-        height=620,
-        margin=dict(l=15, r=15, t=15, b=15)
+        height=calc_height,
+        margin=dict(l=15, r=15, t=20, b=20)
     )
+
+    fig._node_editais_json = node_editais_json
+    if return_metadata:
+        return fig, node_editais_json
     return fig
+
+
+def render_interactive_sankey_widescreen(df_flow, is_dark=True):
+    """Renderiza o Dataviz Widescreen de Ramificações Sankey com painel dinâmico
+    que gera a lista de links clicáveis imediatamente ao passar o mouse.
+    """
+    if df_flow.empty:
+        st.info("Nenhum edital atende aos filtros atuais para o diagrama Sankey.")
+        return
+
+    fig, node_meta = build_sankey_ramificacoes(df_flow, is_dark=is_dark, return_metadata=True)
+    if not fig.data:
+        st.info("Nenhum dado categorizado disponível para traçar o fluxo.")
+        return
+
+    fig_json = fig.to_json().replace("</script>", "<\\/script>")
+    node_meta_json = json.dumps(node_meta).replace("</script>", "<\\/script>")
+
+    # Editais de maior fit para exibição inicial no painel
+    top_default = df_flow.sort_values(by=["score_candidatura", "valor_total_estimado"], ascending=False).head(10).to_dict(orient="records")
+    default_cards = []
+    for ed in top_default:
+        val_fmt = formatar_moeda_compacta(float(ed.get("valor_total_estimado", 0) or 0))
+        sc = int(ed.get("score_candidatura", 0))
+        dias = float(ed.get("dias_restantes", 0.0) or 0.0)
+        prazo = f"{dias:.1f}d" if dias > 0 else "Encerrado"
+        pncp_id = str(ed.get("numero_controle_pncp", ""))
+        url = ed.get("url_oficial_edital") or f"https://pncp.gov.br/app/editais/{pncp_id}"
+        obj = str(ed.get("objeto_compra", ""))
+        default_cards.append({
+            "orgao": str(ed.get("razao_social_orgao", "Órgão")),
+            "uf": str(ed.get("uf_sigla", "")),
+            "valor": val_fmt,
+            "score": sc,
+            "prazo": prazo,
+            "pncp_id": pncp_id,
+            "url": url,
+            "modalidade": str(ed.get("modalidade_nome", "")),
+            "objeto": (obj[:140] + ("..." if len(obj) > 140 else "")) if obj else "Sem descrição detalhada",
+            "decisao": str(ed.get("decisao_tag", "WATCH"))
+        })
+    default_meta_json = json.dumps(default_cards).replace("</script>", "<\\/script>")
+
+    bg_card = "rgba(15, 23, 42, 0.85)" if is_dark else "rgba(248, 250, 252, 0.95)"
+    border_col = "rgba(255, 255, 255, 0.12)" if is_dark else "rgba(0, 0, 0, 0.12)"
+    text_primary = "#F8FAFC" if is_dark else "#0F172A"
+    text_secondary = "#94A3B8" if is_dark else "#475569"
+    card_hover_bg = "rgba(30, 41, 59, 0.95)" if is_dark else "rgba(255, 255, 255, 1.0)"
+    card_border = "rgba(56, 189, 248, 0.25)" if is_dark else "rgba(56, 189, 248, 0.35)"
+    calc_h = getattr(fig.layout, "height", 900) or 900
+    comp_h = int(calc_h) + 40
+
+    html_code = f"""<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+    <style>
+        * {{ box-sizing: border-box; }}
+        body {{
+            margin: 0;
+            padding: 0;
+            background: transparent;
+            font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif;
+            color: {text_primary};
+        }}
+        .main-container {{
+            display: flex;
+            gap: 16px;
+            width: 100%;
+            height: {calc_h}px;
+        }}
+        .chart-box {{
+            flex: 2.2;
+            height: 100%;
+            background: {bg_card};
+            border: 1px solid {border_col};
+            border-radius: 12px;
+            padding: 8px;
+            position: relative;
+        }}
+        #sankey-div {{
+            width: 100%;
+            height: 100%;
+        }}
+        .panel-box {{
+            flex: 1.1;
+            height: 100%;
+            background: {bg_card};
+            border: 1.5px solid rgba(56, 189, 248, 0.45);
+            border-radius: 12px;
+            padding: 14px 16px;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+        }}
+        .panel-header {{
+            padding-bottom: 10px;
+            border-bottom: 1px solid {border_col};
+            margin-bottom: 12px;
+        }}
+        .panel-title {{
+            font-size: 15px;
+            font-weight: 800;
+            color: #38BDF8;
+            margin: 0 0 4px 0;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }}
+        .panel-subtitle {{
+            font-size: 11.5px;
+            color: {text_secondary};
+            margin: 0;
+            line-height: 1.35;
+        }}
+        .cards-scroll {{
+            flex: 1;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            padding-right: 6px;
+        }}
+        .cards-scroll::-webkit-scrollbar {{
+            width: 6px;
+        }}
+        .cards-scroll::-webkit-scrollbar-track {{
+            background: rgba(0,0,0,0.1);
+            border-radius: 4px;
+        }}
+        .cards-scroll::-webkit-scrollbar-thumb {{
+            background: rgba(56, 189, 248, 0.4);
+            border-radius: 4px;
+        }}
+        .edital-card {{
+            background: {card_hover_bg};
+            border: 1px solid {card_border};
+            border-radius: 10px;
+            padding: 12px 14px;
+            transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+        }}
+        .edital-card:hover {{
+            transform: translateY(-2px);
+            border-color: #38BDF8;
+            box-shadow: 0 4px 14px rgba(56, 189, 248, 0.2);
+        }}
+        .card-top {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 6px;
+        }}
+        .badge-dec {{
+            font-size: 10.5px;
+            font-weight: 800;
+            padding: 2px 7px;
+            border-radius: 5px;
+        }}
+        .badge-go {{ background: rgba(16, 185, 129, 0.18); color: #10B981; border: 1px solid rgba(16, 185, 129, 0.3); }}
+        .badge-watch {{ background: rgba(245, 158, 11, 0.18); color: #F59E0B; border: 1px solid rgba(245, 158, 11, 0.3); }}
+        .badge-nogo {{ background: rgba(239, 68, 68, 0.18); color: #EF4444; border: 1px solid rgba(239, 68, 68, 0.3); }}
+        .badge-score {{
+            font-size: 11px;
+            font-weight: 800;
+            color: #38BDF8;
+            background: rgba(56, 189, 248, 0.12);
+            padding: 2px 8px;
+            border-radius: 6px;
+        }}
+        .card-orgao {{
+            font-size: 13px;
+            font-weight: 700;
+            color: {text_primary};
+            margin-bottom: 4px;
+            line-height: 1.3;
+        }}
+        .card-meta {{
+            font-size: 11px;
+            color: {text_secondary};
+            margin-bottom: 6px;
+        }}
+        .card-objeto {{
+            font-size: 11.5px;
+            color: {text_primary};
+            background: rgba(255,255,255,0.03);
+            border-left: 2px solid #38BDF8;
+            padding: 6px 8px;
+            border-radius: 4px;
+            margin-bottom: 9px;
+            line-height: 1.35;
+        }}
+        .btn-pncp {{
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            padding: 7px 10px;
+            background: #2563EB;
+            color: #FFFFFF !important;
+            font-size: 11.5px;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 6px;
+            transition: background 0.2s ease;
+        }}
+        .btn-pncp:hover {{
+            background: #1D4ED8;
+        }}
+        .reset-btn {{
+            font-size: 11px;
+            background: transparent;
+            border: 1px solid {border_col};
+            color: {text_secondary};
+            padding: 3px 8px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }}
+        .reset-btn:hover {{
+            background: rgba(56, 189, 248, 0.15);
+            color: #38BDF8;
+            border-color: #38BDF8;
+        }}
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <div class="chart-box">
+            <div id="sankey-div"></div>
+        </div>
+        <div class="panel-box">
+            <div class="panel-header">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+                    <div id="panel-title" class="panel-title">🎯 Radar de Links Imediatos</div>
+                    <button class="reset-btn" onclick="resetToDefault()">↺ Top Fit</button>
+                </div>
+                <div id="panel-subtitle" class="panel-subtitle">Passe o mouse sobre qualquer ramo ou nó à esquerda para listar os editais e links.</div>
+            </div>
+            <div id="cards-container" class="cards-scroll"></div>
+        </div>
+    </div>
+
+    <script>
+        const figData = {fig_json};
+        const NODES = {node_meta_json};
+        const DEFAULT_CARDS = {default_meta_json};
+
+        Plotly.newPlot('sankey-div', figData.data, figData.layout, {{
+            responsive: true,
+            displayModeBar: false
+        }});
+
+        function createCardHtml(e) {{
+            let badgeClass = 'badge-watch';
+            if (e.decisao.includes('GO') && !e.decisao.includes('NO-GO')) badgeClass = 'badge-go';
+            else if (e.decisao.includes('NO-GO')) badgeClass = 'badge-nogo';
+
+            return `
+                <div class="edital-card">
+                    <div class="card-top">
+                        <span class="badge-dec ${{badgeClass}}">${{e.decisao}}</span>
+                        <span class="badge-score">Fit: ${{e.score}}/100</span>
+                        <span style="font-size: 11px; color: #94A3B8; font-weight: 600;">⏳ ${{e.prazo}}</span>
+                    </div>
+                    <div class="card-orgao">🏛️ ${{e.orgao}} (${{e.uf}})</div>
+                    <div class="card-meta">
+                        ${{e.modalidade}} • <b style="color: #38BDF8;">${{e.valor}}</b>
+                    </div>
+                    <div class="card-objeto">${{e.objeto}}</div>
+                    <a href="${{e.url}}" target="_blank" rel="noopener noreferrer" class="btn-pncp">
+                        🔗 Abrir no Portal do PNCP ↗
+                    </a>
+                </div>
+            `;
+        }}
+
+        function renderCardsList(title, subtitle, editaisList) {{
+            document.getElementById('panel-title').innerText = title;
+            document.getElementById('panel-subtitle').innerText = subtitle;
+            const container = document.getElementById('cards-container');
+            if (!editaisList || editaisList.length === 0) {{
+                container.innerHTML = '<div style="font-size: 12px; color: #94A3B8; text-align: center; padding: 20px;">Nenhum edital disponível neste ramo.</div>';
+                return;
+            }}
+            container.innerHTML = editaisList.map(createCardHtml).join('');
+        }}
+
+        function resetToDefault() {{
+            renderCardsList('⭐ Top Editais Recomendados', 'Exibindo oportunidades de maior pontuação do pipeline atual.', DEFAULT_CARDS);
+        }}
+
+        resetToDefault();
+
+        const gd = document.getElementById('sankey-div');
+        gd.on('plotly_hover', function(data) {{
+            if (!data || !data.points || data.points.length === 0) return;
+            const pt = data.points[0];
+            if (pt.hasOwnProperty('pointNumber') && NODES[pt.pointNumber]) {{
+                const node = NODES[pt.pointNumber];
+                const title = '📌 ' + node.label;
+                const sub = '📦 ' + node.total_editais + ' editais • 💰 ' + node.volume_fmt + ' • 🎯 Médio: ' + node.ticket_medio;
+                renderCardsList(title, sub, node.editais);
+            }}
+        }});
+    </script>
+</body>
+</html>"""
+    components.html(html_code, height=comp_h, scrolling=False)
 
 
 def calcular_risco_retorno(df):
@@ -1663,9 +2097,8 @@ if menu_navegacao == "📊 1. Visão Geral":
                         df_sank_input = df_cand if "Pipeline Aberto" in escopo_sankey else filtered_df
                         if nome_ramo_ativo != "Todos os Ramos":
                             df_sank_input = df_sank_input[df_sank_input["matched_subtema"] == nome_ramo_ativo]
-                        fig_sankey = build_sankey_ramificacoes(df_sank_input, is_dark=is_dark)
-                        st.plotly_chart(fig_sankey, use_container_width=True)
-                        st.caption("🌿 **Fluxo de Ramificações Alluvial:** Mapeia Modalidade ➔ Vertical Estratégica ➔ Subtema Especializado (ex: Pensamento Computacional, VAAR, BI) ➔ Decisão Estratégica.")
+                        render_interactive_sankey_widescreen(df_sank_input, is_dark=is_dark)
+                        st.caption("🌿 **Fluxo de Ramificações Alluvial:** Mapeia Modalidade ➔ Vertical Estratégica ➔ Subtema Especializado ➔ Decisão Estratégica. Passe o mouse sobre os nós ou fluxos à esquerda para listar instantaneamente os editais com links diretos no radar lateral.")
                     else:
                         fig_wsj = build_wsj_timeline_swarm(df_ramo_cand, is_dark=is_dark)
                         st.plotly_chart(fig_wsj, use_container_width=True)
