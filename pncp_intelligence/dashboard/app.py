@@ -4,6 +4,7 @@ Interface visual completa para análise de editais e demandas públicas,
 radar de oportunidades imediatas, inteligência temática e exportação de dados.
 """
 
+import html
 import json
 import os
 import sys
@@ -829,11 +830,11 @@ def build_sankey_ramificacoes(df, is_dark=True, return_metadata=False):
                 "decisao": dec
             })
 
-        for ed in ed_json_list[:5]:
-            tooltip_items.append(f"• <b>[{ed['valor']} | Fit {ed['score']}]</b> {ed['orgao'][:24]} ({ed['uf']})<br>  ↳ 🔗 {ed['url']}")
+        for ed in ed_json_list[:4]:
+            tooltip_items.append(f"• <b>{ed['orgao'][:26]} ({ed['uf']})</b>: {ed['valor']} (Fit {ed['score']} pts)")
 
-        if q_n > 5:
-            tooltip_items.append(f"<i>... e mais {q_n - 5} editais no ramo</i>")
+        if q_n > 4:
+            tooltip_items.append(f"<i>... e mais {q_n - 4} editais</i>")
 
         tooltip_links_str = "<br>".join(tooltip_items) if tooltip_items else "<i>Nenhum edital ativo</i>"
 
@@ -920,8 +921,8 @@ def build_sankey_ramificacoes(df, is_dark=True, return_metadata=False):
         link_sort_cols = [c for c in ["score_candidatura", "valor_total_estimado"] if c in sub_ed_link.columns]
         link_sorted = sub_ed_link.sort_values(by=link_sort_cols, ascending=False) if link_sort_cols else sub_ed_link.copy()
         link_items = []
-        for _, ed in link_sorted.head(4).iterrows():
-            org = str(ed.get("razao_social_orgao", "Órgão"))[:22]
+        for _, ed in link_sorted.head(3).iterrows():
+            org = str(ed.get("razao_social_orgao", "Órgão"))[:24]
             uf = str(ed.get("uf_sigla", ""))
             val_fmt = formatar_moeda_compacta(float(ed.get("valor_total_estimado", 0) or 0))
             sc_val = ed.get("score_candidatura", 0)
@@ -929,10 +930,9 @@ def build_sankey_ramificacoes(df, is_dark=True, return_metadata=False):
                 sc = int(float(sc_val)) if pd.notna(sc_val) else 0
             except Exception:
                 sc = 0
-            url = ed.get("url_oficial_edital") or f"https://pncp.gov.br/app/editais/{ed.get('numero_controle_pncp', '')}"
-            link_items.append(f"• <b>[{val_fmt} | Fit {sc}]</b> {org} ({uf})<br>  ↳ 🔗 {url}")
-        if len(sub_ed_link) > 4:
-            link_items.append(f"<i>... e mais {len(sub_ed_link) - 4} editais</i>")
+            link_items.append(f"• <b>{org} ({uf})</b>: {val_fmt} (Fit {sc} pts)")
+        if len(sub_ed_link) > 3:
+            link_items.append(f"<i>... e mais {len(sub_ed_link) - 3} editais</i>")
         link_links_str = "<br>".join(link_items) if link_items else "<i>Sem editais</i>"
 
         sources.append(node_map[f"SUB::{r['subtema_label']}"])
@@ -960,7 +960,7 @@ def build_sankey_ramificacoes(df, is_dark=True, return_metadata=False):
             color=node_colors,
             customdata=node_customdata,
             x=node_x,
-            hovertemplate="<b>📌 %{label}</b><br>─────────────────────────────<br>📦 <b>Total:</b> %{customdata[3]} editais • 💰 <b>Volume:</b> %{customdata[0]}<br>🎯 <b>Ticket Médio:</b> %{customdata[2]} • 📊 <b>Fatia do Pipeline:</b> %{customdata[1]}%<br>─────────────────────────────<br>🔗 <b>EDITAIS & LINKS DIRETOS PNCP:</b><br>%{customdata[4]}<extra></extra>"
+            hovertemplate="<b>📌 %{label}</b><br>─────────────────────────────<br>📦 <b>Total:</b> %{customdata[3]} editais • 💰 <b>Volume:</b> %{customdata[0]}<br>🎯 <b>Ticket Médio:</b> %{customdata[2]} • 📊 <b>Fatia do Pipeline:</b> %{customdata[1]}%<br>─────────────────────────────<br>⭐ <b>Principais Oportunidades:</b><br>%{customdata[4]}<extra></extra>"
         ),
         link=dict(
             source=sources,
@@ -968,7 +968,7 @@ def build_sankey_ramificacoes(df, is_dark=True, return_metadata=False):
             value=values,
             color=link_colors,
             customdata=customdata,
-            hovertemplate="<b>🌿 %{source.label} ➔ %{target.label}</b><br>─────────────────────────────<br>📦 <b>Oportunidades:</b> %{value} editais • 💰 <b>Volume Total:</b> %{customdata[0]}<br>🎯 <b>Ticket Médio:</b> %{customdata[1]} • ⚡ <b>Direcionamento:</b> %{customdata[2]} • ⏳ <b>Prazo Médio:</b> %{customdata[3]}<br>─────────────────────────────<br>🔗 <b>EDITAIS DESTE FLUXO:</b><br>%{customdata[4]}<extra></extra>"
+            hovertemplate="<b>🌿 %{source.label} ➔ %{target.label}</b><br>─────────────────────────────<br>📦 <b>Oportunidades:</b> %{value} editais • 💰 <b>Volume Total:</b> %{customdata[0]}<br>🎯 <b>Ticket Médio:</b> %{customdata[1]} • ⚡ <b>Direcionamento:</b> %{customdata[2]} • ⏳ <b>Prazo Médio:</b> %{customdata[3]}<br>─────────────────────────────<br>⭐ <b>Destaques do Fluxo:</b><br>%{customdata[4]}<extra></extra>"
         )
     )])
 
@@ -2156,41 +2156,45 @@ if menu_navegacao == "📊 1. Visão Geral":
                         dec_cor = "#10B981" if "GO" in str(row_sel["decisao_tag"]) else ("#F59E0B" if "WATCH" in str(row_sel["decisao_tag"]) else "#EF4444")
                         prazo_txt = f"⏳ {row_sel['dias_restantes']:.1f}d restantes" if row_sel['dias_restantes'] > 0 else "⏳ Proposta Encerrada"
 
-                        st.markdown(f"""
-                        <div style="background: {c_card_bg}; border: 2px solid {dec_cor}; border-radius: 12px; padding: 16px 18px; margin-bottom: 12px; box-shadow: {c_card_shadow};">
-                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-                                <span style="font-size: 13px; font-weight: 800; color: {dec_cor}; background: rgba(16, 185, 129, 0.12); padding: 4px 10px; border-radius: 6px;">
-                                    {row_sel['decisao_tag']} • Fit Score: {row_sel['score_candidatura']}/100
-                                </span>
-                                <span style="font-size: 12px; color: {c_text_secondary}; font-weight: 700;">
-                                    {prazo_txt}
-                                </span>
-                            </div>
-                            <div style="font-size: 14px; font-weight: 800; color: {c_text_primary}; margin-bottom: 4px;">
-                                🏛️ {row_sel['razao_social_orgao']} ({row_sel['uf_sigla']})
-                            </div>
-                            <div style="font-size: 11.5px; color: {c_text_secondary}; margin-bottom: 10px;">
-                                PNCP: <code>{row_sel['numero_controle_pncp']}</code><br>
-                                Modalidade: <b>{row_sel['modalidade_nome']}</b> • Valor: <b>{formatar_moeda_completa(row_sel['valor_total_estimado'])}</b>
-                            </div>
-                            <div style="font-size: 12px; font-weight: 700; color: #3B82F6; margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.05em;">
-                                📝 Resumo Executivo do Objeto:
-                            </div>
-                            <div style="font-size: 12.5px; line-height: 1.5; color: {c_text_primary}; background: {'rgba(255,255,255,0.04)' if is_dark else 'rgba(0,0,0,0.03)'}; padding: 10px 12px; border-radius: 8px; border-left: 3px solid #3B82F6; margin-bottom: 10px;">
-                                {row_sel['objeto_compra']}
-                            </div>
-                            <div style="font-size: 11px; color: {c_text_secondary}; margin-bottom: 10px;">
-                                🎯 <b>Especialidade:</b> {row_sel['matched_subtema']}<br>
-                                🔑 <b>Termos-chave:</b> <span style="color: #38BDF8;">{row_sel.get('matched_keywords', '')}</span>
-                            </div>
-                            <div class="pillar-row" style="margin-top: 6px;">
-                                <span>🎯 Aderência: <b>{row_sel['score_aderencia']}%</b></span>
-                                <span>💰 Custo: <b>{row_sel['score_custo_beneficio']}%</b></span>
-                                <span>🚚 Logística: <b>{row_sel['score_logistica']}%</b></span>
-                                <span>🏛️ Histórico: <b>{row_sel['score_historico']}%</b></span>
-                            </div>
-                        </div>
-                        """, unsafe_allow_html=True)
+                        obj_limpo = html.escape(str(row_sel.get("objeto_compra", ""))).strip().replace("\n", "<br>")
+                        orgao_limpo = html.escape(str(row_sel.get("razao_social_orgao", ""))).strip()
+                        uf_limpo = html.escape(str(row_sel.get("uf_sigla", ""))).strip()
+                        modalidade_limpo = html.escape(str(row_sel.get("modalidade_nome", ""))).strip()
+                        subtema_limpo = html.escape(str(row_sel.get("matched_subtema", ""))).strip()
+                        kw_limpo = html.escape(str(row_sel.get("matched_keywords", ""))).strip()
+                        pncp_limpo = html.escape(str(row_sel.get("numero_controle_pncp", ""))).strip()
+                        decisao_limpo = html.escape(str(row_sel.get("decisao_tag", ""))).strip()
+                        bg_obj = "rgba(255,255,255,0.04)" if is_dark else "rgba(0,0,0,0.03)"
+
+                        card_html = (
+                            f'<div style="background: {c_card_bg}; border: 2px solid {dec_cor}; border-radius: 12px; padding: 16px 18px; margin-bottom: 12px; box-shadow: {c_card_shadow};">'
+                            f'<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">'
+                            f'<span style="font-size: 13px; font-weight: 800; color: {dec_cor}; background: rgba(16, 185, 129, 0.12); padding: 4px 10px; border-radius: 6px;">'
+                            f'{decisao_limpo} • Fit Score: {row_sel["score_candidatura"]}/100</span>'
+                            f'<span style="font-size: 12px; color: {c_text_secondary}; font-weight: 700;">{prazo_txt}</span>'
+                            f'</div>'
+                            f'<div style="font-size: 14px; font-weight: 800; color: {c_text_primary}; margin-bottom: 4px;">🏛️ {orgao_limpo} ({uf_limpo})</div>'
+                            f'<div style="font-size: 11.5px; color: {c_text_secondary}; margin-bottom: 10px;">'
+                            f'PNCP: <code>{pncp_limpo}</code><br>'
+                            f'Modalidade: <b>{modalidade_limpo}</b> • Valor: <b>{formatar_moeda_completa(row_sel["valor_total_estimado"])}</b>'
+                            f'</div>'
+                            f'<div style="font-size: 12px; font-weight: 700; color: #3B82F6; margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.05em;">📝 Resumo Executivo do Objeto:</div>'
+                            f'<div style="font-size: 12.5px; line-height: 1.5; color: {c_text_primary}; background: {bg_obj}; padding: 10px 12px; border-radius: 8px; border-left: 3px solid #3B82F6; margin-bottom: 10px;">'
+                            f'{obj_limpo}'
+                            f'</div>'
+                            f'<div style="font-size: 11px; color: {c_text_secondary}; margin-bottom: 10px;">'
+                            f'🎯 <b>Especialidade:</b> {subtema_limpo}<br>'
+                            f'🔑 <b>Termos-chave:</b> <span style="color: #38BDF8;">{kw_limpo}</span>'
+                            f'</div>'
+                            f'<div class="pillar-row" style="margin-top: 6px;">'
+                            f'<span>🎯 Aderência: <b>{row_sel["score_aderencia"]}%</b></span> '
+                            f'<span>💰 Custo: <b>{row_sel["score_custo_beneficio"]}%</b></span> '
+                            f'<span>🚚 Logística: <b>{row_sel["score_logistica"]}%</b></span> '
+                            f'<span>🏛️ Histórico: <b>{row_sel["score_historico"]}%</b></span>'
+                            f'</div>'
+                            f'</div>'
+                        )
+                        st.markdown(card_html, unsafe_allow_html=True)
 
                         # BOTÃO CLICÁVEL DIRETO AO PNCP
                         st.link_button(
