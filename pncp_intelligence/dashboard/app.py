@@ -4,6 +4,7 @@ Interface visual completa para análise de editais e demandas públicas,
 radar de oportunidades imediatas, inteligência temática e exportação de dados.
 """
 
+import json
 import os
 import sys
 from datetime import datetime
