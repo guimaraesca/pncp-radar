@@ -791,7 +791,8 @@ def build_sankey_ramificacoes(df, is_dark=True, return_metadata=False):
         pct_n = (v_n / tot_pipe) * 100
         tm_n = v_n / max(1, q_n)
 
-        sub_sorted = sub_df.sort_values(by=["score_candidatura", "valor_total_estimado"], ascending=False)
+        sub_sort_cols = [c for c in ["score_candidatura", "valor_total_estimado"] if c in sub_df.columns]
+        sub_sorted = sub_df.sort_values(by=sub_sort_cols, ascending=False) if sub_sort_cols else sub_df.copy()
 
         tooltip_items = []
         ed_json_list = []
@@ -801,7 +802,11 @@ def build_sankey_ramificacoes(df, is_dark=True, return_metadata=False):
             uf = str(ed.get("uf_sigla", ""))
             val_raw = float(ed.get("valor_total_estimado", 0) or 0)
             val_fmt = formatar_moeda_compacta(val_raw)
-            sc = int(ed.get("score_candidatura", 0))
+            sc_val = ed.get("score_candidatura", 0)
+            try:
+                sc = int(float(sc_val)) if pd.notna(sc_val) else 0
+            except Exception:
+                sc = 0
             dias = float(ed.get("dias_restantes", 0.0) or 0.0)
             prazo_str = f"{dias:.1f}d" if dias > 0 else "Encerrado"
             pncp_id = str(ed.get("numero_controle_pncp", ""))
@@ -911,13 +916,18 @@ def build_sankey_ramificacoes(df, is_dark=True, return_metadata=False):
 
     for _, r in flow3.iterrows():
         sub_ed_link = df_flow[(df_flow["subtema_label"] == r["subtema_label"]) & (df_flow["decisao"] == r["decisao"])]
-        link_sorted = sub_ed_link.sort_values(by=["score_candidatura", "valor_total_estimado"], ascending=False)
+        link_sort_cols = [c for c in ["score_candidatura", "valor_total_estimado"] if c in sub_ed_link.columns]
+        link_sorted = sub_ed_link.sort_values(by=link_sort_cols, ascending=False) if link_sort_cols else sub_ed_link.copy()
         link_items = []
         for _, ed in link_sorted.head(4).iterrows():
             org = str(ed.get("razao_social_orgao", "Órgão"))[:22]
             uf = str(ed.get("uf_sigla", ""))
             val_fmt = formatar_moeda_compacta(float(ed.get("valor_total_estimado", 0) or 0))
-            sc = int(ed.get("score_candidatura", 0))
+            sc_val = ed.get("score_candidatura", 0)
+            try:
+                sc = int(float(sc_val)) if pd.notna(sc_val) else 0
+            except Exception:
+                sc = 0
             url = ed.get("url_oficial_edital") or f"https://pncp.gov.br/app/editais/{ed.get('numero_controle_pncp', '')}"
             link_items.append(f"• <b>[{val_fmt} | Fit {sc}]</b> {org} ({uf})<br>  ↳ 🔗 {url}")
         if len(sub_ed_link) > 4:
@@ -992,11 +1002,16 @@ def render_interactive_sankey_widescreen(df_flow, is_dark=True):
     node_meta_json = json.dumps(node_meta).replace("</script>", "<\\/script>")
 
     # Editais de maior fit para exibição inicial no painel
-    top_default = df_flow.sort_values(by=["score_candidatura", "valor_total_estimado"], ascending=False).head(10).to_dict(orient="records")
+    top_sort_cols = [c for c in ["score_candidatura", "valor_total_estimado"] if c in df_flow.columns]
+    top_default = (df_flow.sort_values(by=top_sort_cols, ascending=False) if top_sort_cols else df_flow).head(10).to_dict(orient="records")
     default_cards = []
     for ed in top_default:
         val_fmt = formatar_moeda_compacta(float(ed.get("valor_total_estimado", 0) or 0))
-        sc = int(ed.get("score_candidatura", 0))
+        sc_val = ed.get("score_candidatura", 0)
+        try:
+            sc = int(float(sc_val)) if pd.notna(sc_val) else 0
+        except Exception:
+            sc = 0
         dias = float(ed.get("dias_restantes", 0.0) or 0.0)
         prazo = f"{dias:.1f}d" if dias > 0 else "Encerrado"
         pncp_id = str(ed.get("numero_controle_pncp", ""))
@@ -2094,7 +2109,7 @@ if menu_navegacao == "📊 1. Visão Geral":
                             df_ramo_cand = df_cand
 
                     if "Ramificações" in tipo_dataviz:
-                        df_sank_input = df_cand if "Pipeline Aberto" in escopo_sankey else filtered_df
+                        df_sank_input = df_cand if "Pipeline Aberto" in escopo_sankey else (df_cand_raw if "df_cand_raw" in locals() and df_cand_raw is not None else filtered_df)
                         if nome_ramo_ativo != "Todos os Ramos":
                             df_sank_input = df_sank_input[df_sank_input["matched_subtema"] == nome_ramo_ativo]
                         render_interactive_sankey_widescreen(df_sank_input, is_dark=is_dark)
@@ -2506,6 +2521,14 @@ elif menu_navegacao == "🧠 2. Contexto":
 
             df_grp_rr["quadrante_predominante"] = df_grp_rr.apply(get_quad_predom, axis=1)
 
+            def get_top_edital_qq_url(sub):
+                sub_match = df_rr[df_rr["matched_subtema"] == sub]
+                if sub_match.empty:
+                    return ""
+                s_cols = [c for c in ["score_retorno", "valor_total_estimado"] if c in sub_match.columns]
+                top_e = sub_match.sort_values(by=s_cols, ascending=False).iloc[0] if s_cols else sub_match.iloc[0]
+                return top_e.get("url_oficial_edital") or (f"https://pncp.gov.br/app/editais/{top_e.get('numero_controle_pncp', '')}" if top_e.get("numero_controle_pncp") else "")
+
             df_grp_display = df_grp_rr[[
                 "matched_subtema", "quadrante_predominante", "sharpe_gov", "total_editais",
                 "volume_total", "ticket_medio", "retorno_medio", "risco_medio", "dias_restantes_med"
@@ -2516,11 +2539,12 @@ elif menu_navegacao == "🧠 2. Contexto":
             df_grp_display["Retorno Médio"] = df_grp_display["retorno_medio"].apply(lambda v: f"{v:.1f} pts")
             df_grp_display["Risco Médio"] = df_grp_display["risco_medio"].apply(lambda v: f"{v:.1f} pts")
             df_grp_display["Prazo Médio"] = df_grp_display["dias_restantes_med"].apply(lambda d: f"⏳ {d:.1f}d")
+            df_grp_display["Edital Oficial"] = df_grp_display["matched_subtema"].apply(get_top_edital_qq_url)
 
             st.dataframe(
                 df_grp_display[[
                     "matched_subtema", "quadrante_predominante", "sharpe_gov", "total_editais",
-                    "Volume Total (R$)", "Ticket Médio (R$)", "Retorno Médio", "Risco Médio", "Prazo Médio"
+                    "Volume Total (R$)", "Ticket Médio (R$)", "Retorno Médio", "Risco Médio", "Prazo Médio", "Edital Oficial"
                 ]].rename(columns={
                     "matched_subtema": "Segmento / Linha de Demanda",
                     "quadrante_predominante": "Perfil Predominante",
@@ -2528,6 +2552,7 @@ elif menu_navegacao == "🧠 2. Contexto":
                     "total_editais": "Nº Editais",
                 }),
                 column_config={
+                    "Edital Oficial": st.column_config.LinkColumn("Edital no PNCP", display_text="🔗 Abrir Edital"),
                     "Sharpe Gov (Retorno/Risco)": st.column_config.NumberColumn("Sharpe Gov", format="%.2f x"),
                     "Nº Editais": st.column_config.NumberColumn("Qtd Editais", format="%d"),
                 },
@@ -2535,6 +2560,38 @@ elif menu_navegacao == "🧠 2. Contexto":
                 hide_index=True,
                 height=480
             )
+
+            with st.expander("📂 Ver Lista Completa de Editais por Segmento Tecnológico", expanded=False):
+                sub_escolhido_qq = st.selectbox(
+                    "Selecione o segmento tecnológico para inspecionar todos os editais:",
+                    df_grp_rr["matched_subtema"].tolist(),
+                    key="sb_sub_qq_editais_drawer"
+                )
+                df_sub_editais = df_rr[df_rr["matched_subtema"] == sub_escolhido_qq].copy()
+                if not df_sub_editais.empty:
+                    df_sub_editais["Valor"] = df_sub_editais["valor_total_estimado"].apply(formatar_moeda_completa)
+                    df_sub_editais["Prazo"] = df_sub_editais["dias_restantes"].apply(lambda d: f"⏳ {d:.1f}d" if d > 0 else "⏳ Encerrado")
+                    df_sub_editais["url_link"] = df_sub_editais.apply(
+                        lambda r: r.get("url_oficial_edital") or (f"https://pncp.gov.br/app/editais/{r.get('numero_controle_pncp', '')}" if r.get("numero_controle_pncp") else ""),
+                        axis=1
+                    )
+                    st.dataframe(
+                        df_sub_editais[[
+                            "razao_social_orgao", "uf_sigla", "modalidade_nome", "Valor", "Prazo", "objeto_compra", "url_link"
+                        ]].rename(columns={
+                            "razao_social_orgao": "Órgão Contratante",
+                            "uf_sigla": "UF",
+                            "modalidade_nome": "Modalidade",
+                            "objeto_compra": "Objeto da Contratação",
+                            "url_link": "Edital Oficial"
+                        }),
+                        column_config={
+                            "Edital Oficial": st.column_config.LinkColumn("Edital no PNCP", display_text="🔗 Abrir no PNCP"),
+                            "Objeto da Contratação": st.column_config.TextColumn("Objeto", width="large")
+                        },
+                        hide_index=True,
+                        use_container_width=True
+                    )
 
             st.markdown("---")
 
@@ -3042,13 +3099,63 @@ elif menu_navegacao == "🧠 2. Contexto":
                 df_tema_tabela["Ticket Médio (R$)"] = df_tema_tabela["ticket_medio"].apply(formatar_moeda_completa)
                 df_tema_tabela["Nº Editais"] = df_tema_tabela["qtd_editais"].apply(formatar_inteiro)
 
+                def get_edital_linha_url(sub):
+                    sub_match = filtered_df[filtered_df["matched_subtema"] == sub]
+                    if sub_match.empty:
+                        return ""
+                    s_cols = [c for c in ["score_candidatura", "valor_total_estimado"] if c in sub_match.columns]
+                    top_e = sub_match.sort_values(by=s_cols, ascending=False).iloc[0] if s_cols else sub_match.iloc[0]
+                    return top_e.get("url_oficial_edital") or (f"https://pncp.gov.br/app/editais/{top_e.get('numero_controle_pncp', '')}" if top_e.get("numero_controle_pncp") else "")
+
+                df_tema_tabela["Edital Oficial"] = df_tema_tabela["matched_subtema"].apply(get_edital_linha_url)
+
                 st.dataframe(
-                    df_tema_tabela[["matched_subtema", "Nº Editais", "Total Estimado (R$)", "Ticket Médio (R$)"]].rename(columns={
+                    df_tema_tabela[["matched_subtema", "Nº Editais", "Total Estimado (R$)", "Ticket Médio (R$)", "Edital Oficial"]].rename(columns={
                         "matched_subtema": "Linha de Produto"
                     }),
+                    column_config={
+                        "Edital Oficial": st.column_config.LinkColumn("Edital no PNCP", display_text="🔗 Abrir Edital"),
+                        "Nº Editais": st.column_config.NumberColumn("Qtd Editais", format="%d")
+                    },
                     use_container_width=True,
                     hide_index=True,
-                    height=680
+                    height=440
+                )
+
+            # Lista Completa de Editais da Linha de Produto
+            st.markdown("---")
+            st.markdown("##### 📑 Lista Completa de Editais por Linha de Produto")
+            linhas_prod_lista = df_tema["matched_subtema"].unique().tolist()
+            linha_sel_prod = st.selectbox(
+                "Selecione a Linha de Produto para listar todos os editais vinculados:",
+                linhas_prod_lista,
+                key="sb_linha_prod_editais_full"
+            )
+            df_editais_linha = filtered_df[filtered_df["matched_subtema"] == linha_sel_prod].copy()
+            if not df_editais_linha.empty:
+                df_editais_linha["Valor"] = df_editais_linha["valor_total_estimado"].apply(formatar_moeda_completa)
+                df_editais_linha["Prazo"] = df_editais_linha["dias_restantes"].apply(lambda d: f"⏳ {d:.1f}d" if d > 0 else "⏳ Encerrado")
+                df_editais_linha["url_link"] = df_editais_linha.apply(
+                    lambda r: r.get("url_oficial_edital") or (f"https://pncp.gov.br/app/editais/{r.get('numero_controle_pncp', '')}" if r.get("numero_controle_pncp") else ""),
+                    axis=1
+                )
+                st.dataframe(
+                    df_editais_linha[[
+                        "razao_social_orgao", "uf_sigla", "modalidade_nome", "Valor", "Prazo", "objeto_compra", "url_link"
+                    ]].rename(columns={
+                        "razao_social_orgao": "Órgão Contratante",
+                        "uf_sigla": "UF",
+                        "modalidade_nome": "Modalidade",
+                        "objeto_compra": "Objeto da Contratação",
+                        "url_link": "Edital Oficial"
+                    }),
+                    column_config={
+                        "Edital Oficial": st.column_config.LinkColumn("Edital no PNCP", display_text="🔗 Abrir Edital"),
+                        "Objeto da Contratação": st.column_config.TextColumn("Objeto", width="large")
+                    },
+                    hide_index=True,
+                    use_container_width=True,
+                    height=400
                 )
 
 # ----------------- MÓDULO 6: INTELIGÊNCIA NLP & NUVEM -----------------
