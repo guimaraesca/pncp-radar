@@ -41,3 +41,5 @@ projeto_link.md
 
 # Dados brutos temporários fora do módulo PNCP
 /data/
+pncp_intelligence/data/briefings_ia/
+pncp_intelligence/data/edital_docs/

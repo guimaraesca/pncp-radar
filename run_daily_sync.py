@@ -64,12 +64,21 @@ def main():
     collector.run_id = tracker.start(keywords_hash=collector.matcher.fingerprint())
     logger.info(f"🧾 Execução {collector.run_id} (dicionário {collector.matcher.fingerprint()})")
 
-    logger.info("📡 1. Verificando propostas abertas no PNCP para os temas prioritários...")
+    logger.info("📡 1. Verificando propostas abertas no PNCP (Busca Indexada por Termos + Varredura Ativa)...")
     novos = []
     run_error = None
     try:
-        novos = collector.collect_live_opportunities(days_ahead=30, max_pages_per_mod=10)
-        logger.info(f"✅ Coleta finalizada: {len(novos)} editais com propostas abertas mapeados.")
+        novos_search = collector.collect_by_search_terms(status="recebendo_proposta", max_pages_per_query=2)
+        novos_live = collector.collect_live_opportunities(days_ahead=30, max_pages_per_mod=6)
+        seen_ids = set()
+        for op in novos_search + novos_live:
+            if op.get("id") and op["id"] not in seen_ids:
+                seen_ids.add(op["id"])
+                novos.append(op)
+        logger.info(
+            f"✅ Coleta finalizada: {len(novos)} editais únicos com propostas abertas mapeados "
+            f"({len(novos_search)} via busca textual, {len(novos_live)} via listagem geral)."
+        )
     except Exception as e:
         run_error = f"{type(e).__name__}: {e}"
         logger.error(f"⚠️ Erro ao consultar API ao vivo do PNCP: {e}")

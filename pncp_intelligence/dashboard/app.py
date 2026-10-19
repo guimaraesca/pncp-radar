@@ -3815,27 +3815,26 @@ elif menu_navegacao == "🔍 3. Detalhes":
         )
 
         if st.button("Iniciar Coleta Agora"):
-            with st.spinner("Consultando API do PNCP..."):
+            with st.spinner("Consultando API de Busca e Propostas Abertas do PNCP..."):
                 d_fim = datetime.today().date()
                 if modo_coleta == "Oportunidades Ativas (Propostas Abertas Hoje)":
-                    res = collector.collect_live_opportunities(days_ahead=30)
-                elif modo_coleta == "Últimos 30 Dias":
-                    d_ini = d_fim - pd.Timedelta(days=30)
-                    res = collector.collect_period(d_ini, d_fim)
-                elif modo_coleta == "Últimos 90 Dias":
-                    d_ini = d_fim - pd.Timedelta(days=90)
-                    res = collector.collect_period(d_ini, d_fim)
-                elif "2 Anos" in modo_coleta:
-                    d_ini = d_fim - pd.Timedelta(days=730)
-                    res = collector.collect_period(d_ini, d_fim)
-                elif "3 Anos" in modo_coleta:
-                    d_ini = d_fim - pd.Timedelta(days=1095)
-                    res = collector.collect_period(d_ini, d_fim)
+                    op_search = collector.collect_by_search_terms(status="recebendo_proposta", max_pages_per_query=2)
+                    st.cache_data.clear()
+                    st.success(f"Coleta concluída! {formatar_inteiro(len(op_search))} oportunidades ativas indexadas diretamente nos termos prioritários.")
                 else:
-                    d_ini = d_fim - pd.Timedelta(days=1460)
+                    if modo_coleta == "Últimos 30 Dias":
+                        d_ini = d_fim - pd.Timedelta(days=30)
+                    elif modo_coleta == "Últimos 90 Dias":
+                        d_ini = d_fim - pd.Timedelta(days=90)
+                    elif "2 Anos" in modo_coleta:
+                        d_ini = d_fim - pd.Timedelta(days=730)
+                    elif "3 Anos" in modo_coleta:
+                        d_ini = d_fim - pd.Timedelta(days=1095)
+                    else:
+                        d_ini = d_fim - pd.Timedelta(days=1460)
                     res = collector.collect_period(d_ini, d_fim)
-
-                st.success(f"Coleta concluída! {formatar_inteiro(res['total_scanned'])} analisados, {formatar_inteiro(res['total_matches'])} editais relevantes salvos e {formatar_inteiro(res['total_items_saved'])} itens indexados.")
+                    st.cache_data.clear()
+                    st.success(f"Coleta concluída! {formatar_inteiro(res['total_scanned'])} analisados, {formatar_inteiro(res['total_matches'])} editais relevantes salvos e {formatar_inteiro(res['total_items_saved'])} itens indexados.")
                 st.rerun()
 
     st.markdown("---")

@@ -158,14 +158,33 @@ class PNCPCollector:
         pncp_id = item.get("numeroControlePNCP")
 
         if self.fetch_items_on_match and cnpj and ano and seq and pncp_id:
-            itens = self.client.get_itens_compra(cnpj, ano, seq) or []
-            if itens:
-                n_itens = self.db.insert_itens(pncp_id, itens)
+            with self.db.get_connection() as conn:
+                existing_count = conn.execute(
+                    "SELECT COUNT(*) FROM itens_contratacao WHERE numero_controle_pncp = ?", (pncp_id,)
+                ).fetchone()[0]
+            if existing_count == 0:
+                itens = self.client.get_itens_compra(cnpj, ano, seq) or []
+                if not itens and objeto:
+                    val_est = float(item.get("valorTotalEstimado") or 0.0)
+                    itens = [{
+                        "numeroItem": 1,
+                        "descricao": objeto[:500],
+                        "quantidade": 1.0,
+                        "unidadeMedida": "UN",
+                        "valorUnitarioEstimado": val_est,
+                        "valorTotal": val_est,
+                        "situacaoCompraItemNome": "Em andamento",
+                        "criterioJulgamentoNome": "Menor preço",
+                    }]
+                if itens:
+                    n_itens = self.db.insert_itens(pncp_id, itens)
+            else:
+                n_itens = existing_count
 
         # 3. Anexos e download de PDFs (se habilitado)
         downloaded_pdfs: List[str] = []
         doc_links: List[str] = []
-        if cnpj and ano and seq:
+        if self.download_pdfs and cnpj and ano and seq:
             arquivos_meta = self.client.get_arquivos_compra(cnpj, ano, seq) or []
             for arq in arquivos_meta:
                 seq_doc = arq.get("sequencialDocumento")
@@ -398,4 +417,103 @@ class PNCPCollector:
         opportunities.sort(key=lambda x: (not x.get("is_priority_geo", False), x.get("geo_distancia", 999)))
 
         logger.info(f"Varredura concluída: {total_scanned} analisados | {total_matches} editais | {total_items} itens salvos.")
+        return opportunities
+
+    def collect_by_search_terms(
+        self,
+        queries: Optional[List[str]] = None,
+        status: str = "recebendo_proposta",
+        max_pages_per_query: int = 2,
+        tam_pagina: int = 100,
+    ) -> List[Dict[str, Any]]:
+        """Coleta editais diretamente pela API de busca textual do PNCP (/api/search/) para cada termo estratégico."""
+        search_queries = queries or self.matcher.get_search_queries()
+        seen_pncp: set[str] = set()
+        opportunities: List[Dict[str, Any]] = []
+        total_scanned = 0
+        total_matches = 0
+        total_items = 0
+
+        logger.info(f"Iniciando busca textual indexada no PNCP para {len(search_queries)} termos (status={status})...")
+
+        for q_idx, query in enumerate(search_queries, 1):
+            for pagina in range(1, max_pages_per_query + 1):
+                resp = self.client.search_editais(
+                    query=query,
+                    status=status,
+                    pagina=pagina,
+                    tam_pagina=tam_pagina,
+                    ordenacao="-data",
+                )
+                if not resp:
+                    if self.client.last_request_failed:
+                        self.api_errors += 1
+                    break
+
+                raw_items = resp.get("items") or []
+                if not raw_items:
+                    break
+
+                normalized_batch: List[Dict[str, Any]] = []
+                for raw_it in raw_items:
+                    norm_it = self.client.normalize_search_item(raw_it)
+                    if norm_it.get("numeroControlePNCP"):
+                        normalized_batch.append(norm_it)
+
+                if normalized_batch:
+                    self._audit("api/search", normalized_batch)
+
+                for item in normalized_batch:
+                    pncp_id = item.get("numeroControlePNCP")
+                    if not pncp_id or pncp_id in seen_pncp:
+                        continue
+
+                    total_scanned += 1
+                    objeto = item.get("objetoCompra") or ""
+                    info = item.get("informacaoComplementar") or ""
+
+                    is_match, cat_name, sub_name, terms = self.matcher.match(
+                        objeto, info, search_hint=query
+                    )
+                    if is_match:
+                        seen_pncp.add(pncp_id)
+                        total_matches += 1
+                        n_itens, downloaded_pdfs, briefing_path = self._process_matched_edital(
+                            item, cat_name, sub_name, terms, source_endpoint="api/search"
+                        )
+                        total_items += n_itens
+
+                        unidade = item.get("unidadeOrgao") or {}
+                        geo_info = self.geo.match_localidade(
+                            unidade.get("municipioNome"), unidade.get("ufSigla"), objeto_texto=objeto
+                        )
+                        opportunities.append({
+                            "id": pncp_id,
+                            "title": objeto[:230],
+                            "end_date": str(item.get("dataEncerramentoProposta") or "Ver Edital")[:10],
+                            "file_paths": downloaded_pdfs,
+                            "briefing_path": briefing_path,
+                            "source": "PNCP",
+                            "url": item.get("linkSistemaOrigem") or f"https://pncp.gov.br/app/editais/{pncp_id}",
+                            "geo_info": geo_info,
+                            "is_priority_geo": geo_info.get("is_priority_geo", False),
+                            "geo_distancia": geo_info.get("distancia_km") if geo_info.get("distancia_km") is not None else 999,
+                            "valor_estimado": item.get("valorTotalEstimado") or 0.0,
+                        })
+
+                total_found = int(resp.get("total") or 0)
+                if pagina * tam_pagina >= total_found:
+                    break
+
+            if q_idx % 10 == 0 or q_idx == len(search_queries):
+                logger.info(
+                    f"   [{q_idx}/{len(search_queries)}] Termos consultados | "
+                    f"Analisados: {total_scanned} | Capturados: {total_matches}"
+                )
+
+        opportunities.sort(key=lambda x: (not x.get("is_priority_geo", False), x.get("geo_distancia", 999)))
+        logger.info(
+            f"Busca textual PNCP concluída: {total_scanned} analisados | "
+            f"{total_matches} editais únicos salvos | {total_items} itens."
+        )
         return opportunities

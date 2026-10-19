@@ -166,6 +166,96 @@ class PNCPClient:
 
         return self._request_with_retry("GET", url, params=params)
 
+    def search_editais(
+        self,
+        query: str,
+        status: str = "recebendo_proposta",
+        pagina: int = 1,
+        tam_pagina: int = 100,
+        ordenacao: str = "-data",
+    ) -> Optional[Dict[str, Any]]:
+        """Consulta editais diretamente no motor de busca indexado do PNCP (/api/search/)."""
+        url = "https://pncp.gov.br/api/search/"
+        params: Dict[str, Any] = {
+            "q": query,
+            "tipos_documento": "edital",
+            "ordenacao": ordenacao,
+            "pagina": pagina,
+            "tam_pagina": tam_pagina,
+        }
+        if status and status != "todos":
+            params["status"] = status
+
+        return self._request_with_retry("GET", url, params=params)
+
+    @staticmethod
+    def normalize_search_item(it: Dict[str, Any]) -> Dict[str, Any]:
+        """Converte um registro do motor /api/search/ para o contrato canônico de contratações do PNCP."""
+        cnpj = str(it.get("orgao_cnpj") or "").strip()
+        ano = int(it.get("ano") or 2026)
+        seq = int(it.get("numero_sequencial") or 1)
+        pncp_id = str(it.get("numero_controle_pncp") or f"{cnpj}-1-{seq:06d}/{ano}")
+        dt_pub = str(it.get("data_publicacao_pncp") or it.get("createdAt") or "")
+        dt_ini = str(it.get("data_inicio_vigencia") or it.get("data_inicio_recebimento_propostas") or dt_pub)
+        dt_fim = str(it.get("data_fim_vigencia") or it.get("data_fim_recebimento_propostas") or "")
+
+        val_est_raw = it.get("valor_total_estimado")
+        if val_est_raw is None:
+            val_est_raw = it.get("valor_global")
+        try:
+            val_est = float(val_est_raw) if val_est_raw is not None else 0.0
+        except (TypeError, ValueError):
+            val_est = 0.0
+
+        val_hom_raw = it.get("valor_total_homologado")
+        try:
+            val_hom = float(val_hom_raw) if val_hom_raw is not None else None
+        except (TypeError, ValueError):
+            val_hom = None
+
+        try:
+            mod_id = int(it.get("modalidade_licitacao_id") or 6)
+        except (TypeError, ValueError):
+            mod_id = 6
+
+        link_orig = str(it.get("link_sistema_origem") or "").strip()
+        if not link_orig.startswith("http") and cnpj:
+            link_orig = f"https://pncp.gov.br/editais/{cnpj}/{ano}/{seq}"
+
+        return {
+            "numeroControlePNCP": pncp_id,
+            "anoCompra": ano,
+            "sequencialCompra": seq,
+            "numeroCompra": str(it.get("numero") or ""),
+            "processo": str(it.get("numero_contratacao") or it.get("numero") or ""),
+            "objetoCompra": str(it.get("description") or it.get("title") or ""),
+            "informacaoComplementar": str(it.get("informacao_complementar") or ""),
+            "modalidadeId": mod_id,
+            "modalidadeNome": str(it.get("modalidade_licitacao_nome") or "Pregão - Eletrônico"),
+            "modoDisputaNome": str(it.get("modo_disputa_nome") or ""),
+            "situacaoCompraNome": str(it.get("situacao_nome") or "Divulgada no PNCP"),
+            "valorTotalEstimado": val_est,
+            "valorTotalHomologado": val_hom,
+            "dataPublicacaoPncp": dt_pub,
+            "dataAberturaProposta": dt_ini,
+            "dataEncerramentoProposta": dt_fim if dt_fim else None,
+            "orgaoEntidade": {
+                "cnpj": cnpj,
+                "razaoSocial": str(it.get("orgao_nome") or "Órgão Público"),
+                "esferaId": str(it.get("esfera_id") or ""),
+                "poderId": str(it.get("poder_id") or ""),
+            },
+            "unidadeOrgao": {
+                "ufSigla": str(it.get("uf") or ""),
+                "municipioNome": str(it.get("municipio_nome") or ""),
+                "codigoUnidade": str(it.get("unidade_codigo") or ""),
+                "nomeUnidade": str(it.get("unidade_nome") or ""),
+            },
+            "srp": bool(it.get("srp")),
+            "linkSistemaOrigem": link_orig,
+            "linkProcessoEletronico": it.get("link_processo_eletronico"),
+        }
+
     def get_itens_compra(self, cnpj: str, ano: int, sequencial: int) -> Optional[List[Dict[str, Any]]]:
         """Obtém a lista detalhada de itens de uma compra/edital."""
         clean_cnpj = "".join(filter(str.isdigit, str(cnpj)))

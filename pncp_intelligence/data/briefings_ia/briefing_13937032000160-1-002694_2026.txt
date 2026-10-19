@@ -2,9 +2,44 @@ PORTAL: PNCP (Portal Nacional de Contratações Públicas)
 ÓRGÃO CONTRATANTE: ESTADO DA BAHIA (Salvador/BA)
 MODALIDADE: Pregão - Eletrônico
 OBJETO DA CONTRATAÇÃO: Registro de Preços, para contratação de empresa especializada na prestação de serviços de disponibilização de plataforma de atendimento multicanal, na modalidade CPaaS (Plataforma de Comunicação como Serviço) e SaaS (Software as a Service), contemplando recursos integrados de mensageria, atendimento por chat, voz e vídeo (WebRTC), com funcionalidade de gravação e armazenamento, validação de documentação e biometria e atendimento automatizado por chatbot com Inteligência Artificial Generativa, bem como a prestação dos serviços de implantação, integração e configuração da solução, treinamento, suporte técnico em regime 24 (vinte e quatro) horas por dia e 7 (sete) dias por semana e execução de serviços sob demanda para customização da plataforma.
-VALOR ESTIMADO: R$ 102,564,701.36
-PRAZO PARA PROPOSTAS: 2026-10-20T10:00:00
+VALOR ESTIMADO: R$ 102.564.701,36
+PRAZO PARA PROPOSTAS: 2026-10-20T10:00
 LINK OFICIAL: https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1100082
-SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
 BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
-DISTÂNCIA ESTIMADA: 999 km
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+
+DADOS COMPLETOS EM JSON:
+{
+  "numeroControlePNCP": "13937032000160-1-002694/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 2694,
+  "numeroCompra": "132/2026",
+  "processo": "132/2026",
+  "objetoCompra": "Registro de Preços, para contratação de empresa especializada na prestação de serviços de disponibilização de plataforma de atendimento multicanal, na modalidade CPaaS (Plataforma de Comunicação como Serviço) e SaaS (Software as a Service), contemplando recursos integrados de mensageria, atendimento por chat, voz e vídeo (WebRTC), com funcionalidade de gravação e armazenamento, validação de documentação e biometria e atendimento automatizado por chatbot com Inteligência Artificial Generativa, bem como a prestação dos serviços de implantação, integração e configuração da solução, treinamento, suporte técnico em regime 24 (vinte e quatro) horas por dia e 7 (sete) dias por semana e execução de serviços sob demanda para customização da plataforma.",
+  "informacaoComplementar": "",
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaNome": "Aberto-Fechado",
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "valorTotalEstimado": 102564701.36,
+  "valorTotalHomologado": null,
+  "dataPublicacaoPncp": "2026-09-29T11:40:05.505633",
+  "dataAberturaProposta": "2026-10-16T08:30",
+  "dataEncerramentoProposta": "2026-10-20T10:00",
+  "orgaoEntidade": {
+    "cnpj": "13937032000160",
+    "razaoSocial": "ESTADO DA BAHIA",
+    "esferaId": "E",
+    "poderId": "N"
+  },
+  "unidadeOrgao": {
+    "ufSigla": "BA",
+    "municipioNome": "Salvador",
+    "codigoUnidade": "000000001",
+    "nomeUnidade": "SAEB - SECRETARIA DE ADMINISTRACAO"
+  },
+  "srp": true,
+  "linkSistemaOrigem": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1100082",
+  "linkProcessoEletronico": null
+}

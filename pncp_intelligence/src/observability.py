@@ -540,9 +540,14 @@ class HealthEvaluator:
         if len(runs) == 2 and runs[1]["rows_matched_after"]:
             base, cur = runs[1]["rows_matched_after"], len(scope)
             drop = (base - cur) / base * 100
-            st = "FAIL" if drop > c["max_row_drop_pct"] else "PASS"
+            dict_changed = (runs[0]["keywords_hash"] != runs[1]["keywords_hash"]) if ("keywords_hash" in runs[0].keys() and "keywords_hash" in runs[1].keys()) else False
+            if drop > c["max_row_drop_pct"]:
+                st = "WARN" if dict_changed else "FAIL"
+            else:
+                st = "PASS"
+            det = f"Comparado à execução {runs[1]['run_id']}." + (" (dicionário alterado)" if dict_changed else "")
             self._add("Volume", "variacao_do_escopo", st, f"{cur} (antes: {base}; Δ {-drop:+.1f}%)",
-                      f"queda ≤ {c['max_row_drop_pct']}%", f"Comparado à execução {runs[1]['run_id']}.")
+                      f"queda ≤ {c['max_row_drop_pct']}%", det)
         else:
             self._add("Volume", "variacao_do_escopo", "SKIP", len(scope), "", "Precisa de ≥ 2 execuções registradas para ter baseline.")
 
@@ -551,9 +556,11 @@ class HealthEvaluator:
         if len(runs) == 2 and runs[1]["uf_counts"]:
             prev_ufs = set(json.loads(runs[1]["uf_counts"]))
             lost = sorted(prev_ufs - cur_ufs)
-            st = "FAIL" if len(lost) > c["max_uf_loss"] else "PASS"
+            dict_changed = (runs[0]["keywords_hash"] != runs[1]["keywords_hash"]) if ("keywords_hash" in runs[0].keys() and "keywords_hash" in runs[1].keys()) else False
+            st = "WARN" if (len(lost) > c["max_uf_loss"] and dict_changed) else ("FAIL" if len(lost) > c["max_uf_loss"] else "PASS")
+            det = f"Comparado à execução {runs[1]['run_id']}." + (" (dicionário alterado)" if dict_changed else "")
             self._add("Volume", "cobertura_de_ufs", st, f"{len(cur_ufs)} UFs (perdeu: {', '.join(lost) or 'nenhuma'})",
-                      f"perdas ≤ {c['max_uf_loss']}", f"Comparado à execução {runs[1]['run_id']}.")
+                      f"perdas ≤ {c['max_uf_loss']}", det)
         else:
             self._add("Volume", "cobertura_de_ufs", "SKIP", f"{len(cur_ufs)} UFs", "", "Sem baseline de UFs (precisa de ≥ 2 execuções).")
 
