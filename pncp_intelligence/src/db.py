@@ -10,16 +10,27 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 
+from contextlib import contextmanager
+
+
 class PNCPDatabase:
     def __init__(self, db_path: str = "pncp_intelligence/data/pncp_intelligence.sqlite"):
         self.db_path = Path(db_path)
         self.db_path.parent.mkdir(parents=True, exist_ok=True)
         self._init_db()
 
-    def get_connection(self) -> sqlite3.Connection:
+    @contextmanager
+    def get_connection(self):
         conn = sqlite3.connect(self.db_path)
         conn.row_factory = sqlite3.Row
-        return conn
+        try:
+            yield conn
+            conn.commit()
+        except Exception:
+            conn.rollback()
+            raise
+        finally:
+            conn.close()
 
     def _init_db(self) -> None:
         with self.get_connection() as conn:

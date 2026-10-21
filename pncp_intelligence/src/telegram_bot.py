@@ -10,7 +10,7 @@ import os
 import urllib.parse
 import urllib.request
 from datetime import datetime
-from typing import Optional
+from typing import Any, Dict, List, Optional
 import pandas as pd
 
 logger = logging.getLogger("TelegramNotifier")

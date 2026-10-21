@@ -30,6 +30,16 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
+# Ajusta limite de descritores de arquivo no macOS para evitar Errno 24 (Too many open files)
+try:
+    import resource
+    soft, hard = resource.getrlimit(resource.RLIMIT_NOFILE)
+    target_limit = min(4096, hard) if hard > 0 else 4096
+    if soft < target_limit:
+        resource.setrlimit(resource.RLIMIT_NOFILE, (target_limit, hard))
+except Exception:
+    pass
+
 # Garante raiz do projeto no sys.path
 BASE_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(BASE_DIR))
