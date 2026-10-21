@@ -136,14 +136,29 @@ def main():
     except Exception as e:
         logger.error(f"⚠️ Erro ao reexportar mapa: {e}")
 
-    # 4. Disparo de Briefing no Telegram (suprimido se a saúde dos dados estiver em FAIL)
-    logger.info("📱 4. Processando notificação para o Telegram...")
+    # 4. Disparo de Briefing Unificado no Telegram (PNCP + I.C.A.R.O.)
+    logger.info("📱 4. Processando Briefing Integrado no Telegram (PNCP + I.C.A.R.O.)...")
     if report.overall == "FAIL":
         logger.error("⛔ Saúde dos dados em FAIL: alerta de oportunidades NÃO enviado (evita decisão sobre dado ruim).")
     elif telegram.is_configured:
-        sucesso = telegram.send_candidacy_alert(df_radar, top_n=6, total_indexados=len(df_geral))
+        import json
+        icaro_opps = []
+        icaro_json_paths = [
+            Path(__file__).resolve().parent / "pncp_intelligence" / "data" / "icaro" / "oportunidades_icaro.json",
+            Path(__file__).resolve().parent.parent / "SixSigma" / "data" / "db" / "oportunidades_icaro.json",
+        ]
+        for p in icaro_json_paths:
+            if p.exists():
+                try:
+                    with open(p, "r", encoding="utf-8") as f:
+                        icaro_opps = json.load(f)
+                    break
+                except Exception:
+                    pass
+
+        sucesso = telegram.send_integrated_briefing(df_radar, icaro_opps, top_pncp=6, top_icaro=6)
         if sucesso:
-            logger.info("✅ Briefing executivo enviado com sucesso para o seu Telegram!")
+            logger.info("✅ Briefing executivo integrado enviado com sucesso para o seu Telegram!")
         else:
             logger.warning("⚠️ Falha ao entregar mensagem no Telegram. Verifique logs acima.")
     else:

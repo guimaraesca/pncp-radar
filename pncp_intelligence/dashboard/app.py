@@ -28,6 +28,7 @@ from pncp_intelligence.src.exporter import PNCPExporter
 from pncp_intelligence.src.nlp_analytics import NLPAnalytics
 from pncp_intelligence.src.geo_map import GeoMapBuilder, BASES_ESTRATEGICAS, CAPITAIS_INFO
 from pncp_intelligence.src.observability import evaluate_health, lineage_for_edital, LINEAGE_STAGES, INDICATOR_LINEAGE
+from pncp_intelligence.dashboard.icaro_view import render_icaro_module
 from pncp_intelligence.src.formatters import (
     formatar_inteiro,
     formatar_moeda,
@@ -1826,7 +1827,8 @@ menu_navegacao = st.sidebar.radio(
         "📊 1. Visão Geral",
         "🧠 2. Contexto",
         "🔍 3. Detalhes",
-        "🛡️ 4. Observabilidade"
+        "🛡️ 4. Observabilidade",
+        "🦅 5. I.C.A.R.O. (Agências & Privado)"
     ],
     index=0,
     label_visibility="collapsed"
@@ -4005,3 +4007,7 @@ elif menu_navegacao == "🛡️ 4. Observabilidade":
 
     except Exception as e:
         st.warning(f"Não foi possível avaliar o relatório de observabilidade no momento: {e}")
+
+# ----------------- MÓDULO 5: CENTRAL I.C.A.R.O. (AGÊNCIAS & PRIVADO) -----------------
+elif menu_navegacao == "🦅 5. I.C.A.R.O. (Agências & Privado)":
+    render_icaro_module(is_dark=is_dark)
