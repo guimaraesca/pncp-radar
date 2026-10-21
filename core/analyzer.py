@@ -41,8 +41,10 @@ DIRETRIZES DE PONTUACAO / PESOS:
   5. Plataforma educacional digital (SaaS), ambientes virtuais (AVA), licencas de software educacional.
   6. BNCC Computacao, Pensamento Computacional, Letramento/Cultura Digital, Robotica Educacional, Kits STEAM.
   7. Formacao Continuada de Professores em tecnologia, dados e inovacao curricular.
+  8. Material Didatico Estruturado, Solucoes Educacionais Integradas, Livros e Recursos Pedagogicos Tecnologicos.
+  9. Inteligencia Artificial aplicada a educacao e gestao publica, Modelagem Preditiva e Machine Learning.
 - TEMAS ADJACENTES (Score "Alta" ou "Media"): Planos Municipais/Estaduais de Educacao, Consultoria em Governanca Educacional, Avaliacao de Politicas Publicas, Engenharia/Analise de Dados Publicos.
-- FORA DO ESCOPO (Score "Baixa"): Obras civis, reformas, alimentacao/merenda escolar, transporte escolar, compras de materiais genericos (expediente, limpeza, vigilancia, hospitalar).
+- FORA DO ESCOPO (Score "Baixa"): Obras civis, reformas, alimentacao/merenda escolar, transporte escolar, medicina do trabalho, compras de materiais genericos (expediente, limpeza, vigilancia, hospitalar).
 
 DIRETRIZ GEOGRAFICA E LOGISTICA:
 - Bases estrategicas da empresa: Sao Paulo (SP), Campinas (SP), Brasilia (DF), Goiania (GO), Joinville (SC), Recife (PE) e Natal (RN), raio de ate 200 km dessas bases, ou contratos 100% Remotos.

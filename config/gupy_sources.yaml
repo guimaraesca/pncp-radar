@@ -1,0 +1,181 @@
+# =============================================================
+# I.C.A.R.O. — Configuração Centralizada de Fontes Gupy
+# =============================================================
+# Todos os subdomínios validados em 2026-09-21.
+# O motor usa requests.Session + __NEXT_DATA__ para extração.
+# =============================================================
+
+terceiro_setor:
+  - subdomain: fundacao-lemann
+    label: "Fundação Lemann"
+  - subdomain: institutounibanco
+    label: "Instituto Unibanco"
+  - subdomain: vivo
+    label: "Fundação Telefônica Vivo"
+  - subdomain: institutoayrtonsenna
+    label: "Instituto Ayrton Senna"
+  - subdomain: itausocial
+    label: "Itaú Social"
+
+privado_edtechs:
+  - subdomain: cogna
+    label: "Cogna Educação"
+  - subdomain: somos
+    label: "SOMOS Educação"
+  - subdomain: yduqs
+    label: "Yduqs"
+  - subdomain: arvore
+    label: "Árvore Educação"
+  - subdomain: arco-educacao
+    label: "Arco Educação"
+  - subdomain: geekie
+    label: "Geekie"
+  - subdomain: descomplica
+    label: "Descomplica"
+  - subdomain: alura
+    label: "Alura / FIAP"
+  - subdomain: quero-educacao
+    label: "Quero Educação"
+  - subdomain: sanar
+    label: "Sanar"
+
+privado_consultorias:
+  - subdomain: elogroup
+    label: "EloGroup"
+  - subdomain: falconi
+    label: "Falconi"
+  - subdomain: macroplan
+    label: "Macroplan"
+
+privado_govtechs:
+  - subdomain: portabilis
+    label: "Portabilis"
+  - subdomain: totvs
+    label: "TOTVS"
+  - subdomain: techne
+    label: "Techne"
+  - subdomain: evolucional
+    label: "Evolucional"
+
+# Palavras-chave positivas para pré-filtro de relevância
+keywords:
+  # Dados & Inteligência Artificial
+  - inteligência artificial
+  - inteligencia artificial
+  - machine learning
+  - ciência de dados
+  - ciencia de dados
+  - análise de dados
+  - analise de dados
+  - business intelligence
+  - power bi
+  - dashboards
+  - dashboard
+  - painel de indicadores
+  - sala de situação
+  # Avaliação Educacional & Indicadores
+  - saeb
+  - ideb
+  - enem
+  - simulados enem
+  - simulado enem
+  - indicadores educacionais
+  - avaliação diagnóstica
+  - avaliacao diagnostica
+  - avaliação formativa
+  - recomposição de aprendizagem
+  - fluência leitora
+  - censo escolar
+  # Educação Digital, STEAM & Robótica
+  - pensamento computacional
+  - letramento computacional
+  - cultura digital
+  - bncc
+  - bncc computação
+  - robótica educacional
+  - robotica educacional
+  - cultura maker
+  - gamificação
+  # Materiais Didáticos & Soluções Educacionais
+  - material didático
+  - material didatico
+  - materiais didáticos
+  - materiais didaticos
+  - material didático estruturado
+  - solução educacional
+  - solucao educacional
+  - plataforma educacional
+  - plataforma de aprendizagem
+  - ambiente virtual de aprendizagem
+  # Formação Docente & Políticas Públicas
+  - formação de professores
+  - formacao de professores
+  - formação continuada
+  - capacitação docente
+  - desenvolvimento profissional docente
+  - políticas públicas
+  - politicas publicas
+  - gestão pública
+  - gestao publica
+  - governança
+  - governanca
+  - gestão educacional
+  - consultoria
+  - pedagógico
+  - pedagogico
+  - aprendizagem
+  - ensino
+  - tecnologia
+  - inovação
+  - inovacao
+  - digital
+  - analista
+  - especialista
+  - coordenador
+  - gerente
+  - diretor
+  - produto
+  - projetos
+
+# Palavras-chave negativas para exclusão de funções operacionais
+negative_keywords:
+  - motorista
+  - porteiro
+  - zelador
+  - vigilante
+  - copeiro
+  - recepcionista
+  - auxiliar de limpeza
+  - servente
+  - jardineiro
+  - cozinheiro
+  - merendeira
+  - soldador
+  - caldeireiro
+  - eletricista
+  - mecanico
+  - mecânico
+  - pintor
+  - ajudante de cozinha
+  - manicure
+  - cabeleireiro
+  - garçom
+  - garcom
+  - atendente de lanchonete
+  - almoxarife
+  - estoquista
+  - operador de caldeira
+  - pedreiro
+  - carpinteiro
+  - serralheiro
+  - borracheiro
+  - lavador
+  - medicina do trabalho
+  - seguranca do trabalho
+  - saúde ocupacional
+  - tecnico em enfermagem
+  - enfermeiro
+  - auxiliar de farmacia
+  - asfalto
+  - pavimentação
+  - obras civis

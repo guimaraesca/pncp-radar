@@ -39,8 +39,8 @@ from pncp_intelligence.src.formatters import (
 
 # Configuração da página
 st.set_page_config(
-    page_title="Radar PNCP | Inteligência de Compras Públicas",
-    page_icon="🏛️",
+    page_title="I.C.A.R.O. | Inteligência de Oportunidades & Compras Públicas",
+    page_icon="🦅",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -1678,10 +1678,10 @@ total_raw_vol = formatar_moeda_compacta(df_raw["valor_total_estimado"].sum()) if
 st.markdown(f"""
 <div class="pbi-top-banner">
     <div class="pbi-banner-left">
-        <div class="pbi-banner-icon">🏛️</div>
+        <div class="pbi-banner-icon">🦅</div>
         <div>
-            <div class="pbi-banner-title">Radar de Compras Públicas & Inteligência PNCP</div>
-            <div class="pbi-banner-subtitle">Painel Analítico de Oportunidades Governamentais • Lei 14.133/2021 • Malha 250 km • {layout_style}</div>
+            <div class="pbi-banner-title">I.C.A.R.O. Intelligence Suite • Radar de Oportunidades</div>
+            <div class="pbi-banner-subtitle">Compras Públicas (PNCP), Agências Multilaterais &amp; Terceiro Setor • Lei 14.133/2021 • {layout_style}</div>
         </div>
     </div>
     <div class="pbi-banner-right">
