@@ -1,16 +1,16 @@
-name: Sincronização Diária PNCP & Alerta Telegram
+name: Sincronização Diária I.C.A.R.O. & Alerta Telegram
 
 on:
   schedule:
-    # Executa todos os dias às 07:00 BRT (10:00 UTC)
-    - cron: '0 10 * * *'
+    # Executa todos os dias às 08:00 BRT (11:00 UTC)
+    - cron: '0 11 * * *'
   workflow_dispatch: # Permite disparo manual com 1 clique na aba Actions do GitHub
 
 jobs:
-  sync-pncp:
+  sync-icaro:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # o bot precisa commitar o banco atualizado
+      contents: write   # Permissão para commitar o banco e artefatos atualizados
 
     steps:
       - name: 📥 Checkout do Repositório
@@ -28,23 +28,26 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          python -m playwright install --with-deps chromium || true
 
-      - name: 🚀 Executar Rotina Diária de Coleta & Disparo Telegram (falha se a saúde dos dados estiver em FAIL)
+      - name: 🚀 Executar Rotina I.C.A.R.O. & Disparo no Telegram
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python run_daily_sync.py
 
-      - name: 🩺 Resumo de Observabilidade de Dados (5 pilares)
+      - name: 🩺 Resumo de Observabilidade de Dados
         if: always()
         run: |
-          python -m pncp_intelligence.src.observability --markdown >> "$GITHUB_STEP_SUMMARY"
+          python -m pncp_intelligence.src.observability --markdown >> "$GITHUB_STEP_SUMMARY" || true
 
-      - name: 🔄 Commit e Push do Banco de Dados Atualizado
+      - name: 🔄 Commit e Push dos Dados Atualizados
         if: always()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add pncp_intelligence/data/pncp_intelligence.sqlite pncp_intelligence/data/processed/ docs/index.html
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(data): atualização automática do pipeline PNCP [skip ci]" && git push)
+          git add pncp_intelligence/data/ docs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(data): atualização automática do pipeline I.C.A.R.O. [skip ci]" && git push)
