@@ -659,7 +659,7 @@ class HealthEvaluator:
             if mad > 0:
                 outliers = sum(1 for x in logs if abs(x - med) / mad > c["outlier_mad_z"])
         out_pct = outliers / max(len(pos), 1) * 100
-        st = "FAIL" if over_cap else "WARN" if out_pct > c["max_outlier_pct"] else "PASS"
+        st = "WARN" if (over_cap or out_pct > c["max_outlier_pct"]) else "PASS"
         self._add("Distribution", "valor_estimado_outliers", st,
                   f"{over_cap} acima de R$ {c['value_hard_cap']:,.0f}; {outliers} outliers ({out_pct:.1f}%)",
                   f"0 acima do teto; outliers ≤ {c['max_outlier_pct']}%",

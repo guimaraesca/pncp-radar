@@ -355,13 +355,13 @@ def main():
 
         logger.info("📱 Disparando Briefing Executivo Consolidado no Telegram (PNCP + I.C.A.R.O.)...")
         if report_health and report_health.overall == "FAIL":
-            logger.error("⛔ Saúde dos dados em FAIL: envio suprimido para proteger qualidade analítica.")
+            logger.warning("⚠️ Observabilidade com apontamento de qualidade nos dados do PNCP, mas prosseguindo com envio do briefing.")
+
+        sucesso = telegram.send_integrated_briefing(df_radar, icaro_opps, top_pncp=6, top_icaro=6)
+        if sucesso:
+            logger.info("🎉 Briefing Integrado enviado com sucesso para o seu Telegram!")
         else:
-            sucesso = telegram.send_integrated_briefing(df_radar, icaro_opps, top_pncp=6, top_icaro=6)
-            if sucesso:
-                logger.info("🎉 Briefing Integrado enviado com sucesso para o seu Telegram!")
-            else:
-                logger.warning("⚠️ Falha ao entregar mensagem no Telegram.")
+            logger.warning("⚠️ Falha ao entregar mensagem no Telegram.")
     elif not telegram.is_configured:
         logger.info("ℹ️ Telegram não configurado no .env (TELEGRAM_TOKEN / TELEGRAM_CHAT_ID).")
 

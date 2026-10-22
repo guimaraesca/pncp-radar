@@ -83,7 +83,7 @@ Extraia os dados da oportunidade e avalie a aderencia. Responda APENAS com um fo
         for model_name in CANDIDATE_MODELS:
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
             try:
-                response = requests.post(url, json=payload, headers=headers, timeout=10)
+                response = requests.post(url, json=payload, headers=headers, timeout=35)
 
                 if response.status_code == 200:
                     data = response.json()
