@@ -39,6 +39,13 @@ class TelegramNotifier:
         self.token = token or os.getenv("TELEGRAM_TOKEN", "").strip() or os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
         self.chat_id = chat_id or os.getenv("TELEGRAM_CHAT_ID", "").strip()
 
+        # Mantém ambiente sincronizado para submódulos
+        if self.token:
+            os.environ["TELEGRAM_TOKEN"] = self.token
+            os.environ["TELEGRAM_BOT_TOKEN"] = self.token
+        if self.chat_id:
+            os.environ["TELEGRAM_CHAT_ID"] = self.chat_id
+
         # Suporte a Streamlit Secrets (quando hospedado online no Streamlit Community Cloud)
         try:
             import streamlit as st

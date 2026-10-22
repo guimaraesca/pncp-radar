@@ -344,6 +344,15 @@ def main():
 
     # 4. Disparo do Briefing Unificado no Telegram
     if not args.no_telegram and telegram.is_configured:
+        if not icaro_opps:
+            json_icaro = BASE_DIR / "pncp_intelligence" / "data" / "icaro" / "oportunidades_icaro.json"
+            if json_icaro.exists():
+                try:
+                    with open(json_icaro, "r", encoding="utf-8") as f:
+                        icaro_opps = json.load(f)
+                except Exception:
+                    pass
+
         logger.info("📱 Disparando Briefing Executivo Consolidado no Telegram (PNCP + I.C.A.R.O.)...")
         if report_health and report_health.overall == "FAIL":
             logger.error("⛔ Saúde dos dados em FAIL: envio suprimido para proteger qualidade analítica.")
