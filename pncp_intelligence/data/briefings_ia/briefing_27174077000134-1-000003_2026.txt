@@ -2,9 +2,41 @@ PORTAL: PNCP (Portal Nacional de Contratações Públicas)
 ÓRGÃO CONTRATANTE: MUNICIPIO DE CONCEICAO DA BARRA (Conceição da Barra/ES)
 MODALIDADE: Dispensa
 OBJETO DA CONTRATAÇÃO: Contratação de Empresa especializada em Acessoria e Consultoria em Gestão de Convênios
-VALOR ESTIMADO: R$ 60,000.00
-PRAZO PARA PROPOSTAS: 2026-10-30T09:00:00
-LINK OFICIAL: None
-SELO LOGÍSTICO: [FORA DAS BASES]
-BASE LOGÍSTICA COMPATÍVEL: Outro (Fora do Raio)
-DISTÂNCIA ESTIMADA: 999 km
+VALOR ESTIMADO: R$ 60.000,00
+PRAZO PARA PROPOSTAS: 2026-10-30T09:00
+LINK OFICIAL: https://pncp.gov.br/editais/27174077000134/2026/3
+
+DADOS COMPLETOS EM JSON:
+{
+  "numeroControlePNCP": "27174077000134-1-000003/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 3,
+  "numeroCompra": "4",
+  "processo": "4",
+  "objetoCompra": "Contratação de Empresa especializada em Acessoria e Consultoria em Gestão de Convênios",
+  "informacaoComplementar": "",
+  "modalidadeId": 8,
+  "modalidadeNome": "Dispensa",
+  "modoDisputaNome": "Dispensa Com Disputa",
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "valorTotalEstimado": 60000.0,
+  "valorTotalHomologado": null,
+  "dataPublicacaoPncp": "2026-01-28T11:49:18.950202",
+  "dataAberturaProposta": "2025-10-30T09:00",
+  "dataEncerramentoProposta": "2026-10-30T09:00",
+  "orgaoEntidade": {
+    "cnpj": "27174077000134",
+    "razaoSocial": "MUNICIPIO DE CONCEICAO DA BARRA",
+    "esferaId": "M",
+    "poderId": "N"
+  },
+  "unidadeOrgao": {
+    "ufSigla": "ES",
+    "municipioNome": "Conceição da Barra",
+    "codigoUnidade": "1",
+    "nomeUnidade": "PREFEITURA MUNICIPAL DE CONCEIÇÃO DA BARRA"
+  },
+  "srp": false,
+  "linkSistemaOrigem": "https://pncp.gov.br/editais/27174077000134/2026/3",
+  "linkProcessoEletronico": null
+}

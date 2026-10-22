@@ -2,9 +2,44 @@ PORTAL: PNCP (Portal Nacional de Contratações Públicas)
 ÓRGÃO CONTRATANTE: PLANALTO SOLAR PARK S.A. (Goiânia/GO)
 MODALIDADE: Pregão - Eletrônico
 OBJETO DA CONTRATAÇÃO: Contratação de empresa especializada para a prestação de serviços de conectividade de dados à internet para a expansão do Sistema Estadual de Videomonitoramento com Inteligência Artificial, conforme especificações contidas no Edital, no Termo de Referência e demais anexos.
-VALOR ESTIMADO: R$ 15,040,898.64
-PRAZO PARA PROPOSTAS: 2026-10-22T09:00:00
+VALOR ESTIMADO: R$ 15.040.898,64
+PRAZO PARA PROPOSTAS: 2026-10-22T09:00
 LINK OFICIAL: https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101622
-SELO LOGÍSTICO: [BASE DIRETA: GOIÂNIA/GO]
 BASE LOGÍSTICA COMPATÍVEL: Goiânia (0 km (Base Central))
-DISTÂNCIA ESTIMADA: 0 km
+SELO LOGÍSTICO: [BASE DIRETA: GOIÂNIA/GO]
+DISTÂNCIA ESTIMADA DA BASE: 0 km
+
+DADOS COMPLETOS EM JSON:
+{
+  "numeroControlePNCP": "27509809000108-1-000005/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 5,
+  "numeroCompra": "006",
+  "processo": "006",
+  "objetoCompra": "Contratação de empresa especializada para a prestação de serviços de conectividade de dados à internet para a expansão do Sistema Estadual de Videomonitoramento com Inteligência Artificial, conforme especificações contidas no Edital, no Termo de Referência e demais anexos.",
+  "informacaoComplementar": "",
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaNome": "Aberto",
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "valorTotalEstimado": 15040898.64,
+  "valorTotalHomologado": null,
+  "dataPublicacaoPncp": "2026-09-28T19:00:50.533220",
+  "dataAberturaProposta": "2026-09-29T08:00",
+  "dataEncerramentoProposta": "2026-10-22T09:00",
+  "orgaoEntidade": {
+    "cnpj": "27509809000108",
+    "razaoSocial": "PLANALTO SOLAR PARK S.A.",
+    "esferaId": "N",
+    "poderId": "N"
+  },
+  "unidadeOrgao": {
+    "ufSigla": "GO",
+    "municipioNome": "Goiânia",
+    "codigoUnidade": "000000001",
+    "nomeUnidade": "PLANALTO SOLAR PARK S.A."
+  },
+  "srp": false,
+  "linkSistemaOrigem": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101622",
+  "linkProcessoEletronico": null
+}
