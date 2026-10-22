@@ -297,18 +297,24 @@ class PNCPAnalytics:
             subtema = str(row.get("matched_subtema", "")).lower()
             objeto = str(row.get("objeto_compra", "")).lower()
             
-            prio_tech = ["software", "cloud", "saas", "dados", "ia", "inteligência", "plataforma", "ideb", "avaliação", "robótica", "maker", "bncc", "computação", "simulado", "enem"]
+            prio_tech = [
+                "software", "cloud", "saas", "ciencia de dados", "analise de dados",
+                "inteligencia artificial", "plataforma", "ideb", "saeb", "enem", "robotica",
+                "maker", "bncc", "computacao", "material didatico", "formacao de professores",
+                "recomposicao de aprendizagem", "learning analytics", "power bi", "business intelligence",
+                "governanca de dados", "transformacao digital", "lgpd"
+            ]
             if any(t in subtema or t in objeto for t in prio_tech):
                 s_aderencia = 100
                 motivos.append("🎯 Alta Aderência (Tecnologia/Educação)")
-            elif any(t in subtema or t in objeto for t in ["consultoria", "capacitação", "formação", "planejamento", "gestão escolar"]):
+            elif any(t in subtema or t in objeto for t in ["consultoria", "capacitacao", "formacao", "planejamento estrategico", "gestao escolar", "gestao educacional"]):
                 s_aderencia = 80
                 motivos.append("📘 Aderência Moderada (Consultoria/Gestão)")
-            elif any(t in subtema or t in objeto for t in ["assessoria", "pesquisa", "diagnóstico"]):
+            elif any(t in subtema or t in objeto for t in ["assessoria", "pesquisa", "diagnostico organizacional", "mapeamento de processos"]):
                 s_aderencia = 65
-                motivos.append("📑 Aderência Específica (Pesquisa/Estudo)")
+                motivos.append("📑 Aderência Específica (Pesquisa/Processos)")
             else:
-                s_aderencia = 50
+                s_aderencia = 40
                 motivos.append("📄 Aderência Geral")
 
             # -------------------------------------------------------------

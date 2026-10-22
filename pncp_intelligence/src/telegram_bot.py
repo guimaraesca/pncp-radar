@@ -175,19 +175,34 @@ class TelegramNotifier:
                 dias = float(row.get("dias_restantes", 0.0))
                 valor = float(row.get("valor_total_estimado", 0.0))
                 url = str(row.get("url_oficial_edital", ""))
-                justificativa = str(row.get("justificativa_candidatura", ""))
+                keywords = str(row.get("matched_keywords", "")).strip()
+                objeto_raw = str(row.get("objeto_compra", "")).strip()
+
+                # Limpeza e formatação do objeto real para leitura rápida
+                for prefix in ["[Portal de Compras Públicas] - ", "[LICITANET] - ", "[BLL Compras] - "]:
+                    if objeto_raw.startswith(prefix):
+                        objeto_raw = objeto_raw[len(prefix):]
+                objeto_raw = " ".join(objeto_raw.split())
+                if len(objeto_raw) > 220:
+                    objeto_resumo = objeto_raw[:217] + "..."
+                else:
+                    objeto_resumo = objeto_raw
 
                 if valor >= 1_000_000:
                     val_str_item = f"R$ {valor / 1_000_000:,.2f} mi".replace(",", "X").replace(".", ",").replace("X", ".")
-                else:
+                elif valor > 0:
                     val_str_item = f"R$ {valor:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+                else:
+                    val_str_item = "Valor sob demanda"
 
                 badge = "🟢" if score >= 75 else "🟡"
                 lines.append(f"{badge} <b>[PNCP #{i}] Score {score}/100 • {val_str_item}</b>")
                 lines.append(f"🏛️ <b>{orgao} ({uf})</b> • {modalidade}")
-                lines.append(f"🎯 <b>Linha:</b> {subtema} | ⏳ <b>Prazo:</b> {dias:.1f}d restantes")
-                if justificativa:
-                    lines.append(f"💡 <i>{justificativa[:150]}...</i>" if len(justificativa) > 150 else f"💡 <i>{justificativa}</i>")
+                if objeto_resumo:
+                    lines.append(f"📦 <b>Objeto:</b> {objeto_resumo}")
+                lines.append(f"🎯 <b>Linha:</b> {subtema} | ⏳ <b>Prazo:</b> {dias:.0f}d restantes")
+                if keywords:
+                    lines.append(f"🔑 <b>Termos-chave:</b> <code>{keywords}</code>")
                 if url:
                     lines.append(f"🔗 <a href='{url}'>Acessar Edital no PNCP</a>")
                 lines.append("")
@@ -212,14 +227,17 @@ class TelegramNotifier:
                 local = opp.get("local", "Remoto")
                 prazo = opp.get("prazo", "Ver Edital")
                 valor_opp = opp.get("valor", "A definir")
+                escopo = opp.get("objeto") or opp.get("escopo")
                 reasoning = opp.get("reasoning", "")
                 url_opp = opp.get("url", "")
 
                 lines.append(f"{badge_icaro} <b>[I.C.A.R.O. #{j}] {cargo}</b>")
                 lines.append(f"🏛️ <b>Fonte:</b> {fonte} | 📍 <b>Local:</b> {local}")
                 lines.append(f"💰 <b>Remuneração:</b> {valor_opp} | ⏳ <b>Prazo:</b> {prazo}")
+                if escopo and escopo not in ["Não informado", "N/A", "Consultoria especializada ou desenvolvimento de projeto técnico."]:
+                    lines.append(f"📦 <b>Escopo:</b> {escopo[:220]}")
                 if reasoning:
-                    lines.append(f"🤖 <b>Parecer IA:</b> <i>{reasoning[:180]}...</i>" if len(reasoning) > 180 else f"🤖 <b>Parecer IA:</b> <i>{reasoning}</i>")
+                    lines.append(f"🤖 <b>Aderência Técnica:</b> <i>{reasoning[:220]}...</i>" if len(reasoning) > 220 else f"🤖 <b>Aderência Técnica:</b> <i>{reasoning}</i>")
                 if url_opp:
                     lines.append(f"🔗 <a href='{url_opp}'>Acessar Chamada / Inscrição</a>")
                 lines.append("")

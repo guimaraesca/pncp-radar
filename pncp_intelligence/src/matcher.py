@@ -240,15 +240,8 @@ class ThematicMatcher:
         if norm_text:
             _scan_text(norm_text)
 
-        # 3. Se veio da busca indexada do PNCP (/api/search/?q=...) e o termo estava nos itens/anexos
-        if search_hint:
-            hint_norm = normalize_text(search_hint)
-            if not matches_found:
-                if hint_norm in anchor_terms or (len(hint_norm.split()) >= 2 and len(hint_norm) >= 10):
-                    _scan_text(hint_norm)
-            elif hint_norm in anchor_terms and hint_norm not in [normalize_text(m) for m in matches_found]:
-                _scan_text(hint_norm)
-
+        # O edital DEVE ter termos reais e legítimos no próprio texto (objeto / informação complementar)
+        # NUNCA utilizar search_hint como substituto do texto real do edital
         if matches_found and sub_scores:
             best_cat_name, best_sub_name = max(sub_scores.items(), key=lambda kv: kv[1])[0]
             return True, best_cat_name, best_sub_name, matches_found
