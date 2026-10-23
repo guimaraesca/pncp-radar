@@ -16,6 +16,42 @@ import pandas as pd
 logger = logging.getLogger("TelegramNotifier")
 
 
+def format_ptbr_date(date_val: Any) -> str:
+    """Converte strings de datas ISO para o padrão ABNT / PT-BR (DD/MM/AAAA às HH:MM)."""
+    if not date_val or pd.isna(date_val):
+        return "Não informado"
+    s = str(date_val).strip()
+    if s in ["Ver Edital", "Não informado", "N/A", "A definir", ""]:
+        return "Ver Edital"
+
+    # Trata formatos ISO com ou sem horário
+    for fmt in [
+        "%Y-%m-%dT%H:%M:%S",
+        "%Y-%m-%dT%H:%M",
+        "%Y-%m-%d %H:%M:%S",
+        "%Y-%m-%d %H:%M",
+        "%Y-%m-%d",
+        "%d/%m/%Y %H:%M",
+        "%d/%m/%Y",
+    ]:
+        try:
+            dt = datetime.strptime(s.split(".")[0], fmt)
+            if "%H" in fmt:
+                return dt.strftime("%d/%m/%Y às %H:%M")
+            return dt.strftime("%d/%m/%Y")
+        except ValueError:
+            pass
+
+    if "T" in s:
+        parts = s.split("T")
+        date_pt = parts[0].split("-")
+        if len(date_pt) == 3:
+            time_part = parts[1][:5]
+            return f"{date_pt[2]}/{date_pt[1]}/{date_pt[0]} às {time_part}"
+
+    return s
+
+
 class TelegramNotifier:
     """Cliente para envio de notificações formatadas via Telegram Bot API."""
 
@@ -195,12 +231,20 @@ class TelegramNotifier:
                 else:
                     val_str_item = "Valor sob demanda"
 
+                # Formatação de data ABNT / PT-BR
+                dt_raw = row.get("data_encerramento_proposta") or row.get("data_abertura_proposta")
+                dt_abnt = format_ptbr_date(dt_raw)
+                if dt_abnt not in ["Não informado", "Ver Edital"]:
+                    prazo_desc = f"{dt_abnt} ({dias:.0f}d restantes)" if dias > 0 else dt_abnt
+                else:
+                    prazo_desc = f"{dias:.0f}d restantes" if dias > 0 else "Ver Edital"
+
                 badge = "🟢" if score >= 75 else "🟡"
                 lines.append(f"{badge} <b>[PNCP #{i}] Score {score}/100 • {val_str_item}</b>")
                 lines.append(f"🏛️ <b>{orgao} ({uf})</b> • {modalidade}")
                 if objeto_resumo:
                     lines.append(f"📦 <b>Objeto:</b> {objeto_resumo}")
-                lines.append(f"🎯 <b>Linha:</b> {subtema} | ⏳ <b>Prazo:</b> {dias:.0f}d restantes")
+                lines.append(f"🎯 <b>Linha:</b> {subtema} | ⏳ <b>Prazo:</b> {prazo_desc}")
                 if keywords:
                     lines.append(f"🔑 <b>Termos-chave:</b> <code>{keywords}</code>")
                 if url:
@@ -225,7 +269,8 @@ class TelegramNotifier:
                 cargo = opp.get("cargo", opp.get("titulo", "Oportunidade"))
                 fonte = opp.get("fonte_orgao", opp.get("grupo", "Geral")).upper()
                 local = opp.get("local", "Remoto")
-                prazo = opp.get("prazo", "Ver Edital")
+                prazo_raw = opp.get("prazo", "Ver Edital")
+                prazo_abnt = format_ptbr_date(prazo_raw)
                 valor_opp = opp.get("valor", "A definir")
                 escopo = opp.get("objeto") or opp.get("escopo")
                 reasoning = opp.get("reasoning", "")
@@ -233,7 +278,7 @@ class TelegramNotifier:
 
                 lines.append(f"{badge_icaro} <b>[I.C.A.R.O. #{j}] {cargo}</b>")
                 lines.append(f"🏛️ <b>Fonte:</b> {fonte} | 📍 <b>Local:</b> {local}")
-                lines.append(f"💰 <b>Remuneração:</b> {valor_opp} | ⏳ <b>Prazo:</b> {prazo}")
+                lines.append(f"💰 <b>Remuneração:</b> {valor_opp} | ⏳ <b>Prazo:</b> {prazo_abnt}")
                 if escopo and escopo not in ["Não informado", "N/A", "Consultoria especializada ou desenvolvimento de projeto técnico."]:
                     lines.append(f"📦 <b>Escopo:</b> {escopo[:220]}")
                 if reasoning:

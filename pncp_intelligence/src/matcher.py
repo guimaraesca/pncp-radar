@@ -172,6 +172,21 @@ class ThematicMatcher:
             "assessoria em politicas publicas",
             "assessoria em ti",
             "assessoria em dados",
+            # 7. Sistemas Educacionais (EMIS / SIGE) & Educação Profissional
+            "sistema de gestao escolar",
+            "sistema de gestao educacional",
+            "plataforma de gestao escolar",
+            "diario de classe digital",
+            "educacao profissional",
+            "ensino tecnico",
+            "itinerario formativo",
+            "itinerarios formativos",
+            "interoperabilidade",
+            "avaliacao da aprendizagem",
+            "plataforma de avaliacao",
+            "diagnostico de aprendizagem",
+            "recomposicao das aprendizagens",
+            "educacao conectada",
         ]
         return priority_queries
 
@@ -214,6 +229,16 @@ class ThematicMatcher:
             "lgpd", "protecao de dados", "transformacao digital", "governo digital",
             "escritorio de projetos", "governanca de dados", "governanca de ti", "pdti",
             "solucao educacional", "solucoes educacionais", "solucao pedagogica", "solucoes pedagogicas",
+            "sistema de gestao escolar", "sistema de gestao educacional", "software de gestao escolar",
+            "plataforma de gestao escolar", "diario de classe digital", "diario eletronico escolar",
+            "sige", "emis", "gestao escolar", "gestao educacional", "gestao democratica",
+            "educacao profissional e tecnologica", "educacao profissional", "ensino tecnico",
+            "itinerario formativo", "itinerarios formativos", "pronatec", "projeto de vida",
+            "interoperabilidade", "interoperabilidade de dados", "interoperabilidade de sistemas",
+            "avaliacao da aprendizagem", "avaliacao das aprendizagens", "plataforma de avaliacao",
+            "sistema de avaliacao educacional", "matriz de referencia", "diagnostico de aprendizagem",
+            "diagnostico pedagogico", "recomposicao das aprendizagens", "microdados educacionais",
+            "governo baseado em evidencias", "educacao conectada", "politica de educacao digital",
         }
 
         def _scan_text(target_norm_text: str) -> None:

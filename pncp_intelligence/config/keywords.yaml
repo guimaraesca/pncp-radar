@@ -97,6 +97,24 @@ categories:
           - "ciclo de politicas publicas"
           - "gestao de politicas publicas"
 
+      interoperabilidade_governanca_dados:
+        name: "Interoperabilidade, Arquitetura & Governança de Dados"
+        terms:
+          - "interoperabilidade"
+          - "interoperabilidade de dados"
+          - "interoperabilidade de sistemas"
+          - "catalogo de dados"
+          - "arquitetura institucional"
+          - "microdados educacionais"
+          - "microdados"
+          - "analise de microdados"
+          - "governo baseado em evidencias"
+          - "capacidade estatal"
+          - "inteligencia institucional"
+          - "sala de gestao"
+          - "painel estrategico"
+          - "painel executivo"
+
   # -------------------------------------------------------------
   # VERTICAL 2: GOVERNANÇA & GESTÃO DE PROJETOS
   # -------------------------------------------------------------
@@ -283,6 +301,22 @@ categories:
           - "avaliacao formativa"
           - "avaliacao somativa"
           - "avaliacao educacional"
+          - "avaliacao da aprendizagem"
+          - "avaliacao das aprendizagens"
+          - "plataforma de avaliacao"
+          - "sistema de avaliacao educacional"
+          - "matriz de referencia"
+          - "teoria de resposta ao item"
+          - "tri"
+          - "banco de itens"
+          - "elaboracao de itens"
+          - "itens pedagogicos"
+          - "diagnostico de aprendizagem"
+          - "diagnostico pedagogico"
+          - "intervencao pedagogica"
+          - "plano de intervencao pedagogica"
+          - "nivel de proficiencia"
+          - "escala de proficiencia"
           - "avaliacao externa"
           - "avaliacao de larga escala"
           - "fluencia leitora"
@@ -303,6 +337,39 @@ categories:
           - "distorcao idade serie"
           - "raciocinio matematico"
           - "incentivo a leitura"
+
+      sistemas_gestao_escolar_emis:
+        name: "Sistemas de Informação & Gestão Escolar (EMIS / SIGE)"
+        terms:
+          - "sistema de gestao educacional"
+          - "sistema de gestao escolar"
+          - "software de gestao escolar"
+          - "software educacional"
+          - "plataforma de gestao escolar"
+          - "diario de classe digital"
+          - "diario eletronico escolar"
+          - "sistema academico"
+          - "matricula online"
+          - "sige"
+          - "emis"
+          - "gestao presente"
+          - "gestao escolar"
+          - "gestao educacional"
+          - "gestao democratica"
+
+      educacao_profissional_itinerarios:
+        name: "Educação Profissional, Tecnológica & Itinerários (EPT)"
+        terms:
+          - "educacao profissional e tecnologica"
+          - "educacao profissional"
+          - "ensino tecnico"
+          - "itinerario formativo"
+          - "itinerarios formativos"
+          - "itinerario de formacao tecnica"
+          - "pronatec"
+          - "projeto de vida"
+          - "novo ensino medio"
+          - "competencias para o trabalho"
 
       politicas_educacionais:
         name: "Políticas Educacionais & Educação Básica"
