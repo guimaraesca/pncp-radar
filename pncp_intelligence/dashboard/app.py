@@ -3966,10 +3966,11 @@ elif menu_navegacao == "🛡️ 4. Observabilidade":
 
         st.markdown("---")
 
-        tab_checks, tab_lineage, tab_stats = st.tabs([
+        tab_checks, tab_lineage, tab_stats, tab_notifs = st.tabs([
             "📋 Matriz de Verificações",
             "🗺️ Arquitetura de Linhagem",
-            "📈 Estatísticas do Banco"
+            "📈 Estatísticas do Banco",
+            "🔔 Notificações Telegram",
         ])
 
         with tab_checks:
@@ -4004,6 +4005,37 @@ elif menu_navegacao == "🛡️ 4. Observabilidade":
             st.markdown("##### 📈 Metadados do Banco SQLite Local")
             stats = db.get_stats()
             st.json(stats)
+
+        with tab_notifs:
+            st.markdown("##### 🔔 Histórico de Alertas & Briefings Enviados ao Telegram")
+            st.caption("Registro de oportunidades notificadas para rastreabilidade e prevenção de duplicidades:")
+            try:
+                with db.get_connection() as conn:
+                    df_notifs = pd.read_sql_query(
+                        "SELECT id, data_envio, canal, origem, codigo_referencia, titulo, score, valor_estimado, url FROM notificacoes_enviadas ORDER BY id DESC LIMIT 100",
+                        conn
+                    )
+                if not df_notifs.empty:
+                    st.dataframe(
+                        df_notifs,
+                        column_config={
+                            "id": "ID",
+                            "data_envio": "Data/Hora Envio",
+                            "canal": "Canal",
+                            "origem": "Origem",
+                            "codigo_referencia": "Código de Referência",
+                            "titulo": "Título / Objeto",
+                            "score": "Score",
+                            "valor_estimado": st.column_config.NumberColumn("Valor Estimado", format="R$ %.2f"),
+                            "url": st.column_config.LinkColumn("Link Oficial"),
+                        },
+                        use_container_width=True,
+                        hide_index=True
+                    )
+                else:
+                    st.info("Nenhuma notificação registrada ainda no banco.")
+            except Exception as e:
+                st.warning(f"Não foi possível carregar o histórico de notificações: {e}")
 
     except Exception as e:
         st.warning(f"Não foi possível avaliar o relatório de observabilidade no momento: {e}")

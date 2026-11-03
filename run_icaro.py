@@ -291,6 +291,8 @@ def main():
     parser.add_argument("--group", type=str, default="todos", help="Grupo para os scrapers: agencias, terceiro_setor, privado, instituicoes, todos")
     parser.add_argument("--port", type=int, default=8501, help="Porta do Streamlit (padrão: 8501)")
     parser.add_argument("--no-telegram", action="store_true", help="Desativa envio de mensagens para o Telegram")
+    parser.add_argument("--cooldown-days", type=int, default=14, help="Dias de cooldown para não renotificar o mesmo edital no Telegram (padrão: 14)")
+    parser.add_argument("--force-resend", action="store_true", help="Força reenvio mesmo para editais já notificados no período de cooldown")
 
     args = parser.parse_args()
 
@@ -357,7 +359,15 @@ def main():
         if report_health and report_health.overall == "FAIL":
             logger.warning("⚠️ Observabilidade com apontamento de qualidade nos dados do PNCP, mas prosseguindo com envio do briefing.")
 
-        sucesso = telegram.send_integrated_briefing(df_radar, icaro_opps, top_pncp=6, top_icaro=6)
+        sucesso = telegram.send_integrated_briefing(
+            df_radar=df_radar,
+            icaro_opps=icaro_opps,
+            top_pncp=6,
+            top_icaro=6,
+            db=db,
+            cooldown_days=args.cooldown_days,
+            filter_notified=not args.force_resend,
+        )
         if sucesso:
             logger.info("🎉 Briefing Integrado enviado com sucesso para o seu Telegram!")
         else:

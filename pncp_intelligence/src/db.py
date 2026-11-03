@@ -203,6 +203,24 @@ class PNCPDatabase:
             );
             """)
 
+            # Tabela de histórico de notificações enviadas (evita duplicatas e reavisos repetidos)
+            cursor.execute("""
+            CREATE TABLE IF NOT EXISTS notificacoes_enviadas (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                canal TEXT DEFAULT 'telegram',
+                origem TEXT NOT NULL,                -- 'PNCP' ou 'ICARO'
+                codigo_referencia TEXT NOT NULL,     -- numero_controle_pncp ou id da oportunidade icaro
+                titulo TEXT,
+                score TEXT,
+                valor_estimado REAL DEFAULT 0.0,
+                url TEXT,
+                data_envio TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                hash_conteudo TEXT
+            );
+            """)
+            cursor.execute("CREATE INDEX IF NOT EXISTS idx_notificacoes_origem_ref ON notificacoes_enviadas(origem, codigo_referencia);")
+            cursor.execute("CREATE INDEX IF NOT EXISTS idx_notificacoes_data ON notificacoes_enviadas(data_envio);")
+
             conn.commit()
 
     def is_chunk_completed(self, data_inicial: str, data_final: str, modalidade_id: int) -> bool:
@@ -438,3 +456,75 @@ class PNCPDatabase:
                 "categorias": categorias,
                 "total_checkpoints": total_checkpoints
             }
+
+    def registrar_notificacao(
+        self,
+        origem: str,
+        codigo_referencia: str,
+        titulo: str = "",
+        score: Any = None,
+        valor_estimado: float = 0.0,
+        url: str = "",
+        canal: str = "telegram",
+        hash_conteudo: str = "",
+    ) -> None:
+        """Registra o disparo de uma oportunidade para rastreabilidade e evitar envios repetidos."""
+        with self.get_connection() as conn:
+            cursor = conn.cursor()
+            cursor.execute("""
+                INSERT INTO notificacoes_enviadas (
+                    canal, origem, codigo_referencia, titulo, score, valor_estimado, url, hash_conteudo
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            """, (
+                str(canal),
+                str(origem).upper().strip(),
+                str(codigo_referencia).strip(),
+                str(titulo)[:300],
+                str(score) if score is not None else "",
+                float(valor_estimado) if valor_estimado else 0.0,
+                str(url),
+                str(hash_conteudo),
+            ))
+            conn.commit()
+
+    def obter_codigos_notificados(
+        self,
+        origem: Optional[str] = None,
+        dias_cooldown: int = 14,
+        canal: str = "telegram"
+    ) -> set:
+        """Retorna o conjunto de códigos de referências já notificados dentro da janela de cooldown."""
+        with self.get_connection() as conn:
+            cursor = conn.cursor()
+            query = """
+                SELECT DISTINCT codigo_referencia 
+                FROM notificacoes_enviadas 
+                WHERE canal = ? 
+                  AND datetime(data_envio) >= datetime('now', '-' || ? || ' days')
+            """
+            params: List[Any] = [canal, int(dias_cooldown)]
+            if origem:
+                query += " AND origem = ?"
+                params.append(origem.upper().strip())
+            cursor.execute(query, params)
+            return {row["codigo_referencia"] for row in cursor.fetchall()}
+
+    def foi_notificado_recentemente(
+        self,
+        origem: str,
+        codigo_referencia: str,
+        dias_cooldown: int = 14,
+        canal: str = "telegram"
+    ) -> bool:
+        """Verifica se uma oportunidade específica foi notificada na janela de dias informada."""
+        with self.get_connection() as conn:
+            cursor = conn.cursor()
+            cursor.execute("""
+                SELECT 1 FROM notificacoes_enviadas
+                WHERE canal = ?
+                  AND origem = ?
+                  AND codigo_referencia = ?
+                  AND datetime(data_envio) >= datetime('now', '-' || ? || ' days')
+                LIMIT 1
+            """, (canal, origem.upper().strip(), str(codigo_referencia).strip(), int(dias_cooldown)))
+            return cursor.fetchone() is not None

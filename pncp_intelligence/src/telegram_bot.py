@@ -98,16 +98,6 @@ class TelegramNotifier:
         return bool(self.token and self.chat_id)
 
     def send_message(self, text: str, parse_mode: str = "HTML") -> bool:
-        """Envia mensagem de texto via Telegram Bot API."""
-        if not self.is_configured:
-            logger.warning(
-                "Telegram não configurado. Defina TELEGRAM_TOKEN e TELEGRAM_CHAT_ID no seu .env"
-            )
-            return False
-
-        url = f"https://api.telegram.org/bot{self.token}/sendMessage"
-
-    def send_message(self, text: str, parse_mode: str = "HTML") -> bool:
         """Envia mensagem de texto via Telegram Bot API com divisão segura por parágrafos."""
         if not self.is_configured:
             logger.warning(
@@ -161,9 +151,26 @@ class TelegramNotifier:
         icaro_opps: List[Dict[str, Any]],
         top_pncp: int = 6,
         top_icaro: int = 6,
+        db: Optional[Any] = None,
+        cooldown_days: int = 14,
+        filter_notified: bool = True,
     ) -> bool:
-        """Dispara um ÚNICO briefing executivo consolidado com as oportunidades do PNCP e do I.C.A.R.O."""
+        """Dispara um ÚNICO briefing executivo consolidado com as oportunidades do PNCP e do I.C.A.R.O.
+        
+        Desduplica avisos consultando o banco SQLite para garantir que o usuário não receba
+        notificações repetidas dentro da janela de cooldown configurada.
+        """
         data_hoje = datetime.now().strftime("%d/%m/%Y às %H:%M")
+
+        # Rastreamento de já notificados
+        notificados_pncp = set()
+        notificados_icaro = set()
+        if db and filter_notified:
+            try:
+                notificados_pncp = db.obter_codigos_notificados(origem="PNCP", dias_cooldown=cooldown_days)
+                notificados_icaro = db.obter_codigos_notificados(origem="ICARO", dias_cooldown=cooldown_days)
+            except Exception as e:
+                logger.warning(f"Não foi possível recuperar histórico de notificações do banco: {e}")
 
         # Métricas PNCP
         total_pncp = len(df_radar) if not df_radar.empty else 0
@@ -180,7 +187,6 @@ class TelegramNotifier:
         # Métricas I.C.A.R.O.
         altas_icaro = [o for o in icaro_opps if o.get("score") == "Alta"]
         medias_icaro = [o for o in icaro_opps if o.get("score") == "Média"]
-        total_icaro_qualif = len(altas_icaro) + len(medias_icaro)
 
         # Cabeçalho Principal
         lines = [
@@ -197,13 +203,29 @@ class TelegramNotifier:
             ""
         ]
 
-        # 1. Detalhamento PNCP
+        # 1. Detalhamento PNCP com Desduplicação Inteligente
+        itens_para_gravar_pncp = []
         if df_radar.empty or altos_pncp == 0:
             lines.append("<i>ℹ️ Nenhuma nova licitação com Fit Score ≥ 75 aberta hoje.</i>\n")
         else:
-            top_df = df_radar.sort_values("score_candidatura", ascending=False).head(top_pncp)
+            # Separa editais inéditos vs já notificados
+            if filter_notified and notificados_pncp and "numero_controle_pncp" in df_radar.columns:
+                df_novos = df_radar[~df_radar["numero_controle_pncp"].astype(str).isin(notificados_pncp)]
+                if not df_novos.empty:
+                    top_df = df_novos.sort_values("score_candidatura", ascending=False).head(top_pncp)
+                    qtd_ocultos = len(notificados_pncp.intersection(set(df_radar["numero_controle_pncp"].astype(str))))
+                    if qtd_ocultos > 0:
+                        lines.append(f"✨ <i>Exibindo {len(top_df)} novas oportunidades ({qtd_ocultos} já notificadas omitidas para evitar duplicatas).</i>\n")
+                else:
+                    lines.append("<i>ℹ️ Todos os editais com Fit Score ≥ 75 já foram notificados anteriormente no Telegram. Acompanhamento em tempo real no Dashboard.</i>\n")
+                    top_df = pd.DataFrame()
+            else:
+                top_df = df_radar.sort_values("score_candidatura", ascending=False).head(top_pncp)
+
             for i, (_, row) in enumerate(top_df.iterrows(), 1):
                 score = int(row.get("score_candidatura", 0))
+                pncp_id = str(row.get("numero_controle_pncp", "")).strip()
+                processo = str(row.get("processo", "")).strip()
                 orgao = str(row.get("razao_social_orgao", "Órgão Não Informado"))[:45]
                 uf = str(row.get("uf_sigla", "BR"))
                 modalidade = str(row.get("modalidade_nome", "Pregão"))
@@ -239,8 +261,14 @@ class TelegramNotifier:
                 else:
                     prazo_desc = f"{dias:.0f}d restantes" if dias > 0 else "Ver Edital"
 
+                # Código de Referência Unificado
+                ref_text = f"<code>{pncp_id}</code>"
+                if processo and processo not in ["None", "nan", ""]:
+                    ref_text += f" (Proc. <b>{processo}</b>)"
+
                 badge = "🟢" if score >= 75 else "🟡"
                 lines.append(f"{badge} <b>[PNCP #{i}] Score {score}/100 • {val_str_item}</b>")
+                lines.append(f"🆔 <b>Ref:</b> {ref_text}")
                 lines.append(f"🏛️ <b>{orgao} ({uf})</b> • {modalidade}")
                 if objeto_resumo:
                     lines.append(f"📦 <b>Objeto:</b> {objeto_resumo}")
@@ -251,6 +279,14 @@ class TelegramNotifier:
                     lines.append(f"🔗 <a href='{url}'>Acessar Edital no PNCP</a>")
                 lines.append("")
 
+                itens_para_gravar_pncp.append({
+                    "codigo_referencia": pncp_id,
+                    "titulo": objeto_resumo,
+                    "score": score,
+                    "valor_estimado": valor,
+                    "url": url,
+                })
+
         lines.extend([
             "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
             "",
@@ -259,12 +295,22 @@ class TelegramNotifier:
             ""
         ])
 
-        # 2. Detalhamento I.C.A.R.O.
-        top_icaro_list = (altas_icaro + medias_icaro)[:top_icaro]
+        # 2. Detalhamento I.C.A.R.O. com Desduplicação
+        itens_para_gravar_icaro = []
+        candidatos_icaro = altas_icaro + medias_icaro
+        if filter_notified and notificados_icaro:
+            top_icaro_list = [o for o in candidatos_icaro if str(o.get("id", "")).strip() not in notificados_icaro][:top_icaro]
+            qtd_icaro_ocultos = len(candidatos_icaro) - len([o for o in candidatos_icaro if str(o.get("id", "")).strip() not in notificados_icaro])
+            if top_icaro_list and qtd_icaro_ocultos > 0:
+                lines.append(f"✨ <i>Exibindo {len(top_icaro_list)} novas oportunidades ({qtd_icaro_ocultos} já notificadas omitidas para evitar duplicatas).</i>\n")
+        else:
+            top_icaro_list = candidatos_icaro[:top_icaro]
+
         if not top_icaro_list:
-            lines.append("<i>ℹ️ Nenhuma nova chamada de alta/média aderência registrada hoje.</i>\n")
+            lines.append("<i>ℹ️ Nenhuma nova chamada de alta/média aderência pendente de notificação hoje.</i>\n")
         else:
             for j, opp in enumerate(top_icaro_list, 1):
+                opp_id = str(opp.get("id", f"ICARO-{j}")).strip()
                 badge_icaro = "🟢" if opp.get("score") == "Alta" else "🟡"
                 cargo = opp.get("cargo", opp.get("titulo", "Oportunidade"))
                 fonte = opp.get("fonte_orgao", opp.get("grupo", "Geral")).upper()
@@ -277,7 +323,7 @@ class TelegramNotifier:
                 url_opp = opp.get("url", "")
 
                 lines.append(f"{badge_icaro} <b>[I.C.A.R.O. #{j}] {cargo}</b>")
-                lines.append(f"🏛️ <b>Fonte:</b> {fonte} | 📍 <b>Local:</b> {local}")
+                lines.append(f"🆔 <b>Ref:</b> <code>{opp_id}</code> | 🏛️ <b>Fonte:</b> {fonte} | 📍 <b>Local:</b> {local}")
                 lines.append(f"💰 <b>Remuneração:</b> {valor_opp} | ⏳ <b>Prazo:</b> {prazo_abnt}")
                 if escopo and escopo not in ["Não informado", "N/A", "Consultoria especializada ou desenvolvimento de projeto técnico."]:
                     lines.append(f"📦 <b>Escopo:</b> {escopo[:220]}")
@@ -287,6 +333,13 @@ class TelegramNotifier:
                     lines.append(f"🔗 <a href='{url_opp}'>Acessar Chamada / Inscrição</a>")
                 lines.append("")
 
+                itens_para_gravar_icaro.append({
+                    "codigo_referencia": opp_id,
+                    "titulo": cargo,
+                    "score": opp.get("score"),
+                    "url": url_opp,
+                })
+
         lines.extend([
             "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
             "🧭 <b>Aprofundamento &amp; Tomada de Decisão:</b>",
@@ -294,13 +347,48 @@ class TelegramNotifier:
         ])
 
         full_message = "\n".join(lines)
-        return self.send_message(full_message)
+        success = self.send_message(full_message)
+
+        # Se enviado com sucesso e o banco foi fornecido, registra no SQLite para evitar reenvio
+        if success and db:
+            try:
+                for item in itens_para_gravar_pncp:
+                    if item["codigo_referencia"]:
+                        db.registrar_notificacao(
+                            origem="PNCP",
+                            codigo_referencia=item["codigo_referencia"],
+                            titulo=item["titulo"],
+                            score=item["score"],
+                            valor_estimado=item["valor_estimado"],
+                            url=item["url"],
+                        )
+                for item in itens_para_gravar_icaro:
+                    if item["codigo_referencia"]:
+                        db.registrar_notificacao(
+                            origem="ICARO",
+                            codigo_referencia=item["codigo_referencia"],
+                            titulo=item["titulo"],
+                            score=item["score"],
+                            valor_estimado=0.0,
+                            url=item["url"],
+                        )
+                logger.info(
+                    f"💾 Notificações registradas no SQLite com sucesso: "
+                    f"{len(itens_para_gravar_pncp)} editais PNCP e {len(itens_para_gravar_icaro)} chamadas I.C.A.R.O."
+                )
+            except Exception as e:
+                logger.error(f"⚠️ Erro ao registrar notificações enviadas no SQLite: {e}")
+
+        return success
 
     def send_candidacy_alert(
         self,
         df_radar: pd.DataFrame,
         top_n: int = 5,
-        total_indexados: int = 0
+        total_indexados: int = 0,
+        db: Optional[Any] = None,
+        cooldown_days: int = 14,
+        filter_notified: bool = True,
     ) -> bool:
         """Formata e envia o Briefing Executivo Diário com as melhores oportunidades em aberto."""
         if df_radar.empty:
@@ -314,6 +402,20 @@ class TelegramNotifier:
         total_abertos = len(df_radar)
         vol_total = df_radar["valor_total_estimado"].sum()
         altos_fit = int((df_radar["score_candidatura"] >= 75).sum())
+
+        notificados_pncp = set()
+        if db and filter_notified:
+            try:
+                notificados_pncp = db.obter_codigos_notificados(origem="PNCP", dias_cooldown=cooldown_days)
+            except Exception:
+                pass
+
+        if filter_notified and notificados_pncp and "numero_controle_pncp" in df_radar.columns:
+            df_cand = df_radar[~df_radar["numero_controle_pncp"].astype(str).isin(notificados_pncp)]
+            if df_cand.empty:
+                df_cand = df_radar
+        else:
+            df_cand = df_radar
 
         # Formatação de Moeda Brasileira
         if vol_total >= 1_000_000_000:
@@ -332,14 +434,17 @@ class TelegramNotifier:
             f"• <b>{vol_str}</b> em disputa em aberto",
             f"• <b>{altos_fit}</b> editais de <b>Alta Recomendação</b> (Score ≥ 75)",
             "",
-            f"🎯 <b>TOP {min(top_n, len(df_radar))} OPORTUNIDADES PARA CANDIDATURA:</b>",
+            f"🎯 <b>TOP {min(top_n, len(df_cand))} OPORTUNIDADES PARA CANDIDATURA:</b>",
             "━━━━━━━━━━━━━━━━━━━━━━━━━",
         ]
 
-        top_df = df_radar.sort_values("score_candidatura", ascending=False).head(top_n)
+        top_df = df_cand.sort_values("score_candidatura", ascending=False).head(top_n)
+        itens_enviados = []
 
         for i, (_, row) in enumerate(top_df.iterrows(), 1):
             score = int(row.get("score_candidatura", 0))
+            pncp_id = str(row.get("numero_controle_pncp", "")).strip()
+            processo = str(row.get("processo", "")).strip()
             orgao = str(row.get("razao_social_orgao", "Órgão Não Informado"))[:45]
             uf = str(row.get("uf_sigla", "BR"))
             modalidade = str(row.get("modalidade_nome", "Pregão"))
@@ -357,7 +462,12 @@ class TelegramNotifier:
 
             badge = "🟢" if score >= 75 else ("🟡" if score >= 50 else "⚪")
 
+            ref_text = f"<code>{pncp_id}</code>"
+            if processo and processo not in ["None", "nan", ""]:
+                ref_text += f" (Proc. <b>{processo}</b>)"
+
             lines.append(f"{badge} <b>#{i} • Score {score}/100 | {val_item_str}</b>")
+            lines.append(f"🆔 <b>Ref:</b> {ref_text}")
             lines.append(f"🏛️ <b>{orgao} ({uf})</b>")
             lines.append(f"📦 <b>{subtema}</b> • {modalidade}")
             lines.append(f"⏳ Prazo: <b>{dias:.1f} dias restantes</b>")
@@ -367,6 +477,14 @@ class TelegramNotifier:
                 lines.append(f"🔗 <a href='{url}'>Acessar Edital no PNCP</a>")
             lines.append("─────────────────────────")
 
+            itens_enviados.append({
+                "pncp_id": pncp_id,
+                "titulo": str(row.get("objeto_compra", ""))[:200],
+                "score": score,
+                "valor": valor,
+                "url": url
+            })
+
         lines.extend([
             "",
             "🌐 <b>Painel Interativo Completo:</b>",
@@ -374,4 +492,21 @@ class TelegramNotifier:
         ])
 
         full_message = "\n".join(lines)
-        return self.send_message(full_message)
+        success = self.send_message(full_message)
+
+        if success and db:
+            for item in itens_enviados:
+                if item["pncp_id"]:
+                    try:
+                        db.registrar_notificacao(
+                            origem="PNCP",
+                            codigo_referencia=item["pncp_id"],
+                            titulo=item["titulo"],
+                            score=item["score"],
+                            valor_estimado=item["valor"],
+                            url=item["url"]
+                        )
+                    except Exception:
+                        pass
+
+        return success
