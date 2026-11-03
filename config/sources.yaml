@@ -1,0 +1,212 @@
+fontes:
+- id: acnur
+  nome: ACNUR — Agência da ONU para Refugiados
+  url: https://www.acnur.org/portugues/trabalhe-no-acnur/
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: iica
+  nome: IICA — Instituto Interamericano de Cooperação para a Agricultura
+  url: https://iica.int/pt/node/75/
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: unfpa_br
+  nome: UNFPA Brasil — Fundo de População da ONU
+  url: https://brazil.unfpa.org/pt-br/vacancies
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: ilo
+  nome: OIT / ILO — Organização Internacional do Trabalho
+  url: https://jobs.ilo.org/go/All-Jobs/2842101/
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: unep
+  nome: PNUMA / UNEP — Programa das Nações Unidas para o Meio Ambiente
+  url: https://www.unep.org/pt-br/work-with-us
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: unesco
+  nome: UNESCO Brasil — Representação no Brasil
+  url: http://app3.brasilia.unesco.org/vagasubo/index.php?option=com_phocadownload&view=category&id=1&Itemid=5
+  url_roster: https://roster.brasilia.unesco.org/app/selection-process-list
+  grupo: agencias
+  tipo: unesco_specialized
+  ativo: true
+- id: unicef_br
+  nome: UNICEF Brasil
+  url: https://www.unicef.org/brazil/oportunidade-de-trabalho
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: unicef_global
+  nome: UNICEF Global Careers
+  url: https://jobs.unicef.org/en-us/listing/
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: onumulheres
+  nome: ONU Mulheres Brasil
+  url: http://www.onumulheres.org.br/brasil/oportunidade-de-trabalho/
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: oei
+  nome: OEI — Organização dos Estados Ibero-americanos
+  url: https://oei.int/pt/licitacoes-y-convocatorias/
+  grupo: agencias
+  tipo: oei_specialized
+  ativo: true
+- id: undp_cj
+  nome: PNUD / UNDP Jobs
+  url: https://jobs.undp.org/cj_view_jobs.cfm
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: undp_br
+  nome: PNUD Brasil — Oportunidades & Vagas
+  url: https://www.undp.org/pt/brazil/oportunidades
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: undp_careers
+  nome: UNDP Global Careers
+  url: https://www.undp.org/careers
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: parceiros_undp
+  nome: Parceiros UNDP Brasil
+  url: https://parceiros.undp.org.br/opportunities
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: onu_brasil
+  nome: Nações Unidas Brasil (ONU Brasil)
+  url: https://brasil.un.org/pt-br/jobs
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: onuhabitat
+  nome: ONU-Habitat
+  url: https://onu-habitat.org/index.php/trabaja-en-onu-habitat
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: oim_br
+  nome: OIM Brasil — Agência da ONU para as Migrações
+  url: https://brazil.iom.int/pt-br/trabalhe-com-oim-no-brasil
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: oim_global
+  nome: OIM Global Careers
+  url: https://www.iom.int/careers
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: iadb
+  nome: BID / IADB — Banco Interamericano de Desenvolvimento (Taleo)
+  url: https://iadbcareers.taleo.net/careersection/external/joblist.ftl
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: iadb_referrals
+  nome: BID / IADB Careers (SelectMinds)
+  url: https://iadbcareers.referrals.selectminds.com/
+  grupo: agencias
+  tipo: generic_crawler
+  ativo: true
+- id: mec
+  nome: MEC — Ministério da Educação (Editais)
+  url: https://www.gov.br/mec/pt-br/centrais-de-conteudo/editais
+  grupo: governo
+  tipo: generic_crawler
+  ativo: true
+- id: fnde
+  nome: FNDE — Fundo Nacional de Desenvolvimento da Educação (Consultores)
+  url: https://www.gov.br/fnde/pt-br/acesso-a-informacao/servidores/selecao-de-consultores
+  grupo: governo
+  tipo: generic_crawler
+  ativo: true
+- id: mds
+  nome: MDS — Ministério do Desenvolvimento Social (Editais Internacionais)
+  url: https://www.gov.br/mds/pt-br/acesso-a-informacao/internacional/editais-em-selecao
+  grupo: governo
+  tipo: generic_crawler
+  ativo: true
+- id: enap
+  nome: ENAP — Escola Nacional de Administração Pública
+  url: https://enap.gov.br/pt/vagas
+  grupo: governo
+  tipo: generic_crawler
+  ativo: true
+- id: ifrn_ead
+  nome: IFRN — Instituto Federal do Rio Grande do Norte (EaD)
+  url: https://ead.ifrn.edu.br/portal/
+  grupo: governo
+  tipo: generic_crawler
+  ativo: true
+- id: seed_pr
+  nome: SEED Paraná — Programa Educação do Futuro (Editais)
+  url: https://www.educacao.pr.gov.br/programa_educacao_futuro_editais
+  grupo: governo
+  tipo: generic_crawler
+  ativo: true
+- id: senac
+  nome: SENAC Nacional
+  url: https://www.dn.senac.br/quem-somos/trabalhe-conosco/
+  grupo: instituicoes
+  tipo: generic_crawler
+  ativo: true
+- id: sesc_sp
+  nome: SESC São Paulo
+  url: https://www.sescsp.org.br/oportunidades-de-trabalho/
+  grupo: instituicoes
+  tipo: generic_crawler
+  ativo: true
+- id: sestsenat
+  nome: SEST SENAT
+  url: https://www.sestsenat.org.br/trabalhe-conosco#vagas
+  grupo: instituicoes
+  tipo: generic_crawler
+  ativo: true
+- id: firjan
+  nome: FIRJAN
+  url: https://jobs.i-hunter.com/firjan/entrada.asp?pag=Vagas
+  grupo: instituicoes
+  tipo: generic_crawler
+  ativo: true
+- id: cncoop
+  nome: Sistema OCB / CNCOOP
+  url: https://somoscooperativismo.coop.br/trabalhe-conosco
+  grupo: instituicoes
+  tipo: generic_crawler
+  ativo: true
+- id: fapetec
+  nome: FAPETEC — Processos Seletivos
+  url: https://www.fapetec.org/processos-seletivos
+  grupo: terceiro_setor
+  tipo: generic_crawler
+  ativo: true
+- id: irex
+  nome: IREX — International Research & Exchanges Board
+  url: https://jobs.jobvite.com/irex/jobs
+  grupo: terceiro_setor
+  tipo: generic_crawler
+  ativo: true
+- id: com_impacto
+  nome: Com Impacto — Vagas Sociais & Educacionais
+  url: https://www.comimpacto.com/vagas
+  grupo: terceiro_setor
+  tipo: generic_crawler
+  ativo: true
+- id: edsurge
+  nome: EdSurge Jobs (EdTech & Inovação Educacional)
+  url: https://www.edsurge.com/jobs
+  grupo: privado
+  tipo: generic_crawler
+  ativo: true

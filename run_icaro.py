@@ -98,8 +98,15 @@ def load_candidate_profile() -> str:
     return ""
 
 
-def get_all_scrapers():
-    """Importa e mapeia os scrapers de oportunidades multilaterais, terceiro setor e privado."""
+def get_all_scrapers(registry: Optional[Any] = None):
+    """Carrega scrapers especializados e integra dinamicamente todas as fontes cadastradas no catálogo."""
+    from core.source_registry import SourceRegistry
+    from scrapers.universal_crawler import crawl_source_opportunities
+
+    if registry is None:
+        registry = SourceRegistry()
+
+    specialized_funcs = {}
     try:
         from scrapers.scraper_pnud import get_new_opportunities as get_pnud
         from scrapers.scraper_unesco import get_new_opportunities as get_unesco
@@ -117,37 +124,61 @@ def get_all_scrapers():
         from scrapers.scraper_sestsenat import get_new_opportunities as get_sestsenat
         from scrapers.scraper_firjan import get_new_opportunities as get_firjan
 
-        return [
-            # 1. Agências Multilaterais
-            {"id": "unesco", "grupo": "agencias", "func": get_unesco, "db": "data/db/processados_unesco.json", "dir": "data/editais/unesco"},
-            {"id": "pnud", "grupo": "agencias", "func": get_pnud, "db": "data/db/processados_pnud.json", "dir": "data/editais/pnud"},
-            {"id": "oei", "grupo": "agencias", "func": get_oei, "db": "data/db/processados_oei.json", "dir": "data/editais/oei"},
-            {"id": "undpptbr", "grupo": "agencias", "func": get_undp_ptbr, "db": "data/db/processados_undp_ptbr.json", "dir": "data/editais/undp_ptbr"},
-            {"id": "unfpa", "grupo": "agencias", "func": get_unfpa, "db": "data/db/processados_unfpa.json", "dir": "data/editais/unfpa"},
-            {"id": "unicef", "grupo": "agencias", "func": get_unicef, "db": "data/db/processados_unicef.json", "dir": "data/editais/unicef"},
-            {"id": "iica", "grupo": "agencias", "func": get_iica, "db": "data/db/processados_iica.json", "dir": "data/editais/iica"},
-            # 2. Terceiro Setor
-            {"id": "terceiro_setor", "grupo": "terceiro_setor", "func": get_terceiro, "db": "data/db/processados_terceiro_setor.json", "dir": "data/editais/terceiro_setor"},
-            {"id": "prosas", "grupo": "terceiro_setor", "func": get_prosas, "db": "data/db/processados_prosas.json", "dir": "data/editais/prosas"},
-            # 3. Mercado Privado
-            {"id": "privado_edtechs", "grupo": "privado", "func": get_edtechs, "db": "data/db/processados_privado_edtechs.json", "dir": "data/editais/privado_edtechs"},
-            {"id": "privado_govtechs", "grupo": "privado", "func": get_govtechs, "db": "data/db/processados_privado_govtechs.json", "dir": "data/editais/privado_govtechs"},
-            {"id": "privado_consultorias", "grupo": "privado", "func": get_consultorias, "db": "data/db/processados_privado_consultorias.json", "dir": "data/editais/privado_consultorias"},
-            # 4. Sistema S & Instituições
-            {"id": "senac", "grupo": "instituicoes", "func": get_senac, "db": "data/db/processados_senac.json", "dir": "data/editais/senac"},
-            {"id": "sestsenat", "grupo": "instituicoes", "func": get_sestsenat, "db": "data/db/processados_sestsenat.json", "dir": "data/editais/sestsenat"},
-            {"id": "firjan", "grupo": "instituicoes", "func": get_firjan, "db": "data/db/processados_firjan.json", "dir": "data/editais/firjan"},
-        ]
+        specialized_funcs = {
+            "unesco": get_unesco,
+            "pnud": get_pnud,
+            "oei": get_oei,
+            "undp_cj": get_undp_ptbr,
+            "unfpa_br": get_unfpa,
+            "unicef_br": get_unicef,
+            "iica": get_iica,
+            "terceiro_setor": get_terceiro,
+            "prosas": get_prosas,
+            "privado_edtechs": get_edtechs,
+            "privado_govtechs": get_govtechs,
+            "privado_consultorias": get_consultorias,
+            "senac": get_senac,
+            "sestsenat": get_sestsenat,
+            "firjan": get_firjan,
+        }
     except Exception as e:
-        logger.warning(f"Aviso ao carregar scrapers: {e}")
-        return []
+        logger.warning(f"Aviso ao carregar scrapers legados: {e}")
+
+    scrapers = []
+    for s in registry.get_sources(only_active=True):
+        sid = s["id"]
+        grupo = s.get("grupo", "agencias")
+
+        if sid in specialized_funcs:
+            fn = specialized_funcs[sid]
+        else:
+            # Crawler universal inteligente para qualquer portal/URL da lista
+            fn = lambda d_dir, p_ids, s_info=s: crawl_source_opportunities(s_info, d_dir, p_ids)
+
+        scrapers.append({
+            "id": sid,
+            "nome": s.get("nome", sid.upper()),
+            "grupo": grupo,
+            "func": fn,
+            "db": f"data/db/processados_{sid}.json",
+            "dir": f"data/editais/{sid}",
+        })
+
+    return scrapers
 
 
-def run_scrapers_flow(target_group: Optional[str] = None) -> List[Dict[str, Any]]:
-    """Executa a coleta e análise por IA das vagas e consultorias do I.C.A.R.O."""
-    logger.info("🌐 [I.C.A.R.O.] Iniciando varredura de Agências, Terceiro Setor & Privado...")
-    scrapers = get_all_scrapers()
-    if target_group and target_group != "todos":
+def run_scrapers_flow(
+    target_group: Optional[str] = None,
+    target_source: Optional[str] = None,
+    registry: Optional[Any] = None
+) -> List[Dict[str, Any]]:
+    """Executa a coleta e análise por IA das vagas e consultorias do I.C.A.R.O. sobre todas as fontes cadastradas."""
+    logger.info("🌐 [I.C.A.R.O.] Iniciando varredura dinâmica de Agências, Governo & Mercado...")
+    scrapers = get_all_scrapers(registry=registry)
+
+    if target_source:
+        scrapers = [s for s in scrapers if s["id"] == target_source]
+    elif target_group and target_group != "todos":
         scrapers = [s for s in scrapers if s["grupo"] == target_group or s["id"] == target_group]
 
     linkedin_text = load_candidate_profile()
@@ -184,15 +215,15 @@ def run_scrapers_flow(target_group: Optional[str] = None) -> List[Dict[str, Any]
             if not opps:
                 continue
 
-            logger.info(f"  [{src['id'].upper()}] {len(opps)} novas oportunidades encontradas. Analisando...")
-            for opp in opps[:10]:  # Limite por fonte para proteger cota da API
+            logger.info(f"  [{src['nome']}] {len(opps)} novas oportunidades encontradas. Analisando...")
+            for opp in opps[:8]:  # Limite por fonte para proteger cota da API
                 text = ""
                 if "file_path" in opp:
                     text = extract_text_from_zip(opp["file_path"])
                 else:
                     text = extract_text_from_pdfs(opp.get("file_paths", []))
 
-                time.sleep(3)
+                time.sleep(2)
                 analysis = analyze_opportunity(text, linkedin_text)
                 score = analysis.get("score", "Indefinido")
 
@@ -205,7 +236,7 @@ def run_scrapers_flow(target_group: Optional[str] = None) -> List[Dict[str, Any]
                         "id": f"icaro_{abs(hash(opp['title'] + opp.get('url', ''))) % 1000000:06d}",
                         "data_coleta": datetime.now().strftime("%Y-%m-%d"),
                         "grupo": src["grupo"],
-                        "fonte_orgao": opp.get("source") or src["id"].upper(),
+                        "fonte_orgao": opp.get("source") or src["nome"],
                         "titulo": opp["title"],
                         "cargo": analysis.get("cargo", opp["title"]),
                         "objeto": analysis.get("objeto", "Não informado"),
@@ -234,6 +265,15 @@ def run_scrapers_flow(target_group: Optional[str] = None) -> List[Dict[str, Any]
 
         except Exception as e:
             logger.error(f"  Erro no scraper {src['id']}: {e}")
+
+    # Salva base consolidada do I.C.A.R.O.
+    if all_analyzed:
+        json_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(existing_opps, f, ensure_ascii=False, indent=2)
+        logger.info(f"✅ [I.C.A.R.O.] {len(all_analyzed)} novas oportunidades de alta/média relevância salvas.")
+
+    return existing_opps
 
     # Salva base consolidada do I.C.A.R.O.
     if all_analyzed:
@@ -295,13 +335,57 @@ def main():
         default="all",
         help="Modo de execução: all (completo integrado), pncp (licitações), scrapers (agências/privado), dashboard (Streamlit), export (planilhas/mapas)"
     )
-    parser.add_argument("--group", type=str, default="todos", help="Grupo para os scrapers: agencias, terceiro_setor, privado, instituicoes, todos")
+    parser.add_argument("--group", type=str, default="todos", help="Grupo para os scrapers: agencias, governo, terceiro_setor, privado, instituicoes, todos")
+    parser.add_argument("--source", type=str, default=None, help="Executa exclusivamente uma fonte específica (ex: --source mec, --source oei, --source acnur)")
+    parser.add_argument("--sources-file", type=str, default=None, help="Caminho para arquivo de fontes alternativo (YAML ou TXT)")
+    parser.add_argument("--add-source", type=str, default=None, help="Adiciona uma nova fonte ao catálogo no formato: 'Nome|URL|grupo'")
+    parser.add_argument("--import-sources", type=str, default=None, help="Importa uma lista de URLs de um arquivo texto (uma por linha)")
+    parser.add_argument("--list-sources", action="store_true", help="Lista todas as fontes cadastradas no catálogo e encerra")
     parser.add_argument("--port", type=int, default=8501, help="Porta do Streamlit (padrão: 8501)")
     parser.add_argument("--no-telegram", action="store_true", help="Desativa envio de mensagens para o Telegram")
     parser.add_argument("--cooldown-days", type=int, default=14, help="Dias de cooldown para não renotificar o mesmo edital no Telegram (padrão: 14)")
     parser.add_argument("--force-resend", action="store_true", help="Força reenvio mesmo para editais já notificados no período de cooldown")
 
     args = parser.parse_args()
+
+    # Inicializa Registro Dinâmico de Fontes
+    from core.source_registry import SourceRegistry
+    sources_path = Path(args.sources_file) if args.sources_file else None
+    registry = SourceRegistry(sources_file=sources_path)
+
+    # Ações rápidas de gestão de fontes
+    if args.add_source:
+        parts = args.add_source.split("|")
+        nome = parts[0].strip() if len(parts) > 1 else None
+        url = parts[1].strip() if len(parts) > 1 else parts[0].strip()
+        grupo = parts[2].strip() if len(parts) > 2 else "agencias"
+        nova = registry.add_source(url=url, nome=nome, grupo=grupo)
+        print(f"✅ Fonte cadastrada com sucesso no catálogo:\n   ID: {nova['id']}\n   Nome: {nova['nome']}\n   URL: {nova['url']}\n   Grupo: {nova['grupo']}")
+        return 0
+
+    if args.import_sources:
+        imp_path = Path(args.import_sources)
+        if imp_path.exists():
+            with open(imp_path, "r", encoding="utf-8") as f:
+                content = f.read()
+            qtd = registry.load_from_text_list(content)
+            registry.save()
+            print(f"✅ {qtd} fontes importadas com sucesso de {imp_path} para config/sources.yaml!")
+            return 0
+        else:
+            print(f"❌ Arquivo não encontrado: {imp_path}")
+            return 1
+
+    if args.list_sources:
+        fontes = registry.get_sources(only_active=False)
+        print("==================================================================")
+        print(f"📋 I.C.A.R.O. • DIRETÓRIO DE FONTES CADASTRADAS ({len(fontes)} portais)")
+        print("==================================================================")
+        for i, s in enumerate(fontes, 1):
+            status = "🟢 Ativa" if s.get("ativo", True) else "⚪ Inativa"
+            print(f"[{i:02d}] {status} | ID: {s['id']:<16} | Grupo: {s.get('grupo','-'):<15} | {s.get('nome')}\n     🔗 {s.get('url')}")
+        print("==================================================================")
+        return 0
 
     logger.info("==================================================================")
     logger.info("🚀 I.C.A.R.O. INTELLIGENCE SUITE • INICIALIZANDO")
@@ -323,7 +407,7 @@ def main():
     # 1. Executa Scrapers do I.C.A.R.O. (se mode == all ou scrapers)
     icaro_opps = []
     if args.mode in ["all", "scrapers"]:
-        icaro_opps = run_scrapers_flow(target_group=args.group)
+        icaro_opps = run_scrapers_flow(target_group=args.group, target_source=args.source, registry=registry)
 
     # 2. Executa Motor PNCP (se mode == all ou pncp)
     report_health = None
