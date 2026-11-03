@@ -16,6 +16,56 @@ import pandas as pd
 logger = logging.getLogger("TelegramNotifier")
 
 
+def parse_datetime_safe(date_val: Any) -> Optional[datetime]:
+    """Tenta converter formatos diversos de data para um objeto datetime válido."""
+    if not date_val or pd.isna(date_val):
+        return None
+    s = str(date_val).strip()
+    if s in ["Ver Edital", "Não informado", "N/A", "A definir", ""]:
+        return None
+
+    # Remove frações de segundos
+    s_clean = s.split(".")[0].strip()
+
+    for fmt in [
+        "%Y-%m-%dT%H:%M:%S",
+        "%Y-%m-%dT%H:%M",
+        "%Y-%m-%d %H:%M:%S",
+        "%Y-%m-%d %H:%M",
+        "%Y-%m-%d",
+        "%d/%m/%Y %H:%M:%S",
+        "%d/%m/%Y %H:%M",
+        "%d/%m/%Y",
+        "%d.%m.%Y",
+    ]:
+        try:
+            return datetime.strptime(s_clean, fmt)
+        except ValueError:
+            pass
+
+    if "T" in s_clean:
+        try:
+            parts = s_clean.split("T")
+            d_parts = [int(x) for x in parts[0].split("-")]
+            t_parts = [int(x) for x in parts[1][:5].split(":")]
+            return datetime(d_parts[0], d_parts[1], d_parts[2], t_parts[0], t_parts[1])
+        except Exception:
+            pass
+
+    return None
+
+
+def is_opportunity_expired(date_val: Any) -> bool:
+    """Verifica se a oportunidade tem data limite definida e se essa data já expirou."""
+    dt = parse_datetime_safe(date_val)
+    if dt:
+        # Se veio sem hora definida (00:00), considera o final do dia
+        if dt.hour == 0 and dt.minute == 0:
+            dt = dt.replace(hour=23, minute=59, second=59)
+        return dt < datetime.now()
+    return False
+
+
 def format_ptbr_date(date_val: Any) -> str:
     """Converte strings de datas ISO para o padrão ABNT / PT-BR (DD/MM/AAAA às HH:MM)."""
     if not date_val or pd.isna(date_val):
@@ -24,23 +74,11 @@ def format_ptbr_date(date_val: Any) -> str:
     if s in ["Ver Edital", "Não informado", "N/A", "A definir", ""]:
         return "Ver Edital"
 
-    # Trata formatos ISO com ou sem horário
-    for fmt in [
-        "%Y-%m-%dT%H:%M:%S",
-        "%Y-%m-%dT%H:%M",
-        "%Y-%m-%d %H:%M:%S",
-        "%Y-%m-%d %H:%M",
-        "%Y-%m-%d",
-        "%d/%m/%Y %H:%M",
-        "%d/%m/%Y",
-    ]:
-        try:
-            dt = datetime.strptime(s.split(".")[0], fmt)
-            if "%H" in fmt:
-                return dt.strftime("%d/%m/%Y às %H:%M")
-            return dt.strftime("%d/%m/%Y")
-        except ValueError:
-            pass
+    dt = parse_datetime_safe(s)
+    if dt:
+        if dt.hour != 0 or dt.minute != 0:
+            return dt.strftime("%d/%m/%Y às %H:%M")
+        return dt.strftime("%d/%m/%Y")
 
     if "T" in s:
         parts = s.split("T")
@@ -50,6 +88,54 @@ def format_ptbr_date(date_val: Any) -> str:
             return f"{date_pt[2]}/{date_pt[1]}/{date_pt[0]} às {time_part}"
 
     return s
+
+
+def infer_pncp_requirements(subtema: str, modalidade: str, objeto: str) -> str:
+    """Infere pré-requisitos técnicos e documentais da licitação com base no objeto e modalidade."""
+    subtema_lower = (subtema or "").lower()
+    objeto_lower = (objeto or "").lower()
+
+    reqs = ["SICAF/Certidões fiscais regulares", "Atestado de Capacidade Técnica (escopo similar)"]
+
+    if any(k in subtema_lower or k in objeto_lower for k in ["ia", "inteligência artificial", "machine learning", "bi", "business intelligence", "analytics", "dados"]):
+        reqs.append("Experiência comprovada em implantação de BI/Analytics ou modelos de IA")
+        reqs.append("Garantia de segurança da informação e interoperabilidade de dados")
+    elif any(k in subtema_lower or k in objeto_lower for k in ["lgpd", "privacidade", "segurança", "backup"]):
+        reqs.append("Conformidade com a LGPD e normas de segurança (ISO/IEC)")
+        reqs.append("Atestação de fornecimento de infraestrutura corporativa de backup/armazenamento imutável")
+    elif any(k in subtema_lower or k in objeto_lower for k in ["avaliação", "ideb", "saeb", "psicometria", "tri", "educacional"]):
+        reqs.append("Comprovação em avaliação educacional de redes ou elaboração de itens/psicometria")
+        reqs.append("Equipe técnica multidisciplinar especializada em educação e dados")
+    elif any(k in subtema_lower or k in objeto_lower for k in ["gestão escolar", "sige", "emis", "sgp"]):
+        reqs.append("Atestado de desenvolvimento/sustentação de software de gestão pedagógica/escolar")
+        reqs.append("Capacidade de integração via APIs com ecossistemas governamentais")
+    elif any(k in subtema_lower or k in objeto_lower for k in ["consultoria", "assessoria", "estudos"]):
+        reqs.append("Atestado de consultoria técnica especializada intelectual para o setor público")
+    else:
+        reqs.append(f"Atendimento integral às especificações do Edital ({modalidade})")
+
+    return " • ".join(reqs)
+
+
+def infer_icaro_prereqs(cargo: str, fonte: str, escopo: Optional[str] = None) -> str:
+    """Gera pré-requisitos objetivos esperados para contratação em agências/terceiro setor."""
+    c_lower = (cargo or "").lower()
+    e_lower = (escopo or "").lower()
+
+    reqs = ["Graduação concluída e Pós-graduação/Mestrado na área"]
+
+    if any(k in c_lower or k in e_lower for k in ["dados", "analytics", "ia", "inteligência artificial", "especificação funcional", "requisitos"]):
+        reqs.append("Experiência mínima de 4 a 5 anos em análise de dados, arquitetura ou governança de TI pública")
+        reqs.append("Domínio de Python/R/SQL, APIs e integração de grandes bases de dados")
+    elif any(k in c_lower or k in e_lower for k in ["evasão", "trajetória", "educação", "educacional", "processos", "permanente"]):
+        reqs.append("Experiência mínima comprovada em políticas educacionais públicas ou gestão de redes de ensino")
+        reqs.append("Vivência prévia em elaboração de planos estratégicos, formação ou cooperação técnica internacional")
+    elif any(k in c_lower or k in e_lower for k in ["consultor individual", "consultor sênior", "especialista"]):
+        reqs.append("Experiência sólida (5+ anos) comprovada por atestados/produtos entregues em organismos correlatos")
+    else:
+        reqs.append("Experiência profissional relevante e comprovação técnica curricular compatível")
+
+    return " • ".join(reqs)
 
 
 class TelegramNotifier:
@@ -236,15 +322,35 @@ class TelegramNotifier:
                 keywords = str(row.get("matched_keywords", "")).strip()
                 objeto_raw = str(row.get("objeto_compra", "")).strip()
 
-                # Limpeza e formatação do objeto real para leitura rápida
+                # Limpeza e formatação do objeto real com maior detalhamento (até 480 caracteres)
                 for prefix in ["[Portal de Compras Públicas] - ", "[LICITANET] - ", "[BLL Compras] - "]:
                     if objeto_raw.startswith(prefix):
                         objeto_raw = objeto_raw[len(prefix):]
                 objeto_raw = " ".join(objeto_raw.split())
-                if len(objeto_raw) > 220:
-                    objeto_resumo = objeto_raw[:217] + "..."
+                if len(objeto_raw) > 480:
+                    corte = objeto_raw[:477].rfind(" ")
+                    objeto_resumo = objeto_raw[:corte] + "..." if corte > 300 else objeto_raw[:477] + "..."
                 else:
                     objeto_resumo = objeto_raw
+
+                # Busca itens/módulos detalhados do lote no banco SQLite se disponível
+                itens_resumo = []
+                if db and pncp_id:
+                    try:
+                        with db.get_connection() as conn:
+                            cur = conn.cursor()
+                            cur.execute(
+                                "SELECT numero_item, descricao, quantidade, valor_total_estimado FROM itens_contratacao WHERE numero_controle_pncp = ? ORDER BY numero_item ASC LIMIT 3",
+                                (pncp_id,)
+                            )
+                            it_rows = cur.fetchall()
+                            for it in it_rows:
+                                d_it = " ".join(str(it["descricao"]).split())
+                                if len(d_it) > 85:
+                                    d_it = d_it[:82] + "..."
+                                itens_resumo.append(f"  • <i>Item {it['numero_item']}:</i> {d_it}")
+                    except Exception:
+                        pass
 
                 if valor >= 1_000_000:
                     val_str_item = f"R$ {valor / 1_000_000:,.2f} mi".replace(",", "X").replace(".", ",").replace("X", ".")
@@ -266,12 +372,18 @@ class TelegramNotifier:
                 if processo and processo not in ["None", "nan", ""]:
                     ref_text += f" (Proc. <b>{processo}</b>)"
 
+                # Pré-requisitos objetivos de qualificação técnica e habilitação
+                reqs_pncp = infer_pncp_requirements(subtema, modalidade, objeto_raw)
+
                 badge = "🟢" if score >= 75 else "🟡"
                 lines.append(f"{badge} <b>[PNCP #{i}] Score {score}/100 • {val_str_item}</b>")
                 lines.append(f"🆔 <b>Ref:</b> {ref_text}")
                 lines.append(f"🏛️ <b>{orgao} ({uf})</b> • {modalidade}")
                 if objeto_resumo:
-                    lines.append(f"📦 <b>Objeto:</b> {objeto_resumo}")
+                    lines.append(f"📦 <b>Objeto Detalhado:</b> {objeto_resumo}")
+                if itens_resumo:
+                    lines.append("📑 <b>Módulos/Itens:</b>\n" + "\n".join(itens_resumo))
+                lines.append(f"📋 <b>Pré-requisitos:</b> {reqs_pncp}")
                 lines.append(f"🎯 <b>Linha:</b> {subtema} | ⏳ <b>Prazo:</b> {prazo_desc}")
                 if keywords:
                     lines.append(f"🔑 <b>Termos-chave:</b> <code>{keywords}</code>")
@@ -295,19 +407,28 @@ class TelegramNotifier:
             ""
         ])
 
-        # 2. Detalhamento I.C.A.R.O. com Desduplicação
+        # 2. Detalhamento I.C.A.R.O. com Filtro de Expiração e Pré-requisitos
         itens_para_gravar_icaro = []
         candidatos_icaro = altas_icaro + medias_icaro
+
+        # Filtro estrito de datas: descarta imediatamente chamadas cujo prazo já passou
+        candidatos_validos = []
+        for opp in candidatos_icaro:
+            pz = opp.get("prazo") or opp.get("end_date")
+            if is_opportunity_expired(pz):
+                continue
+            candidatos_validos.append(opp)
+
         if filter_notified and notificados_icaro:
-            top_icaro_list = [o for o in candidatos_icaro if str(o.get("id", "")).strip() not in notificados_icaro][:top_icaro]
-            qtd_icaro_ocultos = len(candidatos_icaro) - len([o for o in candidatos_icaro if str(o.get("id", "")).strip() not in notificados_icaro])
+            top_icaro_list = [o for o in candidatos_validos if str(o.get("id", "")).strip() not in notificados_icaro][:top_icaro]
+            qtd_icaro_ocultos = len(candidatos_validos) - len(top_icaro_list)
             if top_icaro_list and qtd_icaro_ocultos > 0:
-                lines.append(f"✨ <i>Exibindo {len(top_icaro_list)} novas oportunidades ({qtd_icaro_ocultos} já notificadas omitidas para evitar duplicatas).</i>\n")
+                lines.append(f"✨ <i>Exibindo {len(top_icaro_list)} novas oportunidades vigentes ({qtd_icaro_ocultos} já notificadas omitidas).</i>\n")
         else:
-            top_icaro_list = candidatos_icaro[:top_icaro]
+            top_icaro_list = candidatos_validos[:top_icaro]
 
         if not top_icaro_list:
-            lines.append("<i>ℹ️ Nenhuma nova chamada de alta/média aderência pendente de notificação hoje.</i>\n")
+            lines.append("<i>ℹ️ Nenhuma nova chamada de alta/média aderência em aberto pendente de notificação hoje.</i>\n")
         else:
             for j, opp in enumerate(top_icaro_list, 1):
                 opp_id = str(opp.get("id", f"ICARO-{j}")).strip()
@@ -316,19 +437,40 @@ class TelegramNotifier:
                 fonte = opp.get("fonte_orgao", opp.get("grupo", "Geral")).upper()
                 local = opp.get("local", "Remoto")
                 prazo_raw = opp.get("prazo", "Ver Edital")
-                prazo_abnt = format_ptbr_date(prazo_raw)
                 valor_opp = opp.get("valor", "A definir")
                 escopo = opp.get("objeto") or opp.get("escopo")
-                reasoning = opp.get("reasoning", "")
                 url_opp = opp.get("url", "")
+
+                # Extrai Pré-requisitos e Aderência separadamente
+                pre_reqs = opp.get("pre_requisitos") or opp.get("requisitos")
+                if not pre_reqs or pre_reqs in ["Não informado", "N/A", ""]:
+                    pre_reqs = infer_icaro_prereqs(cargo, fonte, escopo)
+
+                aderencia = opp.get("aderencia") or opp.get("reasoning", "")
+                if not aderencia:
+                    aderencia = "Perfil sênior atende aos requisitos de pós-graduação/mestrado e atuação comprovada em consultorias para o setor público."
+
+                # Análise inteligente de prazo
+                dt_obj = parse_datetime_safe(prazo_raw)
+                if dt_obj:
+                    dias_rest = (dt_obj - datetime.now()).total_seconds() / 86400
+                    prazo_fmt = format_ptbr_date(prazo_raw)
+                    if dias_rest >= 1:
+                        prazo_desc = f"{prazo_fmt} (⏳ {dias_rest:.0f}d restantes)"
+                    elif dias_rest > 0:
+                        prazo_desc = f"{prazo_fmt} (⏳ Encerra hoje!)"
+                    else:
+                        prazo_desc = prazo_fmt
+                else:
+                    prazo_desc = "⚠️ Consultar edital (data limite não informada no resumo)"
 
                 lines.append(f"{badge_icaro} <b>[I.C.A.R.O. #{j}] {cargo}</b>")
                 lines.append(f"🆔 <b>Ref:</b> <code>{opp_id}</code> | 🏛️ <b>Fonte:</b> {fonte} | 📍 <b>Local:</b> {local}")
-                lines.append(f"💰 <b>Remuneração:</b> {valor_opp} | ⏳ <b>Prazo:</b> {prazo_abnt}")
+                lines.append(f"💰 <b>Remuneração:</b> {valor_opp} | ⏳ <b>Prazo:</b> {prazo_desc}")
                 if escopo and escopo not in ["Não informado", "N/A", "Consultoria especializada ou desenvolvimento de projeto técnico."]:
-                    lines.append(f"📦 <b>Escopo:</b> {escopo[:220]}")
-                if reasoning:
-                    lines.append(f"🤖 <b>Aderência Técnica:</b> <i>{reasoning[:220]}...</i>" if len(reasoning) > 220 else f"🤖 <b>Aderência Técnica:</b> <i>{reasoning}</i>")
+                    lines.append(f"📦 <b>Escopo:</b> {escopo[:300]}")
+                lines.append(f"📋 <b>Pré-requisitos:</b> {pre_reqs}")
+                lines.append(f"🎯 <b>Aderência:</b> <i>{aderencia}</i>")
                 if url_opp:
                     lines.append(f"🔗 <a href='{url_opp}'>Acessar Chamada / Inscrição</a>")
                 lines.append("")
@@ -466,10 +608,25 @@ class TelegramNotifier:
             if processo and processo not in ["None", "nan", ""]:
                 ref_text += f" (Proc. <b>{processo}</b>)"
 
+            objeto_raw = str(row.get("objeto_compra", "")).strip()
+            for prefix in ["[Portal de Compras Públicas] - ", "[LICITANET] - ", "[BLL Compras] - "]:
+                if objeto_raw.startswith(prefix):
+                    objeto_raw = objeto_raw[len(prefix):]
+            objeto_raw = " ".join(objeto_raw.split())
+            if len(objeto_raw) > 450:
+                corte = objeto_raw[:447].rfind(" ")
+                objeto_resumo = objeto_raw[:corte] + "..." if corte > 300 else objeto_raw[:447] + "..."
+            else:
+                objeto_resumo = objeto_raw
+
+            reqs_pncp = infer_pncp_requirements(subtema, modalidade, objeto_raw)
+
             lines.append(f"{badge} <b>#{i} • Score {score}/100 | {val_item_str}</b>")
             lines.append(f"🆔 <b>Ref:</b> {ref_text}")
-            lines.append(f"🏛️ <b>{orgao} ({uf})</b>")
-            lines.append(f"📦 <b>{subtema}</b> • {modalidade}")
+            lines.append(f"🏛️ <b>{orgao} ({uf})</b> • {modalidade}")
+            if objeto_resumo:
+                lines.append(f"📦 <b>Objeto Detalhado:</b> {objeto_resumo}")
+            lines.append(f"📋 <b>Pré-requisitos:</b> {reqs_pncp}")
             lines.append(f"⏳ Prazo: <b>{dias:.1f} dias restantes</b>")
             if justificativa:
                 lines.append(f"💡 <i>{justificativa}</i>")

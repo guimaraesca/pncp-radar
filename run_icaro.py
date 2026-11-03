@@ -197,6 +197,10 @@ def run_scrapers_flow(target_group: Optional[str] = None) -> List[Dict[str, Any]
                 score = analysis.get("score", "Indefinido")
 
                 if score in ["Alta", "Média"]:
+                    prazo_val = analysis.get("prazo")
+                    if not prazo_val or str(prazo_val).strip() in ["Não informado", "Ver Edital", ""]:
+                        prazo_val = opp.get("end_date") or "Ver Edital"
+
                     opp_record = {
                         "id": f"icaro_{abs(hash(opp['title'] + opp.get('url', ''))) % 1000000:06d}",
                         "data_coleta": datetime.now().strftime("%Y-%m-%d"),
@@ -205,10 +209,12 @@ def run_scrapers_flow(target_group: Optional[str] = None) -> List[Dict[str, Any]
                         "titulo": opp["title"],
                         "cargo": analysis.get("cargo", opp["title"]),
                         "objeto": analysis.get("objeto", "Não informado"),
+                        "pre_requisitos": analysis.get("pre_requisitos") or analysis.get("requisitos") or "Graduação e pós-graduação compatíveis, com experiência prévia na área.",
+                        "aderencia": analysis.get("aderencia") or analysis.get("reasoning", ""),
                         "local": analysis.get("local", "Remoto / Híbrido"),
                         "contrato": analysis.get("contrato", "Consultoria por Produto"),
                         "valor": analysis.get("valor", "Não informado"),
-                        "prazo": analysis.get("prazo", opp.get("end_date", "Ver Edital")),
+                        "prazo": prazo_val,
                         "score": score,
                         "reasoning": analysis.get("reasoning", ""),
                         "url": opp.get("url", ""),

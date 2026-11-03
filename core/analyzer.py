@@ -60,13 +60,14 @@ TEXTO DO EDITAL / TERMO DE REFERENCIA:
 Extraia os dados da oportunidade e avalie a aderencia. Responda APENAS com um formato JSON valido contendo exatamente as chaves abaixo:
 - "cargo": Titulo especifico da posicao, consultoria ou objeto contratado.
 - "objeto": Breve resumo (1 a 2 linhas) do objetivo principal, escopo ou produtos a serem entregues.
-- "requisitos": Requisitos obrigatorios e diferenciais essenciais exigidos (formacao academica, experiencia, competencias).
+- "pre_requisitos": Lista objetiva dos pre-requisitos mandatorios e pontuaveis exigidos pelo edital/TR (titulacao academica minima, tempo de experiencia exigido na area, competencias tecnicas obrigatorias).
+- "aderencia": Avaliacao concisa e factual de como o perfil do candidato cumpre esses pre-requisitos especificos (ex: Atende integralmente a titulacao - Mestrado, possui mais de 15 anos de experiencia comprovada e atuacao previa comprovada em projetos MEC/UNESCO/OEI).
 - "local": Local de atuacao e modalidade de trabalho (ex: Remoto, Hibrido - Brasilia/DF, Presencial - Cidade/UF).
 - "contrato": Modalidade de contratacao e vigencia/duracao (ex: Consultoria por Produto - 150 dias, Licenca de Software, CLT).
 - "valor": Valor global, valor por produto ou remuneracao (se nao constar no edital, responda "Nao informado").
-- "prazo": Data limite exata para envio de propostas/inscricao (se nao constar, responda "Nao informado").
+- "prazo": Data limite exata para envio de propostas/curriculo/inscricao (ex: AAAA-MM-DD ou DD/MM/AAAA). Procure no texto por 'data limite', 'envio de propostas ate', 'prazo de inscricao', 'encerramento'. Se nao constar, responda "Nao informado".
 - "score": Grau de alinhamento do candidato ("Alta", "Media" ou "Baixa").
-- "reasoning": Sintese de aderencia ULTRA-CONCISA (apenas 1 a 2 frases). Destaque a compatibilidade com os diferenciais (EduMonitor/IDEB/Potiedu/BNCC Computacao/Dados) e aponte alertas se houver (ex: local presencial fora da base), SEM reescrever o curriculo.
+- "reasoning": Sintese de aderencia ULTRA-CONCISA (apenas 1 a 2 frases), SEM reescrever o curriculo.
 """
 
     payload = {
