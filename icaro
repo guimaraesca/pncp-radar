@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Wrapper executável oficial I.C.A.R.O.
+# Resolve link simbólico se invocado via PATH
+SOURCE="${BASH_SOURCE[0]}"
+while [ -h "$SOURCE" ]; do
+  DIR="$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )"
+  SOURCE="$(readlink "$SOURCE")"
+  [[ $SOURCE != /* ]] && SOURCE="$DIR/$SOURCE"
+done
+PROJECT_DIR="$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )"
+
+# Executa com o ambiente virtual dedicado do I.C.A.R.O.
+exec "$PROJECT_DIR/venv/bin/python" "$PROJECT_DIR/run_icaro.py" "$@"

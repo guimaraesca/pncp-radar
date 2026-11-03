@@ -40,8 +40,9 @@ try:
 except Exception:
     pass
 
-# Garante raiz do projeto no sys.path
+# Garante raiz do projeto no sys.path e diretório de trabalho correto
 BASE_DIR = Path(__file__).resolve().parent
+os.chdir(BASE_DIR)
 sys.path.insert(0, str(BASE_DIR))
 
 # Carrega .env manualmente se necessário
