@@ -10,9 +10,44 @@ automação de fluxos por agentes virtuais, serviço de atendimento via chatbots
 service desk GLPI (Gestionnaire Libre de Parc Informatique – Gestão Livre de Parque de Informática) já
 implantada nesta Defensoria Pública e serviço sob demanda para customização da solução, destinados a
 Central de Atendimento aos cidadãos que buscam a Defensoria Pública do Estado do Pará - DPE.
-VALOR ESTIMADO: R$ 12,397,966.50
-PRAZO PARA PROPOSTAS: 2026-10-14T10:00:00
+VALOR ESTIMADO: R$ 12.397.966,50
+PRAZO PARA PROPOSTAS: 2026-12-15T10:00
 LINK OFICIAL: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92598905000012026
-SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
 BASE LOGÍSTICA COMPATÍVEL: Remoto (Fora do Raio)
-DISTÂNCIA ESTIMADA: 999 km
+SELO LOGÍSTICO: [VIABILIDADE: 100% REMOTO]
+DISTÂNCIA ESTIMADA DA BASE: 999 km
+
+DADOS COMPLETOS EM JSON:
+{
+  "numeroControlePNCP": "34639526000138-1-000032/2026",
+  "anoCompra": 2026,
+  "sequencialCompra": 32,
+  "numeroCompra": "1",
+  "processo": "1",
+  "objetoCompra": "Registro de Preços para eventual contratação de plataforma híbrida de atendimento\natravés do canal de comunicação WhatsApp e Web, na modalidade SaaS (Software Como Serviço,\ncompreendendo serviços de instalação, configuração, testes, serviços de manutenção corretiva,\nenvolvendo integração via API ou WebService de envio de mensagens com os sistemas legados, serviço de\nautomação de fluxos por agentes virtuais, serviço de atendimento via chatbots com Inteligência Artificial\n(IA) Generativa, acompanhados de automação de atendimentos, integração e suporte a ferramenta de\nservice desk GLPI (Gestionnaire Libre de Parc Informatique – Gestão Livre de Parque de Informática) já\nimplantada nesta Defensoria Pública e serviço sob demanda para customização da solução, destinados a\nCentral de Atendimento aos cidadãos que buscam a Defensoria Pública do Estado do Pará - DPE.",
+  "informacaoComplementar": "1.2.\tA licitação será realizada em grupo único, formados por 12 itens, conforme tabela constante no Termo de Referência, devendo o licitante oferecer proposta para todos os itens que o compõem.",
+  "modalidadeId": 6,
+  "modalidadeNome": "Pregão - Eletrônico",
+  "modoDisputaNome": "Aberto",
+  "situacaoCompraNome": "Divulgada no PNCP",
+  "valorTotalEstimado": 12397966.5,
+  "valorTotalHomologado": null,
+  "dataPublicacaoPncp": "2026-09-28T10:24:18.231337",
+  "dataAberturaProposta": "2026-11-26T09:00",
+  "dataEncerramentoProposta": "2026-12-15T10:00",
+  "orgaoEntidade": {
+    "cnpj": "34639526000138",
+    "razaoSocial": "DEFENSORIA PUBLICA DO ESTADO DO PARA",
+    "esferaId": "E",
+    "poderId": "E"
+  },
+  "unidadeOrgao": {
+    "ufSigla": "PA",
+    "municipioNome": "Belém",
+    "codigoUnidade": "925989",
+    "nomeUnidade": "EPA - DEFENSORIA PÚBLICA DO PARÁ"
+  },
+  "srp": true,
+  "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92598905000012026",
+  "linkProcessoEletronico": "https://sei.defensoria.pa.def.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=5619"
+}
